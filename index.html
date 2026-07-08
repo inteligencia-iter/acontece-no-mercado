@@ -400,13 +400,51 @@ document.getElementById('search-box').addEventListener('input',function(){
   clearTimeout(searchTimer);
   searchTimer=setTimeout(function(){applyAndRender();},350);
 });
+function refreshTabCounts(){
+  var ano=document.getElementById('sel-ano').value;
+  var mes=document.getElementById('sel-mes').value;
+  var items=allItems.filter(function(item){
+    var pub=(item.pub_date||'').slice(0,7);
+    if(mes&&pub!==mes)return false;
+    if(ano&&!pub.startsWith(ano))return false;
+    return true;
+  });
+  var counts={};
+  CATEGORIES.forEach(function(c){counts[c.key]=0;});
+  items.forEach(function(item){
+    var k=catKey(item.canonical_category_l1||'');
+    if(counts[k]!==undefined)counts[k]++;
+    if(item.content_domain==='geopolitica_relevante'&&k!=='Politica e Regulacao Setorial')
+      counts['Politica e Regulacao Setorial']++;
+    counts['Todos']++;
+  });
+  CATEGORIES.forEach(function(cat){
+    var el=document.getElementById('cnt-'+cat.key.replace(/\s+/g,'_'));
+    if(el)el.textContent=counts[cat.key]||0;
+  });
+  var n=counts[activeTab]||0;
+  document.getElementById('result-count').textContent=n+(n===1?' noticia':' noticias');
+}
+function loadBackground(months){
+  var toLoad=months.filter(function(m){return !loadedMonths[m];});
+  if(!toLoad.length)return;
+  Promise.all(toLoad.map(function(m){
+    return fetchJSON(BASE+'/'+m+'.json').then(function(data){
+      data.forEach(function(item){
+        if(!guidSet[item.guid]){guidSet[item.guid]=true;allItems.push(item);}
+      });
+      loadedMonths[m]=true;
+    }).catch(function(e){console.warn('Erro bg',m,e);});
+  })).then(function(){refreshTabCounts();});
+}
 function init(){
   fetchJSON(BASE+'/indice-meses.json').then(function(index){
     availableMonths=Object.keys(index).sort().reverse();
     populateAno();updateMes();buildTabs();
-    return loadMonths(availableMonths);
+    return loadMonths(availableMonths.slice(0,3));
   }).then(function(){
     setStatus('Atualizado em '+new Date().toLocaleDateString('pt-BR',{day:'2-digit',month:'short',year:'numeric'}));
+    if(availableMonths.length>3)loadBackground(availableMonths.slice(3));
   }).catch(function(e){
     setStatus('Erro ao carregar.');
     document.getElementById('content').innerHTML=
@@ -417,4 +455,3 @@ init();
 </script>
 </body>
 </html>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
