@@ -34,8 +34,10 @@ def _parse_date(raw: str) -> str | None:
 
 
 def _clean_html(text: str) -> str:
-    """Remove tags HTML e normaliza espaços."""
+    """Remove tags HTML, decodifica entidades e normaliza espaços."""
+    import html as _html
     text = re.sub(r"<[^>]+>", " ", text or "")
+    text = _html.unescape(text)
     return re.sub(r"\s+", " ", text).strip()
 
 
@@ -201,6 +203,4 @@ def fetch_all(source_ids: list[str] | None = None) -> Iterator[dict]:
     for sid in ids:
         cfg = SOURCES.get(sid)
         if not cfg:
-            logger.warning("source_id desconhecido: %s", sid)
-            continue
-        yield from fetch_source(cfg)
+            logger.warning("source_id des
