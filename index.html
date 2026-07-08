@@ -432,7 +432,7 @@ const SOURCE_LABEL = {
 const MES_NOME = ['','Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'];
 
 // ── Estado ────────────────────────────────────────────────────────────────────
-let allItems = [], availableMonths = [], loadedMonths = new Set(), activeTab = 'Todos';
+let allItems = [], availableMonths = [], loadedMonths = new Set(), guidSet = new Set(), activeTab = 'Todos';
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
 function norm(s) {
@@ -570,14 +570,27 @@ async function loadMonths(months) {
   const toLoad = months.filter(m => !loadedMonths.has(m));
   if (!toLoad.length) { applyAndRender(); return; }
   showLoading();
-  for (const m of toLoad) {
-    try {
-      const data = await fetchJSON(`${BASE}/${m}.json`);
-      data.forEach(item => { if (!allItems.find(i=>i.guid===item.guid)) allItems.push(item); });
-      loadedMonths.add(m);
-    } catch(e) { console.warn('Erro ao carregar', m); }
+
+  // Carrega em paralelo em lotes de 4 — equilibra velocidade e memória
+  const BATCH = 4;
+  for (let i = 0; i < toLoad.length; i += BATCH) {
+    const batch = toLoad.slice(i, i + BATCH);
+    await Promise.all(batch.map(async m => {
+      try {
+        const data = await fetchJSON(`${BASE}/${m}.json`);
+        // guidSet garante dedup em O(1) — sem Array.find() O(n²)
+        data.forEach(item => {
+          if (!guidSet.has(item.guid)) {
+            guidSet.add(item.guid);
+            allItems.push(item);
+          }
+        });
+        loadedMonths.add(m);
+      } catch(e) { console.warn('Erro ao carregar', m); }
+    }));
+    // Renderiza após cada lote — o usuário vê conteúdo surgir progressivamente
+    applyAndRender();
   }
-  applyAndRender();
 }
 
 async function loadForSelection() {
@@ -710,17 +723,4 @@ function renderCards(items, words) {
     const q = document.getElementById('search-box').value;
     content.innerHTML = `<div class="state-msg">
       <span class="icon">🔍</span>
-      <p>${q ? 'Nenhuma notícia para "<strong>'+esc(q)+'</strong>".' : 'Nenhuma notícia para este período.'}</p>
-    </div>`;
-    return;
-  }
-  content.innerHTML = items.map(i => cardHTML(i, words)).join('');
-}
-
-function showLoading() {
-  document.getElementById('content').innerHTML =
-    '<div class="state-msg"><div class="spinner"></div><p>Carregando notícias...</p></div>';
-}
-function setStatus(msg) { document.getElementById('status-bar').textContent = msg; }
-
-// ── Eventos �
+      <p>${q ? 'Ne
