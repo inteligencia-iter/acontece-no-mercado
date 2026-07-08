@@ -203,4 +203,6 @@ def fetch_all(source_ids: list[str] | None = None) -> Iterator[dict]:
     for sid in ids:
         cfg = SOURCES.get(sid)
         if not cfg:
-            logger.warning("source_id des
+            logger.warning("source_id desconhecido: %s", sid)
+            continue
+        yield from fetch_source(cfg)
