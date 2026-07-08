@@ -3,6 +3,7 @@ name: Atualizar Monitor de Turismo
 on:
   schedule:
     - cron: '0 9 * * *'
+    - cron: '0 21 * * *'
   workflow_dispatch:
 
 jobs:
