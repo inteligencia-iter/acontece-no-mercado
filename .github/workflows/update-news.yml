@@ -1,0 +1,48 @@
+name: Atualizar Monitor de Turismo
+
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    name: Ingerir feeds e atualizar dados
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Configurar Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Rodar pipeline
+        run: python run_pipeline.py
+        env:
+          PYTHONIOENCODING: utf-8
+          PYTHONUNBUFFERED: '1'
+
+      - name: Verificar mudanças
+        id: changes
+        run: |
+          git diff --quiet dados/ || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commitar dados atualizados
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dados/
+          git commit -m "chore: atualiza dados [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
