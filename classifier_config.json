@@ -1,0 +1,86 @@
+{
+  "version": "1.0-tfidf-baseline",
+  "vectorizer": "TfidfVectorizer",
+  "vectorizer_file": "tfidf_vectorizer.pkl",
+  "vectorizer_params": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 2,
+    "max_df": 0.9,
+    "sublinear_tf": true,
+    "max_features": 30000
+  },
+  "primary_model": "LinearSVC (CalibratedClassifierCV)",
+  "primary_model_file": "svc_model.pkl",
+  "primary_model_params": {
+    "C": 0.5
+  },
+  "primary_model_cv_f1_weighted": 0.7372,
+  "reference_model": "KNeighborsClassifier",
+  "reference_model_file": "knn_model.pkl",
+  "reference_model_note": "kNN reservado para upgrade: quando embeddings neurais densos (paraphrase-multilingual-MiniLM-L12-v2) substituírem o TF-IDF, o kNN sobre vetores densos tende a superar o SVC. Interface de uso idêntica — trocar apenas o vectorizador.",
+  "training_set": {
+    "total_items": 3548,
+    "source": "panrotas",
+    "method": "lookup_nativo (crosswalk determinístico)"
+  },
+  "classes": [
+    "Atrativos e Parques",
+    "Aviação",
+    "Corporativo",
+    "Cruzeiros",
+    "Câmbio e Economia do Turismo",
+    "Destinos",
+    "Distribuição e Trade",
+    "Eventos e Feiras",
+    "Hotelaria",
+    "Política e Regulação Setorial"
+  ],
+  "class_distribution": {
+    "Hotelaria": 562,
+    "Distribuição e Trade": 547,
+    "Corporativo": 509,
+    "Aviação": 500,
+    "Eventos e Feiras": 420,
+    "Destinos": 378,
+    "Câmbio e Economia do Turismo": 238,
+    "Atrativos e Parques": 210,
+    "Política e Regulação Setorial": 113,
+    "Cruzeiros": 71
+  },
+  "cv_comparison": {
+    "LinearSVC   (C=1)": {
+      "mean": 0.7315,
+      "std": 0.0102
+    },
+    "LinearSVC   (C=5)": {
+      "mean": 0.7188,
+      "std": 0.014
+    },
+    "LogReg      (C=1)": {
+      "mean": 0.6798,
+      "std": 0.0033
+    },
+    "kNN         (k=21)": {
+      "mean": 0.6264,
+      "std": 0.0261
+    }
+  },
+  "best_svc_C": 0.5,
+  "confidence_threshold": 0.55,
+  "confidence_threshold_note": "Itens com max_proba < 0.55 devem ser marcados como baixa confiança e encaminhados para revisão / LLM-árbitro.",
+  "per_class_f1_train": {
+    "Atrativos e Parques": 0.991,
+    "Aviação": 0.997,
+    "Corporativo": 1.0,
+    "Cruzeiros": 0.993,
+    "Câmbio e Economia do Turismo": 1.0,
+    "Destinos": 0.993,
+    "Distribuição e Trade": 0.998,
+    "Eventos e Feiras": 0.996,
+    "Hotelaria": 0.998,
+    "Política e Regulação Setorial": 0.991
+  }
+}
