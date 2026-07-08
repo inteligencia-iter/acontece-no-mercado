@@ -268,28 +268,21 @@ window.addEventListener('resize',updateScrollBtns);
 function loadMonths(months){
   var toLoad=months.filter(function(m){return !loadedMonths[m];});
   if(!toLoad.length){applyAndRender();return Promise.resolve();}
-  if(!allItems.length)showLoading();
-  var BATCH=3,chain=Promise.resolve();
-  for(var b=0;b<toLoad.length;b+=BATCH){
-    (function(batch){
-      chain=chain.then(function(){
-        return Promise.all(batch.map(function(m){
-          return fetchJSON(BASE+'/'+m+'.json').then(function(data){
-            data.forEach(function(item){
-              if(!guidSet[item.guid]){guidSet[item.guid]=true;allItems.push(item);}
-            });
-            loadedMonths[m]=true;
-          }).catch(function(e){console.warn('Erro',m,e);});
-        })).then(function(){applyAndRender();});
+  showLoading();
+  return Promise.all(toLoad.map(function(m){
+    return fetchJSON(BASE+'/'+m+'.json').then(function(data){
+      data.forEach(function(item){
+        if(!guidSet[item.guid]){guidSet[item.guid]=true;allItems.push(item);}
       });
-    })(toLoad.slice(b,b+BATCH));
-  }
-  chain=chain.then(function(){
+      loadedMonths[m]=true;
+    }).catch(function(e){console.warn('Erro',m,e);});
+  })).then(function(){
     if(!allItems.length)
       document.getElementById('content').innerHTML=
         '<div class="state-msg"><span class="icon">⚠️</span><p>Nao foi possivel carregar as noticias. Verifique sua conexao e tente recarregar a pagina.</p></div>';
+    else
+      applyAndRender();
   });
-  return chain;
 }
 function loadForSelection(){
   var ano=document.getElementById('sel-ano').value;
@@ -405,22 +398,15 @@ document.getElementById('sel-mes').addEventListener('change',function(){loadForS
 var searchTimer;
 document.getElementById('search-box').addEventListener('input',function(){
   clearTimeout(searchTimer);
-  searchTimer=setTimeout(function(){
-    var q=document.getElementById('search-box').value.trim();
-    if(q&&!document.getElementById('sel-mes').value){
-      var ano=document.getElementById('sel-ano').value;
-      loadMonths(availableMonths.filter(function(m){return !ano||m.startsWith(ano);}));
-    }else{applyAndRender();}
-  },350);
+  searchTimer=setTimeout(function(){applyAndRender();},350);
 });
 function init(){
   fetchJSON(BASE+'/indice-meses.json').then(function(index){
     availableMonths=Object.keys(index).sort().reverse();
     populateAno();updateMes();buildTabs();
-    return loadMonths([availableMonths[0]]);
+    return loadMonths(availableMonths);
   }).then(function(){
     setStatus('Atualizado em '+new Date().toLocaleDateString('pt-BR',{day:'2-digit',month:'short',year:'numeric'}));
-    if(availableMonths.length>1)loadMonths(availableMonths.slice(1));
   }).catch(function(e){
     setStatus('Erro ao carregar.');
     document.getElementById('content').innerHTML=
@@ -431,3 +417,4 @@ init();
 </script>
 </body>
 </html>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
