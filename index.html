@@ -1,0 +1,813 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Monitor de Notícias de Turismo</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --white: #ffffff;
+      --bg: #f4f6f9;
+      --surface: #ffffff;
+      --border: #e2e8f0;
+      --text: #1a202c;
+      --text2: #4a5568;
+      --text3: #718096;
+      --accent: #0057b8;
+      --accent-light: #e8f0fb;
+      --radius: 12px;
+      --shadow: 0 2px 8px rgba(0,0,0,0.08);
+      --shadow-hover: 0 8px 24px rgba(0,0,0,0.14);
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', system-ui, sans-serif;
+      font-size: 14px;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    /* ── Header ─────────────────────────────────────────────── */
+    header {
+      background: var(--accent);
+      color: #fff;
+      padding: 0 28px;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      height: 60px;
+      position: sticky;
+      top: 0;
+      z-index: 200;
+      box-shadow: 0 2px 12px rgba(0,63,150,0.3);
+    }
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .logo-icon {
+      width: 32px; height: 32px;
+      background: rgba(255,255,255,0.2);
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+    }
+    .logo-text h1 { font-size: 15px; font-weight: 700; }
+    .logo-text p  { font-size: 11px; opacity: 0.75; }
+    .header-spacer { flex: 1; }
+    #status-bar { font-size: 12px; opacity: 0.8; }
+
+    /* ── Toolbar ─────────────────────────────────────────────── */
+    .toolbar {
+      background: var(--white);
+      border-bottom: 1px solid var(--border);
+      padding: 12px 28px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+      position: sticky;
+      top: 60px;
+      z-index: 100;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+    }
+    .filter-group {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .filter-label {
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--text3);
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+    }
+    select {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      font-size: 13px;
+      font-family: inherit;
+      padding: 7px 12px;
+      cursor: pointer;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    select:focus { border-color: var(--accent); }
+    .search-wrap {
+      display: flex;
+      align-items: center;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0 12px;
+      gap: 8px;
+      flex: 1;
+      max-width: 340px;
+      transition: border-color 0.2s;
+    }
+    .search-wrap:focus-within { border-color: var(--accent); }
+    .search-wrap svg { color: var(--text3); flex-shrink: 0; }
+    #search-box {
+      background: transparent;
+      border: none;
+      outline: none;
+      font-size: 13px;
+      font-family: inherit;
+      color: var(--text);
+      padding: 7px 0;
+      width: 100%;
+    }
+    #search-box::placeholder { color: var(--text3); }
+    .sep { width: 1px; height: 24px; background: var(--border); }
+    #result-count {
+      font-size: 12px;
+      color: var(--text3);
+      white-space: nowrap;
+    }
+
+    /* ── Tabs ────────────────────────────────────────────────── */
+    .tabs-bar {
+      background: var(--white);
+      border-bottom: 1px solid var(--border);
+      padding: 0 28px;
+      overflow-x: auto;
+      white-space: nowrap;
+      scrollbar-width: none;
+    }
+    .tabs-bar::-webkit-scrollbar { display: none; }
+    .tabs { display: inline-flex; }
+    .tab {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 14px 16px;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text3);
+      cursor: pointer;
+      border-bottom: 3px solid transparent;
+      transition: color 0.15s, border-color 0.15s;
+      white-space: nowrap;
+      user-select: none;
+    }
+    .tab:hover { color: var(--text); }
+    .tab.active { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
+    .tab-count {
+      background: #edf2ff;
+      color: var(--accent);
+      font-size: 10px;
+      font-weight: 700;
+      padding: 2px 6px;
+      border-radius: 20px;
+      min-width: 20px;
+      text-align: center;
+    }
+    .tab.active .tab-count { background: var(--accent); color: #fff; }
+
+    /* ── Layout principal ────────────────────────────────────── */
+    main {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 28px;
+    }
+
+    /* Cards manchete (destaque) — linha superior */
+    .manchetes {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+      gap: 20px;
+      margin-bottom: 20px;
+    }
+
+    /* Grid padrão */
+    .cards-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 20px;
+    }
+
+    /* ── Card ────────────────────────────────────────────────── */
+    .card {
+      background: var(--white);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      transition: box-shadow 0.2s, transform 0.2s;
+    }
+    .card:hover {
+      box-shadow: var(--shadow-hover);
+      transform: translateY(-3px);
+    }
+    .card.manchete .card-image { height: 220px; }
+
+    /* Imagem */
+    .card-image {
+      position: relative;
+      height: 180px;
+      overflow: hidden;
+      background: var(--border);
+      flex-shrink: 0;
+    }
+    .card-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: transform 0.3s;
+    }
+    .card:hover .card-image img { transform: scale(1.03); }
+    .card-image .no-image {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      font-size: 11px;
+      font-weight: 600;
+      color: rgba(255,255,255,0.85);
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+    .card-image .no-image .ni-icon { font-size: 32px; }
+
+    /* Gradientes de fallback por categoria */
+    .cat-aviacao        { background: linear-gradient(135deg, #0ea5e9, #0057b8); }
+    .cat-hotelaria      { background: linear-gradient(135deg, #f59e0b, #d97706); }
+    .cat-destinos       { background: linear-gradient(135deg, #10b981, #059669); }
+    .cat-atrativos      { background: linear-gradient(135deg, #8b5cf6, #7c3aed); }
+    .cat-cruzeiros      { background: linear-gradient(135deg, #06b6d4, #0891b2); }
+    .cat-distribuicao   { background: linear-gradient(135deg, #f97316, #ea580c); }
+    .cat-corporativo    { background: linear-gradient(135deg, #6366f1, #4f46e5); }
+    .cat-eventos        { background: linear-gradient(135deg, #ec4899, #db2777); }
+    .cat-cambio         { background: linear-gradient(135deg, #eab308, #ca8a04); }
+    .cat-politica       { background: linear-gradient(135deg, #64748b, #475569); }
+    .cat-default        { background: linear-gradient(135deg, #94a3b8, #64748b); }
+
+    /* Badge de categoria sobre a imagem */
+    .cat-badge {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      background: rgba(0,0,0,0.55);
+      color: #fff;
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      padding: 3px 9px;
+      border-radius: 20px;
+      backdrop-filter: blur(4px);
+    }
+
+    /* Badge de fonte */
+    .source-badge {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      font-size: 10px;
+      font-weight: 700;
+      padding: 3px 8px;
+      border-radius: 6px;
+      color: #fff;
+    }
+    .src-panrotas       { background: #1d4ed8; }
+    .src-mercadoeeventos { background: #7c3aed; }
+    .src-embratur       { background: #0891b2; }
+    .src-g1_turismo     { background: #dc2626; }
+    .src-agenciabrasil  { background: #16a34a; }
+    .src-default        { background: #475569; }
+
+    /* Corpo do card */
+    .card-body {
+      padding: 16px 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      flex: 1;
+    }
+    .card-date {
+      font-size: 11px;
+      color: var(--text3);
+      font-weight: 500;
+    }
+    .card-title {
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1.4;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .card.manchete .card-title { font-size: 16px; }
+    .card-desc {
+      font-size: 13px;
+      color: var(--text2);
+      line-height: 1.55;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      flex: 1;
+    }
+
+    /* Footer do card */
+    .card-footer {
+      padding: 0 18px 16px;
+    }
+    .btn-ver-mais {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--accent);
+      color: #fff;
+      font-size: 12px;
+      font-weight: 600;
+      padding: 8px 18px;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: background 0.15s, transform 0.1s;
+      border: none;
+      cursor: pointer;
+    }
+    .btn-ver-mais:hover {
+      background: #004099;
+      transform: scale(1.02);
+    }
+    .btn-ver-mais svg { flex-shrink: 0; }
+
+    /* Geopolítica flag */
+    .geo-flag {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 10px;
+      color: #92400e;
+      background: #fef3c7;
+      padding: 2px 8px;
+      border-radius: 20px;
+      font-weight: 600;
+    }
+
+    /* ── Estados ─────────────────────────────────────────────── */
+    .state-msg {
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--text3);
+    }
+    .state-msg .icon { font-size: 48px; display: block; margin-bottom: 16px; }
+    .state-msg p { font-size: 15px; }
+    .spinner {
+      width: 36px; height: 36px;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 20px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Highlight de busca ──────────────────────────────────── */
+    mark {
+      background: #fef08a;
+      color: inherit;
+      border-radius: 2px;
+      padding: 0 1px;
+    }
+
+    /* ── Responsive ──────────────────────────────────────────── */
+    @media (max-width: 640px) {
+      header { padding: 0 16px; }
+      .toolbar { padding: 10px 16px; }
+      .tabs-bar { padding: 0 16px; }
+      main { padding: 16px; }
+      .manchetes, .cards-grid { grid-template-columns: 1fr; gap: 14px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── Header ──────────────────────────────────────────────────────── -->
+<header>
+  <div class="logo">
+    <div class="logo-icon">✈️</div>
+    <div class="logo-text">
+      <h1>Monitor de Turismo</h1>
+      <p>Panrotas · M&amp;E · G1 · Embratur · Agência Brasil</p>
+    </div>
+  </div>
+  <div class="header-spacer"></div>
+  <div id="status-bar">Carregando...</div>
+</header>
+
+<!-- ── Toolbar ─────────────────────────────────────────────────────── -->
+<div class="toolbar">
+  <div class="filter-group">
+    <span class="filter-label">Ano</span>
+    <select id="sel-ano"><option value="">Todos</option></select>
+  </div>
+  <div class="filter-group">
+    <span class="filter-label">Mês</span>
+    <select id="sel-mes"><option value="">Todos</option></select>
+  </div>
+  <div class="sep"></div>
+  <div class="search-wrap">
+    <svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+      <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+    </svg>
+    <input type="text" id="search-box" placeholder="Buscar por palavras-chave...">
+  </div>
+  <div id="result-count"></div>
+</div>
+
+<!-- ── Abas ────────────────────────────────────────────────────────── -->
+<div class="tabs-bar">
+  <div class="tabs" id="tabs-container"></div>
+</div>
+
+<!-- ── Conteúdo ────────────────────────────────────────────────────── -->
+<main>
+  <div id="content">
+    <div class="state-msg">
+      <div class="spinner"></div>
+      <p>Carregando notícias...</p>
+    </div>
+  </div>
+</main>
+
+<script>
+// ── Config ────────────────────────────────────────────────────────────────────
+const BASE = './dados';
+
+const CATEGORIES = [
+  { key: 'Todos',                          label: 'Todas as Notícias',          icon: '📰', css: 'default' },
+  { key: 'Aviação',                         label: 'Aviação',                     icon: '✈️',  css: 'aviacao' },
+  { key: 'Hotelaria',                       label: 'Hotelaria',                   icon: '🏨', css: 'hotelaria' },
+  { key: 'Destinos',                        label: 'Destinos',                    icon: '🗺️',  css: 'destinos' },
+  { key: 'Atrativos e Parques',             label: 'Atrativos e Parques',         icon: '🎢', css: 'atrativos' },
+  { key: 'Cruzeiros',                       label: 'Cruzeiros',                   icon: '🚢', css: 'cruzeiros' },
+  { key: 'Distribuição e Trade',            label: 'Distribuição e Trade',        icon: '🤝', css: 'distribuicao' },
+  { key: 'Corporativo',                     label: 'Corporativo',                 icon: '💼', css: 'corporativo' },
+  { key: 'Eventos e Feiras',                label: 'Eventos e Feiras',            icon: '🎪', css: 'eventos' },
+  { key: 'Câmbio e Economia do Turismo',   label: 'Câmbio e Economia',           icon: '💰', css: 'cambio' },
+  { key: 'Política e Regulação Setorial',  label: 'Política e Regulação',        icon: '⚖️',  css: 'politica' },
+];
+
+const SOURCE_LABEL = {
+  panrotas: 'Panrotas',
+  mercadoeeventos: 'M&E',
+  embratur: 'Embratur',
+  g1_turismo: 'G1',
+  agenciabrasil: 'Ag. Brasil',
+};
+
+const MES_NOME = ['','Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'];
+
+// ── Estado ────────────────────────────────────────────────────────────────────
+let allItems = [];
+let availableMonths = [];
+let loadedMonths = new Set();
+let activeTab = 'Todos';
+
+// ── Normalização ──────────────────────────────────────────────────────────────
+function norm(s) {
+  return (s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().trim();
+}
+
+// ── Fetch ─────────────────────────────────────────────────────────────────────
+async function fetchJSON(url) {
+  const r = await fetch(url + '?v=' + Date.now());
+  if (!r.ok) throw new Error(r.status);
+  return r.json();
+}
+
+// ── Init ──────────────────────────────────────────────────────────────────────
+async function init() {
+  let index;
+  try {
+    index = await fetchJSON(BASE + '/indice-meses.json');
+  } catch(e) {
+    setStatus('Erro ao carregar índice.');
+    document.getElementById('content').innerHTML =
+      '<div class="state-msg"><span class="icon">⚠️</span><p>Não foi possível carregar os dados. Verifique a pasta <code>dados/</code>.</p></div>';
+    return;
+  }
+
+  availableMonths = Object.keys(index).sort().reverse();
+  populateAnoFilter();
+  updateMesFilter();
+  buildTabs();
+
+  // Carrega o mês mais recente por padrão
+  if (availableMonths[0]) await loadMonths([availableMonths[0]]);
+
+  const d = new Date();
+  setStatus('Atualizado em ' + d.toLocaleDateString('pt-BR', {day:'2-digit',month:'short',year:'numeric'}));
+}
+
+// ── Filtros de período ────────────────────────────────────────────────────────
+function populateAnoFilter() {
+  const anos = [...new Set(availableMonths.map(m => m.slice(0,4)))].sort().reverse();
+  const sel = document.getElementById('sel-ano');
+  sel.innerHTML = '<option value="">Todos os anos</option>';
+  anos.forEach(a => { sel.innerHTML += `<option value="${a}">${a}</option>`; });
+}
+
+function updateMesFilter() {
+  const anoSel = document.getElementById('sel-ano').value;
+  const sel = document.getElementById('sel-mes');
+  const prev = sel.value;
+  sel.innerHTML = '<option value="">Todos os meses</option>';
+  availableMonths
+    .filter(m => !anoSel || m.startsWith(anoSel))
+    .forEach(m => {
+      const [y, mo] = m.split('-');
+      sel.innerHTML += `<option value="${m}">${MES_NOME[+mo]} ${y}</option>`;
+    });
+  if ([...sel.options].some(o => o.value === prev)) sel.value = prev;
+}
+
+// ── Tabs ──────────────────────────────────────────────────────────────────────
+function buildTabs() {
+  const c = document.getElementById('tabs-container');
+  c.innerHTML = '';
+  CATEGORIES.forEach(cat => {
+    const tab = document.createElement('div');
+    tab.className = 'tab' + (cat.key === activeTab ? ' active' : '');
+    tab.dataset.key = cat.key;
+    tab.innerHTML = `${cat.icon} ${cat.label} <span class="tab-count" id="cnt-${cat.key.replace(/\s+/g,'_')}">0</span>`;
+    tab.addEventListener('click', () => {
+      activeTab = cat.key;
+      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      applyAndRender();
+    });
+    c.appendChild(tab);
+  });
+}
+
+// ── Carregamento de meses ─────────────────────────────────────────────────────
+async function loadMonths(months) {
+  const toLoad = months.filter(m => !loadedMonths.has(m));
+  if (!toLoad.length) { applyAndRender(); return; }
+  showLoading();
+  for (const m of toLoad) {
+    try {
+      const data = await fetchJSON(`${BASE}/${m}.json`);
+      data.forEach(item => {
+        if (!allItems.find(i => i.guid === item.guid)) allItems.push(item);
+      });
+      loadedMonths.add(m);
+    } catch(e) { console.warn('Erro ao carregar', m); }
+  }
+  applyAndRender();
+}
+
+async function loadForSelection() {
+  const ano = document.getElementById('sel-ano').value;
+  const mes = document.getElementById('sel-mes').value;
+  let months;
+  if (mes) months = [mes];
+  else if (ano) months = availableMonths.filter(m => m.startsWith(ano));
+  else months = [availableMonths[0]]; // padrão: mais recente
+  await loadMonths(months);
+}
+
+// ── Filtros + render ──────────────────────────────────────────────────────────
+function applyAndRender() {
+  const ano   = document.getElementById('sel-ano').value;
+  const mes   = document.getElementById('sel-mes').value;
+  const query = document.getElementById('search-box').value.trim();
+  const words = query ? query.toLowerCase().split(/\s+/).filter(Boolean) : [];
+
+  // Filtra por data
+  let items = allItems.filter(item => {
+    const pub = (item.pub_date || '').slice(0,7);
+    if (mes && pub !== mes) return false;
+    if (ano && !pub.startsWith(ano)) return false;
+    return true;
+  });
+
+  // Filtra por palavras-chave
+  if (words.length) {
+    items = items.filter(item => {
+      const hay = norm((item.title || '') + ' ' + (item.description || ''));
+      return words.every(w => hay.includes(norm(w)));
+    });
+  }
+
+  // Atualiza contagens das abas
+  const counts = {};
+  CATEGORIES.forEach(c => counts[c.key] = 0);
+  items.forEach(item => {
+    const l1 = item.canonical_category_l1 || '';
+    if (counts[l1] !== undefined) counts[l1]++;
+    counts['Todos']++;
+  });
+  CATEGORIES.forEach(cat => {
+    const el = document.getElementById('cnt-' + cat.key.replace(/\s+/g,'_'));
+    if (el) el.textContent = counts[cat.key] || 0;
+  });
+
+  // Filtra por aba
+  let visible = items;
+  if (activeTab !== 'Todos') {
+    visible = items.filter(item => item.canonical_category_l1 === activeTab);
+  }
+
+  // Ordena: destaque_score desc, depois pub_date desc
+  visible.sort((a, b) => {
+    const ds = (b.destaque_score || 0) - (a.destaque_score || 0);
+    if (Math.abs(ds) > 0.01) return ds;
+    return (b.pub_date || '') > (a.pub_date || '') ? 1 : -1;
+  });
+
+  const n = visible.length;
+  document.getElementById('result-count').textContent =
+    n + (n === 1 ? ' notícia' : ' notícias');
+
+  renderCards(visible, words);
+}
+
+// ── Render ────────────────────────────────────────────────────────────────────
+function esc(s) {
+  return (s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function escRe(s) { return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'); }
+
+function highlight(text, words) {
+  if (!words.length || !text) return esc(text);
+  let out = esc(text);
+  words.forEach(w => {
+    const re = new RegExp('(' + escRe(esc(w)) + ')', 'gi');
+    out = out.replace(re, '<mark>$1</mark>');
+  });
+  return out;
+}
+
+function fmtDate(iso) {
+  if (!iso) return '';
+  try {
+    return new Date(iso).toLocaleDateString('pt-BR', {day:'2-digit', month:'short', year:'numeric'});
+  } catch(e) { return iso.slice(0,10); }
+}
+
+function catCss(l1) {
+  const map = {
+    'Aviação': 'aviacao',
+    'Hotelaria': 'hotelaria',
+    'Destinos': 'destinos',
+    'Atrativos e Parques': 'atrativos',
+    'Cruzeiros': 'cruzeiros',
+    'Distribuição e Trade': 'distribuicao',
+    'Corporativo': 'corporativo',
+    'Eventos e Feiras': 'eventos',
+    'Câmbio e Economia do Turismo': 'cambio',
+    'Política e Regulação Setorial': 'politica',
+  };
+  return map[l1] || 'default';
+}
+
+function catIcon(l1) {
+  const cat = CATEGORIES.find(c => c.key === l1);
+  return cat ? cat.icon : '📰';
+}
+
+function imageHTML(item) {
+  const css = catCss(item.canonical_category_l1);
+  const icon = catIcon(item.canonical_category_l1);
+  const cat = esc(item.canonical_category_l1 || '');
+  const src = item.source_id || '';
+  const srcLabel = esc(SOURCE_LABEL[src] || src);
+  const srcCss = 'src-' + src;
+
+  const badges = `
+    ${cat ? `<span class="cat-badge">${cat}</span>` : ''}
+    <span class="source-badge ${srcCss}">${srcLabel}</span>
+  `;
+
+  if (item.image_url) {
+    return `<div class="card-image">
+      <img src="${esc(item.image_url)}" alt="${esc(item.title)}"
+           loading="lazy"
+           onerror="this.parentElement.innerHTML='<div class=\\"no-image cat-${css}\\"><span class=\\"ni-icon\\">${icon}</span><span>${cat}</span></div>${badges.replace(/"/g,"'")}'" >
+      ${badges}
+    </div>`;
+  }
+  return `<div class="card-image">
+    <div class="no-image cat-${css}">
+      <span class="ni-icon">${icon}</span>
+      <span>${cat || 'Turismo'}</span>
+    </div>
+    ${badges}
+  </div>`;
+}
+
+function cardHTML(item, words, isManchete) {
+  const domain = item.content_domain || '';
+  const geoFlag = domain === 'geopolitica_relevante'
+    ? '<span class="geo-flag">🌐 Geopolítica</span>'
+    : '';
+
+  return `<div class="card${isManchete ? ' manchete' : ''}">
+  ${imageHTML(item)}
+  <div class="card-body">
+    <div class="card-date">${fmtDate(item.pub_date)} ${geoFlag}</div>
+    <div class="card-title">${highlight(item.title, words)}</div>
+    ${item.description ? `<div class="card-desc">${highlight(item.description, words)}</div>` : ''}
+  </div>
+  <div class="card-footer">
+    <a class="btn-ver-mais" href="${esc(item.link || '#')}" target="_blank" rel="noopener noreferrer">
+      Ver mais
+      <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+        <path d="M5 12h14M12 5l7 7-7 7"/>
+      </svg>
+    </a>
+  </div>
+</div>`;
+}
+
+function renderCards(items, words) {
+  const content = document.getElementById('content');
+
+  if (!items.length) {
+    const q = document.getElementById('search-box').value;
+    content.innerHTML = `<div class="state-msg">
+      <span class="icon">🔍</span>
+      <p>${q ? 'Nenhuma notícia encontrada para "<strong>' + esc(q) + '</strong>".' : 'Nenhuma notícia para este período.'}</p>
+    </div>`;
+    return;
+  }
+
+  const manchetes = items.filter(i => i.layout_tier === 'manchete');
+  const resto     = items.filter(i => i.layout_tier !== 'manchete');
+
+  let html = '';
+  if (manchetes.length) {
+    html += '<div class="manchetes">';
+    manchetes.forEach(i => { html += cardHTML(i, words, true); });
+    html += '</div>';
+  }
+  if (resto.length) {
+    html += '<div class="cards-grid">';
+    resto.forEach(i => { html += cardHTML(i, words, false); });
+    html += '</div>';
+  }
+
+  content.innerHTML = html;
+}
+
+function showLoading() {
+  document.getElementById('content').innerHTML =
+    '<div class="state-msg"><div class="spinner"></div><p>Carregando notícias...</p></div>';
+}
+
+function setStatus(msg) {
+  document.getElementById('status-bar').textContent = msg;
+}
+
+// ── Eventos ───────────────────────────────────────────────────────────────────
+document.getElementById('sel-ano').addEventListener('change', () => {
+  updateMesFilter();
+  loadForSelection();
+});
+document.getElementById('sel-mes').addEventListener('change', () => { loadForSelection(); });
+
+let searchTimer;
+document.getElementById('search-box').addEventListener('input', () => {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(async () => {
+    const q = document.getElementById('search-box').value.trim();
+    // Se tem busca e seleção aberta (sem mês específico), carrega todos os meses disponíveis
+    if (q && !document.getElementById('sel-mes').value) {
+      const ano = document.getElementById('sel-ano').value;
+      const months = availableMonths.filter(m => !ano || m.startsWith(ano));
+      await loadMonths(months);
+    } else {
+      applyAndRender();
+    }
+  }, 350);
+});
+
+// ── Start ─────────────────────────────────────────────────────────────────────
+init();
+</script>
+</body>
+</html>
