@@ -517,9 +517,15 @@ async function init() {
   populateAno();
   updateMes();
   buildTabs();
-  // Carrega todos os meses na inicialização
-  if (availableMonths.length) await loadMonths(availableMonths);
+
+  // 1. Carrega o mês mais recente primeiro — conteúdo aparece rápido
+  await loadMonths([availableMonths[0]]);
   setStatus('Atualizado em ' + new Date().toLocaleDateString('pt-BR',{day:'2-digit',month:'short',year:'numeric'}));
+
+  // 2. Carrega o restante em segundo plano sem bloquear a tela
+  if (availableMonths.length > 1) {
+    loadMonths(availableMonths.slice(1));
+  }
 }
 
 // ── Filtros ───────────────────────────────────────────────────────────────────
@@ -585,16 +591,16 @@ window.addEventListener('resize', updateScrollBtns);
 async function loadMonths(months) {
   const toLoad = months.filter(m => !loadedMonths.has(m));
   if (!toLoad.length) { applyAndRender(); return; }
-  showLoading();
 
-  // Carrega em paralelo em lotes de 4 — equilibra velocidade e memória
-  const BATCH = 4;
+  // Só mostra spinner se o conteúdo ainda estiver vazio
+  if (!allItems.length) showLoading();
+
+  const BATCH = 3;
   for (let i = 0; i < toLoad.length; i += BATCH) {
     const batch = toLoad.slice(i, i + BATCH);
     await Promise.all(batch.map(async m => {
       try {
         const data = await fetchJSON(`${BASE}/${m}.json`);
-        // guidSet garante dedup em O(1) — sem Array.find() O(n²)
         data.forEach(item => {
           if (!guidSet.has(item.guid)) {
             guidSet.add(item.guid);
@@ -604,8 +610,13 @@ async function loadMonths(months) {
         loadedMonths.add(m);
       } catch(e) { console.warn('Erro ao carregar', m); }
     }));
-    // Renderiza após cada lote — o usuário vê conteúdo surgir progressivamente
     applyAndRender();
+  }
+
+  // Garante que spinner nunca fica preso — se nada carregou, mostra erro
+  if (!allItems.length) {
+    document.getElementById('content').innerHTML =
+      '<div class="state-msg"><span class="icon">⚠️</span><p>Não foi possível carregar as notícias. Verifique sua conexão e tente novamente.</p></div>';
   }
 }
 
@@ -717,11 +728,4 @@ function cardHTML(item, words) {
   return `<div class="card">
   ${imageBlock(item)}
   <div class="card-body">
-    <div class="card-date">${fmtDate(item.pub_date)} ${geoFlag}</div>
-    <div class="card-title">${highlight(item.title, words)}</div>
-    ${item.description ? `<div class="card-desc">${highlight(item.description, words)}</div>` : ''}
-  </div>
-  <div class="card-footer">
-    <span class="source-label">
-      <span class="source-dot dot-${src}"></span>
-  
+    <div class="card-date">${fmtD
