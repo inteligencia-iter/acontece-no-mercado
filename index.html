@@ -9,556 +9,250 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
     :root {
-      --bg: #f4f6f9;
-      --white: #ffffff;
-      --border: #e2e8f0;
-      --text: #1a202c;
-      --text2: #4a5568;
-      --text3: #718096;
-      --accent: #0057b8;
-      --radius: 12px;
+      --bg: #f4f6f9; --white: #ffffff; --border: #e2e8f0;
+      --text: #1a202c; --text2: #4a5568; --text3: #718096;
+      --accent: #0057b8; --radius: 12px;
       --shadow: 0 2px 8px rgba(0,0,0,0.07);
       --shadow-hover: 0 8px 24px rgba(0,0,0,0.13);
     }
-
-    body {
-      background: var(--bg);
-      color: var(--text);
-      font-family: 'Inter', system-ui, sans-serif;
-      font-size: 14px;
-      line-height: 1.6;
-      min-height: 100vh;
-    }
-
-    /* ── Header ─────────────────────────────────────────── */
-    header {
-      background: var(--accent);
-      color: #fff;
-      padding: 0 28px;
-      display: flex;
-      align-items: center;
-      gap: 16px;
-      height: 58px;
-      position: sticky;
-      top: 0;
-      z-index: 300;
-      box-shadow: 0 2px 12px rgba(0,63,150,0.28);
-    }
-    .logo { display: flex; align-items: center; gap: 10px; }
-    .logo-icon {
-      width: 32px; height: 32px;
-      background: #ffffff;
-      border-radius: 8px;
-      display: flex; align-items: center; justify-content: center;
-      font-size: 18px;
-    }
-    .logo h1 { font-size: 15px; font-weight: 700; }
-    .logo p  { font-size: 11px; opacity: 0.72; }
-    .hsp { flex: 1; }
-    #status-bar { font-size: 11px; opacity: 0.8; }
-
-    /* ── Toolbar ─────────────────────────────────────────── */
-    .toolbar {
-      background: var(--white);
-      border-bottom: 1px solid var(--border);
-      padding: 10px 28px;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      flex-wrap: wrap;
-      position: sticky;
-      top: 58px;
-      z-index: 200;
-    }
-    .flabel {
-      font-size: 10px; font-weight: 700; color: var(--text3);
-      text-transform: uppercase; letter-spacing: 0.08em;
-    }
-    select {
-      background: var(--bg); border: 1px solid var(--border);
-      border-radius: 8px; color: var(--text);
-      font-size: 13px; font-family: inherit;
-      padding: 6px 10px; cursor: pointer; outline: none;
-      transition: border-color 0.2s;
-    }
-    select:focus { border-color: var(--accent); }
-    .search-wrap {
-      display: flex; align-items: center;
-      background: var(--bg); border: 1px solid var(--border);
-      border-radius: 8px; padding: 0 10px; gap: 7px;
-      flex: 1; max-width: 320px;
-      transition: border-color 0.2s;
-    }
-    .search-wrap:focus-within { border-color: var(--accent); }
-    .search-wrap svg { color: var(--text3); flex-shrink: 0; }
-    #search-box {
-      background: transparent; border: none; outline: none;
-      font-size: 13px; font-family: inherit; color: var(--text);
-      padding: 6px 0; width: 100%;
-    }
-    #search-box::placeholder { color: var(--text3); }
-    .tsep { width: 1px; height: 22px; background: var(--border); }
-    #result-count { font-size: 12px; color: var(--text3); white-space: nowrap; }
-
-    /* ── Abas ────────────────────────────────────────────── */
-    .tabs-outer {
-      background: var(--white);
-      border-bottom: 1px solid var(--border);
-      position: sticky;
-      top: 101px;
-      z-index: 100;
-      display: flex;
-      align-items: center;
-    }
-    .tabs-scroll-btn {
-      flex-shrink: 0;
-      width: 36px; height: 48px;
-      display: flex; align-items: center; justify-content: center;
-      background: var(--white);
-      border: none; cursor: pointer;
-      color: var(--text3);
-      font-size: 18px;
-      transition: color 0.15s;
-      z-index: 1;
-    }
-    .tabs-scroll-btn:hover { color: var(--accent); }
-    .tabs-scroll-btn.hidden { visibility: hidden; pointer-events: none; }
-    .tabs-bar {
-      flex: 1;
-      overflow-x: auto;
-      scroll-behavior: smooth;
-      scrollbar-width: none;
-    }
-    .tabs-bar::-webkit-scrollbar { display: none; }
-    .tabs { display: flex; }
-    .tab {
-      display: flex; align-items: center; gap: 5px;
-      padding: 0 15px; height: 48px;
-      font-size: 13px; font-weight: 500; color: var(--text3);
-      cursor: pointer; white-space: nowrap; user-select: none;
-      border-bottom: 3px solid transparent;
-      transition: color 0.15s, border-color 0.15s;
-      flex-shrink: 0;
-    }
-    .tab:hover { color: var(--text); }
-    .tab.active { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
-    .tab-count {
-      background: #edf2ff; color: var(--accent);
-      font-size: 10px; font-weight: 700;
-      padding: 1px 6px; border-radius: 20px; min-width: 20px; text-align: center;
-    }
-    .tab.active .tab-count { background: var(--accent); color: #fff; }
-
-    /* ── Grid 3 colunas fixas ───────────────────────────── */
-    main {
-      max-width: 1280px;
-      margin: 0 auto;
-      padding: 24px 28px;
-    }
-    .cards-grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 20px;
-    }
-    @media (max-width: 900px) {
-      .cards-grid { grid-template-columns: repeat(2, 1fr); }
-    }
-    @media (max-width: 560px) {
-      .cards-grid { grid-template-columns: 1fr; }
-      header { padding: 0 14px; }
-      .toolbar { padding: 8px 14px; }
-      main { padding: 14px; }
-    }
-
-    /* ── Card ─────────────────────────────────────────────── */
-    .card {
-      background: var(--white);
-      border-radius: var(--radius);
-      box-shadow: var(--shadow);
-      overflow: hidden;
-      display: flex;
-      flex-direction: column;
-      transition: box-shadow 0.2s, transform 0.18s;
-    }
-    .card:hover {
-      box-shadow: var(--shadow-hover);
-      transform: translateY(-3px);
-    }
-
-    /* Imagem */
-    .card-image {
-      position: relative;
-      height: 185px;
-      overflow: hidden;
-      background: var(--border);
-      flex-shrink: 0;
-    }
-    .card-image img {
-      width: 100%; height: 100%;
-      object-fit: cover; display: block;
-      transition: transform 0.3s;
-    }
-    .card:hover .card-image img { transform: scale(1.04); }
-
-    /* Fallback sem imagem */
-    .no-image {
-      width: 100%; height: 100%;
-      display: flex; flex-direction: column;
-      align-items: center; justify-content: center;
-      gap: 8px; color: rgba(255,255,255,0.9);
-      font-size: 11px; font-weight: 700;
-      text-transform: uppercase; letter-spacing: 0.06em;
-    }
-    .no-image .ni-icon { font-size: 30px; }
-
-    /* Gradientes por categoria */
-    .cat-aviacao       { background: linear-gradient(135deg,#0ea5e9,#0057b8); }
-    .cat-hotelaria     { background: linear-gradient(135deg,#f59e0b,#d97706); }
-    .cat-destinos      { background: linear-gradient(135deg,#10b981,#059669); }
-    .cat-atrativos     { background: linear-gradient(135deg,#8b5cf6,#7c3aed); }
-    .cat-cruzeiros     { background: linear-gradient(135deg,#06b6d4,#0891b2); }
-    .cat-distribuicao  { background: linear-gradient(135deg,#f97316,#ea580c); }
-    .cat-corporativo   { background: linear-gradient(135deg,#6366f1,#4f46e5); }
-    .cat-eventos       { background: linear-gradient(135deg,#ec4899,#db2777); }
-    .cat-cambio        { background: linear-gradient(135deg,#eab308,#ca8a04); }
-    .cat-politica      { background: linear-gradient(135deg,#64748b,#475569); }
-    .cat-default       { background: linear-gradient(135deg,#94a3b8,#64748b); }
-
-    /* Badge de categoria sobreposto na imagem */
-    .img-cat-badge {
-      position: absolute; bottom: 8px; left: 8px;
-      background: rgba(0,0,0,0.52);
-      color: #fff; font-size: 9px; font-weight: 700;
-      text-transform: uppercase; letter-spacing: 0.07em;
-      padding: 2px 8px; border-radius: 20px;
-      backdrop-filter: blur(3px);
-      max-width: calc(100% - 16px);
-      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
-    }
-
-    /* Corpo */
-    .card-body {
-      padding: 14px 16px 10px;
-      display: flex; flex-direction: column; gap: 7px;
-      flex: 1;
-    }
-    .card-date {
-      font-size: 11px; color: var(--text3); font-weight: 500;
-    }
-    .card-title {
-      font-size: 14px; font-weight: 700; color: var(--text);
-      line-height: 1.4;
-      display: -webkit-box;
-      -webkit-line-clamp: 3; -webkit-box-orient: vertical;
-      overflow: hidden;
-    }
-    .card-desc {
-      font-size: 12px; color: var(--text2); line-height: 1.55;
-      display: -webkit-box;
-      -webkit-line-clamp: 3; -webkit-box-orient: vertical;
-      overflow: hidden; flex: 1;
-    }
-
-    /* Rodapé: fonte + botão */
-    .card-footer {
-      padding: 0 16px 14px;
-      display: flex; align-items: center; justify-content: space-between;
-      gap: 8px;
-    }
-    .source-label {
-      font-size: 11px; font-weight: 600;
-      color: var(--text3);
-      display: flex; align-items: center; gap: 4px;
-    }
-    .source-dot {
-      width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0;
-    }
-    .dot-panrotas        { background: #1d4ed8; }
-    .dot-mercadoeeventos { background: #7c3aed; }
-    .dot-embratur        { background: #0891b2; }
-    .dot-g1_turismo      { background: #dc2626; }
-    .dot-agenciabrasil   { background: #16a34a; }
-    .dot-default         { background: #64748b; }
-
-    .btn-ver-mais {
-      display: inline-flex; align-items: center; gap: 5px;
-      background: var(--accent); color: #fff;
-      font-size: 12px; font-weight: 600;
-      padding: 7px 15px; border-radius: 8px;
-      text-decoration: none; border: none; cursor: pointer;
-      transition: background 0.15s, transform 0.1s;
-      white-space: nowrap; flex-shrink: 0;
-    }
-    .btn-ver-mais:hover { background: #004099; transform: scale(1.02); }
-
-    /* Flag geopolítica */
-    .geo-flag {
-      font-size: 10px; color: #92400e; background: #fef3c7;
-      padding: 2px 7px; border-radius: 20px; font-weight: 600;
-      display: inline-flex; align-items: center; gap: 3px;
-    }
-
-    /* ── Estados ─────────────────────────────────────────── */
-    .state-msg {
-      text-align: center; padding: 80px 20px; color: var(--text3);
-      grid-column: 1 / -1;
-    }
-    .state-msg .icon { font-size: 44px; display: block; margin-bottom: 14px; }
-    .state-msg p { font-size: 15px; }
-    .spinner {
-      width: 34px; height: 34px;
-      border: 3px solid var(--border); border-top-color: var(--accent);
-      border-radius: 50%;
-      animation: spin 0.8s linear infinite;
-      margin: 0 auto 18px;
-    }
-    @keyframes spin { to { transform: rotate(360deg); } }
-
-    /* Highlight de busca */
-    mark { background: #fef08a; color: inherit; border-radius: 2px; padding: 0 1px; }
-
-    /* Botão carregar mais */
-    .load-more-wrap {
-      grid-column: 1 / -1;
-      text-align: center;
-      padding: 24px 0 8px;
-    }
-    .btn-load-more {
-      background: var(--white); border: 2px solid var(--accent);
-      color: var(--accent); font-size: 13px; font-weight: 600;
-      padding: 10px 28px; border-radius: 10px;
-      cursor: pointer; font-family: inherit;
-      transition: background 0.15s, color 0.15s;
-    }
-    .btn-load-more:hover { background: var(--accent); color: #fff; }
-
-    /* ── Mobile ──────────────────────────────────────────── */
-    @media (max-width: 640px) {
-      header {
-        padding: 0 12px;
-        height: auto;
-        min-height: 52px;
-        flex-wrap: wrap;
-        gap: 8px;
-        padding-top: 10px;
-        padding-bottom: 10px;
-      }
-      .logo { gap: 8px; flex: 1; min-width: 0; }
-      .logo-icon { width: 28px; height: 28px; flex-shrink: 0; }
-      .logo h1 { font-size: 13px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-      .logo p  { display: none; } /* oculta lista de fontes no mobile */
-      .hsp { display: none; }
-      #status-bar { font-size: 10px; width: 100%; text-align: right; opacity: 0.7; padding-bottom: 2px; }
-
-      .toolbar {
-        padding: 8px 12px;
-        top: 52px;
-        gap: 6px;
-      }
-      .flabel { display: none; } /* remove labels Ano/Mês para economizar espaço */
-      select { font-size: 12px; padding: 5px 8px; }
-      .search-wrap { max-width: 100%; flex: 1 1 100%; order: 3; }
-      .tsep { display: none; }
-      #result-count { display: none; }
-
-      .tabs-outer { top: 113px; }
-      .tabs-scroll-btn { width: 28px; }
-      .tab { padding: 0 10px; font-size: 12px; height: 40px; }
-
-      main { padding: 12px; }
-      .cards-grid { gap: 14px; }
+    body { background:var(--bg); color:var(--text); font-family:'Inter',system-ui,sans-serif; font-size:14px; line-height:1.6; min-height:100vh; }
+    header { background:var(--accent); color:#fff; padding:0 28px; display:flex; align-items:center; gap:16px; height:58px; position:sticky; top:0; z-index:300; box-shadow:0 2px 12px rgba(0,63,150,0.28); }
+    .logo { display:flex; align-items:center; gap:10px; }
+    .logo-icon { width:32px; height:32px; background:#fff; border-radius:8px; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
+    .logo h1 { font-size:15px; font-weight:700; }
+    .logo p  { font-size:11px; opacity:0.72; }
+    .hsp { flex:1; }
+    #status-bar { font-size:11px; opacity:0.8; white-space:nowrap; }
+    .toolbar { background:var(--white); border-bottom:1px solid var(--border); padding:10px 28px; display:flex; align-items:center; gap:10px; flex-wrap:wrap; position:sticky; top:58px; z-index:200; }
+    .flabel { font-size:10px; font-weight:700; color:var(--text3); text-transform:uppercase; letter-spacing:0.08em; }
+    select { background:var(--bg); border:1px solid var(--border); border-radius:8px; color:var(--text); font-size:13px; font-family:inherit; padding:6px 10px; cursor:pointer; outline:none; }
+    select:focus { border-color:var(--accent); }
+    .search-wrap { display:flex; align-items:center; background:var(--bg); border:1px solid var(--border); border-radius:8px; padding:0 10px; gap:7px; flex:1; max-width:320px; }
+    .search-wrap:focus-within { border-color:var(--accent); }
+    .search-wrap svg { color:var(--text3); flex-shrink:0; }
+    #search-box { background:transparent; border:none; outline:none; font-size:13px; font-family:inherit; color:var(--text); padding:6px 0; width:100%; }
+    #search-box::placeholder { color:var(--text3); }
+    .tsep { width:1px; height:22px; background:var(--border); }
+    #result-count { font-size:12px; color:var(--text3); white-space:nowrap; }
+    .tabs-outer { background:var(--white); border-bottom:1px solid var(--border); position:sticky; top:101px; z-index:100; display:flex; align-items:center; }
+    .tabs-scroll-btn { flex-shrink:0; width:36px; height:48px; display:flex; align-items:center; justify-content:center; background:var(--white); border:none; cursor:pointer; color:var(--text3); font-size:18px; }
+    .tabs-scroll-btn:hover { color:var(--accent); }
+    .tabs-scroll-btn.hidden { visibility:hidden; pointer-events:none; }
+    .tabs-bar { flex:1; overflow-x:auto; scroll-behavior:smooth; scrollbar-width:none; }
+    .tabs-bar::-webkit-scrollbar { display:none; }
+    .tabs { display:flex; }
+    .tab { display:flex; align-items:center; gap:5px; padding:0 15px; height:48px; font-size:13px; font-weight:500; color:var(--text3); cursor:pointer; white-space:nowrap; user-select:none; border-bottom:3px solid transparent; transition:color 0.15s,border-color 0.15s; flex-shrink:0; }
+    .tab:hover { color:var(--text); }
+    .tab.active { color:var(--accent); border-bottom-color:var(--accent); font-weight:600; }
+    .tab-count { background:#edf2ff; color:var(--accent); font-size:10px; font-weight:700; padding:1px 6px; border-radius:20px; min-width:20px; text-align:center; }
+    .tab.active .tab-count { background:var(--accent); color:#fff; }
+    main { max-width:1280px; margin:0 auto; padding:24px 28px; }
+    .cards-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:20px; }
+    @media(max-width:900px){ .cards-grid { grid-template-columns:repeat(2,1fr); } }
+    .card { background:var(--white); border-radius:var(--radius); box-shadow:var(--shadow); overflow:hidden; display:flex; flex-direction:column; transition:box-shadow 0.2s,transform 0.18s; }
+    .card:hover { box-shadow:var(--shadow-hover); transform:translateY(-3px); }
+    .card-image { position:relative; height:185px; overflow:hidden; background:var(--border); flex-shrink:0; }
+    .card-image img { width:100%; height:100%; object-fit:cover; display:block; transition:transform 0.3s; }
+    .card:hover .card-image img { transform:scale(1.04); }
+    .no-image { width:100%; height:100%; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:8px; color:rgba(255,255,255,0.9); font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:0.06em; }
+    .no-image .ni-icon { font-size:30px; }
+    .cat-aviacao{background:linear-gradient(135deg,#0ea5e9,#0057b8);}
+    .cat-hotelaria{background:linear-gradient(135deg,#f59e0b,#d97706);}
+    .cat-destinos{background:linear-gradient(135deg,#10b981,#059669);}
+    .cat-atrativos{background:linear-gradient(135deg,#8b5cf6,#7c3aed);}
+    .cat-cruzeiros{background:linear-gradient(135deg,#06b6d4,#0891b2);}
+    .cat-distribuicao{background:linear-gradient(135deg,#f97316,#ea580c);}
+    .cat-corporativo{background:linear-gradient(135deg,#6366f1,#4f46e5);}
+    .cat-eventos{background:linear-gradient(135deg,#ec4899,#db2777);}
+    .cat-cambio{background:linear-gradient(135deg,#eab308,#ca8a04);}
+    .cat-politica{background:linear-gradient(135deg,#64748b,#475569);}
+    .cat-default{background:linear-gradient(135deg,#94a3b8,#64748b);}
+    .img-cat-badge { position:absolute; bottom:8px; left:8px; background:rgba(0,0,0,0.52); color:#fff; font-size:9px; font-weight:700; text-transform:uppercase; letter-spacing:0.07em; padding:2px 8px; border-radius:20px; max-width:calc(100% - 16px); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .card-body { padding:14px 16px 10px; display:flex; flex-direction:column; gap:7px; flex:1; }
+    .card-date { font-size:11px; color:var(--text3); font-weight:500; }
+    .card-title { font-size:14px; font-weight:700; color:var(--text); line-height:1.4; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
+    .card-desc { font-size:12px; color:var(--text2); line-height:1.55; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; flex:1; }
+    .card-footer { padding:0 16px 14px; display:flex; align-items:center; justify-content:space-between; gap:8px; }
+    .source-label { font-size:11px; font-weight:600; color:var(--text3); display:flex; align-items:center; gap:4px; }
+    .source-dot { width:6px; height:6px; border-radius:50%; flex-shrink:0; }
+    .dot-panrotas{background:#1d4ed8;} .dot-mercadoeeventos{background:#7c3aed;} .dot-embratur{background:#0891b2;} .dot-g1_turismo{background:#dc2626;} .dot-agenciabrasil{background:#16a34a;} .dot-default{background:#64748b;}
+    .btn-ver-mais { display:inline-flex; align-items:center; gap:5px; background:var(--accent); color:#fff; font-size:12px; font-weight:600; padding:7px 15px; border-radius:8px; text-decoration:none; border:none; cursor:pointer; transition:background 0.15s; white-space:nowrap; flex-shrink:0; }
+    .btn-ver-mais:hover { background:#004099; }
+    .geo-flag { font-size:10px; color:#92400e; background:#fef3c7; padding:2px 7px; border-radius:20px; font-weight:600; }
+    .state-msg { text-align:center; padding:80px 20px; color:var(--text3); grid-column:1/-1; }
+    .state-msg .icon { font-size:44px; display:block; margin-bottom:14px; }
+    .state-msg p { font-size:15px; }
+    .spinner { width:34px; height:34px; border:3px solid var(--border); border-top-color:var(--accent); border-radius:50%; animation:spin 0.8s linear infinite; margin:0 auto 18px; }
+    @keyframes spin { to { transform:rotate(360deg); } }
+    .load-more-wrap { grid-column:1/-1; text-align:center; padding:24px 0 8px; }
+    .btn-load-more { background:var(--white); border:2px solid var(--accent); color:var(--accent); font-size:13px; font-weight:600; padding:10px 28px; border-radius:10px; cursor:pointer; font-family:inherit; }
+    .btn-load-more:hover { background:var(--accent); color:#fff; }
+    mark { background:#fef08a; color:inherit; border-radius:2px; padding:0 1px; }
+    @media(max-width:640px){
+      header { padding:10px 12px; height:auto; min-height:52px; flex-wrap:wrap; gap:8px; }
+      .logo { gap:8px; flex:1; min-width:0; }
+      .logo-icon { width:28px; height:28px; }
+      .logo h1 { font-size:13px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+      .logo p { display:none; }
+      .hsp { display:none; }
+      #status-bar { font-size:10px; width:100%; text-align:right; opacity:0.7; }
+      .toolbar { padding:8px 12px; top:52px; gap:6px; }
+      .flabel { display:none; }
+      select { font-size:12px; padding:5px 8px; }
+      .search-wrap { max-width:100%; flex:1 1 100%; order:3; }
+      .tsep { display:none; }
+      #result-count { display:none; }
+      .tabs-outer { top:108px; }
+      .tabs-scroll-btn { width:28px; }
+      .tab { padding:0 10px; font-size:12px; height:40px; }
+      main { padding:12px; }
+      .cards-grid { grid-template-columns:1fr; gap:14px; }
     }
   </style>
 </head>
 <body>
-
 <header>
   <div class="logo">
-    <div class="logo-icon"><img src="./favicon.ico" alt="Iter" width="22" height="22" style="display:block;"></div>
+    <div class="logo-icon"><img src="./favicon.ico" alt="Iter" width="22" height="22" style="display:block"></div>
     <div>
       <h1>Monitor - Acontece no Mercado</h1>
-      <p>Panrotas · M&amp;E · G1 · Embratur · Agência Brasil</p>
+      <p>Panrotas &middot; M&amp;E &middot; G1 &middot; Embratur &middot; Ag&ecirc;ncia Brasil</p>
     </div>
   </div>
   <div class="hsp"></div>
   <div id="status-bar">Carregando...</div>
 </header>
-
 <div class="toolbar">
   <span class="flabel">Ano</span>
-  <select id="sel-ano"><option value="">Todos</option></select>
-  <span class="flabel">Mês</span>
-  <select id="sel-mes"><option value="">Todos</option></select>
+  <select id="sel-ano"><option value="">Todos os anos</option></select>
+  <span class="flabel">Mes</span>
+  <select id="sel-mes"><option value="">Todos os meses</option></select>
   <div class="tsep"></div>
   <div class="search-wrap">
-    <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-      <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
-    </svg>
+    <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
     <input type="text" id="search-box" placeholder="Buscar por palavras-chave...">
   </div>
   <div id="result-count"></div>
 </div>
-
 <div class="tabs-outer">
-  <button class="tabs-scroll-btn hidden" id="tabs-left" title="Anterior">&#8249;</button>
-  <div class="tabs-bar" id="tabs-bar">
-    <div class="tabs" id="tabs-container"></div>
-  </div>
-  <button class="tabs-scroll-btn hidden" id="tabs-right" title="Próxima">&#8250;</button>
+  <button class="tabs-scroll-btn hidden" id="tabs-left">&#8249;</button>
+  <div class="tabs-bar" id="tabs-bar"><div class="tabs" id="tabs-container"></div></div>
+  <button class="tabs-scroll-btn hidden" id="tabs-right">&#8250;</button>
 </div>
-
 <main>
   <div class="cards-grid" id="content">
-    <div class="state-msg">
-      <div class="spinner"></div>
-      <p>Carregando notícias...</p>
-    </div>
+    <div class="state-msg"><div class="spinner"></div><p>Carregando noticias...</p></div>
   </div>
 </main>
-
 <script>
-// ── Config ────────────────────────────────────────────────────────────────────
-const BASE = './dados';
-
-const CATEGORIES = [
-  { key: 'Todos',                         label: 'Todas',                   icon: '📰', css: 'default' },
-  { key: 'Aviação',                        label: 'Aviação',                  icon: '✈️',  css: 'aviacao' },
-  { key: 'Hotelaria',                      label: 'Hotelaria',                icon: '🏨', css: 'hotelaria' },
-  { key: 'Destinos',                       label: 'Destinos',                 icon: '🗺️',  css: 'destinos' },
-  { key: 'Atrativos e Parques',            label: 'Atrativos e Parques',      icon: '🎢', css: 'atrativos' },
-  { key: 'Cruzeiros',                      label: 'Cruzeiros',                icon: '🚢', css: 'cruzeiros' },
-  { key: 'Distribuição e Trade',           label: 'Distribuição e Trade',     icon: '🤝', css: 'distribuicao' },
-  { key: 'Corporativo',                    label: 'Corporativo',              icon: '💼', css: 'corporativo' },
-  { key: 'Eventos e Feiras',               label: 'Eventos e Feiras',         icon: '🎪', css: 'eventos' },
-  { key: 'Câmbio e Economia do Turismo',  label: 'Câmbio e Economia',        icon: '💰', css: 'cambio' },
-  { key: 'Política e Regulação Setorial', label: 'Política e Regulação',     icon: '⚖️',  css: 'politica' },
+var BASE = './dados';
+var PAGE_SIZE = 60;
+var CATEGORIES = [
+  {key:'Todos',label:'Todas',icon:'📰',css:'default'},
+  {key:'Aviacao',label:'Aviação',icon:'✈️',css:'aviacao'},
+  {key:'Hotelaria',label:'Hotelaria',icon:'🏨',css:'hotelaria'},
+  {key:'Destinos',label:'Destinos',icon:'🗺️',css:'destinos'},
+  {key:'Atrativos e Parques',label:'Atrativos e Parques',icon:'🎢',css:'atrativos'},
+  {key:'Cruzeiros',label:'Cruzeiros',icon:'🚢',css:'cruzeiros'},
+  {key:'Distribuicao e Trade',label:'Distribuição e Trade',icon:'🤝',css:'distribuicao'},
+  {key:'Corporativo',label:'Corporativo',icon:'💼',css:'corporativo'},
+  {key:'Eventos e Feiras',label:'Eventos e Feiras',icon:'🎪',css:'eventos'},
+  {key:'Cambio e Economia do Turismo',label:'Câmbio e Economia',icon:'💰',css:'cambio'},
+  {key:'Politica e Regulacao Setorial',label:'Política e Regulação',icon:'⚖️',css:'politica'}
 ];
-
-const SOURCE_LABEL = {
-  panrotas: 'Panrotas',
-  mercadoeeventos: 'Mercado & Eventos',
-  embratur: 'Embratur',
-  g1_turismo: 'G1 Turismo',
-  agenciabrasil: 'Agência Brasil',
+var CAT_MAP = {
+  'Aviação':'Aviacao','Hotelaria':'Hotelaria','Destinos':'Destinos',
+  'Atrativos e Parques':'Atrativos e Parques','Cruzeiros':'Cruzeiros',
+  'Distribuição e Trade':'Distribuicao e Trade','Corporativo':'Corporativo',
+  'Eventos e Feiras':'Eventos e Feiras','Câmbio e Economia do Turismo':'Cambio e Economia do Turismo',
+  'Política e Regulação Setorial':'Politica e Regulacao Setorial'
 };
+var SOURCE_LABEL = {
+  panrotas:'Panrotas',mercadoeeventos:'Mercado & Eventos',
+  embratur:'Embratur',g1_turismo:'G1 Turismo',agenciabrasil:'Agência Brasil'
+};
+var MES_NOME = ['','Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'];
+var allItems=[],availableMonths=[],loadedMonths={},guidSet={},activeTab='Todos';
+var currentVisible=[],currentPage=0,currentWords=[];
 
-const MES_NOME = ['','Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'];
-
-// ── Estado ────────────────────────────────────────────────────────────────────
-let allItems = [], availableMonths = [], loadedMonths = new Set(), guidSet = new Set(), activeTab = 'Todos';
-let currentVisible = [], pageSize = 60, currentPage = 0;
-
-// ── Helpers ───────────────────────────────────────────────────────────────────
-function norm(s) {
-  return (s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().trim();
-}
-function esc(s) {
-  return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-}
-function escRe(s) { return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'); }
-
-// Decodifica entidades HTML (&#227; → ã) antes de exibir
-function decodeHtml(s) {
-  if (!s) return '';
-  const t = document.createElement('textarea');
-  t.innerHTML = s;
-  return t.value;
-}
-
-function highlight(text, words) {
-  if (!words.length || !text) return esc(decodeHtml(text));
-  let out = esc(decodeHtml(text));
-  words.forEach(w => {
-    const re = new RegExp('(' + escRe(esc(decodeHtml(w))) + ')', 'gi');
-    out = out.replace(re, '<mark>$1</mark>');
-  });
+function norm(s){return(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().trim();}
+function esc(s){return(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+function escRe(s){return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');}
+function decodeHtml(s){if(!s)return'';var t=document.createElement('textarea');t.innerHTML=s;return t.value;}
+function highlight(text,words){
+  var out=esc(decodeHtml(text));
+  if(!words.length)return out;
+  words.forEach(function(w){var re=new RegExp('('+escRe(esc(decodeHtml(w)))+')','gi');out=out.replace(re,'<mark>$1</mark>');});
   return out;
 }
-
-function fmtDate(iso) {
-  if (!iso) return '';
-  try {
-    return new Date(iso).toLocaleDateString('pt-BR', {day:'2-digit',month:'short',year:'numeric'});
-  } catch(e) { return iso.slice(0,10); }
+function fmtDate(iso){
+  if(!iso)return'';
+  try{return new Date(iso).toLocaleDateString('pt-BR',{day:'2-digit',month:'short',year:'numeric'});}
+  catch(e){return iso.slice(0,10);}
 }
-
-function catCss(l1) {
-  const m = {
-    'Aviação':'aviacao','Hotelaria':'hotelaria','Destinos':'destinos',
-    'Atrativos e Parques':'atrativos','Cruzeiros':'cruzeiros',
-    'Distribuição e Trade':'distribuicao','Corporativo':'corporativo',
-    'Eventos e Feiras':'eventos','Câmbio e Economia do Turismo':'cambio',
-    'Política e Regulação Setorial':'politica',
-  };
-  return m[l1] || 'default';
+function catKey(l1){return CAT_MAP[l1]||'';}
+function catCss(l1){
+  var m={Aviacao:'aviacao',Hotelaria:'hotelaria',Destinos:'destinos','Atrativos e Parques':'atrativos',
+    Cruzeiros:'cruzeiros','Distribuicao e Trade':'distribuicao',Corporativo:'corporativo',
+    'Eventos e Feiras':'eventos','Cambio e Economia do Turismo':'cambio','Politica e Regulacao Setorial':'politica'};
+  return m[catKey(l1)]||'default';
 }
-function catIcon(l1) { return (CATEGORIES.find(c=>c.key===l1)||{icon:'📰'}).icon; }
-
-// ── Fetch ─────────────────────────────────────────────────────────────────────
-async function fetchJSON(url) {
-  const r = await fetch(url + '?v=' + Date.now());
-  if (!r.ok) throw new Error(r.status);
-  return r.json();
+function catIcon(l1){
+  var k=catKey(l1);
+  for(var i=0;i<CATEGORIES.length;i++){if(CATEGORIES[i].key===k)return CATEGORIES[i].icon;}
+  return '📰';
 }
-
-// ── Init ──────────────────────────────────────────────────────────────────────
-async function init() {
-  let index;
-  try { index = await fetchJSON(BASE + '/indice-meses.json'); }
-  catch(e) {
-    setStatus('Erro ao carregar.');
-    document.getElementById('content').innerHTML =
-      '<div class="state-msg"><span class="icon">⚠️</span><p>Não foi possível carregar os dados.</p></div>';
-    return;
-  }
-  availableMonths = Object.keys(index).sort().reverse();
-  populateAno();
-  updateMes();
-  buildTabs();
-
-  // 1. Carrega o mês mais recente primeiro — conteúdo aparece rápido
-  await loadMonths([availableMonths[0]]);
-  setStatus('Atualizado em ' + new Date().toLocaleDateString('pt-BR',{day:'2-digit',month:'short',year:'numeric'}));
-
-  // 2. Carrega o restante em segundo plano sem bloquear a tela
-  if (availableMonths.length > 1) {
-    loadMonths(availableMonths.slice(1));
-  }
+function catLabel(l1){
+  var k=catKey(l1);
+  for(var i=0;i<CATEGORIES.length;i++){if(CATEGORIES[i].key===k)return CATEGORIES[i].label;}
+  return l1||'Turismo';
 }
-
-// ── Filtros ───────────────────────────────────────────────────────────────────
-function populateAno() {
-  const anos = [...new Set(availableMonths.map(m=>m.slice(0,4)))].sort().reverse();
-  const s = document.getElementById('sel-ano');
-  s.innerHTML = '<option value="">Todos os anos</option>';
-  anos.forEach(a => s.innerHTML += `<option value="${a}">${a}</option>`);
+function fetchJSON(url){
+  return fetch(url+'?v='+Date.now()).then(function(r){if(!r.ok)throw new Error(r.status);return r.json();});
 }
-function updateMes() {
-  const ano = document.getElementById('sel-ano').value;
-  const s = document.getElementById('sel-mes');
-  const prev = s.value;
-  s.innerHTML = '<option value="">Todos os meses</option>';
-  availableMonths.filter(m => !ano || m.startsWith(ano)).forEach(m => {
-    const [y,mo] = m.split('-');
-    s.innerHTML += `<option value="${m}">${MES_NOME[+mo]} ${y}</option>`;
+function setStatus(msg){document.getElementById('status-bar').textContent=msg;}
+function showLoading(){
+  document.getElementById('content').innerHTML=
+    '<div class="state-msg"><div class="spinner"></div><p>Carregando noticias...</p></div>';
+}
+function populateAno(){
+  var anos=[];
+  availableMonths.forEach(function(m){var y=m.slice(0,4);if(anos.indexOf(y)<0)anos.push(y);});
+  anos.sort().reverse();
+  var s=document.getElementById('sel-ano');
+  s.innerHTML='<option value="">Todos os anos</option>';
+  anos.forEach(function(a){s.innerHTML+='<option value="'+a+'">'+a+'</option>';});
+}
+function updateMes(){
+  var ano=document.getElementById('sel-ano').value;
+  var s=document.getElementById('sel-mes');
+  var prev=s.value;
+  s.innerHTML='<option value="">Todos os meses</option>';
+  availableMonths.filter(function(m){return !ano||m.startsWith(ano);}).forEach(function(m){
+    var p=m.split('-');
+    s.innerHTML+='<option value="'+m+'">'+MES_NOME[+p[1]]+' '+p[0]+'</option>';
   });
-  if ([...s.options].some(o=>o.value===prev)) s.value = prev;
+  for(var i=0;i<s.options.length;i++){if(s.options[i].value===prev){s.value=prev;break;}}
 }
-
-// ── Tabs ──────────────────────────────────────────────────────────────────────
-function buildTabs() {
-  const c = document.getElementById('tabs-container');
-  c.innerHTML = '';
-  CATEGORIES.forEach(cat => {
-    const tab = document.createElement('div');
-    tab.className = 'tab' + (cat.key===activeTab?' active':'');
-    tab.dataset.key = cat.key;
-    tab.innerHTML = `${cat.icon} ${cat.label} <span class="tab-count" id="cnt-${cat.key.replace(/\s+/g,'_')}">0</span>`;
-    tab.addEventListener('click', () => {
-      activeTab = cat.key;
-      document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));
+function updateScrollBtns(){
+  var bar=document.getElementById('tabs-bar');
+  var bL=document.getElementById('tabs-left');
+  var bR=document.getElementById('tabs-right');
+  if(!bar)return;
+  bL.classList.toggle('hidden',bar.scrollLeft<=4);
+  bR.classList.toggle('hidden',bar.scrollLeft+bar.clientWidth>=bar.scrollWidth-4);
+}
+function buildTabs(){
+  var c=document.getElementById('tabs-container');
+  c.innerHTML='';
+  CATEGORIES.forEach(function(cat){
+    var tab=document.createElement('div');
+    tab.className='tab'+(cat.key===activeTab?' active':'');
+    tab.innerHTML=cat.icon+' '+cat.label+' <span class="tab-count" id="cnt-'+cat.key.replace(/\s+/g,'_')+'">0</span>';
+    tab.addEventListener('click',function(){
+      activeTab=cat.key;
+      document.querySelectorAll('.tab').forEach(function(t){t.classList.remove('active');});
       tab.classList.add('active');
       applyAndRender();
     });
@@ -566,166 +260,174 @@ function buildTabs() {
   });
   updateScrollBtns();
 }
+document.getElementById('tabs-bar').addEventListener('scroll',updateScrollBtns);
+document.getElementById('tabs-left').addEventListener('click',function(){document.getElementById('tabs-bar').scrollBy({left:-200,behavior:'smooth'});});
+document.getElementById('tabs-right').addEventListener('click',function(){document.getElementById('tabs-bar').scrollBy({left:200,behavior:'smooth'});});
+window.addEventListener('resize',updateScrollBtns);
 
-// Scroll arrows das abas
-function updateScrollBtns() {
-  const bar = document.getElementById('tabs-bar');
-  const btnL = document.getElementById('tabs-left');
-  const btnR = document.getElementById('tabs-right');
-  if (!bar) return;
-  const canLeft  = bar.scrollLeft > 4;
-  const canRight = bar.scrollLeft + bar.clientWidth < bar.scrollWidth - 4;
-  btnL.classList.toggle('hidden', !canLeft);
-  btnR.classList.toggle('hidden', !canRight);
-}
-document.getElementById('tabs-bar').addEventListener('scroll', updateScrollBtns);
-document.getElementById('tabs-left').addEventListener('click', () => {
-  document.getElementById('tabs-bar').scrollBy({left: -200, behavior:'smooth'});
-});
-document.getElementById('tabs-right').addEventListener('click', () => {
-  document.getElementById('tabs-bar').scrollBy({left: 200, behavior:'smooth'});
-});
-window.addEventListener('resize', updateScrollBtns);
-
-// ── Carga de meses ────────────────────────────────────────────────────────────
-async function loadMonths(months) {
-  const toLoad = months.filter(m => !loadedMonths.has(m));
-  if (!toLoad.length) { applyAndRender(); return; }
-
-  // Só mostra spinner se o conteúdo ainda estiver vazio
-  if (!allItems.length) showLoading();
-
-  const BATCH = 3;
-  for (let i = 0; i < toLoad.length; i += BATCH) {
-    const batch = toLoad.slice(i, i + BATCH);
-    await Promise.all(batch.map(async m => {
-      try {
-        const data = await fetchJSON(`${BASE}/${m}.json`);
-        data.forEach(item => {
-          if (!guidSet.has(item.guid)) {
-            guidSet.add(item.guid);
-            allItems.push(item);
-          }
-        });
-        loadedMonths.add(m);
-      } catch(e) { console.warn('Erro ao carregar', m); }
-    }));
-    applyAndRender();
+function loadMonths(months){
+  var toLoad=months.filter(function(m){return !loadedMonths[m];});
+  if(!toLoad.length){applyAndRender();return Promise.resolve();}
+  if(!allItems.length)showLoading();
+  var BATCH=3,chain=Promise.resolve();
+  for(var b=0;b<toLoad.length;b+=BATCH){
+    (function(batch){
+      chain=chain.then(function(){
+        return Promise.all(batch.map(function(m){
+          return fetchJSON(BASE+'/'+m+'.json').then(function(data){
+            data.forEach(function(item){
+              if(!guidSet[item.guid]){guidSet[item.guid]=true;allItems.push(item);}
+            });
+            loadedMonths[m]=true;
+          }).catch(function(e){console.warn('Erro',m,e);});
+        })).then(function(){applyAndRender();});
+      });
+    })(toLoad.slice(b,b+BATCH));
   }
-
-  // Garante que spinner nunca fica preso — se nada carregou, mostra erro
-  if (!allItems.length) {
-    document.getElementById('content').innerHTML =
-      '<div class="state-msg"><span class="icon">⚠️</span><p>Não foi possível carregar as notícias. Verifique sua conexão e tente novamente.</p></div>';
-  }
+  chain=chain.then(function(){
+    if(!allItems.length)
+      document.getElementById('content').innerHTML=
+        '<div class="state-msg"><span class="icon">⚠️</span><p>Nao foi possivel carregar as noticias. Verifique sua conexao e tente recarregar a pagina.</p></div>';
+  });
+  return chain;
 }
-
-async function loadForSelection() {
-  const ano = document.getElementById('sel-ano').value;
-  const mes = document.getElementById('sel-mes').value;
-  let months;
-  if (mes) months = [mes];
-  else if (ano) months = availableMonths.filter(m=>m.startsWith(ano));
-  else months = availableMonths; // sem filtro = todos os meses
-  await loadMonths(months);
+function loadForSelection(){
+  var ano=document.getElementById('sel-ano').value;
+  var mes=document.getElementById('sel-mes').value;
+  var months;
+  if(mes)months=[mes];
+  else if(ano)months=availableMonths.filter(function(m){return m.startsWith(ano);});
+  else months=availableMonths;
+  loadMonths(months);
 }
-
-// ── Filtros + render ──────────────────────────────────────────────────────────
-function applyAndRender() {
-  const ano   = document.getElementById('sel-ano').value;
-  const mes   = document.getElementById('sel-mes').value;
-  const query = document.getElementById('search-box').value.trim();
-  const words = query ? query.toLowerCase().split(/\s+/).filter(Boolean) : [];
-
-  let items = allItems.filter(item => {
-    const pub = (item.pub_date||'').slice(0,7);
-    if (mes && pub!==mes) return false;
-    if (ano && !pub.startsWith(ano)) return false;
+function applyAndRender(){
+  var ano=document.getElementById('sel-ano').value;
+  var mes=document.getElementById('sel-mes').value;
+  var query=document.getElementById('search-box').value.trim();
+  currentWords=query?query.toLowerCase().split(/\s+/).filter(Boolean):[];
+  var items=allItems.filter(function(item){
+    var pub=(item.pub_date||'').slice(0,7);
+    if(mes&&pub!==mes)return false;
+    if(ano&&!pub.startsWith(ano))return false;
     return true;
   });
-
-  if (words.length) {
-    items = items.filter(item => {
-      const hay = norm(decodeHtml((item.title||'') + ' ' + (item.description||'')));
-      return words.every(w => hay.includes(norm(w)));
+  if(currentWords.length){
+    items=items.filter(function(item){
+      var hay=norm(decodeHtml((item.title||'')+' '+(item.description||'')));
+      return currentWords.every(function(w){return hay.includes(norm(w));});
     });
   }
-
-  const counts = {};
-  CATEGORIES.forEach(c => counts[c.key] = 0);
-  items.forEach(item => {
-    const l1 = item.canonical_category_l1||'';
-    if (counts[l1]!==undefined) counts[l1]++;
-    // Geopolítica também conta em Política e Regulação Setorial
-    if (item.content_domain === 'geopolitica_relevante' && l1 !== 'Política e Regulação Setorial') {
-      counts['Política e Regulação Setorial']++;
-    }
+  var counts={};
+  CATEGORIES.forEach(function(c){counts[c.key]=0;});
+  items.forEach(function(item){
+    var k=catKey(item.canonical_category_l1||'');
+    if(counts[k]!==undefined)counts[k]++;
+    if(item.content_domain==='geopolitica_relevante'&&k!=='Politica e Regulacao Setorial')
+      counts['Politica e Regulacao Setorial']++;
     counts['Todos']++;
   });
-  CATEGORIES.forEach(cat => {
-    const el = document.getElementById('cnt-'+cat.key.replace(/\s+/g,'_'));
-    if (el) el.textContent = counts[cat.key]||0;
+  CATEGORIES.forEach(function(cat){
+    var el=document.getElementById('cnt-'+cat.key.replace(/\s+/g,'_'));
+    if(el)el.textContent=counts[cat.key]||0;
   });
-
-  let visible = activeTab==='Todos' ? items : items.filter(i => {
-    if (i.canonical_category_l1 === activeTab) return true;
-    // Geopolítica também aparece em Política e Regulação Setorial
-    if (activeTab === 'Política e Regulação Setorial' && i.content_domain === 'geopolitica_relevante') return true;
-    return false;
-  });
-  visible.sort((a,b) => {
-    const ds = (b.destaque_score||0)-(a.destaque_score||0);
-    if (Math.abs(ds)>0.01) return ds;
-    return (b.pub_date||'')>(a.pub_date||'') ? 1 : -1;
-  });
-
-  currentVisible = visible;
-  currentPage = 0;
-
-  const n = visible.length;
-  document.getElementById('result-count').textContent = n + (n===1?' notícia':' notícias');
-  renderPage(words);
-  setTimeout(updateScrollBtns, 50);
-}
-
-// ── Image fallback (função nomeada evita HTML dentro de atributos) ─────────────
-function imgFallback(img, css, icon, cat) {
-  const p = img.parentElement;
-  p.innerHTML =
-    '<div class="no-image cat-' + css + '"><span class="ni-icon">' + icon +
-    '</span><span>' + cat + '</span></div>' +
-    '<span class="img-cat-badge">' + cat + '</span>';
-}
-
-// ── Render ────────────────────────────────────────────────────────────────────
-function imageBlock(item) {
-  const css  = catCss(item.canonical_category_l1);
-  const icon = catIcon(item.canonical_category_l1);
-  const cat  = esc(item.canonical_category_l1 || 'Turismo');
-
-  const badge = '<span class="img-cat-badge">' + cat + '</span>';
-
-  if (item.image_url) {
-    // onerror chama função nomeada — sem HTML inline no atributo
-    return '<div class="card-image">' +
-      '<img src="' + esc(item.image_url) + '" alt="" loading="lazy"' +
-      ' onerror="imgFallback(this,\'' + css + '\',\'' + icon + '\',\'' + cat + '\')">' +
-      badge + '</div>';
+  var visible;
+  if(activeTab==='Todos'){
+    visible=items;
+  }else{
+    visible=items.filter(function(i){
+      if(catKey(i.canonical_category_l1||'')===activeTab)return true;
+      if(activeTab==='Politica e Regulacao Setorial'&&i.content_domain==='geopolitica_relevante')return true;
+      return false;
+    });
   }
-  return '<div class="card-image">' +
-    '<div class="no-image cat-' + css + '"><span class="ni-icon">' + icon +
-    '</span><span>' + cat + '</span></div>' +
-    badge + '</div>';
+  visible.sort(function(a,b){
+    var ds=(b.destaque_score||0)-(a.destaque_score||0);
+    if(Math.abs(ds)>0.01)return ds;
+    return(b.pub_date||'')>(a.pub_date||'')?1:-1;
+  });
+  currentVisible=visible;currentPage=0;
+  var n=visible.length;
+  document.getElementById('result-count').textContent=n+(n===1?' noticia':' noticias');
+  renderPage();
+  setTimeout(updateScrollBtns,50);
 }
-
-function cardHTML(item, words) {
-  const src   = item.source_id || '';
-  const srcLb = esc(SOURCE_LABEL[src] || src);
-  const domain = item.content_domain || '';
-  const geoFlag = domain==='geopolitica_relevante'
-    ? '<span class="geo-flag">🌐 Geopolítica</span>' : '';
-
-  return `<div class="card">
-  ${imageBlock(item)}
-  <div class="card-body">
-    <div class="card-date">${fmtD
+function imgFallback(img,css,icon,cat){
+  var p=img.parentElement;
+  p.innerHTML='<div class="no-image cat-'+css+'"><span class="ni-icon">'+icon+'</span><span>'+cat+'</span></div><span class="img-cat-badge">'+cat+'</span>';
+}
+function imageBlock(item){
+  var css=catCss(item.canonical_category_l1);
+  var icon=catIcon(item.canonical_category_l1);
+  var cat=esc(catLabel(item.canonical_category_l1));
+  var badge='<span class="img-cat-badge">'+cat+'</span>';
+  if(item.image_url){
+    return '<div class="card-image"><img src="'+esc(item.image_url)+'" alt="" loading="lazy" onerror="imgFallback(this,\''+css+'\',\''+icon+'\',\''+cat+'\')">'+badge+'</div>';
+  }
+  return '<div class="card-image"><div class="no-image cat-'+css+'"><span class="ni-icon">'+icon+'</span><span>'+cat+'</span></div>'+badge+'</div>';
+}
+function cardHTML(item){
+  var src=item.source_id||'';
+  var srcLb=esc(SOURCE_LABEL[src]||src);
+  var geo=item.content_domain==='geopolitica_relevante'?'<span class="geo-flag">&#127760; Geopolitica</span>':'';
+  return '<div class="card">'+
+    imageBlock(item)+
+    '<div class="card-body">'+
+      '<div class="card-date">'+fmtDate(item.pub_date)+' '+geo+'</div>'+
+      '<div class="card-title">'+highlight(item.title,currentWords)+'</div>'+
+      (item.description?'<div class="card-desc">'+highlight(item.description,currentWords)+'</div>':'')+
+    '</div>'+
+    '<div class="card-footer">'+
+      '<span class="source-label"><span class="source-dot dot-'+src+'"></span>'+srcLb+'</span>'+
+      '<a class="btn-ver-mais" href="'+esc(item.link||'#')+'" target="_blank" rel="noopener">'+
+        'Ver mais <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>'+
+      '</a>'+
+    '</div>'+
+  '</div>';
+}
+function renderPage(){
+  var content=document.getElementById('content');
+  if(!currentVisible.length){
+    var q=document.getElementById('search-box').value;
+    content.innerHTML='<div class="state-msg"><span class="icon">🔍</span><p>'+(q?'Nenhuma noticia para "'+esc(q)+'".':"Nenhuma noticia para este periodo.")+'</p></div>';
+    return;
+  }
+  var end=(currentPage+1)*PAGE_SIZE;
+  var slice=currentVisible.slice(0,end);
+  var remaining=currentVisible.length-slice.length;
+  var html=slice.map(cardHTML).join('');
+  if(remaining>0)
+    html+='<div class="load-more-wrap"><button class="btn-load-more" onclick="loadMore()">Carregar mais '+Math.min(remaining,PAGE_SIZE)+' noticias ('+remaining+' restantes)</button></div>';
+  content.innerHTML=html;
+}
+function loadMore(){currentPage++;renderPage();}
+document.getElementById('sel-ano').addEventListener('change',function(){updateMes();loadForSelection();});
+document.getElementById('sel-mes').addEventListener('change',function(){loadForSelection();});
+var searchTimer;
+document.getElementById('search-box').addEventListener('input',function(){
+  clearTimeout(searchTimer);
+  searchTimer=setTimeout(function(){
+    var q=document.getElementById('search-box').value.trim();
+    if(q&&!document.getElementById('sel-mes').value){
+      var ano=document.getElementById('sel-ano').value;
+      loadMonths(availableMonths.filter(function(m){return !ano||m.startsWith(ano);}));
+    }else{applyAndRender();}
+  },350);
+});
+function init(){
+  fetchJSON(BASE+'/indice-meses.json').then(function(index){
+    availableMonths=Object.keys(index).sort().reverse();
+    populateAno();updateMes();buildTabs();
+    return loadMonths([availableMonths[0]]);
+  }).then(function(){
+    setStatus('Atualizado em '+new Date().toLocaleDateString('pt-BR',{day:'2-digit',month:'short',year:'numeric'}));
+    if(availableMonths.length>1)loadMonths(availableMonths.slice(1));
+  }).catch(function(e){
+    setStatus('Erro ao carregar.');
+    document.getElementById('content').innerHTML=
+      '<div class="state-msg"><span class="icon">⚠️</span><p>Nao foi possivel carregar os dados. Verifique sua conexao.</p></div>';
+  });
+}
+init();
+</script>
+</body>
+</html>
