@@ -435,7 +435,11 @@ function loadBackground(months){
       });
       loadedMonths[m]=true;
     }).catch(function(e){console.warn('Erro bg',m,e);});
-  })).then(function(){refreshTabCounts();});
+  })).then(function(){
+    var sy=window.scrollY;
+    applyAndRender();
+    window.scrollTo(0,sy);
+  });
 }
 function init(){
   fetchJSON(BASE+'/indice-meses.json').then(function(index){
@@ -447,6 +451,7 @@ function init(){
     if(availableMonths.length>3)loadBackground(availableMonths.slice(3));
   }).catch(function(e){
     setStatus('Erro ao carregar.');
+    document.getElementById('content').innerHTML=
     document.getElementById('content').innerHTML=
       '<div class="state-msg"><span class="icon">⚠️</span><p>Nao foi possivel carregar os dados. Verifique sua conexao.</p></div>';
   });
