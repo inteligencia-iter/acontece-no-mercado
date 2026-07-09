@@ -80,6 +80,7 @@
     .btn-ver-mais { display:inline-flex; align-items:center; gap:5px; background:var(--accent); color:#fff; font-size:12px; font-weight:600; padding:7px 15px; border-radius:8px; text-decoration:none; border:none; cursor:pointer; transition:background 0.15s; white-space:nowrap; flex-shrink:0; }
     .btn-ver-mais:hover { background:#004099; }
     .geo-flag { font-size:10px; color:#92400e; background:#fef3c7; padding:2px 7px; border-radius:20px; font-weight:600; }
+    .novo-badge { position:absolute; top:10px; right:10px; background:#f59e0b; color:#fff; font-size:9px; font-weight:800; text-transform:uppercase; letter-spacing:0.08em; padding:3px 9px; border-radius:20px; box-shadow:0 2px 6px rgba(245,158,11,0.45); z-index:2; }
     .state-msg { text-align:center; padding:80px 20px; color:var(--text3); grid-column:1/-1; }
     .state-msg .icon { font-size:44px; display:block; margin-bottom:14px; }
     .state-msg p { font-size:15px; }
@@ -334,9 +335,10 @@ function applyAndRender(){
     });
   }
   visible.sort(function(a,b){
-    var ds=(b.destaque_score||0)-(a.destaque_score||0);
-    if(Math.abs(ds)>0.01)return ds;
-    return(b.pub_date||'')>(a.pub_date||'')?1:-1;
+    var da=(a.pub_date||'').slice(0,10);
+    var db=(b.pub_date||'').slice(0,10);
+    if(db!==da)return db>da?1:-1;
+    return(b.destaque_score||0)-(a.destaque_score||0);
   });
   currentVisible=visible;currentPage=0;
   var n=visible.length;
@@ -348,15 +350,17 @@ function imgFallback(img,css,icon,cat){
   var p=img.parentElement;
   p.innerHTML='<div class="no-image cat-'+css+'"><span class="ni-icon">'+icon+'</span><span>'+cat+'</span></div><span class="img-cat-badge">'+cat+'</span>';
 }
+var TODAY=new Date().toISOString().slice(0,10);
 function imageBlock(item){
   var css=catCss(item.canonical_category_l1);
   var icon=catIcon(item.canonical_category_l1);
   var cat=esc(catLabel(item.canonical_category_l1));
   var badge='<span class="img-cat-badge">'+cat+'</span>';
+  var novo=(item.pub_date||'').slice(0,10)===TODAY?'<span class="novo-badge">Novo</span>':'';
   if(item.image_url){
-    return '<div class="card-image"><img src="'+esc(item.image_url)+'" alt="" loading="lazy" onerror="imgFallback(this,\''+css+'\',\''+icon+'\',\''+cat+'\')">'+badge+'</div>';
+    return '<div class="card-image">'+novo+'<img src="'+esc(item.image_url)+'" alt="" loading="lazy" onerror="imgFallback(this,\''+css+'\',\''+icon+'\',\''+cat+'\')">'+badge+'</div>';
   }
-  return '<div class="card-image"><div class="no-image cat-'+css+'"><span class="ni-icon">'+icon+'</span><span>'+cat+'</span></div>'+badge+'</div>';
+  return '<div class="card-image">'+novo+'<div class="no-image cat-'+css+'"><span class="ni-icon">'+icon+'</span><span>'+cat+'</span></div>'+badge+'</div>';
 }
 function cardHTML(item){
   var src=item.source_id||'';
@@ -451,7 +455,6 @@ function init(){
     if(availableMonths.length>3)loadBackground(availableMonths.slice(3));
   }).catch(function(e){
     setStatus('Erro ao carregar.');
-    document.getElementById('content').innerHTML=
     document.getElementById('content').innerHTML=
       '<div class="state-msg"><span class="icon">⚠️</span><p>Nao foi possivel carregar os dados. Verifique sua conexao.</p></div>';
   });
