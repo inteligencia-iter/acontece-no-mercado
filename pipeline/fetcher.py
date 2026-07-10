@@ -129,6 +129,9 @@ def fetch_source(cfg: SourceConfig) -> Iterator[dict]:
             seen_guids.add(guid)
 
             title   = _clean_html(getattr(entry, "title", "") or "")
+            # Remove sufixo de fonte no título (ex: Google News appende "- Valor Econômico")
+            if cfg.title_cleanup_regex and title:
+                title = re.sub(cfg.title_cleanup_regex, "", title, flags=re.IGNORECASE).strip()
             link    = getattr(entry, "link", "") or ""
             author  = getattr(entry, "author", "") or ""
             pub_raw = getattr(entry, "published", "") or ""
