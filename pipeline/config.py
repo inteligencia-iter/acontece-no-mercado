@@ -242,7 +242,7 @@ SOURCES: dict[str, SourceConfig] = {
         rss_status="confirmado",
         category_field=None,
         max_age_days=30,
-        min_classify_confidence=0.35,
+        min_classify_confidence=0.0,   # keyword do Google News já filtra; score não aplicado
         title_cleanup_regex=r"\s*[-–]\s*Valor Econ[oô]mico\.?\s*$",
         feed_urls=[
             "https://news.google.com/rss/search?q=turismo+OR+turistas+site:valor.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
@@ -271,4 +271,5 @@ SOURCES: dict[str, SourceConfig] = {
     ),
 }
 
-# ── Categorias de alto impacto par
+# ── Categorias de alto impacto para destaque_score ───────────────────────────
+HIGH_IMPACT_CATEGORIES = {"Câmbio e Economia do Turismo", "Aviação"}
