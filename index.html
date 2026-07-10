@@ -350,7 +350,7 @@ function imgFallback(img,css,icon,cat){
   var p=img.parentElement;
   p.innerHTML='<div class="no-image cat-'+css+'"><span class="ni-icon">'+icon+'</span><span>'+cat+'</span></div><span class="img-cat-badge">'+cat+'</span>';
 }
-var TODAY=new Date().toISOString().slice(0,10);
+var TODAY=new Date(Date.now()-3*60*60*1000).toISOString().slice(0,10); // BRT (UTC-3)
 function imageBlock(item){
   var css=catCss(item.canonical_category_l1);
   var icon=catIcon(item.canonical_category_l1);
@@ -457,7 +457,7 @@ function init(){
     setStatus('Erro ao carregar.');
     document.getElementById('content').innerHTML=
       '<div class="state-msg"><span class="icon">⚠️</span><p>Nao foi possivel carregar os dados. Verifique sua conexao.</p></div>';
-  });
+  })
 }
 init();
 </script>
