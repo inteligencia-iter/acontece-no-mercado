@@ -157,6 +157,8 @@ class SourceConfig:
     exclude_categories: list[str] = field(default_factory=list)
     feed_encoding: Optional[str] = None  # ex: "gzip"
     fallback_url: Optional[str] = None
+    max_age_days: Optional[int] = None          # descartar itens mais antigos que N dias
+    min_classify_confidence: float = 0.0        # descartar classificações abaixo desse score
 
 
 SOURCES: dict[str, SourceConfig] = {
@@ -228,6 +230,20 @@ SOURCES: dict[str, SourceConfig] = {
             "https://agenciabrasil.ebc.com.br/rss/geral/feed.xml",
             "https://agenciabrasil.ebc.com.br/rss/internacional/feed.xml",
             # rss/politica deliberadamente omitido
+        ],
+    ),
+
+    "valor_economico": SourceConfig(
+        source_id="valor_economico",
+        source_type="generalista",
+        native_taxonomy_trusted=False,
+        needs_full_text_scrape=False,
+        rss_status="confirmado",
+        category_field=None,
+        max_age_days=30,
+        min_classify_confidence=0.40,
+        feed_urls=[
+            "https://news.google.com/rss/search?q=turismo+OR+turistas+site:valor.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
         ],
     ),
 
