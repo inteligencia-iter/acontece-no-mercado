@@ -12,6 +12,7 @@ Carrega o modelo (TF-IDF + SVC) uma única vez na importação do módulo.
 import re
 import pickle
 import logging
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from typing import Optional
 
@@ -209,8 +210,26 @@ def classify_content_domain(item: dict) -> dict:
 def process_item(item: dict, cfg: SourceConfig) -> Optional[dict]:
     """
     Aplica pipeline completo a um item bruto.
-    Retorna None se o item for descartado (out_of_scope ou politica_partidaria).
+    Retorna None se o item for descartado (out_of_scope, frescor, confiança ou politica_partidaria).
     """
+    # Estágio 0: frescor — descartar itens mais antigos que max_age_days
+    if cfg.max_age_days is not None:
+        pub = item.get("pub_date") or ""
+        if pub:
+            try:
+                pub_dt = datetime.fromisoformat(pub)
+                if pub_dt.tzinfo is None:
+                    pub_dt = pub_dt.replace(tzinfo=timezone.utc)
+                age = datetime.now(tz=timezone.utc) - pub_dt
+                if age > timedelta(days=cfg.max_age_days):
+                    logger.debug(
+                        "Descartado por frescor (%d dias): %s",
+                        age.days, (item.get("title") or "")[:60],
+                    )
+                    return None
+            except Exception:
+                pass  # data inválida → deixa passar para avaliação seguinte
+
     # Estágio 1: in_scope
     in_scope = check_in_scope(item, cfg)
     item["in_scope"] = in_scope
@@ -219,6 +238,17 @@ def process_item(item: dict, cfg: SourceConfig) -> Optional[dict]:
 
     # Estágio 2: harmonização de categoria
     harmonize_category(item, cfg)
+
+    # Estágio 2b: confiança mínima — descartar classificações fracas (apenas para fontes sem lookup nativo)
+    if cfg.min_classify_confidence > 0:
+        method = item.get("category_mapping_method", "")
+        conf   = item.get("category_mapping_confidence", 1.0)
+        if "lookup_nativo" not in method and conf < cfg.min_classify_confidence:
+            logger.debug(
+                "Descartado por baixa confiança (%.2f < %.2f): %s",
+                conf, cfg.min_classify_confidence, (item.get("title") or "")[:60],
+            )
+            return None
 
     # Estágio 3: content_domain
     classify_content_domain(item)
