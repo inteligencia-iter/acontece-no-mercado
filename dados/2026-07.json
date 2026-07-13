@@ -21,7 +21,7 @@
     "category_mapping_confidence": 0.7026,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.624,
+    "destaque_score": 0.622,
     "layout_tier": "grade"
   },
   {
@@ -44,7 +44,30 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.697,
+    "destaque_score": 0.696,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/mercado/2026/07/gbta-e-panrotas-firmam-parceria-inedita-para-producao-de-conteudo-exclusivo_230179.html",
+    "title": "GBTA e PANROTAS firmam parceria inédita para produção de conteúdo exclusivo",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/mercado/2026/07/gbta-e-panrotas-firmam-parceria-inedita-para-producao-de-conteudo-exclusivo_230179.html",
+    "description": "Colaboração inclui hotsite dedicado, entrevistas, dados do BTI e cobertura diretamente de Chicago",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/09/a6a0ab71c2f5bacd6610082244389bb4-rem6161.jpg",
+    "author": "Beatrice Teizen",
+    "pub_date": "2026-07-13T16:45:00+00:00",
+    "source_category_raw": "Corporativo - Mercado",
+    "all_categories": [
+      "Corporativo - Mercado"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Mercado",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.694,
     "layout_tier": "grade"
   },
   {
@@ -69,7 +92,7 @@
     "category_mapping_confidence": 0.5441,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.579,
+    "destaque_score": 0.578,
     "layout_tier": "grade"
   },
   {
@@ -93,8 +116,31 @@
     "category_mapping_confidence": 0.6761,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.61,
+    "destaque_score": 0.608,
     "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/07/air-france-amplia-voos-entre-paris-e-salvador-na-alta-temporada-2026-2027_230178.html",
+    "title": "Air France amplia voos entre Paris e Salvador na alta temporada 2026/2027",
+    "link": "https://www.panrotas.com.br/aviacao/empresas/2026/07/air-france-amplia-voos-entre-paris-e-salvador-na-alta-temporada-2026-2027_230178.html",
+    "description": "Companhia passará de três para cinco frequências semanais entre dezembro e fevereiro",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/04/16/ca9e1e22890933ecf3e17ab28cddc18e-unnamed13.jpg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-07-13T15:33:00+00:00",
+    "source_category_raw": "Aviação - Empresas",
+    "all_categories": [
+      "Aviação - Empresas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Empresas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.889,
+    "layout_tier": "manchete"
   },
   {
     "source_id": "mercadoeeventos",
@@ -117,7 +163,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.69,
+    "destaque_score": 0.689,
     "layout_tier": "grade"
   },
   {
@@ -141,7 +187,7 @@
     "category_mapping_confidence": 0.4555,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -164,7 +210,7 @@
     "category_mapping_confidence": 0.4375,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.547,
+    "destaque_score": 0.546,
     "layout_tier": "grade"
   },
   {
@@ -185,7 +231,7 @@
     "category_mapping_confidence": 0.4056,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.418,
+    "destaque_score": 0.416,
     "layout_tier": "grade"
   },
   {
@@ -211,7 +257,7 @@
     "category_mapping_confidence": 0.8248,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.761,
+    "destaque_score": 0.759,
     "layout_tier": "manchete"
   },
   {
@@ -235,7 +281,7 @@
     "category_mapping_confidence": 0.7858,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.631,
+    "destaque_score": 0.63,
     "layout_tier": "grade"
   },
   {
@@ -258,7 +304,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.883,
+    "destaque_score": 0.882,
     "layout_tier": "manchete"
   },
   {
@@ -284,6 +330,29 @@
     "content_domain_confidence": 0.9,
     "destaque_score": 0.611,
     "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/pesquisas-e-estatisticas/2026/07/trafego-aereo-global-devera-chegar-a-10-bilhoes-de-passageiros-por-ano-ate-2045_230107.html",
+    "title": "Tráfego aéreo global deverá chegar a 10 bilhões de passageiros por ano até 2045",
+    "link": "https://www.panrotas.com.br/aviacao/pesquisas-e-estatisticas/2026/07/trafego-aereo-global-devera-chegar-a-10-bilhoes-de-passageiros-por-ano-ate-2045_230107.html",
+    "description": "Tráfego aéreo mundial deverá mais do que dobrar, alcançando cerca de 10 bilhões de passageiros por ano",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/08/c31f88fc8e1bb97ebd13f5eb68f24d62-unnamed1.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-07-13T13:06:00+00:00",
+    "source_category_raw": "Aviação - Pesquisas e Estatísticas",
+    "all_categories": [
+      "Aviação - Pesquisas e Estatísticas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Pesquisas e Estatísticas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.879,
+    "layout_tier": "manchete"
   },
   {
     "source_id": "mercadoeeventos",
@@ -471,7 +540,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.679,
+    "destaque_score": 0.677,
     "layout_tier": "grade"
   },
   {
@@ -594,6 +663,29 @@
     "layout_tier": "grade"
   },
   {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/consolidadoras/2026/07/10-perguntas-para-luti-guimaraes-por-que-ele-trocou-a-befly-pela-sakura_230167.html",
+    "title": "10 perguntas para Luti Guimarães; por que ele trocou a BeFly pela Sakura?",
+    "link": "https://www.panrotas.com.br/mercado/consolidadoras/2026/07/10-perguntas-para-luti-guimaraes-por-que-ele-trocou-a-befly-pela-sakura_230167.html",
+    "description": "Executivo analisa o mercado de consolidadoras, conta os planos e compara saídas da CVC Corp e BeFly",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2022/08/31/eff8a7f3d41d59716bd9f2dad4e80b74-dsc2201.jpg",
+    "author": "Artur Luiz Andrade",
+    "pub_date": "2026-07-13T09:50:00+00:00",
+    "source_category_raw": "Mercado - Consolidadoras",
+    "all_categories": [
+      "Mercado - Consolidadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Consolidadoras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.668,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "agenciabrasil",
     "guid": "1696502 at https://agenciabrasil.ebc.com.br",
     "title": "Novas regras proíbem publicidade de bets com promessa de ganho fácil",
@@ -620,7 +712,7 @@
     "category_mapping_confidence": 0.2877,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.325,
+    "destaque_score": 0.324,
     "layout_tier": "condensado"
   },
   {
@@ -671,7 +763,7 @@
     "category_mapping_confidence": 0.5279,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.574,
+    "destaque_score": 0.573,
     "layout_tier": "grade"
   },
   {
@@ -787,7 +879,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.771,
+    "destaque_score": 0.77,
     "layout_tier": "manchete"
   },
   {
@@ -1030,7 +1122,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.568,
     "layout_tier": "grade"
   },
   {
@@ -1362,7 +1454,7 @@
     "category_mapping_confidence": 0.6068,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.589,
+    "destaque_score": 0.588,
     "layout_tier": "grade"
   },
   {
@@ -1759,7 +1851,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.566,
+    "destaque_score": 0.565,
     "layout_tier": "grade"
   },
   {
@@ -2372,29 +2464,6 @@
     "layout_tier": "condensado"
   },
   {
-    "source_id": "panrotas",
-    "guid": "https://www.panrotas.com.br/aviacao/pesquisas-e-estatisticas/2026/07/trafego-aereo-global-devera-chegar-a-10-bilhoes-de-passageiros-por-ano-ate-2045_230107.html",
-    "title": "Tráfego aéreo global deverá chegar a 10 bilhões de passageiros por ano até 2045",
-    "link": "https://www.panrotas.com.br/aviacao/pesquisas-e-estatisticas/2026/07/trafego-aereo-global-devera-chegar-a-10-bilhoes-de-passageiros-por-ano-ate-2045_230107.html",
-    "description": "Tráfego aéreo mundial deverá mais do que dobrar, alcançando cerca de 10 bilhões de passageiros por ano",
-    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/08/c31f88fc8e1bb97ebd13f5eb68f24d62-unnamed1.jpg",
-    "author": "Pedro Menezes",
-    "pub_date": "2026-07-09T17:05:00+00:00",
-    "source_category_raw": "Aviação - Pesquisas e Estatísticas",
-    "all_categories": [
-      "Aviação - Pesquisas e Estatísticas"
-    ],
-    "in_scope": true,
-    "canonical_category_l1": "Aviação",
-    "canonical_category_l2": "Pesquisas e Estatísticas",
-    "category_mapping_method": "lookup_nativo",
-    "category_mapping_confidence": 1.0,
-    "content_domain": "turismo_direto",
-    "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
-    "layout_tier": "manchete"
-  },
-  {
     "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=717097",
     "title": "Ubrafe reforça urgência de marco regulatório para o setor de eventos no Brasil",
@@ -2649,7 +2718,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -3431,7 +3500,7 @@
     "category_mapping_confidence": 0.855,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.399,
+    "destaque_score": 0.398,
     "layout_tier": "condensado"
   },
   {
@@ -3546,7 +3615,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4192,7 +4261,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
