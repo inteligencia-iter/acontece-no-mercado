@@ -5,8 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Acontece no Mercado</title>
   <link rel="icon" type="image/x-icon" href="./favicon.ico">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    @font-face { font-family:'Stolzl'; src:url('fonts/Stolzl-Thin.ttf') format('truetype'); font-weight:100; font-display:swap; }
+    @font-face { font-family:'Stolzl'; src:url('fonts/Stolzl-Light.ttf') format('truetype'); font-weight:300; font-display:swap; }
+    @font-face { font-family:'Stolzl'; src:url('fonts/Stolzl-Book.ttf') format('truetype'); font-weight:350; font-display:swap; }
+    @font-face { font-family:'Stolzl'; src:url('fonts/Stolzl-Regular.ttf') format('truetype'); font-weight:400; font-display:swap; }
+    @font-face { font-family:'Stolzl'; src:url('fonts/Stolzl-Medium.ttf') format('truetype'); font-weight:500; font-display:swap; }
+    @font-face { font-family:'Stolzl'; src:url('fonts/Stolzl-Bold.ttf') format('truetype'); font-weight:700; font-display:swap; }
+  </style>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     :root {
@@ -16,7 +22,7 @@
       --shadow: 0 2px 8px rgba(0,0,0,0.07);
       --shadow-hover: 0 8px 24px rgba(0,0,0,0.13);
     }
-    body { background:var(--bg); color:var(--text); font-family:'Inter',system-ui,sans-serif; font-size:14px; line-height:1.6; min-height:100vh; }
+    body { background:var(--bg); color:var(--text); font-family:'Stolzl',system-ui,sans-serif; font-size:14px; line-height:1.6; min-height:100vh; }
     header { background:var(--accent); color:#fff; padding:0 28px; display:flex; align-items:center; gap:16px; height:58px; position:sticky; top:0; z-index:300; box-shadow:0 2px 12px rgba(0,63,150,0.28); }
     .logo { display:flex; align-items:center; gap:10px; }
     .logo-icon { width:32px; height:32px; background:#fff; border-radius:8px; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
