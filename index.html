@@ -110,6 +110,7 @@
       .flabel { display:none; }
       select { font-size:12px; padding:5px 8px; }
       .search-wrap { max-width:160px; }
+      .fonte-label,.sel-fonte { display:none; }
       .tsep { display:none; }
       #result-count { display:none; }
       .tabs-outer { top:104px; height:40px; }
@@ -127,7 +128,7 @@
     <div>
       <p class="logo-supertitle">Grupo Iter &middot; Intelig&ecirc;ncia de Mercado</p>
       <h1>Monitor - Acontece no Mercado</h1>
-      <p>Panrotas &middot; M&amp;E &middot; G1 &middot; Embratur &middot; Ag&ecirc;ncia Brasil &middot; Valor Econ&ocirc;mico</p>
+      <p>Panrotas &middot; M&amp;E &middot; G1 &middot; Embratur &middot; Ag&ecirc;ncia Brasil &middot; Valor Econ&ocirc;mico &middot; ABC+</p>
     </div>
   </div>
   <div class="hsp"></div>
@@ -138,6 +139,18 @@
   <select id="sel-ano"><option value="">Todos os anos</option></select>
   <span class="flabel">Mes</span>
   <select id="sel-mes"><option value="">Todos os meses</option></select>
+  <div class="tsep"></div>
+  <span class="flabel fonte-label">Fonte</span>
+  <select id="sel-fonte" class="sel-fonte">
+    <option value="">Todas as fontes</option>
+    <option value="panrotas">Panrotas</option>
+    <option value="mercadoeeventos">Mercado &amp; Eventos</option>
+    <option value="g1_turismo">G1 Turismo</option>
+    <option value="embratur">Embratur</option>
+    <option value="agenciabrasil">Agência Brasil</option>
+    <option value="valor_economico">Valor Econômico</option>
+    <option value="abcmais_hortensias">ABC+</option>
+  </select>
   <div class="tsep"></div>
   <div class="search-wrap">
     <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
@@ -181,11 +194,11 @@ var CAT_MAP = {
 var SOURCE_LABEL = {
   panrotas:'Panrotas',mercadoeeventos:'Mercado & Eventos',
   embratur:'Embratur',g1_turismo:'G1 Turismo',agenciabrasil:'Agência Brasil',
-  valor_economico:'Valor Econômico'
+  valor_economico:'Valor Econômico',abcmais_hortensias:'ABC+'
 };
 var MES_NOME = ['','Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'];
 var allItems=[],availableMonths=[],loadedMonths={},guidSet={},activeTab='Todos';
-var currentVisible=[],currentPage=0,currentWords=[],currentPhrases=[];
+var currentVisible=[],currentPage=0,currentWords=[],currentPhrases=[],currentSource='';
 
 function norm(s){return(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().trim();}
 function esc(s){return(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
@@ -319,6 +332,7 @@ function loadForSelection(){
 function applyAndRender(){
   var ano=document.getElementById('sel-ano').value;
   var mes=document.getElementById('sel-mes').value;
+  currentSource=document.getElementById('sel-fonte').value;
   var query=document.getElementById('search-box').value.trim();
   var parsed=parseQuery(query);
   currentPhrases=parsed.phrases;
@@ -327,6 +341,7 @@ function applyAndRender(){
     var pub=(item.pub_date||'').slice(0,7);
     if(mes&&pub!==mes)return false;
     if(ano&&!pub.startsWith(ano))return false;
+    if(currentSource&&item.source_id!==currentSource)return false;
     return true;
   });
   if(currentWords.length||currentPhrases.length){
@@ -430,6 +445,7 @@ function renderPage(){
 function loadMore(){currentPage++;renderPage();}
 document.getElementById('sel-ano').addEventListener('change',function(){updateMes();loadForSelection();});
 document.getElementById('sel-mes').addEventListener('change',function(){loadForSelection();});
+document.getElementById('sel-fonte').addEventListener('change',function(){applyAndRender();});
 var searchTimer;
 document.getElementById('search-box').addEventListener('input',function(){
   clearTimeout(searchTimer);
