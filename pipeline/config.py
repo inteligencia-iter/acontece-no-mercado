@@ -160,6 +160,7 @@ class SourceConfig:
     max_age_days: Optional[int] = None          # descartar itens mais antigos que N dias
     min_classify_confidence: float = 0.0        # descartar classificações abaixo desse score
     title_cleanup_regex: Optional[str] = None   # remover sufixo/prefixo do título (ex: "- Fonte")
+    scrape_og_image: bool = False               # buscar og:image na página do artigo se RSS não trouxer imagem
 
 
 SOURCES: dict[str, SourceConfig] = {
@@ -193,6 +194,7 @@ SOURCES: dict[str, SourceConfig] = {
         rss_status="confirmado",
         category_field="category",
         crosswalk=ME_CROSSWALK,
+        scrape_og_image=True,   # RSS não inclui imagem; buscar og:image na página
         feed_urls=["https://www.mercadoeeventos.com.br/feed/"],
     ),
 
@@ -205,6 +207,7 @@ SOURCES: dict[str, SourceConfig] = {
         category_field="category",
         boilerplate_regex=r"O post .* apareceu primeiro em Embratur\.?",
         exclude_categories=["modelo_noticia", "uncategorized"],
+        scrape_og_image=True,   # RSS não inclui imagem; buscar og:image na página
         feed_urls=["https://embratur.com.br/feed/"],
     ),
 
