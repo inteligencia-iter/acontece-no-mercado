@@ -1,6 +1,298 @@
 [
   {
     "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717570",
+    "title": "Brasil, Argentina, Chile e Paraguai firmam acordo para integrar o transporte aéreo",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/brasil-argentina-chile-e-paraguai-firmam-acordo-para-integrar-o-transporte-aereo/",
+    "description": "Modelo é inspirado na integração do mercado de aviação da União Europeia",
+    "image_url": null,
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-14T13:39:46+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.9,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717230",
+    "title": "Festival Gastronômico de Pomerode chega à 20ª edição com quase 120 pratos e espaço ampliado",
+    "link": "https://www.mercadoeeventos.com.br/noticias/parques-e-atracoes/festival-gastronomico-de-pomerode-chega-a-20a-edicao-com-quase-120-pratos-e-espaco-ampliado/",
+    "description": "O Mercado & Eventos acompanha o evento e experimenta alguns dos pratos da edição comemorativa que acontece durante 18 dias nas férias de julho",
+    "image_url": null,
+    "author": "Beatriz Waehneldt",
+    "pub_date": "2026-07-14T13:28:00+00:00",
+    "source_category_raw": "Parques e Atrações",
+    "all_categories": [
+      "Parques e Atrações",
+      "Julho 2026"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3036,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.525,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1696628 at https://agenciabrasil.ebc.com.br",
+    "title": "Chuvas atingem Nordeste, Norte e pontos isolados do Centro-Oeste",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/chuvas-atingem-nordeste-norte-e-pontos-isolados-do-centro-oeste",
+    "description": "O Instituto Nacional de Meteorologia (Inmet) prevê que, nestas terça (14) e quarta-feira (15), a atuação de um sistema de baixa pressão sobre o Oceano Atlântico causa um sistema frontal que favorece a ocorrência de chuva desde o litoral sul da Bahia até o estado de Alagoas. Amanhã, as precipitações ganham intensidade no Nordeste, e abrangem também os estados do Ceará, Piauí e Maranhão. Notícias relacionadas: Rio Grande do Sul: chuvas deixam 720 desabrigados em Eldorado do Sul. Na Região Norte, a chuva concentra-se principalmente no Amazonas, Roraima e Pará, enquanto nos demais estados ocorre de forma isolada. No Centro-Oeste há possibilidade de chuva isolada no Distrito Federal hoje, e no extremo norte de Mato Grosso na quarta-feira. Nas demais áreas das regiões Centro-Oeste, Sudeste e Sul, o tempo permanece estável, com previsão de geada na Região Sul hoje, enquanto no sul de Minas Gerais e na região de Campos do Jordão, em São Paulo, a geada pode ocorrer tanto na terça-feira quanto na quarta-feira. Nordeste Na terça-feira (14), um sistema frontal sobre o Atlântico favorece chuvas isoladas no litoral sul da Bahia e na região metropolitana de Salvador. Além disso, o calor associado aos efeitos locais provoca pancadas fracas e isoladas no interior do Ceará, Piauí e Maranhão. Nas demais áreas da região, o tempo permanece firme. Segundo o Inmet, na quarta-feira (15), as chuvas ganham intensidade entre o Centro-Norte e o leste da Bahia, Sergipe, Alagoas, Ceará, Piauí e Maranhão, estimuladas pela passagem do sistema frontal pelo Oceano Atlântico. Nos demais estados do Nordeste, a chuva ocorre de forma isolada. No litoral sul da Bahia, entre Itacaré e Porto Seguro, há aviso de risco potencial para ventos costeiros hoje. Na quarta-feira (15), o vento ganha intensidade sobre parte do Nordeste, com aviso de risco potencial para ventania entre o centro-leste da Bahia, Pernambuco, Sergipe, Alagoas, sul do Ceará, sul da Paraíba e divisa entre Piauí e Pernambuco. As temperaturas mínimas ficam em torno de 15 graus Celsius (°C) em regiões de serra da Bahia e as máximas em torno de 35°C no sertão do Nordeste. Norte Na terça-feira (14), há previsão de chuvas acompanhadas de trovoadas isoladas em Roraima, Amazonas e Pará. No Acre, Rondônia e Tocantins predomina o tempo firme, enquanto nas demais áreas da região podem ocorrer apenas chuvas fracas e isoladas. Amanhã, as precipitações concentram-se principalmente no Amazonas e Pará, mantendo-se bastante isoladas nos demais estados, incluindo o norte de Tocantins. Em relação às temperaturas, as mínimas ficam em torno de 20°C no sul da região Norte e máximas em torno de 32°C em toda região. Centro-Oeste Esta terça-feira terá predomínio de tempo estável na região Centro-Oeste. No entanto, a presença do sistema frontal no Oceano Atlântico pode favorecer o aumento da nebulosidade na região, e ocasionar chuvas bem isoladas e em geral fracas no Distrito Federal e em Goiás. Na quarta-feira (15), a possibilidade de chuva isolada ocorre principalmente no extremo norte de Mato Grosso. Nas demais áreas do centro-oeste, o tempo fica firme, mas com variação de nebulosidade. Haverá amanhecer frio no Mato Grosso do Sul e sul de Goiás, com temperaturas mínimas em torno de 10°C na terça-feira e 12°C na quarta-feira. As máximas ficam elevadas no norte da região, em torno de 34°C em Mato Grosso e Goiás. Destaca-se, ainda, aviso de risco potencial para baixa umidade na terça-feira (14) no leste de Mato Grosso do Sul, incluindo a região de Três Lagoas, e no sul de Goiás, abrangendo Jataí, Rio Verde, Caldas Novas e Itumbiara. Nestas áreas os valores de umidade ficam entre 20% e 30% durante a tarde.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Agência Brasil",
+    "pub_date": "2026-07-14T13:27:00+00:00",
+    "source_category_raw": "Geral",
+    "all_categories": [
+      "Geral",
+      "meteorologia",
+      "Chuva",
+      "Norte",
+      "Nordeste",
+      "clima"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4608,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.484,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717542",
+    "title": "Air France renova os 3 kits de conforto das classes Premium, Business e La Première",
+    "link": "https://www.mercadoeeventos.com.br/aviacao-2/air-france-renova-os-tres-kits-de-conforto-das-classes-premium-business-e-la-premiere/",
+    "description": "Nova coleção da Air France aposta em design sofisticado, produtos de beleza de marcas francesas e materiais reciclados",
+    "image_url": null,
+    "author": "Rafael Torres",
+    "pub_date": "2026-07-14T13:04:00+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.897,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717225",
+    "title": "Grupo Oceanic planeja hotel temático em BC após iniciar obra de parque indoor com 100 atrações",
+    "link": "https://www.mercadoeeventos.com.br/noticias/parques-e-atracoes/grupo-oceanic-planeja-hotel-tematico-em-bc-apos-iniciar-obra-de-parque-indoor-com-100-atracoes/",
+    "description": "Obra de R$ 50 milhões em um espaço com 23 mil m² já começou e abre em janeiro de 2027",
+    "image_url": null,
+    "author": "Beatriz Waehneldt",
+    "pub_date": "2026-07-14T13:00:00+00:00",
+    "source_category_raw": "Parques e Atrações",
+    "all_categories": [
+      "Parques e Atrações",
+      "julho 2027"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4915,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.57,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/aeroportos/2026/07/faa-libera-quase-us-2-bilhoes-para-modernizar-aeroportos-norte-americanos_230118.html",
+    "title": "FAA libera quase US$ 2 bilhões para modernizar aeroportos norte-americanos",
+    "link": "https://www.panrotas.com.br/aviacao/aeroportos/2026/07/faa-libera-quase-us-2-bilhoes-para-modernizar-aeroportos-norte-americanos_230118.html",
+    "description": "Valor faz referência ao ano da independência dos EUA e integra as comemorações pelos 250 anos do país",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/04/09/7b48c1c1d3a8da8db1284351a07fe075-img3625.jpeg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-07-14T12:59:00+00:00",
+    "source_category_raw": "Aviação - Aeroportos",
+    "all_categories": [
+      "Aviação - Aeroportos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Aeroportos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.897,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717565",
+    "title": "5 fatores que adiaram a estreia do Grupo Abra, controlador da Gol e da Avianca, na Bolsa de Nova York",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/5-fatores-que-adiaram-a-estreia-do-grupo-abra-controlador-da-gol-e-da-avianca-na-bolsa-de-nova-york/",
+    "description": "Grupo Abra espera ambiente mais estável antes de estrear na Bolsa de Nova York.",
+    "image_url": null,
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-14T12:36:10+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.895,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "embratur",
+    "guid": "https://embratur.com.br/?p=45131",
+    "title": "Participação brasileira na Global BirdFair leva ao Reino Unido experiências de observação da vida silvestre",
+    "link": "https://embratur.com.br/2026/07/14/participacao-brasileira-na-global-birdfair-leva-ao-reino-unido-experiencias-de-observacao-da-vida-silvestre/",
+    "description": ".",
+    "image_url": null,
+    "author": "thais.souza",
+    "pub_date": "2026-07-14T12:34:50+00:00",
+    "source_category_raw": "Noticias",
+    "all_categories": [
+      "Noticias",
+      "Notícias",
+      "Embratur",
+      "Global Bird Fair 2026",
+      "Principal"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.6552,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.529,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717528",
+    "title": "Travel Next Minas abrirá edição 2026 com cozinha-show que celebra a gastronomia mineira",
+    "link": "https://www.mercadoeeventos.com.br/feiras-e-eventos/travel-next-minas-abrira-edicao-2026-com-cozinha-show-que-celebra-a-gastronomia-mineira/",
+    "description": "Chef Fabí Rodrigues prepara ao vivo prato típico em panelas gigantes para destacar a culinária de Minas Gerais",
+    "image_url": null,
+    "author": "Rafael Torres",
+    "pub_date": "2026-07-14T12:30:00+00:00",
+    "source_category_raw": "Feiras e Eventos",
+    "all_categories": [
+      "Feiras e Eventos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.695,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/07/air-france-lanca-amenity-kits-para-pax-das-cabines-la-premiere-business-e-premium_230196.html",
+    "title": "Air France lança amenity kits para pax das cabines La Première, Business e Premium",
+    "link": "https://www.panrotas.com.br/aviacao/empresas/2026/07/air-france-lanca-amenity-kits-para-pax-das-cabines-la-premiere-business-e-premium_230196.html",
+    "description": "Novidade estará disponível nos voos de longa distância a partir do verão europeu de 2026",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/13/7e40f9f3c67a24246dbf606e88be1e89-lapremierekit2airfrance.jpg",
+    "author": "Karina Cede&#241;o",
+    "pub_date": "2026-07-14T12:25:00+00:00",
+    "source_category_raw": "Aviação - Empresas",
+    "all_categories": [
+      "Aviação - Empresas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Empresas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.895,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717543",
+    "title": "Reservas para o NYC Resturant Week de Verão 2026 estão disponíveis",
+    "link": "https://www.mercadoeeventos.com.br/noticias/destinos/exterior/reservas-para-o-nyc-resturant-week-de-verao-2026-estao-disponiveis/",
+    "description": "Refeições no NYC Restaurant Week custam US$ 30, US$ 45 ou US$ 60, criando opções acessíveis",
+    "image_url": null,
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-14T12:18:00+00:00",
+    "source_category_raw": "Exterior",
+    "all_categories": [
+      "Exterior",
+      "América do Norte e Caribe",
+      "Internacional"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.582,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.59,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717564",
+    "title": "Viagens: tensão entre EUA e Irã derruba ações do setor na Europa",
+    "link": "https://www.mercadoeeventos.com.br/noticias/destinos/exterior/viagens-tensao-entre-eua-e-ira-derruba-acoes-do-setor-na-europa/",
+    "description": "Alta do petróleo pressiona companhias aéreas e amplia perdas no mercado de viagens",
+    "image_url": null,
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-14T12:15:12+00:00",
+    "source_category_raw": "Exterior",
+    "all_categories": [
+      "Exterior",
+      "América do Norte e Caribe",
+      "Ásia",
+      "Internacional"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.5929,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.792,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=717559",
     "title": "Roraima registra maior tarifa aérea média do Brasil",
     "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/roraima-registra-maior-tarifa-aerea-media-do-brasil/",
@@ -19,7 +311,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.9,
+    "destaque_score": 0.894,
     "layout_tier": "manchete"
   },
   {
@@ -42,7 +334,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.899,
+    "destaque_score": 0.893,
     "layout_tier": "manchete"
   },
   {
@@ -117,7 +409,7 @@
     "category_mapping_confidence": 0.3763,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.614,
+    "destaque_score": 0.609,
     "layout_tier": "grade"
   },
   {
@@ -169,7 +461,7 @@
     "category_mapping_confidence": 0.5038,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.443,
+    "destaque_score": 0.439,
     "layout_tier": "grade"
   },
   {
@@ -192,7 +484,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.647,
+    "destaque_score": 0.643,
     "layout_tier": "grade"
   },
   {
@@ -285,7 +577,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.644,
+    "destaque_score": 0.64,
     "layout_tier": "grade"
   },
   {
@@ -335,7 +627,7 @@
     "category_mapping_confidence": 0.5727,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.457,
+    "destaque_score": 0.453,
     "layout_tier": "grade"
   },
   {
@@ -381,7 +673,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.643,
+    "destaque_score": 0.639,
     "layout_tier": "grade"
   },
   {
@@ -402,7 +694,7 @@
     "category_mapping_confidence": 0.3851,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.368,
+    "destaque_score": 0.365,
     "layout_tier": "condensado"
   },
   {
@@ -423,7 +715,7 @@
     "category_mapping_confidence": 0.5577,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.411,
+    "destaque_score": 0.407,
     "layout_tier": "grade"
   },
   {
@@ -494,7 +786,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.839,
+    "destaque_score": 0.836,
     "layout_tier": "manchete"
   },
   {
@@ -541,7 +833,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.638,
+    "destaque_score": 0.635,
     "layout_tier": "grade"
   },
   {
@@ -564,7 +856,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.638,
+    "destaque_score": 0.634,
     "layout_tier": "grade"
   },
   {
@@ -635,7 +927,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.637,
+    "destaque_score": 0.633,
     "layout_tier": "grade"
   },
   {
@@ -658,7 +950,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.635,
+    "destaque_score": 0.632,
     "layout_tier": "grade"
   },
   {
@@ -730,7 +1022,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.833,
+    "destaque_score": 0.829,
     "layout_tier": "manchete"
   },
   {
@@ -777,7 +1069,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.631,
+    "destaque_score": 0.628,
     "layout_tier": "grade"
   },
   {
@@ -845,7 +1137,7 @@
     "category_mapping_confidence": 0.4056,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.362,
+    "destaque_score": 0.358,
     "layout_tier": "condensado"
   },
   {
@@ -871,7 +1163,7 @@
     "category_mapping_confidence": 0.8248,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.705,
+    "destaque_score": 0.702,
     "layout_tier": "manchete"
   },
   {
@@ -918,7 +1210,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.629,
+    "destaque_score": 0.626,
     "layout_tier": "grade"
   },
   {
@@ -988,7 +1280,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.628,
+    "destaque_score": 0.625,
     "layout_tier": "grade"
   },
   {
@@ -1011,7 +1303,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.827,
+    "destaque_score": 0.824,
     "layout_tier": "manchete"
   },
   {
@@ -1200,7 +1492,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.626,
+    "destaque_score": 0.623,
     "layout_tier": "grade"
   },
   {
@@ -1270,7 +1562,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.626,
+    "destaque_score": 0.622,
     "layout_tier": "grade"
   },
   {
@@ -1340,7 +1632,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.625,
+    "destaque_score": 0.622,
     "layout_tier": "grade"
   },
   {
@@ -1388,7 +1680,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.62,
+    "destaque_score": 0.617,
     "layout_tier": "grade"
   },
   {
@@ -1418,7 +1710,7 @@
     "category_mapping_confidence": 0.2877,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.311,
+    "destaque_score": 0.31,
     "layout_tier": "condensado"
   },
   {
@@ -1441,7 +1733,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.564,
+    "destaque_score": 0.563,
     "layout_tier": "grade"
   },
   {
@@ -1469,7 +1761,7 @@
     "category_mapping_confidence": 0.5279,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.565,
+    "destaque_score": 0.564,
     "layout_tier": "grade"
   },
   {
@@ -1492,7 +1784,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.563,
+    "destaque_score": 0.562,
     "layout_tier": "grade"
   },
   {
@@ -1713,7 +2005,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.561,
     "layout_tier": "grade"
   },
   {
@@ -1874,7 +2166,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -1897,7 +2189,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2183,7 +2475,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -3000,7 +3292,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.756,
+    "destaque_score": 0.755,
     "layout_tier": "manchete"
   },
   {
@@ -3047,7 +3339,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3070,7 +3362,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.756,
+    "destaque_score": 0.755,
     "layout_tier": "manchete"
   },
   {
@@ -3589,7 +3881,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -3612,7 +3904,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -4390,7 +4682,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4413,7 +4705,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -4436,7 +4728,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -4829,7 +5121,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.752,
+    "destaque_score": 0.751,
     "layout_tier": "manchete"
   },
   {
@@ -4852,7 +5144,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.752,
+    "destaque_score": 0.751,
     "layout_tier": "manchete"
   },
   {
@@ -4921,7 +5213,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
