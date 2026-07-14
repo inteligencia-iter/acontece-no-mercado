@@ -1,11 +1,88 @@
 [
   {
     "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717596",
+    "title": "4 países estreantes da Copa de 2026 entram na rota dos brasileiros e impulsionam novo turismo internacional",
+    "link": "https://www.mercadoeeventos.com.br/internacional/4-paises-estreantes-da-copa-de-2026-entram-na-rota-dos-brasileiros-e-impulsionam-novo-turismo-internacional/",
+    "description": "Cultura, praias, história e tecnologia impulsionam novas rotas internacionais",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-11-1.jpg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-14T18:07:09+00:00",
+    "source_category_raw": "Internacional",
+    "all_categories": [
+      "Internacional",
+      "América do Norte e Caribe",
+      "Europa"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4451,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.55,
+    "destaque_score": 0.561,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1696656 at https://agenciabrasil.ebc.com.br",
+    "title": "Trump recua e desiste de cobrar taxa sobre navios no Estreito de Ormuz",
+    "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/trump-recua-e-desiste-de-cobrar-taxa-sobre-navios-no-estreito-de-ormuz",
+    "description": "O presidente dos Estados Unidos (EUA), Donald Trump, desistiu da ideia de cobrar uma taxa de 20% das embarcações que quiserem atravessar o Estreito de Ormuz sob a proteção dos EUA. Por meio de sua rede social, Trump disse, nesta terça-feira (14), que, em vez de cobrar tarifas, seu país terá, como contrapartida, novos acordos de comércio e investimentos com os países da região. Ele, no entanto, reafirmou que seguirá com a ideia de manter um “bloqueio completo” para embarcações que tenham, como origem ou destino, portos iranianos. Notícias relacionadas: Trump diz que retomará bloqueio ao Irã e taxará em 20% cargas em Ormuz. “Com base em conversas altamente produtivas com a liderança do Oriente Médio, decidi substituir a taxa de reembolso de 20% dos Estados Unidos por acordos de comércio e investimento que os vários Estados do Golfo estarão transformando nos Estados Unidos”, disse Trump por meio da Truth Social . “Como todos sabem, temos o maior investimento em dólares nos Estados Unidos, de qualquer país da história, mas esses novos investimentos tornarão esse número ainda maior, e veremos fábricas, plantas [industriais] e equipamentos serem instalados nos Estados Unidos em níveis históricos, o que criará milhões adicionais de empregos americanos de alta remuneração”, acrescentou. Região estratégica Na segunda-feira (13), Trump disse que os EUA passariam a controlar o Estreito de Ormuz e que a segurança das embarcações ficaria a cargo de suas forças militares. Ele, então, anunciou que iria cobrar um reembolso de 20% sobre a carga transportada pelas embarcações que transitarem pela região. O controle do Estreito de Ormuz é estratégico, por se tratar de uma rota vital para o fornecimento global de petróleo – motivo pelo qual tornou-se um dos principais campos de batalha no conflito entre EUA e Irã. \"Seremos reembolsados, porque as outras nações são muito ricas. Elas estão do nosso lado e não podemos esperar que façamos isso de graça\", argumentou o presidente estadunidense.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Pedro Peduzzi - Repórter da Agência Brasil",
+    "pub_date": "2026-07-14T18:01:00+00:00",
+    "source_category_raw": "Internacional",
+    "all_categories": [
+      "Internacional",
+      "presidente Donald Trump",
+      "Estreito de Ormuz",
+      "Taxa",
+      "Navios",
+      "rede social",
+      "Truth Social."
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4605,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.484,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717593",
+    "title": "Turismo cervejeiro: São Paulo lança roteiro com 21 destinos",
+    "link": "https://www.mercadoeeventos.com.br/uncategorized/turismo-cervejeiro-sao-paulo-lanca-roteiro-com-21-destinos/",
+    "description": "Em São Roque, onde as videiras já fazem parte da paisagem e do roteiro de quem viaja em busca de bons sabores, há uma cervejaria que escolheu dialogar com o […]",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/IMG-20260714-WA0021.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-14T17:14:27+00:00",
+    "source_category_raw": "Uncategorized",
+    "all_categories": [
+      "Uncategorized"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.5365,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.58,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=717590",
     "title": "Copa New Age registra mais de 150 prêmios distribuídos a agentes de viagens",
     "link": "https://www.mercadoeeventos.com.br/uncategorized/copa-new-age-registra-mais-de-150-premios-distribuidos-a-agentes-de-viagens/",
     "description": "Campanha inspirada na Copa do Mundo continua até o último dia do torneio, dia 19 de julho; confira",
-    "image_url": null,
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-14-125101.png",
     "author": "Beatriz do Vale",
     "pub_date": "2026-07-14T15:58:00+00:00",
     "source_category_raw": "Uncategorized",
@@ -19,7 +96,7 @@
     "category_mapping_confidence": 0.5514,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.583,
+    "destaque_score": 0.578,
     "layout_tier": "grade"
   },
   {
@@ -28,7 +105,7 @@
     "title": "JetSMART anuncia 13ª rota no Brasil e estreia voo direto entre Maceió e Buenos Aires",
     "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/jetsmart-anuncia-13a-rota-no-brasil-e-estreia-voo-direto-entre-maceio-e-buenos-aires/",
     "description": "Companhia terá cinco voos semanais entre Maceió e Buenos Aires no verão",
-    "image_url": null,
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2025/03/jetsmart-e1742303316818.jpg",
     "author": "Felipe Abílio",
     "pub_date": "2026-07-14T15:57:57+00:00",
     "source_category_raw": "Aviação",
@@ -42,7 +119,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.895,
+    "destaque_score": 0.891,
     "layout_tier": "manchete"
   },
   {
@@ -51,7 +128,7 @@
     "title": "Azul anuncia nova classe premium para voos internacionais em aeronaves Airbus A330",
     "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/azul-anuncia-nova-classe-premium-para-voos-internacionais-em-aeronaves-airbus-a330/",
     "description": "Cabine ficará entre a Azul Business e a Economy, oferecendo mais espaço e serviços diferenciados durante os voos",
-    "image_url": null,
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Nova-Classe-Azul-Comfort-A330-2-Foto-Gui-Gomes-scaled.jpg",
     "author": "Beatriz do Vale",
     "pub_date": "2026-07-14T15:19:42+00:00",
     "source_category_raw": "Aviação",
@@ -66,8 +143,31 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.892,
+    "destaque_score": 0.888,
     "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/agencias-de-viagens/treinamento/2026/07/cruises-academy-passa-a-integrar-comunidade-da-so-agentes_230198.html",
+    "title": "Cruises Academy passa a integrar comunidade da Só Agentes",
+    "link": "https://www.panrotas.com.br/agencias-de-viagens/treinamento/2026/07/cruises-academy-passa-a-integrar-comunidade-da-so-agentes_230198.html",
+    "description": "Aliança prevê treinamentos, eventos e conteúdos voltados ao mercado de cruzeiros",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/14/dc8321daa618f1f5165c0e892ab1604f-whatsappimage20260714at10.01.45.jpeg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-07-14T15:16:00+00:00",
+    "source_category_raw": "Agências de Viagens - Treinamento",
+    "all_categories": [
+      "Agências de Viagens - Treinamento"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Treinamento",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.688,
+    "layout_tier": "grade"
   },
   {
     "source_id": "mercadoeeventos",
@@ -75,7 +175,7 @@
     "title": "10 novas sanções dos EUA ampliam pressão sobre Cuba e atingem turismo, energia e comércio",
     "link": "https://www.mercadoeeventos.com.br/acordos-internacionais/10-novas-sancoes-dos-eua-ampliam-pressao-sobre-cuba-e-atingem-turismo-energia-e-comercio/",
     "description": "Washington afirma que objetivo é reduzir fontes de financiamento do governo de Cuba",
-    "image_url": null,
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/ChatGPT-Image-14-de-jul.-de-2026-11_57_10.png",
     "author": "Felipe Abílio",
     "pub_date": "2026-07-14T15:07:44+00:00",
     "source_category_raw": "Acordos Internacionais",
@@ -89,7 +189,7 @@
     "category_mapping_confidence": 0.5403,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.576,
+    "destaque_score": 0.572,
     "layout_tier": "grade"
   },
   {
@@ -98,7 +198,7 @@
     "title": "Goya Travel apresenta roteiros personalizadospara tornar memoráveis os feriados dosegundo semestre de 2026",
     "link": "https://www.mercadoeeventos.com.br/noticias/agencias-e-operadoras/goya-travel-apresenta-roteiros-personalizadospara-tornar-memoraveis-os-feriados-dosegundo-semestre-de-2026/",
     "description": "Curadoria da Goya reúne hotéis históricos, cruzeiros temáticos e expedições na Amazônia em uma seleção que vai do Brasil ao Japão",
-    "image_url": null,
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Screenshot_20260714_113728_Gmail-1.jpg",
     "author": "Beatriz do Vale",
     "pub_date": "2026-07-14T15:05:00+00:00",
     "source_category_raw": "Agências e Operadoras",
@@ -112,7 +212,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.691,
+    "destaque_score": 0.687,
     "layout_tier": "grade"
   },
   {
@@ -138,7 +238,7 @@
     "category_mapping_confidence": 0.6589,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.726,
+    "destaque_score": 0.722,
     "layout_tier": "manchete"
   },
   {
@@ -147,7 +247,7 @@
     "title": "Viena eleva imposto turístico para 8% e amplia debate sobre custos para visitantes",
     "link": "https://www.mercadoeeventos.com.br/internacional/viena-eleva-imposto-turistico-para-8-e-amplia-debate-sobre-custos-para-visitantes/",
     "description": "Viena segue tendência europeia de elevar taxas para visitantes estrangeiros",
-    "image_url": null,
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2025/09/Parliament-Palais-Eppstein-credito-Wien-Tourismus-Christian-Stemper-scaled.jpg",
     "author": "Felipe Abílio",
     "pub_date": "2026-07-14T14:24:16+00:00",
     "source_category_raw": "Internacional",
@@ -162,7 +262,7 @@
     "category_mapping_confidence": 0.6397,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.598,
+    "destaque_score": 0.594,
     "layout_tier": "grade"
   },
   {
@@ -171,7 +271,7 @@
     "title": "Recorde! Clube Turismo bate soma 31 prêmios em três anos",
     "link": "https://www.mercadoeeventos.com.br/noticias/agencias-e-operadoras/recorde-clube-turismo-bate-soma-31-premios-em-tres-anos/",
     "description": "Consistência dos resultados acompanha a expansão da Clube Turismo e o fortalecimento de sua presença nacional",
-    "image_url": null,
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/MESCLAGEM-FOTOS.jpg",
     "author": "Beatriz do Vale",
     "pub_date": "2026-07-14T14:21:00+00:00",
     "source_category_raw": "Agências e Operadoras",
@@ -185,7 +285,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.688,
+    "destaque_score": 0.684,
     "layout_tier": "grade"
   },
   {
@@ -194,7 +294,7 @@
     "title": "Portugal: descubra a tradição do Cavalo Puro-Sangue Lusitano do Alentejo",
     "link": "https://www.mercadoeeventos.com.br/noticias/destinos/exterior/portugal-descubra-a-tradicao-do-cavalo-puro-sangue-lusitano-do-alentejo/",
     "description": "Entre vinhedos, montados e planícies, região preserva um dos maiores patrimônios equestres de Portugal",
-    "image_url": null,
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Horse-Center-Torre-de-Palma-credito-Turismo-do-Alentejo.jpg",
     "author": "Beatriz do Vale",
     "pub_date": "2026-07-14T14:00:47+00:00",
     "source_category_raw": "Exterior",
@@ -210,7 +310,30 @@
     "category_mapping_confidence": 0.3973,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.536,
+    "destaque_score": 0.532,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/destinos/2026/07/ti-comunicacoes-encerra-ciclo-como-representante-do-south-african-tourism-no-brasil_230197.html",
+    "title": "TI Comunicações encerra ciclo como representante do South African Tourism no Brasil",
+    "link": "https://www.panrotas.com.br/mercado/destinos/2026/07/ti-comunicacoes-encerra-ciclo-como-representante-do-south-african-tourism-no-brasil_230197.html",
+    "description": "Destino optou por uma nova estrutura operacional para o mercado brasileiro",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2023/03/16/8a2031c1c1be67734e1256e6b57f00c7-dsc0283.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-07-14T13:55:00+00:00",
+    "source_category_raw": "Mercado - Destinos",
+    "all_categories": [
+      "Mercado - Destinos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Destinos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.683,
     "layout_tier": "grade"
   },
   {
@@ -260,7 +383,7 @@
     "category_mapping_confidence": 0.5715,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.499,
+    "destaque_score": 0.495,
     "layout_tier": "grade"
   },
   {
@@ -335,7 +458,7 @@
     "category_mapping_confidence": 0.4608,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.47,
+    "destaque_score": 0.466,
     "layout_tier": "grade"
   },
   {
@@ -437,7 +560,7 @@
     "title": "Participação brasileira na Global BirdFair leva ao Reino Unido experiências de observação da vida silvestre",
     "link": "https://embratur.com.br/2026/07/14/participacao-brasileira-na-global-birdfair-leva-ao-reino-unido-experiencias-de-observacao-da-vida-silvestre/",
     "description": ".",
-    "image_url": null,
+    "image_url": "https://embratur.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-14-at-09.31.02-scaled.jpeg",
     "author": "thais.souza",
     "pub_date": "2026-07-14T12:34:50+00:00",
     "source_category_raw": "Noticias",
@@ -455,7 +578,30 @@
     "category_mapping_confidence": 0.6552,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.515,
+    "destaque_score": 0.511,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/destinos/2026/07/colombia-nega-exigencia-de-seguro-viagem-para-entrada-de-turistas-internacionais_230134.html",
+    "title": "Colômbia nega exigência de seguro-viagem para entrada de turistas internacionais",
+    "link": "https://www.panrotas.com.br/mercado/destinos/2026/07/colombia-nega-exigencia-de-seguro-viagem-para-entrada-de-turistas-internacionais_230134.html",
+    "description": "Não há comunicação oficial sobre a obrigatoriedade da apresentação de apólice de saúde para turistas",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/08/ff6f7a650cfc1a08b5e759849443b775-pexelsalejandrojovica81419712132429348.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-07-14T12:32:00+00:00",
+    "source_category_raw": "Mercado - Destinos",
+    "all_categories": [
+      "Mercado - Destinos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Destinos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.677,
     "layout_tier": "grade"
   },
   {
@@ -673,7 +819,7 @@
     "category_mapping_confidence": 0.3763,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.6,
+    "destaque_score": 0.598,
     "layout_tier": "grade"
   },
   {
@@ -725,7 +871,7 @@
     "category_mapping_confidence": 0.5038,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.43,
+    "destaque_score": 0.428,
     "layout_tier": "grade"
   },
   {
@@ -748,7 +894,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.634,
+    "destaque_score": 0.632,
     "layout_tier": "grade"
   },
   {
@@ -841,7 +987,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.631,
+    "destaque_score": 0.629,
     "layout_tier": "grade"
   },
   {
@@ -891,7 +1037,7 @@
     "category_mapping_confidence": 0.5727,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.444,
+    "destaque_score": 0.442,
     "layout_tier": "grade"
   },
   {
@@ -937,7 +1083,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.63,
+    "destaque_score": 0.628,
     "layout_tier": "grade"
   },
   {
@@ -958,7 +1104,7 @@
     "category_mapping_confidence": 0.3851,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.356,
+    "destaque_score": 0.354,
     "layout_tier": "condensado"
   },
   {
@@ -979,7 +1125,7 @@
     "category_mapping_confidence": 0.5577,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.399,
+    "destaque_score": 0.396,
     "layout_tier": "condensado"
   },
   {
@@ -1050,7 +1196,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.827,
+    "destaque_score": 0.825,
     "layout_tier": "manchete"
   },
   {
@@ -1097,7 +1243,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.626,
+    "destaque_score": 0.624,
     "layout_tier": "grade"
   },
   {
@@ -1120,7 +1266,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.626,
+    "destaque_score": 0.624,
     "layout_tier": "grade"
   },
   {
@@ -1191,7 +1337,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.625,
+    "destaque_score": 0.623,
     "layout_tier": "grade"
   },
   {
@@ -1214,7 +1360,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.624,
+    "destaque_score": 0.622,
     "layout_tier": "grade"
   },
   {
@@ -1286,7 +1432,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.821,
+    "destaque_score": 0.819,
     "layout_tier": "manchete"
   },
   {
@@ -1333,7 +1479,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.62,
+    "destaque_score": 0.618,
     "layout_tier": "grade"
   },
   {
@@ -1384,6 +1530,29 @@
     "layout_tier": "grade"
   },
   {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/operadoras/2026/07/suncoastusa-cresce-300-em-vendas-de-disney-cruise-line-e-investe-em-capacitacao_230194.html",
+    "title": "SunCoastUSA cresce 300% em vendas de Disney Cruise Line e investe em capacitação",
+    "link": "https://www.panrotas.com.br/mercado/operadoras/2026/07/suncoastusa-cresce-300-em-vendas-de-disney-cruise-line-e-investe-em-capacitacao_230194.html",
+    "description": "Para operadora, cruzeiros da DCL tem potencial de crescimento no Brasil com um novo perfil de viajante",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/05/21/4eba360b85006055f60989abb21f01e7-img5673.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-07-13T14:42:00+00:00",
+    "source_category_raw": "Mercado - Operadoras",
+    "all_categories": [
+      "Mercado - Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Operadoras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.55,
+    "destaque_score": 0.618,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "valor_economico",
     "guid": "CBMihwJBVV95cUxPeEVneFppUDZ4NXJFZlZjbHo4WGNyUzdmUUhUNDlkSmdaYkQtNjRNTjhmVnBTejJqVHJCdGo3ZzNDRlJIb1pHc3FzT01WYnl4bGdqa1hWd0p3YlcybDBZaWZINC0xamc0ZUdiZEI0ay1HUlhsWTl3Q2FqdEtZYXVrOXFzUzZSVng1YXRuQlR5VE1lMGp5Zzh4RHJwekY2ZXFIbmNUUXVGM2FOR0JBbmNvX0Voc1NiY0pLWk52NThjSUxVRF92aGVUeEtXMUFNSHBXMVVmVFIwYjJ2U2lxLXQzNzQtVjQzaDVXeFFCSkVuakFZSlJyQld3dTFhR0IyQ21zcFo1UmNjSdIBlgJBVV95cUxQQ25MVVo1LWRkanBOY3l4M3Foeml6MDRHRUx2b09MOGtzODZxdmhLblFpXzVWTHo3ckV0RWlRMlQtcGhvY1liT0dHejhSbng5VmF0Vy1OUWVYc0VXaXFOY3J2d2Z6ZTlreFZVV3dkRjMyZFNOMWF3T3FSdExQNUhfYVBPV1Q1RWlhbjdPRHdfWWpQd29zTFZ2TnFYUllXQmNzMF9FX3hONjlFend1SlV3MHNvanFVcG1ocVZGUjRzdUNETUgxdkNwR3hnd0RqczlHSVpXV3YySXc2aVR1SERtZFkzUUJNOFBmS1Z2Z3VjYTczemtrcHZIUHhXMWJ6dGZnX2FBR05helhSQWFjcmdZUlZFSzNmZw",
     "title": "Fundada por Antonella Giancoli, Benarrivati redefine conceito de viagens com operação própria internacional",
@@ -1401,7 +1570,7 @@
     "category_mapping_confidence": 0.4056,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.351,
+    "destaque_score": 0.349,
     "layout_tier": "condensado"
   },
   {
@@ -1427,7 +1596,7 @@
     "category_mapping_confidence": 0.8248,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.695,
+    "destaque_score": 0.693,
     "layout_tier": "grade"
   },
   {
@@ -1474,7 +1643,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.618,
+    "destaque_score": 0.617,
     "layout_tier": "grade"
   },
   {
@@ -1544,7 +1713,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.618,
+    "destaque_score": 0.616,
     "layout_tier": "grade"
   },
   {
@@ -1567,7 +1736,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.817,
+    "destaque_score": 0.815,
     "layout_tier": "manchete"
   },
   {
@@ -1756,7 +1925,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.616,
+    "destaque_score": 0.614,
     "layout_tier": "grade"
   },
   {
@@ -1826,7 +1995,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.615,
+    "destaque_score": 0.614,
     "layout_tier": "grade"
   },
   {
@@ -1896,7 +2065,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.615,
+    "destaque_score": 0.613,
     "layout_tier": "grade"
   },
   {
@@ -1944,7 +2113,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.611,
+    "destaque_score": 0.609,
     "layout_tier": "grade"
   },
   {
@@ -2095,7 +2264,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.761,
+    "destaque_score": 0.76,
     "layout_tier": "manchete"
   },
   {
@@ -2118,7 +2287,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2220,7 +2389,7 @@
     "title": "Segunda edição do Screen Brasil está com inscrições abertas",
     "link": "https://embratur.com.br/2026/07/10/segunda-edicao-do-screen-brasil-esta-com-inscricoes-abertas/",
     "description": ".",
-    "image_url": null,
+    "image_url": "https://embratur.com.br/wp-content/uploads/2026/07/55166301415_48dc8ff0d6_k-e1783712965802.jpg",
     "author": "luiz.calcagno",
     "pub_date": "2026-07-10T19:53:11+00:00",
     "source_category_raw": "Noticias",
@@ -2246,7 +2415,7 @@
     "category_mapping_confidence": 0.3381,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.315,
+    "destaque_score": 0.314,
     "layout_tier": "condensado"
   },
   {
@@ -2687,7 +2856,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -2739,7 +2908,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -3533,7 +3702,7 @@
     "category_mapping_confidence": 0.3824,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.521,
+    "destaque_score": 0.52,
     "layout_tier": "grade"
   },
   {
@@ -3888,7 +4057,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4599,7 +4768,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4622,7 +4791,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -6756,7 +6925,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -6779,7 +6948,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -6802,7 +6971,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -6882,7 +7051,7 @@
     "description": "Brasil tem potencial para elevar participação do turismo no PIB, afirma diretor da ONU Valor Econômico",
     "image_url": null,
     "author": "",
-    "pub_date": "2026-07-06T08:00:38+00:00",
+    "pub_date": "2026-07-06T07:00:00+00:00",
     "source_category_raw": null,
     "all_categories": [],
     "in_scope": true,
@@ -7699,7 +7868,7 @@
     "title": "Embratur abre processo seletivo para formação de cadastro reserva de Assistentes e Analistas",
     "link": "https://embratur.com.br/2026/07/03/embratur-abre-processo-seletivo-para-formacao-de-cadastro-reserva-de-assistentes-e-analistas/",
     "description": ".",
-    "image_url": null,
+    "image_url": "https://embratur.com.br/wp-content/uploads/2024/12/edificio-sede-fachada-embratur-brasilia-2024-foto-renato-vaz-embratur.jpeg",
     "author": "thais.souza",
     "pub_date": "2026-07-03T15:12:10+00:00",
     "source_category_raw": "Noticias",
@@ -9182,7 +9351,7 @@
     "title": "Embratur e Sebrae lançam trilha para preparar o turismo brasileiro para o mercado internacional",
     "link": "https://embratur.com.br/2026/07/01/embratur-e-sebrae-lancam-trilha-inedita-para-preparar-o-turismo-brasileiro-para-o-mercado-internacional/",
     "description": ".",
-    "image_url": null,
+    "image_url": "https://embratur.com.br/wp-content/uploads/2026/07/KV_03_Pequenos_Negocios_16x9.png",
     "author": "thais.souza",
     "pub_date": "2026-07-01T20:43:15+00:00",
     "source_category_raw": "Noticias",
