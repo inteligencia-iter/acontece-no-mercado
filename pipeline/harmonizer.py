@@ -64,6 +64,13 @@ def check_in_scope(item: dict, cfg: SourceConfig) -> bool:
     if cfg.source_id in _SPECIALIZED_SOURCES:
         return True   # fontes especializadas: 100% in_scope por definição
     text = (item.get("title") or "") + " " + (item.get("description") or "")
+    if cfg.keyword_filter:
+        # Fonte com filtro explícito: ao menos uma keyword deve aparecer no texto
+        pattern = re.compile(
+            r"\b(" + "|".join(re.escape(k) for k in cfg.keyword_filter) + r")\b",
+            re.IGNORECASE | re.UNICODE,
+        )
+        return bool(pattern.search(text))
     return bool(_TOURISM_KEYWORDS.search(text))
 
 
