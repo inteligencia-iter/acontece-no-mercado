@@ -1,6 +1,103 @@
 [
   {
     "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717602",
+    "title": "Accor e H World Group renovam parceria com mais opções de hotéis e benefícios exclusivos",
+    "link": "https://www.mercadoeeventos.com.br/noticias/hotelaria/accor-e-h-world-group-renovam-parceria-com-mais-opcoes-de-hoteis-e-beneficios-exclusivos/",
+    "description": "Ecossistemas da Accor e da H World Group continuarão operando de forma independente com suas respectivas identidades e valor",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-2026-07-14T155327.442.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-14T19:08:04+00:00",
+    "source_category_raw": "Hotelaria",
+    "all_categories": [
+      "Hotelaria"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.7,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1696663 at https://agenciabrasil.ebc.com.br",
+    "title": "Dino dá 30 dias para Congresso explicar destinação de emendas",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dino-da-30-dias-para-congresso-explicar-destinacao-de-emendas",
+    "description": "Em decisão publicada nesta terça-feira (14), o ministro Flávio Dino, do Supremo Tribunal Federal (STF), criticou o que chamou de “terceirização de emendas” e deu prazo de 30 dias para que o Congresso explique irregularidades na destinação de recursos do orçamento federal. A nova decisão surge poucos dias depois de Dino ter determinado o bloqueio de R$ 119 milhões em bens do presidente do PL, Valdemar Costa Neto, e R$ 6 milhões do ex-deputado e ex-presidente da Câmara Eduardo Cunha. Ambas a ordens tiveram como base a suspeita de que os políticos estariam indicando a destinação de emendas parlamentares mesmo não possuindo mandato. Tal prática “configura-se vício insanável por violação aos princípios da moralidade, legalidade e finalidade”, acrescentou. Na decisão desta terça (14), Dino escreveu ser “totalmente anômalo que ex-parlamentares mantenham cotas orçamentárias informais e, diretamente, transmitam ordens para funcionários da Casa Parlamentar”. Dino também citou relatórios do Departamento Nacional de Auditoria do Sistema Único de Saúde (DenaSUS) e da Controladoria-Geral da União (CGU) sobre irregularidades na destinação de emendas para a área de Saúde. O ministro mandou que o ministro da Saúde, Alexandre Padilha, o presidente do Conselho Nacional de Secretários de Saúde (Conass) e o presidente do Conselho Nacional de Secretarias Municipais de Saúde (Conasems) expliquem irregularidades ligadas ao uso temporário de emendas parlamentares para pagar despesas de custeio. Outra determinação foi para que a Advocacia-Geral da União (AGU) explique, também em 30 dias, as providências que está tomando para responsabilizar os envolvidos com as irregularidades em emendas identificadas em relatórios da CGU. Flávio é o atual relator de uma ação por descumprimento de preceito fundamental (ADPF) que trata do enquadramento da destinação de emendas parlamentares aos princípios de transparência e rastreabilidade previstos na Constituição. Desde 2022, o Supremo vem ordenando medidas para sanear o chamado “orçamento secreto”, como ficou conhecida a indicação de recursos do orçamento sem identificação do parlamentar responsável ou do beneficiário final dos recursos. As emendas parlamentares são um instrumento previsto na Constituição que dá o poder a deputados e senadores de indicar o destino de parte do Orçamento da União.",
+    "image_url": "https://agenciabrasil.ebc.com.br/ebc.png?id=1696663&amp;o=rss",
+    "author": "Felipe Pontes - Repórter da Agência Brasil",
+    "pub_date": "2026-07-14T18:58:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "Congresso",
+      "emendas parlamentares",
+      "recusos",
+      "orçamento",
+      "terceirização"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Política e Regulação Setorial",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4922,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.55,
+    "destaque_score": 0.492,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717600",
+    "title": "GAV Resorts agora é GAV Hotéis e Resorts, reforçando sua estratégia voltada à hotelaria e experiência do cliente",
+    "link": "https://www.mercadoeeventos.com.br/noticias/hotelaria/gav-resorts-agora-e-gav-hoteis-e-resorts-reforcando-sua-estrategia-voltada-a-hotelaria-e-experiencia-do-cliente/",
+    "description": "Reposicionamento acompanha a evolução da GAV Hotéis e Resorts, além de fortalecer sua identidade hoteleira",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-2026-07-14T154435.313.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-14T18:52:57+00:00",
+    "source_category_raw": "Hotelaria",
+    "all_categories": [
+      "Hotelaria"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.699,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717578",
+    "title": "TAAG reforça regras para preenchimento de reservas e uso de passaporte",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/taag-reforca-regras-para-preenchimento-de-reservas-e-uso-de-passaporte/",
+    "description": "Agentes devem estar atentos no preenchimento do cadastro para evitar problemas no embarque da TAAG",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/06/taag.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-14T18:30:00+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.897,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=717596",
     "title": "4 países estreantes da Copa de 2026 entram na rota dos brasileiros e impulsionam novo turismo internacional",
     "link": "https://www.mercadoeeventos.com.br/internacional/4-paises-estreantes-da-copa-de-2026-entram-na-rota-dos-brasileiros-e-impulsionam-novo-turismo-internacional/",
@@ -21,7 +118,7 @@
     "category_mapping_confidence": 0.4451,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.561,
+    "destaque_score": 0.557,
     "layout_tier": "grade"
   },
   {
@@ -50,7 +147,7 @@
     "category_mapping_confidence": 0.4605,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.484,
+    "destaque_score": 0.48,
     "layout_tier": "grade"
   },
   {
@@ -73,7 +170,30 @@
     "category_mapping_confidence": 0.5365,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.58,
+    "destaque_score": 0.576,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/hotelaria/investimentos/2026/07/mapa-da-expansao-accor-revela-estrategias-para-abertura-de-hoteis-no-brasil_230050.html",
+    "title": "Mapa da expansão: como a Accor decide onde abrir seus hotéis pelo Brasil? Confira",
+    "link": "https://www.panrotas.com.br/hotelaria/investimentos/2026/07/mapa-da-expansao-accor-revela-estrategias-para-abertura-de-hoteis-no-brasil_230050.html",
+    "description": "Rede utiliza índice próprio para mapear oportunidades e concentra expansão em franquias",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/25/46a2c57c95e7ab787c9bc329d7596454-dsc0932.jpg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-07-14T16:11:00+00:00",
+    "source_category_raw": "Hotelaria - Investimentos",
+    "all_categories": [
+      "Hotelaria - Investimentos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": "Investimentos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.688,
     "layout_tier": "grade"
   },
   {
@@ -96,7 +216,7 @@
     "category_mapping_confidence": 0.5514,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.578,
+    "destaque_score": 0.575,
     "layout_tier": "grade"
   },
   {
@@ -119,7 +239,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.891,
+    "destaque_score": 0.887,
     "layout_tier": "manchete"
   },
   {
@@ -143,7 +263,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.888,
+    "destaque_score": 0.884,
     "layout_tier": "manchete"
   },
   {
@@ -166,7 +286,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.688,
+    "destaque_score": 0.684,
     "layout_tier": "grade"
   },
   {
@@ -189,7 +309,7 @@
     "category_mapping_confidence": 0.5403,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.572,
+    "destaque_score": 0.569,
     "layout_tier": "grade"
   },
   {
@@ -212,7 +332,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.687,
+    "destaque_score": 0.683,
     "layout_tier": "grade"
   },
   {
@@ -238,7 +358,7 @@
     "category_mapping_confidence": 0.6589,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.722,
+    "destaque_score": 0.718,
     "layout_tier": "manchete"
   },
   {
@@ -333,7 +453,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.683,
+    "destaque_score": 0.679,
     "layout_tier": "grade"
   },
   {
@@ -383,7 +503,7 @@
     "category_mapping_confidence": 0.5715,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.495,
+    "destaque_score": 0.491,
     "layout_tier": "grade"
   },
   {
@@ -458,7 +578,7 @@
     "category_mapping_confidence": 0.4608,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.466,
+    "destaque_score": 0.462,
     "layout_tier": "grade"
   },
   {
@@ -528,7 +648,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.897,
+    "destaque_score": 0.875,
     "layout_tier": "manchete"
   },
   {
@@ -578,7 +698,7 @@
     "category_mapping_confidence": 0.6552,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.511,
+    "destaque_score": 0.508,
     "layout_tier": "grade"
   },
   {
@@ -601,7 +721,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.677,
+    "destaque_score": 0.674,
     "layout_tier": "grade"
   },
   {
@@ -647,7 +767,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.895,
+    "destaque_score": 0.873,
     "layout_tier": "manchete"
   },
   {
@@ -819,7 +939,7 @@
     "category_mapping_confidence": 0.3763,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.598,
+    "destaque_score": 0.595,
     "layout_tier": "grade"
   },
   {
@@ -871,7 +991,7 @@
     "category_mapping_confidence": 0.5038,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.428,
+    "destaque_score": 0.425,
     "layout_tier": "grade"
   },
   {
@@ -894,8 +1014,43 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.632,
+    "destaque_score": 0.629,
     "layout_tier": "grade"
+  },
+  {
+    "source_id": "abcmais_hortensias",
+    "guid": "https://www.abcmais.com/brasil/gramado-sera-unico-representante-do-brasil-em-projeto-internacional-de-destino-turistico-inteligente/",
+    "title": "Gramado será único representante do Brasil em projeto internacional de destino turístico inteligente",
+    "link": "https://www.abcmais.com/brasil/rio-grande-do-sul/hortensias/gramado/gramado-sera-unico-representante-do-brasil-em-projeto-internacional-de-destino-turistico-inteligente/",
+    "description": "Iniciativa busca transformar o turismo na América Latina por meio de inovação, tecnologia e sustentabilidade",
+    "image_url": "https://midia.gruposinos.com.br/_midias/jpg/2026/07/13/gramado-22826588.jpg",
+    "author": "five.integracao",
+    "pub_date": "2026-07-13T21:00:58+00:00",
+    "source_category_raw": "Brasil",
+    "all_categories": [
+      "Brasil",
+      "Gramado",
+      "Hortênsias",
+      "Rio Grande do Sul",
+      "destino turístico inteligente",
+      "destinos turísticos inteligentes",
+      "dti",
+      "gramado",
+      "PROJETO",
+      "reconhecimento internacional",
+      "rede ibero-americana",
+      "rede ibero-americana de destinos turísticos inteligentes",
+      "secretaria de turismo de gramado"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3194,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.339,
+    "layout_tier": "condensado"
   },
   {
     "source_id": "mercadoeeventos",
@@ -987,7 +1142,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.629,
+    "destaque_score": 0.627,
     "layout_tier": "grade"
   },
   {
@@ -1037,7 +1192,7 @@
     "category_mapping_confidence": 0.5727,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.442,
+    "destaque_score": 0.44,
     "layout_tier": "grade"
   },
   {
@@ -1083,7 +1238,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.628,
+    "destaque_score": 0.626,
     "layout_tier": "grade"
   },
   {
@@ -1104,7 +1259,7 @@
     "category_mapping_confidence": 0.3851,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.354,
+    "destaque_score": 0.352,
     "layout_tier": "condensado"
   },
   {
@@ -1125,7 +1280,7 @@
     "category_mapping_confidence": 0.5577,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.396,
+    "destaque_score": 0.394,
     "layout_tier": "condensado"
   },
   {
@@ -1196,7 +1351,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.825,
+    "destaque_score": 0.823,
     "layout_tier": "manchete"
   },
   {
@@ -1243,7 +1398,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.624,
+    "destaque_score": 0.622,
     "layout_tier": "grade"
   },
   {
@@ -1266,7 +1421,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.624,
+    "destaque_score": 0.622,
     "layout_tier": "grade"
   },
   {
@@ -1337,7 +1492,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.623,
+    "destaque_score": 0.621,
     "layout_tier": "grade"
   },
   {
@@ -1360,7 +1515,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.622,
+    "destaque_score": 0.62,
     "layout_tier": "grade"
   },
   {
@@ -1432,7 +1587,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.819,
+    "destaque_score": 0.818,
     "layout_tier": "manchete"
   },
   {
@@ -1479,7 +1634,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.618,
+    "destaque_score": 0.617,
     "layout_tier": "grade"
   },
   {
@@ -1549,7 +1704,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.618,
+    "destaque_score": 0.616,
     "layout_tier": "grade"
   },
   {
@@ -1570,7 +1725,7 @@
     "category_mapping_confidence": 0.4056,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.349,
+    "destaque_score": 0.347,
     "layout_tier": "condensado"
   },
   {
@@ -1596,7 +1751,7 @@
     "category_mapping_confidence": 0.8248,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.693,
+    "destaque_score": 0.691,
     "layout_tier": "grade"
   },
   {
@@ -1643,7 +1798,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.617,
+    "destaque_score": 0.615,
     "layout_tier": "grade"
   },
   {
@@ -1713,7 +1868,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.616,
+    "destaque_score": 0.614,
     "layout_tier": "grade"
   },
   {
@@ -1736,7 +1891,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.815,
+    "destaque_score": 0.813,
     "layout_tier": "manchete"
   },
   {
@@ -1925,7 +2080,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.614,
+    "destaque_score": 0.612,
     "layout_tier": "grade"
   },
   {
@@ -1995,7 +2150,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.614,
+    "destaque_score": 0.612,
     "layout_tier": "grade"
   },
   {
@@ -2065,7 +2220,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.613,
+    "destaque_score": 0.611,
     "layout_tier": "grade"
   },
   {
@@ -2113,7 +2268,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.609,
+    "destaque_score": 0.607,
     "layout_tier": "grade"
   },
   {
@@ -2166,7 +2321,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.561,
     "layout_tier": "grade"
   },
   {
@@ -2217,7 +2372,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2461,7 +2616,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2810,7 +2965,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -3329,7 +3484,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.558,
+    "destaque_score": 0.557,
     "layout_tier": "grade"
   },
   {
@@ -3818,7 +3973,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -3841,7 +3996,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4434,7 +4589,7 @@
     "category_mapping_confidence": 0.4515,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.496,
+    "destaque_score": 0.495,
     "layout_tier": "grade"
   },
   {
@@ -4556,7 +4711,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4628,7 +4783,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4722,7 +4877,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -5184,7 +5339,7 @@
     "category_mapping_confidence": 0.2418,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.563,
+    "destaque_score": 0.562,
     "layout_tier": "grade"
   },
   {
@@ -5875,7 +6030,7 @@
     "category_mapping_confidence": 0.3494,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.269,
+    "destaque_score": 0.268,
     "layout_tier": "condensado"
   },
   {
