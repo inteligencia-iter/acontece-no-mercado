@@ -6,6 +6,7 @@ Suporta feeds padrão e gzip. Stubs para fontes de scraping (fase 2).
 import re
 import hashlib
 import logging
+import urllib.request
 from datetime import timezone
 from typing import Iterator
 
@@ -16,7 +17,49 @@ from .config import SourceConfig, SOURCES
 
 logger = logging.getLogger(__name__)
 
-UA = "Mozilla/5.0 (compatible; TurismoBR-Monitor/1.0)"
+UA     = "Mozilla/5.0 (compatible; TurismoBR-Monitor/1.0)"
+UA_BROWSER = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/125.0.0.0 Safari/537.36"
+)
+
+# Padrões para <meta property="og:image" content="..."> em ambas as ordens de atributos
+_OG_RE_1 = re.compile(
+    r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
+    re.IGNORECASE,
+)
+_OG_RE_2 = re.compile(
+    r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']',
+    re.IGNORECASE,
+)
+
+
+def _scrape_og_image(url: str, timeout: int = 8) -> str | None:
+    """
+    Faz GET na URL do artigo e extrai <meta property="og:image">.
+    Lê apenas os primeiros 64 KB (suficiente para o <head> da maioria dos sites).
+    Retorna None em caso de erro ou ausência da tag — nunca propaga exceção.
+    """
+    if not url:
+        return None
+    try:
+        req = urllib.request.Request(
+            url,
+            headers={"User-Agent": UA_BROWSER, "Accept": "text/html"},
+        )
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            chunk = resp.read(65536).decode("utf-8", errors="ignore")
+        m = _OG_RE_1.search(chunk) or _OG_RE_2.search(chunk)
+        if m:
+            og_url = m.group(1).strip()
+            logger.debug("OG image encontrada para %s: %s", url[:60], og_url[:60])
+            return og_url
+        logger.debug("OG image ausente em %s", url[:60])
+        return None
+    except Exception as exc:
+        logger.debug("OG image scrape falhou (%s): %s", url[:60], exc)
+        return None
 
 
 def _make_guid(link: str, title: str) -> str:
@@ -148,6 +191,9 @@ def fetch_source(cfg: SourceConfig) -> Iterator[dict]:
 
             # ── Imagem de capa ────────────────────────────────────────────────
             image_url = _extract_image(entry, summary)
+            # Fallback: buscar og:image na página do artigo (apenas fontes configuradas)
+            if image_url is None and cfg.scrape_og_image and link:
+                image_url = _scrape_og_image(link)
 
             # ── Categoria nativa ──────────────────────────────────────────────
             tags = getattr(entry, "tags", []) or []
