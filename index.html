@@ -23,14 +23,15 @@
       --shadow-hover: 0 8px 24px rgba(0,0,0,0.13);
     }
     body { background:var(--bg); color:var(--text); font-family:'Stolzl',system-ui,sans-serif; font-size:14px; line-height:1.6; min-height:100vh; }
-    header { background:var(--accent); color:#fff; padding:0 28px; display:flex; align-items:center; gap:16px; height:58px; position:sticky; top:0; z-index:300; box-shadow:0 2px 12px rgba(0,63,150,0.28); }
+    header { background:var(--accent); color:#fff; padding:0 28px; display:flex; align-items:center; gap:16px; min-height:66px; position:sticky; top:0; z-index:300; box-shadow:0 2px 12px rgba(0,63,150,0.28); }
     .logo { display:flex; align-items:center; gap:10px; }
     .logo-icon { width:32px; height:32px; background:#fff; border-radius:8px; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
-    .logo h1 { font-size:15px; font-weight:700; }
-    .logo p  { font-size:11px; opacity:0.72; }
+    .logo-supertitle { font-size:9px; font-weight:600; text-transform:uppercase; letter-spacing:0.14em; opacity:0.78; margin-bottom:1px; }
+    .logo h1 { font-size:15px; font-weight:700; line-height:1.2; }
+    .logo p  { font-size:11px; opacity:0.72; margin-top:1px; }
     .hsp { flex:1; }
     #status-bar { font-size:11px; opacity:0.8; white-space:nowrap; }
-    .toolbar { background:var(--white); border-bottom:1px solid var(--border); padding:10px 28px; display:flex; align-items:center; gap:10px; flex-wrap:wrap; position:sticky; top:58px; z-index:200; }
+    .toolbar { background:var(--white); border-bottom:1px solid var(--border); padding:10px 28px; display:flex; align-items:center; gap:10px; flex-wrap:wrap; position:sticky; top:66px; z-index:200; }
     .flabel { font-size:10px; font-weight:700; color:var(--text3); text-transform:uppercase; letter-spacing:0.08em; }
     select { background:var(--bg); border:1px solid var(--border); border-radius:8px; color:var(--text); font-size:13px; font-family:inherit; padding:6px 10px; cursor:pointer; outline:none; }
     select:focus { border-color:var(--accent); }
@@ -97,9 +98,10 @@
     .btn-load-more:hover { background:var(--accent); color:#fff; }
     mark { background:#fef08a; color:inherit; border-radius:2px; padding:0 1px; }
     @media(max-width:640px){
-      header { padding:10px 12px; height:auto; min-height:52px; flex-wrap:wrap; gap:8px; }
+      header { padding:10px 12px; height:auto; min-height:56px; flex-wrap:wrap; gap:8px; }
       .logo { gap:8px; flex:1; min-width:0; }
       .logo-icon { width:28px; height:28px; }
+      .logo-supertitle { display:none; }
       .logo h1 { font-size:13px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
       .logo p { display:none; }
       .hsp { display:none; }
@@ -123,6 +125,7 @@
   <div class="logo">
     <div class="logo-icon"><img src="./favicon.ico" alt="Iter" width="22" height="22" style="display:block"></div>
     <div>
+      <p class="logo-supertitle">Grupo Iter &middot; Intelig&ecirc;ncia de Mercado</p>
       <h1>Monitor - Acontece no Mercado</h1>
       <p>Panrotas &middot; M&amp;E &middot; G1 &middot; Embratur &middot; Ag&ecirc;ncia Brasil &middot; Valor Econ&ocirc;mico</p>
     </div>
@@ -138,7 +141,7 @@
   <div class="tsep"></div>
   <div class="search-wrap">
     <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-    <input type="text" id="search-box" placeholder="Buscar por palavras-chave...">
+    <input type="text" id="search-box" placeholder='Buscar... use "aspas" para frases exatas'>
   </div>
   <div id="result-count"></div>
 </div>
@@ -182,16 +185,28 @@ var SOURCE_LABEL = {
 };
 var MES_NOME = ['','Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'];
 var allItems=[],availableMonths=[],loadedMonths={},guidSet={},activeTab='Todos';
-var currentVisible=[],currentPage=0,currentWords=[];
+var currentVisible=[],currentPage=0,currentWords=[],currentPhrases=[];
 
 function norm(s){return(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().trim();}
 function esc(s){return(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
 function escRe(s){return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');}
 function decodeHtml(s){if(!s)return'';var t=document.createElement('textarea');t.innerHTML=s;return t.value;}
-function highlight(text,words){
+
+/* Separa frases entre aspas de palavras soltas.
+   Ex: '"Rio de Janeiro" voos' → phrases:['rio de janeiro'], words:['voos'] */
+function parseQuery(q){
+  var phrases=[],words=[];
+  var remaining=q.replace(/"([^"]+)"/g,function(_,p){phrases.push(p.toLowerCase().trim());return' ';});
+  remaining.toLowerCase().split(/\s+/).filter(Boolean).forEach(function(w){words.push(w);});
+  return{phrases:phrases,words:words};
+}
+
+function highlight(text,words,phrases){
   var out=esc(decodeHtml(text));
-  if(!words.length)return out;
-  words.forEach(function(w){var re=new RegExp('('+escRe(esc(decodeHtml(w)))+')','gi');out=out.replace(re,'<mark>$1</mark>');});
+  // Destaca frases exatas primeiro (prioridade visual)
+  (phrases||[]).forEach(function(p){var re=new RegExp('('+escRe(esc(p))+')','gi');out=out.replace(re,'<mark>$1</mark>');});
+  // Destaca palavras soltas
+  (words||[]).forEach(function(w){var re=new RegExp('('+escRe(esc(decodeHtml(w)))+')','gi');out=out.replace(re,'<mark>$1</mark>');});
   return out;
 }
 function fmtDate(iso){
@@ -305,17 +320,21 @@ function applyAndRender(){
   var ano=document.getElementById('sel-ano').value;
   var mes=document.getElementById('sel-mes').value;
   var query=document.getElementById('search-box').value.trim();
-  currentWords=query?query.toLowerCase().split(/\s+/).filter(Boolean):[];
+  var parsed=parseQuery(query);
+  currentPhrases=parsed.phrases;
+  currentWords=parsed.words;
   var items=allItems.filter(function(item){
     var pub=(item.pub_date||'').slice(0,7);
     if(mes&&pub!==mes)return false;
     if(ano&&!pub.startsWith(ano))return false;
     return true;
   });
-  if(currentWords.length){
+  if(currentWords.length||currentPhrases.length){
     items=items.filter(function(item){
       var hay=norm(decodeHtml((item.title||'')+' '+(item.description||'')));
-      return currentWords.every(function(w){return hay.includes(norm(w));});
+      var phraseOk=currentPhrases.every(function(p){return hay.includes(norm(p));});
+      var wordOk=currentWords.every(function(w){return hay.includes(norm(w));});
+      return phraseOk&&wordOk;
     });
   }
   var counts={};
@@ -382,8 +401,8 @@ function cardHTML(item){
     imageBlock(item)+
     '<div class="card-body">'+
       '<div class="card-date">'+fmtDate(item.pub_date)+' '+geo+'</div>'+
-      '<div class="card-title">'+highlight(item.title,currentWords)+'</div>'+
-      (item.description?'<div class="card-desc">'+highlight(item.description,currentWords)+'</div>':'')+
+      '<div class="card-title">'+highlight(item.title,currentWords,currentPhrases)+'</div>'+
+      (item.description?'<div class="card-desc">'+highlight(item.description,currentWords,currentPhrases)+'</div>':'')+
     '</div>'+
     '<div class="card-footer">'+
       '<span class="source-label"><span class="source-dot dot-'+src+'"></span>'+srcLb+'</span>'+
