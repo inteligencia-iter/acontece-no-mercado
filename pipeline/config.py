@@ -161,6 +161,7 @@ class SourceConfig:
     min_classify_confidence: float = 0.0        # descartar classificações abaixo desse score
     title_cleanup_regex: Optional[str] = None   # remover sufixo/prefixo do título (ex: "- Fonte")
     scrape_og_image: bool = False               # buscar og:image na página do artigo se RSS não trouxer imagem
+    keyword_filter: list[str] = field(default_factory=list)  # se preenchido, item só passa se título ou descrição contiver ao menos uma dessas palavras
 
 
 SOURCES: dict[str, SourceConfig] = {
@@ -252,12 +253,27 @@ SOURCES: dict[str, SourceConfig] = {
         ],
     ),
 
+    "abcmais_hortensias": SourceConfig(
+        source_id="abcmais_hortensias",
+        source_type="generalista_regional",
+        native_taxonomy_trusted=False,
+        needs_full_text_scrape=False,
+        rss_status="confirmado",
+        category_field=None,   # taxonomia geográfica, não temática — usa classificador
+        scrape_og_image=True,  # WordPress com og:image consistente
+        feed_urls=["https://www.abcmais.com/brasil/rio-grande-do-sul/hortensias/feed/"],
+        keyword_filter=[
+            "turismo", "turista", "turistas",
+            "turístico", "turísticos", "turística", "turísticas",
+        ],
+    ),
+
     # ── Fontes com fallback de scraping (stubs — implementar em fase 2) ────────
     "diariodoturismo": SourceConfig(
         source_id="diariodoturismo",
         source_type="especializada_trade",
         native_taxonomy_trusted=False,
-        needs_full_text_scrape=True,
+          needs_full_text_scrape=True,
         rss_status="bloqueado_confirmed",
         fallback_url="https://diariodoturismo.com.br/",
         feed_urls=[],   # RSS desativado — usar scraping HTML
