@@ -1,8 +1,272 @@
 [
   {
     "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717590",
+    "title": "Copa New Age registra mais de 150 prêmios distribuídos a agentes de viagens",
+    "link": "https://www.mercadoeeventos.com.br/uncategorized/copa-new-age-registra-mais-de-150-premios-distribuidos-a-agentes-de-viagens/",
+    "description": "Campanha inspirada na Copa do Mundo continua até o último dia do torneio, dia 19 de julho; confira",
+    "image_url": null,
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-14T15:58:00+00:00",
+    "source_category_raw": "Uncategorized",
+    "all_categories": [
+      "Uncategorized"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.5514,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.583,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717587",
+    "title": "JetSMART anuncia 13ª rota no Brasil e estreia voo direto entre Maceió e Buenos Aires",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/jetsmart-anuncia-13a-rota-no-brasil-e-estreia-voo-direto-entre-maceio-e-buenos-aires/",
+    "description": "Companhia terá cinco voos semanais entre Maceió e Buenos Aires no verão",
+    "image_url": null,
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-14T15:57:57+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.895,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717584",
+    "title": "Azul anuncia nova classe premium para voos internacionais em aeronaves Airbus A330",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/azul-anuncia-nova-classe-premium-para-voos-internacionais-em-aeronaves-airbus-a330/",
+    "description": "Cabine ficará entre a Azul Business e a Economy, oferecendo mais espaço e serviços diferenciados durante os voos",
+    "image_url": null,
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-14T15:19:42+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação",
+      "Julho 2026"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.892,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717579",
+    "title": "10 novas sanções dos EUA ampliam pressão sobre Cuba e atingem turismo, energia e comércio",
+    "link": "https://www.mercadoeeventos.com.br/acordos-internacionais/10-novas-sancoes-dos-eua-ampliam-pressao-sobre-cuba-e-atingem-turismo-energia-e-comercio/",
+    "description": "Washington afirma que objetivo é reduzir fontes de financiamento do governo de Cuba",
+    "image_url": null,
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-14T15:07:44+00:00",
+    "source_category_raw": "Acordos Internacionais",
+    "all_categories": [
+      "Acordos Internacionais"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.5403,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.576,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717580",
+    "title": "Goya Travel apresenta roteiros personalizadospara tornar memoráveis os feriados dosegundo semestre de 2026",
+    "link": "https://www.mercadoeeventos.com.br/noticias/agencias-e-operadoras/goya-travel-apresenta-roteiros-personalizadospara-tornar-memoraveis-os-feriados-dosegundo-semestre-de-2026/",
+    "description": "Curadoria da Goya reúne hotéis históricos, cruzeiros temáticos e expedições na Amazônia em uma seleção que vai do Brasil ao Japão",
+    "image_url": null,
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-14T15:05:00+00:00",
+    "source_category_raw": "Agências e Operadoras",
+    "all_categories": [
+      "Agências e Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.691,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1696641 at https://agenciabrasil.ebc.com.br",
+    "title": "Safra de grãos deve alcançar 360,1 milhões de toneladas, estima Conab",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/safra-de-graos-deve-alcancar-360-milhoes-de-toneladas-estima-conab",
+    "description": "A Companhia Nacional de Abastecimento (Conab) ajustou a estimativa para a safra de grãos 2025/26. No levantamento divulgado nesta terça-feira (14), o 10º do atual ciclo de produção agrícola, a estatal projeta produção de 360,1 milhões de toneladas. O volume é 0,4% superior à expectativa que a companhia divulgou há cerca de um mês. Se alcançados, os 360,1 milhões de toneladas representarão alta de 2,2% em relação à produção da temporada passada, com a colheita de 7,8 milhões de toneladas de grãos a mais. Notícias relacionadas: Tendência de seca nas regiões centrais pode impactar 2ª safra de milho. Segundo a Conab, a perspectiva positiva é resultado, principalmente, da expansão da área plantada, pois a produtividade média nacional das lavouras deve se manter estável (4.311 quilos por hectare). De acordo com o gerente de Acompanhamento de Safras da companhia, Fabiano Vasconcellos, as condições climáticas também têm contribuído para o desempenho das lavouras, com chuvas favoráveis e a adequada umidade do solo. “Para julho, a previsão é de manutenção destas condições. Nada fora do normal para esta época do ano, com uma diminuição das chuvas no período, principalmente na região central do país.” Soja A produção de soja, cuja colheita já foi finalizada, alcançou cerca de 180,6 milhões de toneladas, o que representa metade das 360,1 milhões de toneladas de grãos esperadas para o atual ciclo. É um avanço de 5,3% em relação à safra passada, resultado do aumento de 2,7% na área cultivada. O número teve influência do bom pacote tecnológico usado pelos produtores e das condições climáticas favoráveis. Milho Pelos cálculos da Conab, a colheita de milho deve alcançar 141,7 milhões de toneladas. Resultado que, se confirmado, representará não só uma alta de 0,4% sobre o da safra anterior, como responderá por quase 40% de toda a atual safra de grãos. No ciclo atual, a primeira safra do cereal, que já está quase toda colhida, deve totalizar 29,6 milhões de toneladas. A segunda, com colheita em 38,9% da área, deve atingir 109,43 milhões – índice inferior à média dos últimos cinco anos. Para a terceira safra, espera-se uma produção de 2,7 milhões de toneladas. Arroz e feijão A colheita do arroz também já foi encerrada e apresenta produção de 11,1 milhões de toneladas, 13,1% abaixo do volume produzido na safra passada, reflexo de uma menor área destinada ao produto. No caso do feijão, a produção total estimada é de 3 milhões de toneladas, 1,4% inferior ao ciclo anterior. \"Neste ciclo da segunda safra do feijão tivemos algumas adversidades climáticas, principalmente nas últimas semanas de junho. Enquanto na Região Nordeste as chuvas foram mais escassas, nas regiões Sul e Sudeste, as frentes frias trouxeram chuva, reduziram as temperaturas e provocaram até geadas em algumas localidades. Isto acabou impactando alguma lavoura e reduziu o potencial produtivo\", explicou Vasconcelos. Segundo ele, mesmo com as reduções previstas, o volume de arroz e feijão a ser colhido garante o abastecimento no mercado doméstico. Algodão O algodão tem produção prevista em 4,06 milhões de toneladas de pluma, com 8,1% da área já colhida, 78,4% em maturação e 13,5% em formação de maçãs. De acordo com a Conab, as boas condições climáticas favorecem o bom desenvolvimento das lavouras, o que refletiu em ganho na produtividade de 2,8% em relação à safra 2024/25. Essa melhora no desempenho médio das lavouras compensou a diminuição em 3,2% na área plantada, que neste ciclo foi próximo a 2 milhões de hectares. A atualização da safra de algodão também permitiu ajustes na expectativa de exportação da fibra, podendo chegar a 3,38 milhões de toneladas, resultando em um estoque final de 2,67 milhões de toneladas. Trigo Já o trigo, produto de destaque entre as culturas de inverno, se encontra em fase final de plantio. A expectativa da Conab é de uma redução de 23,5% no volume a ser colhido, estimado em 6 milhões de toneladas. O resultado reflete tanto a menor área destinada ao cereal como a expectativa de uma menor produtividade média a ser registrada nas lavouras neste ciclo.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Alex Rodrigues - Repórter da Agência Brasil",
+    "pub_date": "2026-07-14T15:02:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "safra",
+      "Conab",
+      "grãos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.6589,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.726,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717575",
+    "title": "Viena eleva imposto turístico para 8% e amplia debate sobre custos para visitantes",
+    "link": "https://www.mercadoeeventos.com.br/internacional/viena-eleva-imposto-turistico-para-8-e-amplia-debate-sobre-custos-para-visitantes/",
+    "description": "Viena segue tendência europeia de elevar taxas para visitantes estrangeiros",
+    "image_url": null,
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-14T14:24:16+00:00",
+    "source_category_raw": "Internacional",
+    "all_categories": [
+      "Internacional",
+      "Europa"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.6397,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.598,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717576",
+    "title": "Recorde! Clube Turismo bate soma 31 prêmios em três anos",
+    "link": "https://www.mercadoeeventos.com.br/noticias/agencias-e-operadoras/recorde-clube-turismo-bate-soma-31-premios-em-tres-anos/",
+    "description": "Consistência dos resultados acompanha a expansão da Clube Turismo e o fortalecimento de sua presença nacional",
+    "image_url": null,
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-14T14:21:00+00:00",
+    "source_category_raw": "Agências e Operadoras",
+    "all_categories": [
+      "Agências e Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.688,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717574",
+    "title": "Portugal: descubra a tradição do Cavalo Puro-Sangue Lusitano do Alentejo",
+    "link": "https://www.mercadoeeventos.com.br/noticias/destinos/exterior/portugal-descubra-a-tradicao-do-cavalo-puro-sangue-lusitano-do-alentejo/",
+    "description": "Entre vinhedos, montados e planícies, região preserva um dos maiores patrimônios equestres de Portugal",
+    "image_url": null,
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-14T14:00:47+00:00",
+    "source_category_raw": "Exterior",
+    "all_categories": [
+      "Exterior",
+      "Europa",
+      "Internacional"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3973,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.536,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717569",
+    "title": "Cruises Academy e Só Agentes firmam parceria para fortalecer capacitação de agentes no segmento de cruzeiros",
+    "link": "https://www.mercadoeeventos.com.br/noticias/agencias-e-operadoras/cruises-academy-e-so-agentes-firmam-parceria-para-fortalecer-capacitacao-de-agentes-no-segmento-de-cruzeiros/",
+    "description": "Objetivo da parceria é o de ampliar o acesso dos agentes a conteúdos especializados, treinamentos e iniciativas",
+    "image_url": null,
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-14T13:52:02+00:00",
+    "source_category_raw": "Agências e Operadoras",
+    "all_categories": [
+      "Agências e Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.686,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1696629 at https://agenciabrasil.ebc.com.br",
+    "title": "MPF denuncia policiais rodoviários por morte de adolescente no Rio",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/mpf-denuncia-policiais-rodoviarios-por-morte-de-adolescente-no-rio",
+    "description": "Dois policiais rodoviários federais foram denunciados pelo Ministério Público Federal (MPF) por uma operação que resultou na morte de Lorenzo Dias Palhinhas, de 14 anos, em uma favela da zona norte do Rio de Janeiro . A ação policial ocorreu no Complexo do Chapadão, em outubro de 2022. Eles estão sendo denunciados por homicídio qualificado e tentativa de homicídio qualificado. De acordo com a denúncia do MPF, Lorenzo e outro adolescente, que trabalhavam como entregadores de uma lanchonete da região, retornavam do trabalho em uma motocicleta quando foram inicialmente abordados por policiais, revistados e liberados. Notícias relacionadas: Comitê aponta alto índice de mortes de adolescentes por policiais. Coordenador do Unicef pede políticas integradas contra mortes de adolescentes. Depois da abordagem, ao trafegarem por uma viela, eles teriam sido alvo de disparos feitos pelos policiais rodoviários federais. O MPF sustenta que não houve nova ordem de parada nem confronto armado no momento. Ainda segundo a denúncia, os adolescentes estavam desarmados, seguiam de costas para os agentes e transitavam por uma passagem estreita, sem possibilidade de fuga ou de proteção. Lorenzo morreu com um tiro na parte de trás da cabeça, enquanto o outro adolescente conseguiu escapar. Segundo o MPF, policiais rodoviários que participaram da ação afirmaram que os dois denunciados fizeram disparos. O exame de balística concluiu que o fragmento encontrado no local era compatível com as armas usadas por eles. Operação A ação policial, em outubro de 2022, foi realizada horas depois do assassinato do policial rodoviário federal Bruno Vanzan Nunes, vítima de um roubo seguido de morte. Vinte agentes foram até o Chapadão em busca de suspeitos do crime. Mas, segundo o procurador da República Eduardo Benones, a ação da Polícia Rodoviária Federal (PRF) foi feita sem ordem formal de missão, briefing ou relatório operacional, além de ter extrapolado as atribuições constitucionais da PRF. Por meio de nota, a PRF informou que há investigação interna aberta para apurar a conduta e a responsabilidade dos policiais rodoviários federais envolvidos na operação conjunta. A PRF acrescentou que pediu cópia da investigação do MPF e aguarda o compartilhamento das informações para continuar com suas apurações internas.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Agência Brasil",
+    "pub_date": "2026-07-14T13:48:00+00:00",
+    "source_category_raw": "Geral",
+    "all_categories": [
+      "Geral",
+      "PRF",
+      "MPF",
+      "morte de adolescente",
+      "Abordagem Policial"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.5715,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.499,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=717570",
-    "title": "Brasil, Argentina, Chile e Paraguai firmam acordo para integrar o transporte aéreo",
+    "title": "Brasil, Argentina, Chile e Paraguai firmam acordo para integrar o transporte aéreo; entenda como será",
     "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/brasil-argentina-chile-e-paraguai-firmam-acordo-para-integrar-o-transporte-aereo/",
     "description": "Modelo é inspirado na integração do mercado de aviação da União Europeia",
     "image_url": null,
@@ -19,7 +283,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.9,
+    "destaque_score": 0.885,
     "layout_tier": "manchete"
   },
   {
@@ -71,7 +335,7 @@
     "category_mapping_confidence": 0.4608,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.484,
+    "destaque_score": 0.47,
     "layout_tier": "grade"
   },
   {
@@ -191,7 +455,7 @@
     "category_mapping_confidence": 0.6552,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.529,
+    "destaque_score": 0.515,
     "layout_tier": "grade"
   },
   {
@@ -409,7 +673,7 @@
     "category_mapping_confidence": 0.3763,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.609,
+    "destaque_score": 0.6,
     "layout_tier": "grade"
   },
   {
@@ -461,7 +725,7 @@
     "category_mapping_confidence": 0.5038,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.439,
+    "destaque_score": 0.43,
     "layout_tier": "grade"
   },
   {
@@ -484,7 +748,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.643,
+    "destaque_score": 0.634,
     "layout_tier": "grade"
   },
   {
@@ -577,7 +841,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.64,
+    "destaque_score": 0.631,
     "layout_tier": "grade"
   },
   {
@@ -627,7 +891,7 @@
     "category_mapping_confidence": 0.5727,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.453,
+    "destaque_score": 0.444,
     "layout_tier": "grade"
   },
   {
@@ -673,7 +937,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.639,
+    "destaque_score": 0.63,
     "layout_tier": "grade"
   },
   {
@@ -694,7 +958,7 @@
     "category_mapping_confidence": 0.3851,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.365,
+    "destaque_score": 0.356,
     "layout_tier": "condensado"
   },
   {
@@ -715,8 +979,8 @@
     "category_mapping_confidence": 0.5577,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.407,
-    "layout_tier": "grade"
+    "destaque_score": 0.399,
+    "layout_tier": "condensado"
   },
   {
     "source_id": "mercadoeeventos",
@@ -786,7 +1050,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.836,
+    "destaque_score": 0.827,
     "layout_tier": "manchete"
   },
   {
@@ -833,7 +1097,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.635,
+    "destaque_score": 0.626,
     "layout_tier": "grade"
   },
   {
@@ -856,7 +1120,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.634,
+    "destaque_score": 0.626,
     "layout_tier": "grade"
   },
   {
@@ -927,7 +1191,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.633,
+    "destaque_score": 0.625,
     "layout_tier": "grade"
   },
   {
@@ -950,7 +1214,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.632,
+    "destaque_score": 0.624,
     "layout_tier": "grade"
   },
   {
@@ -1022,7 +1286,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.829,
+    "destaque_score": 0.821,
     "layout_tier": "manchete"
   },
   {
@@ -1069,7 +1333,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.628,
+    "destaque_score": 0.62,
     "layout_tier": "grade"
   },
   {
@@ -1137,7 +1401,7 @@
     "category_mapping_confidence": 0.4056,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.358,
+    "destaque_score": 0.351,
     "layout_tier": "condensado"
   },
   {
@@ -1163,8 +1427,8 @@
     "category_mapping_confidence": 0.8248,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.702,
-    "layout_tier": "manchete"
+    "destaque_score": 0.695,
+    "layout_tier": "grade"
   },
   {
     "source_id": "mercadoeeventos",
@@ -1210,7 +1474,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.626,
+    "destaque_score": 0.618,
     "layout_tier": "grade"
   },
   {
@@ -1280,7 +1544,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.625,
+    "destaque_score": 0.618,
     "layout_tier": "grade"
   },
   {
@@ -1303,7 +1567,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.824,
+    "destaque_score": 0.817,
     "layout_tier": "manchete"
   },
   {
@@ -1492,7 +1756,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.623,
+    "destaque_score": 0.616,
     "layout_tier": "grade"
   },
   {
@@ -1562,7 +1826,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.622,
+    "destaque_score": 0.615,
     "layout_tier": "grade"
   },
   {
@@ -1632,7 +1896,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.622,
+    "destaque_score": 0.615,
     "layout_tier": "grade"
   },
   {
@@ -1680,7 +1944,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.617,
+    "destaque_score": 0.611,
     "layout_tier": "grade"
   },
   {
@@ -1733,7 +1997,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.563,
+    "destaque_score": 0.562,
     "layout_tier": "grade"
   },
   {
@@ -1784,7 +2048,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.561,
     "layout_tier": "grade"
   },
   {
@@ -1831,7 +2095,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.762,
+    "destaque_score": 0.761,
     "layout_tier": "manchete"
   },
   {
@@ -1854,7 +2118,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.561,
     "layout_tier": "grade"
   },
   {
@@ -1877,7 +2141,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.762,
+    "destaque_score": 0.76,
     "layout_tier": "manchete"
   },
   {
@@ -1982,7 +2246,7 @@
     "category_mapping_confidence": 0.3381,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.316,
+    "destaque_score": 0.315,
     "layout_tier": "condensado"
   },
   {
@@ -2005,7 +2269,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2028,7 +2292,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2120,7 +2384,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2166,7 +2430,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2189,7 +2453,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2377,7 +2641,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2423,7 +2687,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2685,7 +2949,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -2803,7 +3067,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -2849,7 +3113,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -2896,7 +3160,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -2942,7 +3206,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.557,
+    "destaque_score": 0.556,
     "layout_tier": "grade"
   },
   {
@@ -3111,7 +3375,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3578,7 +3842,7 @@
     "category_mapping_confidence": 0.6277,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.542,
+    "destaque_score": 0.541,
     "layout_tier": "grade"
   },
   {
@@ -3670,7 +3934,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -3716,7 +3980,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -3762,7 +4026,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -3835,7 +4099,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -3858,7 +4122,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -3980,7 +4244,7 @@
     "category_mapping_confidence": 0.758,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.613,
+    "destaque_score": 0.612,
     "layout_tier": "grade"
   },
   {
@@ -4431,7 +4695,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4477,7 +4741,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4521,7 +4785,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4567,7 +4831,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4613,7 +4877,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4636,7 +4900,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4659,7 +4923,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -5098,7 +5362,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -6561,7 +6825,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -6584,7 +6848,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -6607,7 +6871,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
