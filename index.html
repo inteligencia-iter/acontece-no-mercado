@@ -502,4 +502,10 @@ function init(){
   }).catch(function(e){
     setStatus('Erro ao carregar.');
     document.getElementById('content').innerHTML=
-      '<div class="state-msg"><span class="icon">⚠️</span>
+      '<div class="state-msg"><span class="icon">⚠️</span><p>Nao foi possivel carregar os dados. Verifique sua conexao.</p></div>';
+  });
+}
+init();
+</script>
+</body>
+</html>
