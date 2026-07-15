@@ -1,6 +1,316 @@
 [
   {
     "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717648",
+    "title": "Cyan Resort by Atlantica reforça programação de férias com patinação no gelo",
+    "link": "https://www.mercadoeeventos.com.br/hotelaria-2/cyan-resort-by-atlantica-reforca-programacao-de-ferias-com-patinacao-no-gelo/",
+    "description": "Cyan Resort by Atlantica amplia atividades de julho com clima de arraial e transfer gratuito para parques temáticos",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Atrativo-Ferias-de-Julho-pista-de-patinacao-no-gelo-1.1-scaled.jpg",
+    "author": "Rafael Torres",
+    "pub_date": "2026-07-15T17:00:00+00:00",
+    "source_category_raw": "Hotelaria",
+    "all_categories": [
+      "Hotelaria"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.699,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1696750 at https://agenciabrasil.ebc.com.br",
+    "title": "Copa do Mundo feminina no Brasil deve movimentar R$ 8,8 bilhões",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/copa-do-mundo-feminina-no-brasil-deve-movimentar-r-88-bilhoes",
+    "description": "A Copa de Futebol Fifa Feminina 2027 no Brasil deve injetar R$ 8,8 bilhões na economia, gerar 73,7 mil postos de trabalho e renda de R$ 4,5 bilhões e arrecadar em tributos R$ 928 milhões. A estimativa é do Mapeamento do Potencial de Captação e Internacionalização de Eventos Esportivos no Turismo Brasileiro, desenvolvido pela Fundação Getulio Vargas para a Agência Brasileira de Promoção Internacional do Turismo (Embratur). Notícias relacionadas: Setor de serviços cai 0,4% em maio por recuo na área de transportes. Como Argentina e Inglaterra chegam à semifinal da Copa do Mundo . Belo Horizonte proíbe publicidade de bets em espaços públicos. “Os resultados estão decompostos em dois vetores principais de geração de impacto: o do público do evento, gerado pelo fluxo de turistas nacionais e estrangeiros, que movimentará R$ 4,7 bilhões em atividade econômica direta e indireta, e o da organização, derivado dos desembolsos da FIFA e das estruturas operacionais do evento, estimado em R$ 4,1 bilhões”, diz a FGV. Em conjunto, os dois vetores posicionam a Copa do Mundo Feminina 2027 como um dos maiores eventos esportivos já realizados no Brasil, em termos de impacto econômico. Segundo o estudo, a Copa do Mundo representa o maior evento esportivo feminino do planeta e constituirá um marco histórico para o Brasil: será a primeira vez que um país sul-americano sediará a competição, o que mostra a consolidação do Brasil como destino de referência para megaeventos esportivos de primeira grandeza. O torneio reunirá seleções de todo o mundo ao longo de aproximadamente um mês de competição distribuídas por diversas cidades-sede brasileiras entre 24 de junho e 25 de julho. Segundo a análise, do ponto de vista do mercado de consumo, o torneio encontra um ambiente favorável. As mulheres respondem por 48,61% do fluxo de turistas internacionais no Brasil, com permanência média de 11 dias e gasto médio de US$ 1.317 por viagem. Além disso, 72% das pessoas que nunca frequentaram um estádio de futebol são mulheres, o que indica um contingente relevante de demanda potencial ainda não captada, de acordo com a FGV. O interesse das torcedoras pela Copa do Mundo supera o observado em outras competições da modalidade. Nesse contexto, o interesse pelo futebol feminino já está estabelecido. “Além do impacto econômico imediato, o evento representa uma oportunidade singular de legado para o futebol feminino brasileiro, de projeção da imagem do país no cenário global e de fortalecimento do turismo esportivo como vetor de desenvolvimento econômico sustentável”, completa a pesquisa.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Agência Brasil",
+    "pub_date": "2026-07-15T16:56:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "Copa do Mundo Feminina 2027",
+      "impacto econômico",
+      "FGV",
+      "embratur"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4108,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.471,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717630",
+    "title": "Hotéis temáticos ganham espaço no turismo; 31,5% dos viajantes buscam design ousado, diz pesquisa",
+    "link": "https://www.mercadoeeventos.com.br/hotelaria-2/hoteis-tematicos-ganham-espaco-no-turismo-315-dos-viajantes-buscam-design-ousado-diz-pesquisa/",
+    "description": "Estudo diz que turistas valorizam experiências em hotéis conectados à natureza; resort inspirado na Amazônia aposta na tendência",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Divulgacao_-Amazon-Parques-Resorts-3-1.jpg",
+    "author": "Rafael Torres",
+    "pub_date": "2026-07-15T16:30:00+00:00",
+    "source_category_raw": "Hotelaria",
+    "all_categories": [
+      "Hotelaria"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.697,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717641",
+    "title": "EUA registram queda no turismo internacional em junho mesmo com a Copa do Mundo",
+    "link": "https://www.mercadoeeventos.com.br/noticias/turismo-em-dados/eua-registram-queda-no-turismo-internacional-em-junho-mesmo-com-a-copa-do-mundo/",
+    "description": "Nem a Copa evitou queda do turismo e da demanda por voos internacionais nos EUA em junho de 2026",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/06/Mercedes-Benz-Stadium-Atlanta-Georgia-EUA-Reproducao_FIFA.avif",
+    "author": "Janaina Brito",
+    "pub_date": "2026-07-15T16:00:00+00:00",
+    "source_category_raw": "Turismo em Dados",
+    "all_categories": [
+      "Turismo em Dados"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4236,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.55,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/hotelaria/mercado/2026/07/grupo-pantai-inaugura-villa-pantai-atins-boutique-hotel-nos-lencois-maranhenses-conheca_230237.html",
+    "title": "Grupo Pantai inaugura Villa Pantai Atins Boutique Hotel, nos Lençóis Maranhenses; conheça",
+    "link": "https://www.panrotas.com.br/hotelaria/mercado/2026/07/grupo-pantai-inaugura-villa-pantai-atins-boutique-hotel-nos-lencois-maranhenses-conheca_230237.html",
+    "description": "Com 22 suítes e piscina natural: hotel promete experiência de luxo nesse destino com tanta evidência",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/15/6d172a2303ec1dfbc3f8fd1e932daf76-piscina3.jpg",
+    "author": "Rodrigo Vieira",
+    "pub_date": "2026-07-15T15:48:00+00:00",
+    "source_category_raw": "Hotelaria - Mercado",
+    "all_categories": [
+      "Hotelaria - Mercado"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": "Mercado",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.694,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717653",
+    "title": "Israel amplia investimentos para fortalecer o turismo internacional",
+    "link": "https://www.mercadoeeventos.com.br/noticias/destinos/exterior/israel-amplia-investimentos-para-fortalecer-o-turismo-internacional/",
+    "description": "Novos hotéis, atrações e obras buscam impulsionar o turismo e ampliar a experiência em Israel",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/46.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-15T15:40:00+00:00",
+    "source_category_raw": "Exterior",
+    "all_categories": [
+      "Exterior",
+      "Ásia",
+      "Internacional"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3825,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.539,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717634",
+    "title": "Festuris abre pré-venda do Meeting 2026 após movimentar R$ 552 milhões em negócios",
+    "link": "https://www.mercadoeeventos.com.br/feiras-e-eventos/festuris-abre-pre-venda-do-meeting-2026-apos-movimentar-r-552-milhoes-em-negocios/",
+    "description": "Festuris icia venda antecipada de ingressos para ciclo de palestras antes da divulgação dos palestrantes",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-1-8.jpg",
+    "author": "Rafael Torres",
+    "pub_date": "2026-07-15T15:30:00+00:00",
+    "source_category_raw": "Feiras e Eventos",
+    "all_categories": [
+      "Feiras e Eventos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.693,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717678",
+    "title": "Abrasel: alimentação e bebidas lideram queda da inflação em junho, aponta IPCA",
+    "link": "https://www.mercadoeeventos.com.br/brasil/abrasel-alimentacao-e-bebidas-lideram-queda-da-inflacao-em-junho-aponta-ipca/",
+    "description": "Grupo foi o único a registrar deflação na pesquisa pelo IBGE; Abrasel vê cenário favorável para bares e restaurantes no 2ºS",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Cafe-Frutas-e-Carne.png",
+    "author": "Rafael Torres",
+    "pub_date": "2026-07-15T14:32:45+00:00",
+    "source_category_raw": "Brasil",
+    "all_categories": [
+      "Brasil",
+      "Sudeste"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.5956,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.788,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717610",
+    "title": "Novidades! Scenic Group apresenta Discovery Yacht, travessia pelo Rio Sena e roteiros no Oceano Índico",
+    "link": "https://www.mercadoeeventos.com.br/noticias/cruzeiros/novidades-scenic-group-apresenta-discovery-yacht-travessia-pelo-rio-sena-e-roteiros-no-oceano-indico/",
+    "description": "Anúncios inéditos refletem o compromisso do Scenic Group em oferecer experiências cada vez mais completas e diferenciadas",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-2026-07-14T171347.039.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-15T14:29:00+00:00",
+    "source_category_raw": "Cruzeiros",
+    "all_categories": [
+      "Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.688,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717677",
+    "title": "Programa Mais Turismo: inscrições para nova chamada estão abertas até 16 de agosto",
+    "link": "https://www.mercadoeeventos.com.br/noticias/parques-e-atracoes/programa-mais-turismo-inscricoes-para-nova-chamada-estao-abertas-ate-16-de-agosto/",
+    "description": "Propostas inscritas deverão conectar inovação, desenvolvimento local e turismo",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/afro5.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-15T14:21:15+00:00",
+    "source_category_raw": "Parques e Atrações",
+    "all_categories": [
+      "Parques e Atrações"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.422,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.543,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717672",
+    "title": "Fortaleza avança em 5 pilares e entra em programa internacional de Destinos Turísticos Inteligentes",
+    "link": "https://www.mercadoeeventos.com.br/brasil/fortaleza-avanca-em-5-pilares-e-entra-em-programa-internacional-de-destinos-turisticos-inteligentes/",
+    "description": "Processo reúne cerca de 40 destinos da América do Sul e do Brasil",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/image-4.jpeg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-15T14:00:54+00:00",
+    "source_category_raw": "Brasil",
+    "all_categories": [
+      "Brasil",
+      "Nordeste"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.5773,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.581,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1696732 at https://agenciabrasil.ebc.com.br",
+    "title": "Setor de serviços cai 0,4% em maio por recuo na área de transportes",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/setor-de-servicos-cai-04-em-maio-por-recuo-no-setor-de-transportes",
+    "description": "O setor de serviços, que reúne atividades como turismo, restaurantes, salão de beleza, internet e tecnologia da informação (TI), recuou 0,4% em maio, puxado pelo desempenho negativo dos transportes. Segundo a Secretaria da Política Econômica (SPE) do Ministério da Fazenda, o resultado veio abaixo das expectativas de mercado (intervalo de -0,3% a 0,6%; mediana de 0,0%). Notícias relacionadas: Confiança da indústria cai ao menor nível desde a pandemia. Boletim Focus: mercado reduz expectativa de inflação para 5,16% . Na comparação com o mesmo mês do ano passado, o setor cresceu 0,4%. De janeiro a maio, avançou 1,9% em relação ao mesmo período de 2025. No acumulado de 12 meses, a alta acumulada é de 2,6%. Esse número representa redução no ritmo de expansão, uma vez que em abril estava em 2,9%. Os dados fazem parte da Pesquisa Mensal de Serviços , divulgada nesta quarta-feira (15) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Com os resultados de maio, o setor fica 19,6% acima do nível pré-pandemia de covid-19 (fevereiro de 2020) e 0,5% abaixo do maior nível já registrado, que pertence a outubro de 2025. A pesquisa traz dados desde janeiro de 2011. Veja o comportamento do setor nos últimos meses, comparado ao mês imediatamente anterior: Maio: -0,4% Abril: 1,1% Março: -0,9% Fevereiro: 0,1% Janeiro: 0% Freio nos transportes O IBGE aponta que dos cinco grupos de atividades pesquisadas, dois apresentaram queda na passagem de abril para maio. Serviços prestados às famílias: 0,2% Serviços de informação e comunicação: 0% Serviços profissionais, administrativos e complementares: 2% Transportes, serviços auxiliares aos transportes e correio: -1% Outros serviços: -1,9% A queda dos transportes foi o que mais puxou o setor de serviços para baixo em maio porque o item tem peso de um terço (33,67%) na pesquisa. De acordo com o analista da pesquisa, Rodrigo Lobo, houve “menor receita das empresas de transporte aéreo de passageiros, transporte rodoviário de carga e de logística”. Em maio de 2026, o volume de transporte de passageiros recuou 1,3% na comparação com o mês imediatamente anterior. Já o volume do transporte de cargas teve variação negativa de 0,2%. Lobo destaca também que os serviços às famílias alcançaram o maior patamar desde dezembro de 2014. Para ele, é uma resposta a variáveis econômicas “como desemprego baixo, massa de rendimentos elevadas e nível de preços controlado”. Índice de atividades turísticas A Pesquisa Mensal de Serviços traz ainda o índice de atividades turísticas (Iatur), que recuou 0,4% em maio, na comparação com o mês anterior . Já em comparação com o acumulado de 12 meses, há expansão de 1,7%. Esses resultados deixam as atividades de turismo 10,8% acima do patamar pré-pandemia de covid-19 e 2,5% abaixo do maior nível já alcançado, em dezembro de 2024. O Iatur reúne 22 das 166 atividades de serviços investigadas na pesquisa e que são ligadas à atividade turística, como hotéis, agências de viagens, bufê e transporte aéreo de passageiros. São divulgadas informações de 17 unidades da federação: Ceará, Pernambuco, Bahia, Minas Gerais, Espírito Santo, Rio de Janeiro, São Paulo, Paraná, Santa Catarina, Rio Grande do Sul, Goiás e Distrito Federal, Amazonas, Pará, Mato Grosso, Alagoas e Rio Grande do Norte.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Bruno de Freitas Moura - Repórter da Agência Brasil - Rio de Janeiro",
+    "pub_date": "2026-07-15T14:00:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "IBGE",
+      "setor de serviços",
+      "Pesquisa Mensal de Serviços"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.6347,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.715,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=717661",
+    "title": "Airbnb.org lança programa de hospedagem gratuita para pacientes em tratamento médico no Brasil",
+    "link": "https://www.mercadoeeventos.com.br/noticias/hotelaria/airbnb-org-lanca-programa-de-hospedagem-gratuita-para-pacientes-em-tratamento-medico-no-brasil/",
+    "description": "Programa do Airbnb.org oferece hospedagem gratuita para pacientes que precisam viajar para realizar tratamentos médicos",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/airbnb-host-welcoming-guests-scaled.jpg",
+    "author": "Yuri Ricci",
+    "pub_date": "2026-07-15T13:57:30+00:00",
+    "source_category_raw": "Hotelaria",
+    "all_categories": [
+      "Hotelaria"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.686,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=717638",
     "title": "TAP recebe propostas vinculantes para privatização até 29 de julho",
     "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/tap-recebe-propostas-vinculantes-para-privatizacao-ate-29-de-julho/",
@@ -109,7 +419,7 @@
     "category_mapping_confidence": 0.3794,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.608,
+    "destaque_score": 0.59,
     "layout_tier": "grade"
   },
   {
@@ -136,7 +446,7 @@
     "category_mapping_confidence": 0.6014,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.674,
+    "destaque_score": 0.66,
     "layout_tier": "grade"
   },
   {
@@ -165,7 +475,7 @@
     "category_mapping_confidence": 0.3765,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.618,
+    "destaque_score": 0.604,
     "layout_tier": "grade"
   },
   {
@@ -188,7 +498,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.849,
+    "destaque_score": 0.836,
     "layout_tier": "manchete"
   },
   {
@@ -214,7 +524,7 @@
     "category_mapping_confidence": 0.7172,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.698,
+    "destaque_score": 0.685,
     "layout_tier": "grade"
   },
   {
@@ -283,7 +593,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.648,
+    "destaque_score": 0.635,
     "layout_tier": "grade"
   },
   {
@@ -310,7 +620,7 @@
     "category_mapping_confidence": 0.7124,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.696,
+    "destaque_score": 0.683,
     "layout_tier": "grade"
   },
   {
@@ -333,7 +643,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.648,
+    "destaque_score": 0.634,
     "layout_tier": "grade"
   },
   {
@@ -379,7 +689,7 @@
     "category_mapping_confidence": 0.5935,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.745,
+    "destaque_score": 0.732,
     "layout_tier": "manchete"
   },
   {
@@ -402,7 +712,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.647,
+    "destaque_score": 0.634,
     "layout_tier": "grade"
   },
   {
@@ -542,7 +852,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.645,
+    "destaque_score": 0.632,
     "layout_tier": "grade"
   },
   {
@@ -565,7 +875,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.845,
+    "destaque_score": 0.832,
     "layout_tier": "manchete"
   },
   {
@@ -588,7 +898,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.845,
+    "destaque_score": 0.832,
     "layout_tier": "manchete"
   },
   {
@@ -611,7 +921,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.644,
+    "destaque_score": 0.631,
     "layout_tier": "grade"
   },
   {
@@ -634,7 +944,7 @@
     "category_mapping_confidence": 0.4054,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.495,
+    "destaque_score": 0.482,
     "layout_tier": "grade"
   },
   {
@@ -657,7 +967,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.643,
+    "destaque_score": 0.63,
     "layout_tier": "grade"
   },
   {
@@ -726,7 +1036,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.641,
+    "destaque_score": 0.629,
     "layout_tier": "grade"
   },
   {
@@ -800,7 +1110,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.64,
+    "destaque_score": 0.628,
     "layout_tier": "grade"
   },
   {
@@ -846,7 +1156,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.639,
+    "destaque_score": 0.627,
     "layout_tier": "grade"
   },
   {
@@ -900,7 +1210,7 @@
     "category_mapping_confidence": 0.4605,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.424,
+    "destaque_score": 0.412,
     "layout_tier": "grade"
   },
   {
@@ -923,7 +1233,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.838,
+    "destaque_score": 0.826,
     "layout_tier": "manchete"
   },
   {
@@ -969,7 +1279,35 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.636,
+    "destaque_score": 0.624,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "embratur",
+    "guid": "https://embratur.com.br/?p=45134",
+    "title": "Inscrições para coexpositores em feiras internacionais de turismo de negócios e eventos encerram nesta sexta (17)",
+    "link": "https://embratur.com.br/2026/07/14/inscricoes-para-coexpositores-em-feiras-internacionais-de-turismo-de-negocios-e-eventos-encerram-nesta-sexta-17/",
+    "description": ".",
+    "image_url": "https://embratur.com.br/wp-content/uploads/2023/04/feiras_inscricoes_900x500.jpeg",
+    "author": "thais.souza",
+    "pub_date": "2026-07-14T16:53:07+00:00",
+    "source_category_raw": "Noticias",
+    "all_categories": [
+      "Noticias",
+      "Notícias",
+      "edital de feiras",
+      "Inscrições",
+      "Principal",
+      "Tela Principal"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4964,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.418,
     "layout_tier": "grade"
   },
   {
@@ -992,7 +1330,7 @@
     "category_mapping_confidence": 0.2408,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.445,
+    "destaque_score": 0.434,
     "layout_tier": "grade"
   },
   {
@@ -1015,7 +1353,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.634,
+    "destaque_score": 0.623,
     "layout_tier": "grade"
   },
   {
@@ -1108,7 +1446,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.632,
+    "destaque_score": 0.621,
     "layout_tier": "grade"
   },
   {
@@ -1203,7 +1541,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.831,
+    "destaque_score": 0.82,
     "layout_tier": "manchete"
   },
   {
@@ -1226,7 +1564,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.63,
+    "destaque_score": 0.62,
     "layout_tier": "grade"
   },
   {
@@ -1296,7 +1634,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.83,
+    "destaque_score": 0.819,
     "layout_tier": "manchete"
   },
   {
@@ -1344,7 +1682,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.629,
+    "destaque_score": 0.618,
     "layout_tier": "grade"
   },
   {
@@ -1394,7 +1732,7 @@
     "category_mapping_confidence": 0.5715,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.441,
+    "destaque_score": 0.431,
     "layout_tier": "grade"
   },
   {
@@ -1469,7 +1807,7 @@
     "category_mapping_confidence": 0.4608,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.413,
+    "destaque_score": 0.402,
     "layout_tier": "grade"
   },
   {
@@ -1539,7 +1877,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.827,
+    "destaque_score": 0.816,
     "layout_tier": "manchete"
   },
   {
@@ -1580,7 +1918,8 @@
       "Notícias",
       "Embratur",
       "Global Bird Fair 2026",
-      "Principal"
+      "Principal",
+      "Tela Principal"
     ],
     "in_scope": true,
     "canonical_category_l1": "Destinos",
@@ -1589,7 +1928,7 @@
     "category_mapping_confidence": 0.6552,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.46,
+    "destaque_score": 0.449,
     "layout_tier": "grade"
   },
   {
@@ -1612,7 +1951,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.626,
+    "destaque_score": 0.615,
     "layout_tier": "grade"
   },
   {
@@ -1658,7 +1997,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.825,
+    "destaque_score": 0.815,
     "layout_tier": "manchete"
   },
   {
@@ -1755,7 +2094,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.625,
+    "destaque_score": 0.615,
     "layout_tier": "grade"
   },
   {
@@ -1824,7 +2163,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.624,
+    "destaque_score": 0.614,
     "layout_tier": "grade"
   },
   {
@@ -1928,7 +2267,7 @@
     "category_mapping_confidence": 0.5038,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.394,
+    "destaque_score": 0.388,
     "layout_tier": "condensado"
   },
   {
@@ -1951,7 +2290,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.598,
+    "destaque_score": 0.592,
     "layout_tier": "grade"
   },
   {
@@ -2079,7 +2418,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.597,
+    "destaque_score": 0.591,
     "layout_tier": "grade"
   },
   {
@@ -2129,7 +2468,7 @@
     "category_mapping_confidence": 0.5727,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.41,
+    "destaque_score": 0.404,
     "layout_tier": "grade"
   },
   {
@@ -2175,7 +2514,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.596,
+    "destaque_score": 0.59,
     "layout_tier": "grade"
   },
   {
@@ -2196,7 +2535,7 @@
     "category_mapping_confidence": 0.3851,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.346,
+    "destaque_score": 0.316,
     "layout_tier": "condensado"
   },
   {
@@ -2217,7 +2556,7 @@
     "category_mapping_confidence": 0.5577,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.365,
+    "destaque_score": 0.359,
     "layout_tier": "condensado"
   },
   {
@@ -2288,7 +2627,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.795,
+    "destaque_score": 0.789,
     "layout_tier": "manchete"
   },
   {
@@ -2335,7 +2674,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.594,
+    "destaque_score": 0.588,
     "layout_tier": "grade"
   },
   {
@@ -2358,7 +2697,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.594,
+    "destaque_score": 0.588,
     "layout_tier": "grade"
   },
   {
@@ -2429,7 +2768,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.593,
+    "destaque_score": 0.587,
     "layout_tier": "grade"
   },
   {
@@ -2452,7 +2791,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.593,
+    "destaque_score": 0.587,
     "layout_tier": "grade"
   },
   {
@@ -2524,7 +2863,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.791,
+    "destaque_score": 0.786,
     "layout_tier": "manchete"
   },
   {
@@ -2571,7 +2910,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.591,
+    "destaque_score": 0.585,
     "layout_tier": "grade"
   },
   {
@@ -2639,7 +2978,7 @@
     "category_mapping_confidence": 0.4056,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.321,
+    "destaque_score": 0.316,
     "layout_tier": "condensado"
   },
   {
@@ -2712,7 +3051,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.59,
+    "destaque_score": 0.584,
     "layout_tier": "grade"
   },
   {
@@ -2782,7 +3121,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.589,
+    "destaque_score": 0.584,
     "layout_tier": "grade"
   },
   {
@@ -2805,7 +3144,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.788,
+    "destaque_score": 0.783,
     "layout_tier": "manchete"
   },
   {
@@ -2994,7 +3333,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.588,
+    "destaque_score": 0.583,
     "layout_tier": "grade"
   },
   {
@@ -3064,7 +3403,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.588,
+    "destaque_score": 0.583,
     "layout_tier": "grade"
   },
   {
@@ -3134,7 +3473,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.587,
+    "destaque_score": 0.582,
     "layout_tier": "grade"
   },
   {
@@ -3182,7 +3521,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.585,
+    "destaque_score": 0.58,
     "layout_tier": "grade"
   },
   {
@@ -3235,7 +3574,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.557,
+    "destaque_score": 0.556,
     "layout_tier": "grade"
   },
   {
@@ -3286,7 +3625,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3333,7 +3672,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.756,
+    "destaque_score": 0.755,
     "layout_tier": "manchete"
   },
   {
@@ -3356,7 +3695,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3379,7 +3718,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.756,
+    "destaque_score": 0.755,
     "layout_tier": "manchete"
   },
   {
@@ -3473,6 +3812,7 @@
       "Embratur",
       "Principal",
       "promoção internacional",
+      "Tela Principal",
       "Turismo",
       "turismo audiovisual",
       "Turismo Internacional"
@@ -3507,7 +3847,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3530,7 +3870,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3879,7 +4219,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -3925,7 +4265,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -3977,7 +4317,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4187,7 +4527,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4305,7 +4645,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -4351,7 +4691,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4398,7 +4738,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4444,7 +4784,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -4794,7 +5134,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -4841,7 +5181,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4864,7 +5204,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -4887,7 +5227,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -4910,7 +5250,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -5080,7 +5420,7 @@
     "category_mapping_confidence": 0.6277,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.54,
+    "destaque_score": 0.539,
     "layout_tier": "grade"
   },
   {
@@ -5126,7 +5466,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -5172,7 +5512,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -5218,7 +5558,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -5556,7 +5896,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.752,
+    "destaque_score": 0.751,
     "layout_tier": "manchete"
   },
   {
@@ -5579,7 +5919,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.752,
+    "destaque_score": 0.751,
     "layout_tier": "manchete"
   },
   {
@@ -5625,7 +5965,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -5697,7 +6037,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -6927,27 +7267,6 @@
     "layout_tier": "manchete"
   },
   {
-    "source_id": "valor_economico",
-    "guid": "CBMiwwFBVV95cUxNWEdsSXY4UTNfc0taRi1VYjltNkdlenNVN3lFM1BxSFYzZUVkQ0swMXdWRU0yTDF5MDd4anlOZ19LWE1qVFRLS3E4NS1DX1BEaVlhSnZqTkhDUlBPLTdzQnk5NDdHNVZ6bWxXa3k5Z2JvcllNMWI5dUlQOENMeGtENUV1YS0xc3RIQnhWcndqWlB5NERZdmxzNEhFTzZjNjdSN29tRTFHSFVxcXVsbGFHaTdUM2RFeWxNUjhYU2otM1VtNHPSAdIBQVVfeXFMTkl3cWhHMXo4enRTTzdobHg0TGZ6M2x5bHZkejNrY3pYWFltVk9tY3BxNHdaN01TTUpSck45ejBnSDFBSVZsSFFia0U2ZFJPSXRHUExTSHJER09kTmJncUhzeld5UnVWaXdJV2VLemlPUzQyNU9LaDNkQXpzYWF5VTctdjVYMS16QWVTZ3BZRGJJOWlObXR1SUNHYndFem5fam0wM0prT3Y0MmhIOHhTaVdONTlWdkVNc2hDX2pZVkJxeUlGRHRWeTZ4aEstbDk5LVpn",
-    "title": "Fibrafort entrega 200a unidade da Focker 388 Gran Turismo",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWEdsSXY4UTNfc0taRi1VYjltNkdlenNVN3lFM1BxSFYzZUVkQ0swMXdWRU0yTDF5MDd4anlOZ19LWE1qVFRLS3E4NS1DX1BEaVlhSnZqTkhDUlBPLTdzQnk5NDdHNVZ6bWxXa3k5Z2JvcllNMWI5dUlQOENMeGtENUV1YS0xc3RIQnhWcndqWlB5NERZdmxzNEhFTzZjNjdSN29tRTFHSFVxcXVsbGFHaTdUM2RFeWxNUjhYU2otM1VtNHPSAdIBQVVfeXFMTkl3cWhHMXo4enRTTzdobHg0TGZ6M2x5bHZkejNrY3pYWFltVk9tY3BxNHdaN01TTUpSck45ejBnSDFBSVZsSFFia0U2ZFJPSXRHUExTSHJER09kTmJncUhzeld5UnVWaXdJV2VLemlPUzQyNU9LaDNkQXpzYWF5VTctdjVYMS16QWVTZ3BZRGJJOWlObXR1SUNHYndFem5fam0wM0prT3Y0MmhIOHhTaVdONTlWdkVNc2hDX2pZVkJxeUlGRHRWeTZ4aEstbDk5LVpn?oc=5",
-    "description": "Fibrafort entrega 200a unidade da Focker 388 Gran Turismo Valor Econômico",
-    "image_url": null,
-    "author": "",
-    "pub_date": "2026-07-07T18:06:38+00:00",
-    "source_category_raw": null,
-    "all_categories": [],
-    "in_scope": true,
-    "canonical_category_l1": "Distribuição e Trade",
-    "canonical_category_l2": null,
-    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
-    "category_mapping_confidence": 0.3494,
-    "content_domain": "turismo_direto",
-    "content_domain_confidence": 0.9,
-    "destaque_score": 0.268,
-    "layout_tier": "condensado"
-  },
-  {
     "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/aviacao/pesquisas-e-estatisticas/2026/07/como-a-aviacao-atendera-10-bilhoes-de-passageiros-sem-dobrar-o-numero-de-aeroportos-veja_230071.html",
     "title": "Como a aviação atenderá 10 bilhões de passageiros sem dobrar o número de aeroportos? Veja",
@@ -7313,7 +7632,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -7336,8 +7655,29 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
+  },
+  {
+    "source_id": "valor_economico",
+    "guid": "CBMiwwFBVV95cUxNWEdsSXY4UTNfc0taRi1VYjltNkdlenNVN3lFM1BxSFYzZUVkQ0swMXdWRU0yTDF5MDd4anlOZ19LWE1qVFRLS3E4NS1DX1BEaVlhSnZqTkhDUlBPLTdzQnk5NDdHNVZ6bWxXa3k5Z2JvcllNMWI5dUlQOENMeGtENUV1YS0xc3RIQnhWcndqWlB5NERZdmxzNEhFTzZjNjdSN29tRTFHSFVxcXVsbGFHaTdUM2RFeWxNUjhYU2otM1VtNHPSAdIBQVVfeXFMTkl3cWhHMXo4enRTTzdobHg0TGZ6M2x5bHZkejNrY3pYWFltVk9tY3BxNHdaN01TTUpSck45ejBnSDFBSVZsSFFia0U2ZFJPSXRHUExTSHJER09kTmJncUhzeld5UnVWaXdJV2VLemlPUzQyNU9LaDNkQXpzYWF5VTctdjVYMS16QWVTZ3BZRGJJOWlObXR1SUNHYndFem5fam0wM0prT3Y0MmhIOHhTaVdONTlWdkVNc2hDX2pZVkJxeUlGRHRWeTZ4aEstbDk5LVpn",
+    "title": "Fibrafort entrega 200a unidade da Focker 388 Gran Turismo",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWEdsSXY4UTNfc0taRi1VYjltNkdlenNVN3lFM1BxSFYzZUVkQ0swMXdWRU0yTDF5MDd4anlOZ19LWE1qVFRLS3E4NS1DX1BEaVlhSnZqTkhDUlBPLTdzQnk5NDdHNVZ6bWxXa3k5Z2JvcllNMWI5dUlQOENMeGtENUV1YS0xc3RIQnhWcndqWlB5NERZdmxzNEhFTzZjNjdSN29tRTFHSFVxcXVsbGFHaTdUM2RFeWxNUjhYU2otM1VtNHPSAdIBQVVfeXFMTkl3cWhHMXo4enRTTzdobHg0TGZ6M2x5bHZkejNrY3pYWFltVk9tY3BxNHdaN01TTUpSck45ejBnSDFBSVZsSFFia0U2ZFJPSXRHUExTSHJER09kTmJncUhzeld5UnVWaXdJV2VLemlPUzQyNU9LaDNkQXpzYWF5VTctdjVYMS16QWVTZ3BZRGJJOWlObXR1SUNHYndFem5fam0wM0prT3Y0MmhIOHhTaVdONTlWdkVNc2hDX2pZVkJxeUlGRHRWeTZ4aEstbDk5LVpn?oc=5",
+    "description": "Fibrafort entrega 200a unidade da Focker 388 Gran Turismo Valor Econômico",
+    "image_url": null,
+    "author": "",
+    "pub_date": "2026-07-07T07:00:00+00:00",
+    "source_category_raw": null,
+    "all_categories": [],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3494,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.268,
+    "layout_tier": "condensado"
   },
   {
     "source_id": "agenciabrasil",
@@ -8132,7 +8472,7 @@
     "category_mapping_confidence": 0.3091,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.258,
+    "destaque_score": 0.257,
     "layout_tier": "condensado"
   },
   {
