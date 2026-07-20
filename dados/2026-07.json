@@ -1,6 +1,392 @@
 [
   {
     "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718125",
+    "title": "Turismo global pode alcançar 2,4 bilhões de viajantes até 2040, aponta especialista",
+    "link": "https://www.mercadoeeventos.com.br/noticias/turismo-em-dados/turismo-global-pode-alcancar-24-bilhoes-de-viajantes-ate-2040-aponta-especialista/",
+    "description": "Evento em Curitiba discutiu como a tecnologia deve impulsionar o turismo nas próximas décadas",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/man-giving-bar-graph-presentation-using-high-technology-digital-pen-edited-scaled.jpg",
+    "author": "Yuri Ricci",
+    "pub_date": "2026-07-20T18:00:00+00:00",
+    "source_category_raw": "Turismo em Dados",
+    "all_categories": [
+      "Turismo em Dados"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4715,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.568,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718107",
+    "title": "BestBuy capacita agentes de viagens para ampliar vendas no segmento de viagens de bodas nesta última quinta-feirra (16)",
+    "link": "https://www.mercadoeeventos.com.br/noticias/hotelaria/bestbuy-capacita-agentes-de-viagens-para-ampliar-vendas-no-segmento-de-viagens-de-bodas-nesta-ultima-quinta-feirra-16/",
+    "description": "Capacitação apresentou estratégias para impulsionar vendas de viagens de bodas no Caribe",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Imprensa-1.png",
+    "author": "Yuri Ricci",
+    "pub_date": "2026-07-20T17:30:00+00:00",
+    "source_category_raw": "Hotelaria",
+    "all_categories": [
+      "Hotelaria"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.698,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718121",
+    "title": "Cabo Verde lidera crescimento nas buscas de brasileiros durante a Copa do Mundo de 2026",
+    "link": "https://www.mercadoeeventos.com.br/internacional/africa/cabo-verde-lidera-crescimento-nas-buscas-de-brasileiros-durante-a-copa-do-mundo-de-2026/",
+    "description": "Copa impulsiona buscas por viagens para Cabo Verde entre brasileiros, aponta levantamento",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/closeup-shot-waving-flag-cape-verde-with-interesting-textures-scaled.jpg",
+    "author": "Yuri Ricci",
+    "pub_date": "2026-07-20T17:00:00+00:00",
+    "source_category_raw": "África",
+    "all_categories": [
+      "África",
+      "Exterior"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.511,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.573,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718138",
+    "title": "Turismo de luxo avança com tecnologia, mas mantém curadoria humana como diferencial, diz CEO da Goya Travel",
+    "link": "https://www.mercadoeeventos.com.br/luxo/turismo-de-luxo-avanca-com-tecnologia-mas-mantem-curadoria-humana-como-diferencial-diz-ceo-da-goya-travel/",
+    "description": "Executivo afirma que inovação e curadoria devem moldar o futuro do turismo de luxo",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Edmar-Mendoza-CEO-da-Goya-Travel-scaled.jpg",
+    "author": "Yuri Ricci",
+    "pub_date": "2026-07-20T16:37:40+00:00",
+    "source_category_raw": "Luxo",
+    "all_categories": [
+      "Luxo"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4402,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.554,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718130",
+    "title": "Copa do Mundo impulsiona turismo em até 11 vezes e revela novo comportamento dos viajantes",
+    "link": "https://www.mercadoeeventos.com.br/internacional/copa-do-mundo-impulsiona-turismo-em-ate-11-vezes-e-revela-novo-comportamento-dos-viajantes/",
+    "description": "Como a Copa fez cidades pouco conhecidas dispararem no turismo internacional",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/06/ChatGPT-Image-Jun-15-2026-12_47_36-PM.png",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-20T16:32:53+00:00",
+    "source_category_raw": "Internacional",
+    "all_categories": [
+      "Internacional",
+      "América do Norte e Caribe",
+      "América Latina"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4459,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.55,
+    "destaque_score": 0.555,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718139",
+    "title": "Onfly registra 2.500 empresas ativas e movimenta quase R$ 1 bilhão no primeiro semestre de 2026",
+    "link": "https://www.mercadoeeventos.com.br/noticias/agencias-e-operadoras/onfly-registra-2-500-empresas-ativas-e-movimenta-quase-r-1-bilhao-no-primeiro-semestre-de-2026/",
+    "description": "Onfly registra crescimento de 63% em volume transacionado e acelera expansão internacional no México",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Viagens-corporativas-em-alta.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-20T16:31:55+00:00",
+    "source_category_raw": "Agências e Operadoras",
+    "all_categories": [
+      "Agências e Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.694,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718077",
+    "title": "Club Med lança promoção para o Mês dos Pais com criança grátis e até 20% OFF",
+    "link": "https://www.mercadoeeventos.com.br/noticias/hotelaria/club-med-lanca-promocao-para-o-mes-dos-pais-com-crianca-gratis-e-ate-20-off/",
+    "description": "Lake Paradise, Trancoso e Rio das Pedras recebem programação especial",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/3.-Club-Med-Lake-Paradise_Divulgacao-Club-Med-Brasil.-Club-Med-Lake-Paradise_Divulgacao-Club-Med-Brasil.jpg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-20T16:31:00+00:00",
+    "source_category_raw": "Hotelaria",
+    "all_categories": [
+      "Hotelaria"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.694,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718133",
+    "title": "Emprotur e BWT realizam ação promocional para consolidar o RN e como destino prioritário no Sudeste",
+    "link": "https://www.mercadoeeventos.com.br/noticias/agencias-e-operadoras/emprotur-e-bwt-realizam-acao-promocional-para-consolidar-o-rn-e-como-destino-prioritario-no-sudeste/",
+    "description": "Campanha incorpora o planejamento estratégico da Emprotur para 2026",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/IMG-20260720-WA0013.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-20T16:26:33+00:00",
+    "source_category_raw": "Agências e Operadoras",
+    "all_categories": [
+      "Agências e Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.693,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718129",
+    "title": "MSC Cruzeiros lança promoção com 20% de desconto para viagens na América do Sul",
+    "link": "https://www.mercadoeeventos.com.br/uncategorized/msc-cruzeiros-lanca-promocao-com-20-de-desconto-para-viagens-na-america-do-sul/",
+    "description": "Promoção da MSC Cruzeiros oferece desconto em viagens e pode ser combinada com outras ofertas",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-5-2.jpg",
+    "author": "Yuri Ricci",
+    "pub_date": "2026-07-20T16:18:37+00:00",
+    "source_category_raw": "Uncategorized",
+    "all_categories": [
+      "Uncategorized"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.6188,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.597,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718074",
+    "title": "Taxa de recusa de visto americano para brasileiros cai ao menor nível desde 2019",
+    "link": "https://www.mercadoeeventos.com.br/noticias/destinos/exterior/taxa-de-recusa-de-visto-americano-para-brasileiros-cai-ao-menor-nivel-desde-2019/",
+    "description": "Levantamento revela melhora contínua na aprovação do visto americano em 2025",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/flat-lay-green-card-passport-assortment-scaled.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-20T16:00:00+00:00",
+    "source_category_raw": "Exterior",
+    "all_categories": [
+      "Exterior",
+      "América do Norte e Caribe",
+      "Internacional",
+      "Julho 2026"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3256,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.523,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "valor_economico",
+    "guid": "CBMi3AFBVV95cUxOOG1SenRKeGtsUllfdzJjMVBnWE81dkIwTGtkN1hOaHdFSXZZSTFxWmEyU3RJWm5tMHlVRU1HNXpxZ29tVHZnQWRmWWJsMHJHbW5HM0w3N2YwaHpheFJfR0k4YS1YaU9jc2tVU2RKWHoweXZLQzR3NEwzMDF5QjRpQThLZkN0R0xYclYtWU1adGNEY1JBWDlURW9ISmhONUhlWVFDd2ZnXzZteGVyanFYU2ZBdzVFUHNicGd2el9SYS1NYUxDRS1SckItVzBZMjFLTG1ZWjhERXNicnBq0gHrAUFVX3lxTE81bFVlUHo4aWxCemxPTDlWRzVuYzU5LW1qMXdJNUlHTFhRR0FDaTN2OVNaVkY0cEVQR2dYTDJGYWVyZ1NERWZSSTBHTzJpeVUySDNNY0xJNk9oZ3lIUW9SdmFuellyRnZlNUdCOTlwYmtlY21seDVVUFlwVVJKS0EwbmVhZ3gtSVhoMjBUSG9hRFk3UUJuMkpxZjFxWTZ0THRWQmNQSTVyMGFpNXoydGRHQzVyM3IwaDB4dWVFS2F2a2VId2gxZmhaWnFpYnVDR2RwcEQ2QUoyTEk0dXJWSjlUZmRUZ3BkOU5GX0E",
+    "title": "BRT Lounges investe R$ 6 milhões para levar sala VIP de aeroporto à rodoviária do Tietê",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOG1SenRKeGtsUllfdzJjMVBnWE81dkIwTGtkN1hOaHdFSXZZSTFxWmEyU3RJWm5tMHlVRU1HNXpxZ29tVHZnQWRmWWJsMHJHbW5HM0w3N2YwaHpheFJfR0k4YS1YaU9jc2tVU2RKWHoweXZLQzR3NEwzMDF5QjRpQThLZkN0R0xYclYtWU1adGNEY1JBWDlURW9ISmhONUhlWVFDd2ZnXzZteGVyanFYU2ZBdzVFUHNicGd2el9SYS1NYUxDRS1SckItVzBZMjFLTG1ZWjhERXNicnBq0gHrAUFVX3lxTE81bFVlUHo4aWxCemxPTDlWRzVuYzU5LW1qMXdJNUlHTFhRR0FDaTN2OVNaVkY0cEVQR2dYTDJGYWVyZ1NERWZSSTBHTzJpeVUySDNNY0xJNk9oZ3lIUW9SdmFuellyRnZlNUdCOTlwYmtlY21seDVVUFlwVVJKS0EwbmVhZ3gtSVhoMjBUSG9hRFk3UUJuMkpxZjFxWTZ0THRWQmNQSTVyMGFpNXoydGRHQzVyM3IwaDB4dWVFS2F2a2VId2gxZmhaWnFpYnVDR2RwcEQ2QUoyTEk0dXJWSjlUZmRUZ3BkOU5GX0E?oc=5",
+    "description": "BRT Lounges investe R$ 6 milhões para levar sala VIP de aeroporto à rodoviária do Tietê Valor Econômico",
+    "image_url": null,
+    "author": "",
+    "pub_date": "2026-07-20T15:01:52+00:00",
+    "source_category_raw": null,
+    "all_categories": [],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3679,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.61,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1697072 at https://agenciabrasil.ebc.com.br",
+    "title": "Escalada da guerra expõe fracasso do acordo entre Irã e EUA",
+    "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/escalada-da-guerra-expoe-fracasso-do-acordo-entre-ira-e-eua",
+    "description": "A escalada da guerra no Oriente Médio nos últimos dias expõe o fracasso do acordo costurado entre Irã e Estados Unidos (EUA) para pôr fim ao conflito que já custou a vida de milhares de pessoas na região, desde o dia 28 de fevereiro. Os ataques aumentaram contra o Irã, incluindo bombardeios contra infraestruturas civis como pontes, hospital, usinas de dessalinização de água, de produção de combustíveis e até um canteiro de obras de uma usina nuclear. Notícias relacionadas: EUA mantêm ataques; Irã diz que petroleiros explodiram em Ormuz. Enquanto sediam final da Copa, EUA atacam unidade nuclear no Irã. Do outro lado, o Irã intensifica ataques contra alvos em países do Golfo, como Jordânia, Bahrein e Kuwait, atingindo tanto bases militares dos EUA nesses países, quanto algumas infraestruturas civis, como usinas de dessanilização de água e de produção de energia. O especialista em segurança e geopolítica, o major-general português Agostinho Costa, afirmou à Agência Brasil que o memorando de entendimento assinado entre EUA e Irã não passou de uma “mentira” ou uma “manobra diversionista” de Washington diante da baixa nas reservas de petróleo causada pelo fechamento do Estreito de Ormuz . “O presidente Donald Trump assinou o memorando porque foi informado que as reservas estratégicas de petróleo duravam mais quatro semanas, o que iria provocar uma crise, principalmente de diesel. O acordo foi uma ficção, sem intenção de se cumprir, como todos os papéis que os americanos assinam”, disse. O ex-vice-presidente da Associação EuroDefese-Portugal acrescentou que, a partir do momento que os EUA cumprissem o memorando, eles estariam entregando, para controle do Irã, a rota marítima de países “clientes” dos EUA como Emirados Árabes Unidos (EAU), Bahrein e Kuwait. “O que está em jogo é a hegemonia norte-americana na região. É o fim do império norte-americano. Isso é o que está em jogo e é isso que faz com que os americanos tenham voltado à carga”, completou. A Jordânia como alvo O cientista político e especialista em geopolítica Ali Ramos explicou à Agência Brasil que existem poucas diferenças entre essa nova fase da guerra e as anteriores, com destaque para os ataques mais pesados do Irã contra alvos na Jordânia. “Isso porque a Jordânia se tornou o maior hub logístico da Força Aérea americana por pelas fragilidades das bases do Golfo. Além disso, Israel está fora da guerra, só que o aeroporto Ben Gurion [em Israel] é também uma das maiores bases aéreas dos EUA na região e não está sendo atacado, funcionando como espécie de santuário”, destacou. Estudioso de Ásia, Teoria Militar e Defesa, Ali Ramos acrescenta que não estão sendo alcançados os principais objetivos anunciados pelos EUA para a guerra, como o fim do programa nuclear iraniano, o fim do programa balístico de Teerã e o fim do apoio às milícias do Oriente Médio. “Com isso, os EUA estão escalando para uma estratégia de guerra de terra arrasada, tanto é que atacaram uma fábrica de dessalinização, deixando 10 mil pessoas sem água no Irã. Só que isso só vai dar mais legitimidade para o regime iraniano”, completou. EUA sem estratégia Para o major-general Agostinho Costa, os EUA estão demonstrando não terem uma nova estratégia para essa nova fase da guerra contra o Irã, repetindo as campanhas de bombardeio aéreo contra o país persa que já não vinham dando resultados desde 28 de fevereiro. “Mais uma vez, os americanos mostram que não têm estratégia nenhuma. Por um lado, não querem se empenhar em invasão terrestre, por outro, julgam que resolvem um problema estratégico com um país da dimensão do Irã apenas com aviões”, comentou. Ao mesmo tempo, o militar português avalia que as capacidades ofensivas do Irã têm se mostrado eficazes, não parecendo que estejam deterioradas, como diz o governo dos EUA. “Estamos naquilo que podemos chamar de ‘gestão da escalada do conflito’. Ainda não estamos em um impasse, o que só deve ocorrer quando não houve mais capacidade para escalada. Mas ainda há capacidade para escalada”, concluiu. Entenda a guerra Para analistas consultados pela Agência Brasil , a agressão lançada por Israel e EUA contra o Irã, tanto em junho de 2025, como a partir de 28 de fevereiro deste ano, buscava a “troca de regime” no país persa para, entre outros objetivos, deter a expansão econômica da China na região e consolidar a hegemonia política e militar de Israel no Oriente Médio. Diante do fracasso em derrubar o regime político da República Islâmica no Irã, os EUA afirmam que agora buscam retomar o status de navegação no Estreito de Ormuz como era antes da guerra. Porém, o governo iraniano afirma que a gestão do Estreito, por onde transitavam antes da guerra cerca de 20% do comércio do petróleo global, deve ter um novo modelo a ser definido, principalmente, por Irã e Omã, levando em conta as necessidades da segurança nacional iraniana.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Lucas Pordeus León - Repórter da Agência Brasil",
+    "pub_date": "2026-07-20T14:58:00+00:00",
+    "source_category_raw": "Internacional",
+    "all_categories": [
+      "Internacional",
+      "escalada da guerra",
+      "acordo",
+      "Irã",
+      "EUA"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4292,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.6,
+    "destaque_score": 0.665,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/hotelaria/mercado/2026/07/ocupacao-dos-hoteis-nos-eua-superou-expectativas-durante-a-copa-do-mundo-veja-dados_230299.html",
+    "title": "Ocupação dos hotéis nos EUA superou expectativas durante a Copa do Mundo; veja dados",
+    "link": "https://www.panrotas.com.br/hotelaria/mercado/2026/07/ocupacao-dos-hoteis-nos-eua-superou-expectativas-durante-a-copa-do-mundo-veja-dados_230299.html",
+    "description": "Dados da empresa CoStar mostram que o RevPAR nas cidades-sede do campeonato aumentou 23%",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/07/30/d7196e0699b0df7eecb3aee8eac2cd3a-reproducaofifa.jpg",
+    "author": "Karina Cede&#241;o",
+    "pub_date": "2026-07-20T14:40:00+00:00",
+    "source_category_raw": "Hotelaria - Mercado",
+    "all_categories": [
+      "Hotelaria - Mercado"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": "Mercado",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.686,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1697070 at https://agenciabrasil.ebc.com.br",
+    "title": "Economia cresce 0,7% em maio, puxada por consumo das famílias, diz FGV",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/economia-cresce-07-em-maio-puxada-por-consumo-das-familias-diz-fgv",
+    "description": "A economia brasileira cresceu 0,7% na passagem de abril para maio. No trimestre móvel terminado em maio, a alta é de 1,9% na comparação com o mesmo período de 2025. Com esse desempenho, a variação positiva acumulada no período de 12 meses fica em 1,7%. Os dados fazem parte do Monitor do PIB , estudo mensal elaborado pelo Instituto Brasileiro de Economia (Ibre) da Fundação Getulio Vargas (FGV), divulgado nesta segunda-feira (20). Notícias relacionadas: Nobel da economia diz que impacto da IA no emprego é superestimado. FMI eleva projeção para PIB do Brasil, mas prevê desaceleração em 2027. Agro cresce 11,7%, impulsiona PIB e ganha participação na economia. A pesquisa faz estimativas sobre o comportamento do Produto Interno Bruto (PIB), indicador do conjunto de todos os bens e serviços produzidos no país, com base em dados da indústria, comércio, serviços e agropecuária. O resultado de maio retoma a trajetória positiva na comparação entre meses imediatamente seguidos, após recuo em abril e estabilidade em março. Confira o comportamento do ano mês a mês: Maio: 0,7% Abril: -0,1% Março: 0% Fevereiro: 0,5% Janeiro: 0,7% Sinais de arrefecimento Apesar da retomada de crescimento em maio, o indicador de 12 meses (1,7%), que mostra uma visão de retrovisor de mais longo prazo, aponta desaceleração, ou seja, perda de força. Em março deste ano, a variação era de 3%. Em maio do ano passado, 3,8%. Ao apresentar os resultados, a FGV destaca que o consumo das famílias cresceu 3,3% no trimestre até maio , chegando ao maior patamar desde o quarto trimestre de 2024, quando avançou 4%. Desse desempenho, mais de 60% vieram do consumo de serviços e de bens duráveis. A economista Juliana Trece, coordenadora da pesquisa, destaca que o consumo das famílias foi o grande responsável pelo desempenho positivo da economia. No entanto, ela aponta que há algumas “fragilidades” no resultado do PIB brasileiro. “O crescimento da agropecuária vem após sequência de retrações, a estabilidade industrial mostra perda de fôlego do setor e, apenas os serviços mostraram resultado um pouco melhor que a média geral do início do ano”, explica. Para ela, a concentração do crescimento no consumo das famílias mostra dependência desse componente, uma vez que as exportações e os investimentos apresentaram quedas. “Com isso, conclui-se que, embora a economia siga em crescimento, há alguns sinais importantes de arrefecimento que começam a aparecer no resultado”, avalia. Comportamentos As exportações tiveram crescimento de 4,3%, o menor desde o segundo trimestre de 2025 (2,1%). “As exportações da [indústria] extrativa mineral registram crescimento significativamente inferior ao que vinha apresentando desde o início do ano, o que explica a redução do crescimento das exportações”, destaca o acompanhamento. As importações cresceram 8,9%, terceiro trimestre móvel seguido de alta. A chamada Formação Bruta de Capital Fixo (FBCF), indicador que mede o investimento na economia, como compras de máquinas e equipamentos, teve expansão de 2% no trimestre móvel. Foi a segunda expansão depois de recuo nos quatro trimestres móveis imediatamente seguidos. O estudo estima que a taxa de investimento da economia em maio foi de 18,6%, a segunda maior do ano, perdendo apenas para fevereiro (19,2%). De acordo com a FGV, em termos monetários, o PIB acumulado até maio, em valores correntes, é estimado em R$ 5,466 trilhões. Resultado oficial O Monitor do PIB é um dos estudos que servem como termômetro da economia brasileira. Outro levantamento é o Índice de Atividade Econômica do Banco Central (IBC-Br), divulgado na sexta-feira (17) , que indicou expansão de 0,1% na passagem de abril para maio e de 1,4% em 12 meses . O resultado oficial do PIB é apresentado trimestralmente pelo Instituto Brasileiro de Geografia e Estatística (IBGE). A última divulgação foi no fim de maio, que apontou crescimento de 1,1% no primeiro trimestre de 2026. A próxima divulgação será referente ao segundo trimestre de 2026, no dia 1º de setembro. Expectativas O relatório Focus desta semana, sondagem do Banco Central (BC) com instituições do mercado financeiro estima que a economia brasileira vai terminar 2026 com alta de 1,99%. A previsão do Ministério da Fazenda é variação de 2,3%.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Bruno de Freitas Moura - Repórter da Agência Brasil",
+    "pub_date": "2026-07-20T14:28:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "FGV",
+      "PIB",
+      "crescimento da economia",
+      "Monitor do PIB"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.7775,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.75,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "abcmais_hortensias",
+    "guid": "https://www.abcmais.com/brasil/mais-de-23-milhoes-de-turistas-devem-visitar-gramado-durante-esta-temporada-de-inverno/",
+    "title": "Mais de 2,3 milhões de turistas devem visitar Gramado durante esta temporada de inverno",
+    "link": "https://www.abcmais.com/brasil/rio-grande-do-sul/hortensias/gramado/mais-de-23-milhoes-de-turistas-devem-visitar-gramado-durante-esta-temporada-de-inverno/",
+    "description": "Secretaria de Turismo projeta incremento de 15% a 20% no fluxo de turistas em 2026; confira",
+    "image_url": "https://midia.gruposinos.com.br/_midias/jpg/2026/07/16/turismo__5_-22829233.jpeg",
+    "author": "five.integracao",
+    "pub_date": "2026-07-20T14:05:00+00:00",
+    "source_category_raw": "Brasil",
+    "all_categories": [
+      "Brasil",
+      "Gramado",
+      "Hortênsias",
+      "Rio Grande do Sul",
+      "central de inverno",
+      "frio",
+      "gramado",
+      "INVERNO NA SERRA",
+      "temporada de inverno"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.6816,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.484,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "valor_economico",
+    "guid": "CBMizAFBVV95cUxPbHFsY0wwdk9MSHRtdTVEYjF3LWlFdkZXa3ZYeDNHMDVqUS16TlVKQVNQdEkwWjRFX2liWjFaSE9NMVZuWGJ1cGZqZzVxV25ISmpmWFBhdF9SZWZkb0tMSXZ6VEhKM3B0bmhXQnN2UWNsa0I4bUY1YkZEYnhUSjNhekVDRzFxM2JWSk9NXzR6V2xPM1E3Si1EdHhudWJQZ3Yyc0phZDFEbWhJWUhVbW5QdnB4aWZtQkNGUWFzMy1iMUVWZUJnU05fUzMxUGHSAcwBQVVfeXFMT2xxbGNMMHZPTEh0bXU1RGIxdy1pRXZGV2t2WHgzRzA1alEtek5VSkFTUHRJMFo0RV9pYloxWkhPTTFWblhidXBmamc1cVduSEpqZlhQYXRfUmVmZG9LTEl2elRISjNwdG5oV0JzdlFjbGtCOG1GNWJGRGJ4VEozYXpFQ0cxcTNiVkpPTV80eldsTzNRN0otRHR4bnViUGd2MnNKYWQxRG1oSVlIVW1uUHZweGlmbUJDRlFhczMtYjFFVmVCZ1NOX1MzMVBh",
+    "title": "SIVI acelera plano de turismo corporativo em Ilhabela",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbHFsY0wwdk9MSHRtdTVEYjF3LWlFdkZXa3ZYeDNHMDVqUS16TlVKQVNQdEkwWjRFX2liWjFaSE9NMVZuWGJ1cGZqZzVxV25ISmpmWFBhdF9SZWZkb0tMSXZ6VEhKM3B0bmhXQnN2UWNsa0I4bUY1YkZEYnhUSjNhekVDRzFxM2JWSk9NXzR6V2xPM1E3Si1EdHhudWJQZ3Yyc0phZDFEbWhJWUhVbW5QdnB4aWZtQkNGUWFzMy1iMUVWZUJnU05fUzMxUGHSAcwBQVVfeXFMT2xxbGNMMHZPTEh0bXU1RGIxdy1pRXZGV2t2WHgzRzA1alEtek5VSkFTUHRJMFo0RV9pYloxWkhPTTFWblhidXBmamc1cVduSEpqZlhQYXRfUmVmZG9LTEl2elRISjNwdG5oV0JzdlFjbGtCOG1GNWJGRGJ4VEozYXpFQ0cxcTNiVkpPTV80eldsTzNRN0otRHR4bnViUGd2MnNKYWQxRG1oSVlIVW1uUHZweGlmbUJDRlFhczMtYjFFVmVCZ1NOX1MzMVBh?oc=5",
+    "description": "SIVI acelera plano de turismo corporativo em Ilhabela Valor Econômico",
+    "image_url": null,
+    "author": "",
+    "pub_date": "2026-07-20T13:54:15+00:00",
+    "source_category_raw": null,
+    "all_categories": [],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.226,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.37,
+    "layout_tier": "condensado"
+  },
+  {
+    "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=718067",
     "title": "Seguro-viagem: planejamento reduz riscos e evita gastos inesperados",
     "link": "https://www.mercadoeeventos.com.br/noticias/servicos/seguro-viagem/seguro-viagem-planejamento-reduz-riscos-e-evita-gastos-inesperados/",
@@ -116,7 +502,7 @@
     "category_mapping_confidence": 0.7967,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.768,
+    "destaque_score": 0.748,
     "layout_tier": "manchete"
   },
   {
@@ -190,11 +576,34 @@
     "layout_tier": "manchete"
   },
   {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/destinos/2026/07/gastronomia-peruana-se-consolida-como-diferencial-para-o-turismo-de-reunioes_230337.html",
+    "title": "Gastronomia peruana se consolida como diferencial para o Turismo de reuniões",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/destinos/2026/07/gastronomia-peruana-se-consolida-como-diferencial-para-o-turismo-de-reunioes_230337.html",
+    "description": "Lima, capital gastronômica do Peru, oferece experiências únicas para congressos e viagens de incentivo",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/20/6f5d79f68356d3dec277403d4bf13208-lagunapiuraydsc00852retocada.jpg",
+    "author": "Luiz Felipe Sim&#245;es",
+    "pub_date": "2026-07-20T12:17:00+00:00",
+    "source_category_raw": "Corporativo - Destinos",
+    "all_categories": [
+      "Corporativo - Destinos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Destinos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.677,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "agenciabrasil",
     "guid": "1697054 at https://agenciabrasil.ebc.com.br",
     "title": "EUA mantêm ataques; Irã diz que petroleiros explodiram em Ormuz",
     "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/eua-mantem-ataques-ira-diz-que-petroleiros-explodiram-em-ormuz",
-    "description": "As forças americanas atacaram o Irã pelo nono dia consecutivo nesta segunda-feira (20), em meio a crescentes preocupações com o tráfego marítimo pelo Estreito de Ormuz , depois que o Irã informou que dois petroleiros haviam explodido. A Guarda Revolucionária Islâmica informou que havia atacado aeronaves americanas no aeroporto de Aqaba, na Jordânia, com mísseis, bem como recursos e equipamentos militares dos EUA no acampamento de Al-Adiri e na Base Aérea de Ali Al Salem, no Kuwait, e na Síria. Notícias relacionadas: Enquanto sediam final da Copa, EUA atacam unidade nuclear no Irã. Irã adverte que Ormuz é “linha vermelha” e que vai resistir até o fim. Sirenes soaram no Barein nesta manhã, informou o Ministério do Interior do país, enquanto o exército do Kuwait afirmou estar interceptando drones em um ataque iraniano. Os ataques fazem parte de um ciclo crescente de confrontos entre os EUA e o Irã após o colapso de um acordo provisório de cessar-fogo assinado há um mês, aprofundando a disputa pelo controle do Estreito de Ormuz, que tem interrompido o abastecimento de energia e alimentado temores de inflação global. Em comunicado, o Comando Central dos EUA afirmou ter iniciado “uma nova onda de ataques” com o objetivo de “prejudicar” a capacidade do Irã de atacar embarcações comerciais nas rotas marítimas vitais do estreito. O comunicado não forneceu mais detalhes. A agência de notícias semioficial iraniana Tasnim, citando seus próprios repórteres, informou que mísseis dos EUA atingiram várias cidades iranianas na madrugada desta segunda-feira. Explosões foram ouvidas em Tabriz, Chabahar, Konarak, Bandar Mahshahr e Bandar Imam Khomeini, segundo a Tasnim. O secretário de Estado dos EUA, Marco Rubio, afirmou que os Estados Unidos continuariam a atacar o Irã enquanto este atacar a navegação comercial global. “O Estreito de Ormuz é uma via navegável internacional, e eles continuam a atacar os navios nessa via navegável internacional”, disse Rubio. “Enquanto o Irã insistir em controlar uma via navegável internacional, teremos que responder a isso. Os Estados Unidos permanecem sempre abertos a uma solução diplomática.” Petroleiros atingidos O governo do Kuwait informou que uma usina de dessalinização foi atacada pelo segundo dia consecutivo, causando um incêndio, no que chamou de ataque direto à infraestrutura civil vital. As preocupações com o fluxo de suprimentos de energia pelo Estreito de Ormuz persistem desde que os Estados Unidos e o Irã retomaram as hostilidades abertas, após acusarem-se mutuamente de violar repetidamente um acordo de cessar-fogo. O Centro de Operações de Comércio Marítimo do Reino Unido informou no final do domingo que recebeu um relato de que uma embarcação estava em chamas na costa de Omã, embora não tivesse verificado a causa. A Guarda Revolucionária informou que dois petroleiros haviam explodido após tentarem transitar pelo que descreveu como uma rota sul insegura através de Ormuz, alegando que as embarcações haviam sido incentivadas pelas Forças Armadas dos EUA a usar a passagem. A Reuters não conseguiu verificar imediatamente o incidente. O comunicado não forneceu detalhes sobre os nomes das embarcações, bandeiras, tripulações ou eventuais vítimas. A Guarda afirmou que a via navegável permaneceria insegura enquanto continuasse o que chamou de “agressão” dos EUA na região, alertando que “essa passagem não será segura para o trânsito de produtos petroquímicos, nem mesmo para uma única gota de petróleo e gás”. Quatro navios atravessaram o Estreito de Ormuz no domingo, uma queda em relação aos oito do dia anterior. Pelo menos três petroleiros e um superpetroleiro entraram no estreito desde sexta-feira para carregar combustível. Os preços do petróleo subiam 2%, para mais de US$ 90 o barril, nesta segunda-feira. Na mais recente baixa norte-americana registrada na guerra, as Forças Armadas dos EUA informaram nesse domingo que um militar foi morto no sábado (18) no Norte do Iraque – onde os EUA mantêm bases militares – durante uma detonação controlada do que o Comando Central chamou de munição não detonada em um drone iraniano abatido. As Forças Armadas dos EUA informaram anteriormente que dois militares morreram na Jordânia e que um terceiro estava desaparecido em ação. Nesse domingo, o Comando Central informou que “restos mortais não identificados” haviam sido encontrados no local do ataque de sexta-feira e que “um processo de exame para verificar os restos mortais está em andamento”. Os últimos anúncios de baixas elevaram para 17 o número total de militares norte-americanos mortos desde o início da guerra, com mais de 420 feridos. O conflito, que começou quando os EUA e Israel atacaram o Irã em 28 de fevereiro, com o objetivo de neutralizar os programas nucleares e de mísseis de Teerã e enfraquecer seus aliados regionais, já matou milhares de pessoas, principalmente no Irã e no Líbano. (Reportagem de Nayera Abdallah e Eman Abouhassira, em Dubai). *Proibida a reprodução deste conteúdo",
+    "description": "As forças americanas atacaram o Irã pelo nono dia consecutivo nesta segunda-feira (20), em meio a crescentes preocupações com o tráfego marítimo pelo Estreito de Ormuz , depois que o Irã informou que dois petroleiros haviam explodido. A Guarda Revolucionária Islâmica informou que havia atacado aeronaves americanas no aeroporto de Aqaba, na Jordânia, com mísseis, bem como recursos e equipamentos militares dos EUA no acampamento de Al-Adiri e na Base Aérea de Ali Al Salem, no Kuwait, e na Síria. Notícias relacionadas: Enquanto sediam final da Copa, EUA atacam unidade nuclear no Irã. Irã adverte que Ormuz é “linha vermelha” e que vai resistir até o fim. Sirenes soaram no Barein nesta manhã, informou o Ministério do Interior do país, enquanto o exército do Kuwait afirmou estar interceptando drones em um ataque iraniano. Os ataques fazem parte de um ciclo crescente de confrontos entre os EUA e o Irã após o colapso de um acordo provisório de cessar-fogo assinado há um mês, aprofundando a disputa pelo controle do Estreito de Ormuz, que tem interrompido o abastecimento de energia e alimentado temores de inflação global. Em comunicado, o Comando Central dos EUA afirmou ter iniciado “uma nova onda de ataques” com o objetivo de “prejudicar” a capacidade do Irã de atacar embarcações comerciais nas rotas marítimas vitais do estreito. O comunicado não forneceu mais detalhes. A agência de notícias semioficial iraniana Tasnim, citando seus próprios repórteres, informou que mísseis dos EUA atingiram várias cidades iranianas na madrugada desta segunda-feira. Explosões foram ouvidas em Tabriz, Chabahar, Konarak, Bandar Mahshahr e Bandar Imam Khomeini, segundo a Tasnim. O secretário de Estado dos EUA, Marco Rubio, afirmou que os Estados Unidos continuariam a atacar o Irã enquanto este atacar a navegação comercial global. “O Estreito de Ormuz é uma via navegável internacional, e eles continuam a atacar os navios nessa via navegável internacional”, disse Rubio. “Enquanto o Irã insistir em controlar uma via navegável internacional, teremos que responder a isso. Os Estados Unidos permanecem sempre abertos a uma solução diplomática.” Petroleiros atingidos O governo do Kuwait informou que uma usina de dessalinização foi atacada pelo segundo dia consecutivo, causando um incêndio, no que chamou de ataque direto à infraestrutura civil vital. As preocupações com o fluxo de suprimentos de energia pelo Estreito de Ormuz persistem desde que os Estados Unidos e o Irã retomaram as hostilidades abertas, após acusarem-se mutuamente de violar repetidamente um acordo de cessar-fogo. O Centro de Operações de Comércio Marítimo do Reino Unido informou no final do domingo que recebeu um relato de que uma embarcação estava em chamas na costa de Omã, embora não tivesse verificado a causa. A Guarda Revolucionária informou que dois petroleiros haviam explodido após tentarem transitar pelo que descreveu como uma rota sul insegura através de Ormuz, alegando que as embarcações haviam sido incentivadas pelas Forças Armadas dos EUA a usar a passagem. A Reuters não conseguiu verificar imediatamente o incidente. O comunicado não forneceu detalhes sobre os nomes das embarcações, bandeiras, tripulações ou eventuais vítimas. A Guarda afirmou que a via navegável permaneceria insegura enquanto continuasse o que chamou de “agressão” dos EUA na região, alertando que “essa passagem não será segura para o trânsito de produtos petroquímicos, nem mesmo para uma única gota de petróleo e gás”. Quatro navios atravessaram o Estreito de Ormuz no domingo, uma queda em relação aos oito do dia anterior. Pelo menos três petroleiros e um superpetroleiro entraram no estreito desde sexta-feira para carregar combustível. Os preços do petróleo subiam 2%, para mais de US$ 90 o barril, nesta segunda-feira. Na mais recente baixa norte-americana registrada na guerra, as Forças Armadas dos EUA informaram nesse domingo que um militar foi morto no sábado (18) no Norte do Iraque – onde os EUA mantêm bases militares – durante uma detonação controlada do que o Comando Central chamou de munição não detonada em um drone iraniano abatido. As Forças Armadas dos EUA informaram anteriormente que dois militares morreram na Jordânia e que um terceiro estava desaparecido em ação. Nesse domingo, o Comando Central informou que “restos mortais não identificados” haviam sido encontrados no local do ataque de sexta-feira e que “um processo de exame para verificar os restos mortais está em andamento”. Os últimos anúncios de baixas elevaram para 17 o número total de militares norte-americanos mortos desde o início da guerra, com mais de 420 feridos. O conflito, que começou quando os EUA e Israel atacaram o Irã em 28 de fevereiro, com o objetivo de neutralizar os programas nucleares e de mísseis de Teerã e enfraquecer seus aliados regionais, já matou milhares de pessoas, principalmente no Irã e no Líbano. Saiba mais no Repórter Brasil Tarde, da TV Brasil (Reportagem de Nayera Abdallah e Eman Abouhassira, em Dubai). *Proibida a reprodução deste conteúdo",
     "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Reuters",
     "pub_date": "2026-07-20T11:32:00+00:00",
@@ -203,16 +612,17 @@
       "Internacional",
       "Ataque no Irã",
       "EUA",
-      "Conflito no Oriente Médio"
+      "Conflito no Oriente Médio",
+      "Multimídia"
     ],
     "in_scope": true,
     "canonical_category_l1": "Destinos",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf_low_confidence",
-    "category_mapping_confidence": 0.3237,
+    "category_mapping_confidence": 0.3245,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.444,
+    "destaque_score": 0.426,
     "layout_tier": "grade"
   },
   {
@@ -235,7 +645,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.893,
+    "destaque_score": 0.874,
     "layout_tier": "manchete"
   },
   {
@@ -318,7 +728,7 @@
     "category_mapping_confidence": 0.59,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.661,
+    "destaque_score": 0.648,
     "layout_tier": "grade"
   },
   {
@@ -348,7 +758,7 @@
     "category_mapping_confidence": 0.3482,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.386,
+    "destaque_score": 0.375,
     "layout_tier": "condensado"
   },
   {
@@ -377,7 +787,7 @@
     "category_mapping_confidence": 0.389,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.364,
+    "destaque_score": 0.358,
     "layout_tier": "condensado"
   },
   {
@@ -402,7 +812,7 @@
     "category_mapping_confidence": 0.7058,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.622,
+    "destaque_score": 0.619,
     "layout_tier": "grade"
   },
   {
@@ -432,7 +842,7 @@
     "category_mapping_confidence": 0.3522,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.533,
+    "destaque_score": 0.53,
     "layout_tier": "grade"
   },
   {
@@ -455,7 +865,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.574,
+    "destaque_score": 0.571,
     "layout_tier": "grade"
   },
   {
@@ -526,7 +936,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.573,
+    "destaque_score": 0.57,
     "layout_tier": "grade"
   },
   {
@@ -573,7 +983,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.573,
+    "destaque_score": 0.57,
     "layout_tier": "grade"
   },
   {
@@ -619,7 +1029,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.573,
+    "destaque_score": 0.57,
     "layout_tier": "grade"
   },
   {
@@ -645,7 +1055,7 @@
     "category_mapping_confidence": 0.5235,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.574,
+    "destaque_score": 0.571,
     "layout_tier": "grade"
   },
   {
@@ -691,7 +1101,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.573,
+    "destaque_score": 0.57,
     "layout_tier": "grade"
   },
   {
@@ -714,7 +1124,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.572,
+    "destaque_score": 0.569,
     "layout_tier": "grade"
   },
   {
@@ -737,7 +1147,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.572,
+    "destaque_score": 0.569,
     "layout_tier": "grade"
   },
   {
@@ -789,7 +1199,7 @@
     "category_mapping_confidence": 0.4034,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.342,
+    "destaque_score": 0.34,
     "layout_tier": "condensado"
   },
   {
@@ -812,7 +1222,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.572,
+    "destaque_score": 0.569,
     "layout_tier": "grade"
   },
   {
@@ -835,7 +1245,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.571,
+    "destaque_score": 0.569,
     "layout_tier": "grade"
   },
   {
@@ -974,7 +1384,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.571,
+    "destaque_score": 0.568,
     "layout_tier": "grade"
   },
   {
@@ -1043,7 +1453,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.77,
+    "destaque_score": 0.768,
     "layout_tier": "manchete"
   },
   {
@@ -1112,7 +1522,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.57,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -1158,7 +1568,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.77,
+    "destaque_score": 0.767,
     "layout_tier": "manchete"
   },
   {
@@ -1228,7 +1638,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.57,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -1251,7 +1661,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -1281,7 +1691,7 @@
     "category_mapping_confidence": 0.3688,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.331,
+    "destaque_score": 0.329,
     "layout_tier": "condensado"
   },
   {
@@ -1304,7 +1714,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -1327,7 +1737,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.769,
+    "destaque_score": 0.766,
     "layout_tier": "manchete"
   },
   {
@@ -1350,7 +1760,7 @@
     "category_mapping_confidence": 0.4904,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.441,
+    "destaque_score": 0.439,
     "layout_tier": "grade"
   },
   {
@@ -1373,7 +1783,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.768,
+    "destaque_score": 0.766,
     "layout_tier": "manchete"
   },
   {
@@ -1396,7 +1806,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.768,
+    "destaque_score": 0.766,
     "layout_tier": "manchete"
   },
   {
@@ -1419,7 +1829,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.768,
+    "destaque_score": 0.766,
     "layout_tier": "manchete"
   },
   {
@@ -1442,7 +1852,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.768,
+    "destaque_score": 0.765,
     "layout_tier": "manchete"
   },
   {
@@ -1465,7 +1875,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.768,
+    "destaque_score": 0.765,
     "layout_tier": "manchete"
   },
   {
@@ -1539,7 +1949,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.762,
+    "destaque_score": 0.761,
     "layout_tier": "manchete"
   },
   {
@@ -1589,7 +1999,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.762,
+    "destaque_score": 0.76,
     "layout_tier": "manchete"
   },
   {
@@ -1612,7 +2022,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -1658,7 +2068,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.762,
+    "destaque_score": 0.76,
     "layout_tier": "manchete"
   },
   {
@@ -1776,7 +2186,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -1799,7 +2209,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -1868,7 +2278,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -1891,7 +2301,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -1914,7 +2324,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -1937,7 +2347,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -1983,7 +2393,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2027,7 +2437,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.761,
+    "destaque_score": 0.759,
     "layout_tier": "manchete"
   },
   {
@@ -2075,7 +2485,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.761,
+    "destaque_score": 0.759,
     "layout_tier": "manchete"
   },
   {
@@ -2121,7 +2531,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2167,7 +2577,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.761,
+    "destaque_score": 0.759,
     "layout_tier": "manchete"
   },
   {
@@ -2190,7 +2600,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.76,
+    "destaque_score": 0.759,
     "layout_tier": "manchete"
   },
   {
@@ -2306,7 +2716,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2352,7 +2762,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2375,7 +2785,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.76,
+    "destaque_score": 0.759,
     "layout_tier": "manchete"
   },
   {
@@ -2421,7 +2831,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2513,7 +2923,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.76,
+    "destaque_score": 0.759,
     "layout_tier": "manchete"
   },
   {
@@ -2536,7 +2946,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.76,
+    "destaque_score": 0.759,
     "layout_tier": "manchete"
   },
   {
@@ -2559,7 +2969,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2582,7 +2992,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -2605,7 +3015,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.76,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -2628,7 +3038,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -2681,7 +3091,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -2733,7 +3143,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -2756,7 +3166,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -2779,7 +3189,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -2802,7 +3212,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -2825,7 +3235,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.558,
+    "destaque_score": 0.557,
     "layout_tier": "grade"
   },
   {
@@ -2874,7 +3284,7 @@
     "category_mapping_confidence": 0.3163,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.585,
+    "destaque_score": 0.584,
     "layout_tier": "grade"
   },
   {
@@ -2897,7 +3307,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -2920,7 +3330,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -2943,7 +3353,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3105,7 +3515,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3151,7 +3561,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3365,7 +3775,7 @@
     "category_mapping_confidence": 0.7034,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.401,
+    "destaque_score": 0.4,
     "layout_tier": "grade"
   },
   {
@@ -3461,7 +3871,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -3507,7 +3917,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -3553,7 +3963,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -3624,7 +4034,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -3647,7 +4057,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -3670,7 +4080,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -3763,7 +4173,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -3786,7 +4196,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -3910,7 +4320,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -3933,7 +4343,7 @@
     "category_mapping_confidence": 0.572,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.648,
+    "destaque_score": 0.647,
     "layout_tier": "grade"
   },
   {
@@ -3956,7 +4366,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -3979,7 +4389,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4025,7 +4435,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -4138,7 +4548,7 @@
     "category_mapping_confidence": 0.3794,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.479,
+    "destaque_score": 0.478,
     "layout_tier": "grade"
   },
   {
@@ -4640,7 +5050,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4686,7 +5096,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4755,7 +5165,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4829,7 +5239,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4929,7 +5339,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -4975,7 +5385,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -5003,7 +5413,7 @@
     "category_mapping_confidence": 0.4964,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.347,
+    "destaque_score": 0.346,
     "layout_tier": "condensado"
   },
   {
@@ -5026,7 +5436,7 @@
     "category_mapping_confidence": 0.2408,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.363,
+    "destaque_score": 0.362,
     "layout_tier": "condensado"
   },
   {
@@ -5049,7 +5459,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -6231,7 +6641,7 @@
     "category_mapping_confidence": 0.3851,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.278,
+    "destaque_score": 0.277,
     "layout_tier": "condensado"
   },
   {
