@@ -1,6 +1,284 @@
 [
   {
     "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718356",
+    "title": "Nomad revela como brasileiros consumiram durante a Copa do Mundo de 2026 no exterior",
+    "link": "https://www.mercadoeeventos.com.br/noticias/turismo-em-dados/nomad-revela-como-brasileiros-consumiram-durante-a-copa-do-mundo-de-2026-no-exterior/",
+    "description": "Nomad aponta que torcedores adaptaram seus hábitos de consumo durante a Copa na América do Norte",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-10-2.jpg",
+    "author": "Yuri Ricci",
+    "pub_date": "2026-07-21T17:12:13+00:00",
+    "source_category_raw": "Turismo em Dados",
+    "all_categories": [
+      "Turismo em Dados"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4473,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.561,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718279",
+    "title": "LGBT+ Turismo Expo reúne trade em São Paulo; veja fotos",
+    "link": "https://www.mercadoeeventos.com.br/feiras-e-eventos/lgbt-turismo-expo-reune-trade-em-sao-paulo-veja-fotos/",
+    "description": "Ano a ano, a LGBT+ Turismo Expo surpreende o mercado e se firma como principal feira do segmento",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Equipe-de-Porto-Seguro-no-LGBT-Turismo-Expo-1-1-scaled.jpg",
+    "author": "Ana Azevedo",
+    "pub_date": "2026-07-21T17:04:02+00:00",
+    "source_category_raw": "Feiras e Eventos",
+    "all_categories": [
+      "Feiras e Eventos",
+      "LGBT Expo 2026"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.699,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718346",
+    "title": "HHN 2026: Universal Studios anuncia a casa assombrada Evil Dead Burn, da franquia A Morte do Demônio",
+    "link": "https://www.mercadoeeventos.com.br/noticias/parques-e-atracoes/hhn-2026-universal-studios-anuncia-a-casa-assombrada-evil-dead-burn-da-franquia-a-morte-do-demonio/",
+    "description": "Todos os ingressos já estão à venda para o Universal Orlando Resort e Universal Studios Hollywood, incluindo Frequent Fear Pass para Orlando",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-2026-07-21T134448.176.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-21T16:54:09+00:00",
+    "source_category_raw": "Parques e Atrações",
+    "all_categories": [
+      "Parques e Atrações"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.9011,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.674,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718262",
+    "title": "Accor defende turismo inclusivo para público LGBT 60+ e alerta para potencial ainda pouco explorado",
+    "link": "https://www.mercadoeeventos.com.br/feiras-e-eventos/accor-defende-turismo-inclusivo-para-publico-lgbt-60-e-alerta-para-potencial-ainda-pouco-explorado/",
+    "description": "Analista da Accor afirma que viajantes maduros buscam experiências, segurança e acolhimento",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/IMG_6885-scaled.jpg",
+    "author": "Janaina Brito",
+    "pub_date": "2026-07-21T16:40:24+00:00",
+    "source_category_raw": "Feiras e Eventos",
+    "all_categories": [
+      "Feiras e Eventos",
+      "LGBT Expo 2026"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.697,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "abcmais_hortensias",
+    "guid": "https://www.abcmais.com/brasil/choveu-em-gramado-e-canela-veja-atracoes-e-dicas-do-que-fazer-com-o-tempo-instavel/",
+    "title": "Choveu em Gramado e Canela? Veja atrações e dicas do que fazer com o tempo instável",
+    "link": "https://www.abcmais.com/brasil/rio-grande-do-sul/hortensias/gramado/choveu-em-gramado-e-canela-veja-atracoes-e-dicas-do-que-fazer-com-o-tempo-instavel/",
+    "description": "Períodos mais instáveis são comuns, por isso, calma: Gramado e Canela possuem muitas dicas e atrativos turísticos preparados e pensados para este tempo",
+    "image_url": "https://midia.gruposinos.com.br/_midias/jpg/2026/07/21/gramado_chuva__6_-22833807.jpeg",
+    "author": "five.integracao",
+    "pub_date": "2026-07-21T16:31:00+00:00",
+    "source_category_raw": "Brasil",
+    "all_categories": [
+      "Brasil",
+      "Gramado",
+      "Hortênsias",
+      "Rio Grande do Sul",
+      "CANELA",
+      "central de inverno",
+      "CHUVA",
+      "CHUVA EM GRAMADO",
+      "CINEMA",
+      "DICAS",
+      "gramado",
+      "gramado parks",
+      "inverno em gramado",
+      "INVERNO NA SERRA",
+      "NBA PARK",
+      "o que fazer com chuva em gramado",
+      "parques turísticos",
+      "REGIÃO DAS HORTÊNSIAS",
+      "RUA COBERTA",
+      "serra gaucha",
+      "snowland",
+      "TEMPO",
+      "tempo em gramado",
+      "turismo"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.7126,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.505,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718280",
+    "title": "OTT Consolidadora lança parcelamento de passagens aéreas no boleto bancário",
+    "link": "https://www.mercadoeeventos.com.br/_destaque_/agencias-e-operadoras-destaque/ott-consolidadora-lanca-parcelamento-de-passagens-aereas-no-boleto-bancario/",
+    "description": "Solução oferece processo online, validação biométrica e nova opção de pagamento para o setor",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Vagner-Silva-e-Vinicius-Chagas-ao-fundo-scaled.jpg",
+    "author": "Yuri Ricci",
+    "pub_date": "2026-07-21T16:07:19+00:00",
+    "source_category_raw": "Agencias e Operadoras - Destaque",
+    "all_categories": [
+      "Agencias e Operadoras - Destaque"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4345,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.554,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718270",
+    "title": "Atenção, pilotos! Azul anuncia novas contratações até o fim do ano; são mais de 400 vagas",
+    "link": "https://www.mercadoeeventos.com.br/noticias/empregos/atencao-pilotos-azul-anuncia-novas-contratacoes-ate-o-fim-do-ano-sao-mais-de-400-vagas/",
+    "description": "Azul acelera expansão da operação com chegada de novas aeronaves, reforça investimentos em treinamento e amplia oportunidades",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/AZUL-A330-200-VCP-atualizado.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-21T15:34:48+00:00",
+    "source_category_raw": "Oportunidades profissionais",
+    "all_categories": [
+      "Oportunidades profissionais"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.7952,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.842,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718273",
+    "title": "Buscas por viagens nacionais no Airbnb crescem quase 30% nas férias de meio de ano",
+    "link": "https://www.mercadoeeventos.com.br/noticias/hotelaria/buscas-por-viagens-nacionais-no-airbnb-crescem-quase-30-nas-ferias-de-meio-de-ano/",
+    "description": "Plataforma aponta avanço nas buscas por destinos nacionais e internacionais durante a temporada de inverno",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-9-2.jpg",
+    "author": "Yuri Ricci",
+    "pub_date": "2026-07-21T15:27:39+00:00",
+    "source_category_raw": "Hotelaria",
+    "all_categories": [
+      "Hotelaria"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.692,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718261",
+    "title": "Delta amplia tarifas Basic para cabines premium e inclui Delta One",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/delta-amplia-tarifas-basic-para-cabines-premium-e-inclui-delta-one/",
+    "description": "Delta aposta em novas opções de tarifas para ampliar o acesso às classes premium em mercados selecionados",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-7-2.jpg",
+    "author": "Yuri Ricci",
+    "pub_date": "2026-07-21T15:18:24+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.892,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/operadoras/2026/07/sakura-anuncia-novos-gerentes-para-rio-sao-paulo-e-centro-oeste_230377.html",
+    "title": "Sakura anuncia novos gerentes para Rio, São Paulo e Centro-Oeste",
+    "link": "https://www.panrotas.com.br/mercado/operadoras/2026/07/sakura-anuncia-novos-gerentes-para-rio-sao-paulo-e-centro-oeste_230377.html",
+    "description": "Profissionais ex-Flytour dão sequência ao movimento de expansão após a chegada de Luti Guimarães",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/21/539d53892809d6c6c518075f315f3b7a-montagemnota.jpg.jpeg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-07-21T15:04:00+00:00",
+    "source_category_raw": "Mercado - Operadoras",
+    "all_categories": [
+      "Mercado - Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Operadoras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.691,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/receptivos/2026/07/carrani-tours-e-city-tour-worldwide-abrem-centro-de-atendimento-em-roma_230372.html",
+    "title": "Carrani Tours e City Tour Worldwide abrem centro de atendimento em Roma",
+    "link": "https://www.panrotas.com.br/mercado/receptivos/2026/07/carrani-tours-e-city-tour-worldwide-abrem-centro-de-atendimento-em-roma_230372.html",
+    "description": "Espaço próximo à estação Termini reúne atendimento, operações e venda de passeios",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/01/20/c2abdfd579118e73aede62fa6cbb6adb-dsc3736.jpg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-07-21T14:39:00+00:00",
+    "source_category_raw": "Mercado - Receptivos",
+    "all_categories": [
+      "Mercado - Receptivos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Receptivos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.689,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=718197",
     "title": "Frt Operadora realiza famtrip no Egito com agentes de quatro estados",
     "link": "https://www.mercadoeeventos.com.br/_destaque_/agencias-e-operadoras-destaque/frt-operadora-realiza-famtrip-no-egito-com-agentes-de-quatro-estados/",
@@ -19,30 +297,31 @@
     "category_mapping_confidence": 0.7236,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.63,
+    "destaque_score": 0.62,
     "layout_tier": "grade"
   },
   {
     "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=718239",
     "title": "Bruno Reis destaca potencial do turismo LGBT+ e prevê recorde de 10 milhões de turistas internacionais em 2026",
-    "link": "https://www.mercadoeeventos.com.br/uncategorized/bruno-reis-destaca-potencial-do-turismo-lgbt-e-preve-recorde-de-10-milhoes-de-turistas-internacionais-em-2026/",
+    "link": "https://www.mercadoeeventos.com.br/feiras-e-eventos/bruno-reis-destaca-potencial-do-turismo-lgbt-e-preve-recorde-de-10-milhoes-de-turistas-internacionais-em-2026/",
     "description": "Embratur prevê 10 milhões de turistas internacionais e reforça aposta no turismo LGBT+",
     "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Bruno-Reis-presidente-da-Embratur-no-LGBT-Turismo-Expo-3-scaled.jpg",
     "author": "Janaina Brito",
     "pub_date": "2026-07-21T14:07:52+00:00",
-    "source_category_raw": "Uncategorized",
+    "source_category_raw": "Feiras e Eventos",
     "all_categories": [
-      "Uncategorized"
+      "Feiras e Eventos",
+      "LGBT Expo 2026"
     ],
     "in_scope": true,
-    "canonical_category_l1": "Destinos",
+    "canonical_category_l1": "Eventos e Feiras",
     "canonical_category_l2": null,
-    "category_mapping_method": "modelo_svc_tfidf",
-    "category_mapping_confidence": 0.625,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.604,
+    "destaque_score": 0.687,
     "layout_tier": "grade"
   },
   {
@@ -90,6 +369,29 @@
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
     "destaque_score": 0.697,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/consolidadoras/2026/07/ott-consolidadora-lanca-parcelamento-de-passagens-aereas-via-boleto-bancario_230378.html",
+    "title": "OTT Consolidadora lança parcelamento de passagens aéreas via boleto bancário",
+    "link": "https://www.panrotas.com.br/mercado/consolidadoras/2026/07/ott-consolidadora-lanca-parcelamento-de-passagens-aereas-via-boleto-bancario_230378.html",
+    "description": "Nova modalidade permite parcelar bilhetes aéreos em até dez vezes com validação biométrica",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/21/3a9715834ae22a52e923e256358aa73d-vagnersilvaeeduardovansan.jpeg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-07-21T13:57:00+00:00",
+    "source_category_raw": "Mercado - Consolidadoras",
+    "all_categories": [
+      "Mercado - Consolidadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Consolidadoras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.686,
     "layout_tier": "grade"
   },
   {
@@ -231,6 +533,29 @@
     "layout_tier": "grade"
   },
   {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/transporte/2026/07/copa-do-mundo-2026-deixa-licoes-para-o-futuro-da-mobilidade-no-turismo-veja-quais_230298.html",
+    "title": "Copa do Mundo 2026 deixa lições para o futuro da mobilidade no Turismo; veja quais",
+    "link": "https://www.panrotas.com.br/mercado/transporte/2026/07/copa-do-mundo-2026-deixa-licoes-para-o-futuro-da-mobilidade-no-turismo-veja-quais_230298.html",
+    "description": "Planejamento e tecnologia contribuem para deslocamentos terrestres mais práticos e seguros",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/16/5b5a293d29a50f05b74355023ecaefa4-imagenilustrativa21.png",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-07-21T12:29:00+00:00",
+    "source_category_raw": "Mercado - Transporte",
+    "all_categories": [
+      "Mercado - Transporte"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Transporte",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.681,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=718182",
     "title": "“LGBT + Turismo Expo se tornará a maior feira do mundo no segmento em poucos anos”, afirma idealizador do evento",
@@ -275,6 +600,29 @@
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
     "destaque_score": 0.7,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/07/grupo-abra-dono-de-gol-e-avianca-fecha-acordo-para-aquisicao-de-ate-45-embraer-e195-e2s_230371.html",
+    "title": "Grupo Abra, dono de Gol e Avianca, fecha acordo para aquisição de até 45 Embraer E195-E2s",
+    "link": "https://www.panrotas.com.br/aviacao/empresas/2026/07/grupo-abra-dono-de-gol-e-avianca-fecha-acordo-para-aquisicao-de-ate-45-embraer-e195-e2s_230371.html",
+    "description": "Embraer E2 permitirá o Grupo Abra operar rotas de menor demanda e abrir novos mercados",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/21/a36d7275c82642b08c49982848f0bdd4-1784634626465.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-07-21T12:20:00+00:00",
+    "source_category_raw": "Aviação - Empresas",
+    "all_categories": [
+      "Aviação - Empresas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Empresas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.88,
     "layout_tier": "manchete"
   },
   {
@@ -339,7 +687,30 @@
     "category_mapping_confidence": 0.4962,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.444,
+    "destaque_score": 0.434,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/tecnologia/2026/07/plataforma-conectara-agentes-de-viagens-a-hospedagens-e-atrativos-do-japao_230357.html",
+    "title": "Plataforma conectará agentes de viagens a hospedagens e atrativos do Japão",
+    "link": "https://www.panrotas.com.br/mercado/tecnologia/2026/07/plataforma-conectara-agentes-de-viagens-a-hospedagens-e-atrativos-do-japao_230357.html",
+    "description": "Nova plataforma B2B oferece acesso a mais de 20 mil meios de hospedagem no país asiático",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2017/03/10/0d0e6b2ce25f350d878a0210d62b4c00-montefuji.jpg",
+    "author": "Karina Cede&#241;o",
+    "pub_date": "2026-07-21T12:04:00+00:00",
+    "source_category_raw": "Mercado - Tecnologia",
+    "all_categories": [
+      "Mercado - Tecnologia"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Tecnologia",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.679,
     "layout_tier": "grade"
   },
   {
@@ -362,7 +733,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.887,
+    "destaque_score": 0.877,
     "layout_tier": "manchete"
   },
   {
@@ -370,7 +741,7 @@
     "guid": "1697099 at https://agenciabrasil.ebc.com.br",
     "title": "Modelo do Pix desafia controle financeiro dos EUA sobre o Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/modelo-do-pix-desafia-controle-financeiro-dos-eua-sobre-o-brasil",
-    "description": "O Pix brasileiro virou um dos alvos do governo dos Estados Unidos (EUA), entre outros motivos, por desafiar o controle financeiro de Washington sobre a infraestrutura brasileira de pagamentos eletrônicos. A avaliação é de especialistas em economia e relações internacionais consultados pela Agência Brasil. A razão do governo de Donald Trump para incluir o Pix entre as justificativas para o tarifaço de 25% seria, em primeiro lugar, geopolítica, e não estritamente econômica motivada pela concorrência com empresas dos EUA como Visa, MasterCard ou Whatsapp Pay. Notícias relacionadas: Entenda a Lei de Reciprocidade, que o Brasil pode adotar contra os EUA. Brasil não deixará de negociar tarifas impostas pelos EUA, diz Durigan. EUA atacam Pix para favorecer empresas de pagamentos estadunidenses. O professor de economia da Universidade Federal Rural do Rio de Janeiro (UFRRJ) Maicon Cláudio da Silva destaca que o ataque ao Pix tem relação direta com a perda de poder e controle dos EUA sobre o sistema financeiro do Brasil. “Esse tipo de medida deixa evidente que os EUA não querem perder esse poder que eles têm hoje sobre o sistema financeiro em boa parte do mundo. Não à toa, a China não usa Visa e Mastercard. Ela tem sistemas próprios, e isso tem a ver com uma maior soberania e autonomia desse país”, disse. Professor de economia da UFRRJ, Maicon Cláudio da Silva diz que ataque ao Pix tem relação direta com perda de poder dos EUA sobre sistema financeiro do Brasil - Foto: UFRRJ/ Divulgação Silva lembrou que o Pix aumentou a bancarização da população brasileira, trazendo ganhos econômicos também para as empresas dos EUA. “Movimentos econômicos que antes ocorriam só no dinheiro passaram a ocorrer via sistema financeiro, através do Pix. Isso facilita o acesso das pessoas a contas bancárias e, eventualmente, também a cartão de crédito”, explicou. Em 2025, os cartões movimentaram R$ 4,5 trilhões na esteira da expansão do Pix. Um crescimento de 10,1%, segundo dados da Associação Brasileira das Empresas de Cartões de Crédito e Serviços (Abecs). Perdas econômicas imediatas Como os EUA têm superávit comercial com o Brasil, o tarifaço tende a prejudicar mais as empresas americanas , observou o professor da UFRRJ. Nesse contexto, os interesses econômicos imediatos são deixados de lado. “Do ponto de vista imediato, essas taxas acabam prejudicando mais os EUA. Por isso, essa é uma política econômica internacional focada em exercer poder por meio das sanções e tarifaços de maneira a pressionar os países a se submeterem aos EUA”, finalizou. Pix como instrumento de poder O professor de geopolítica da Escola Superior de Guerra (ESG) Ronaldo Carmona destacou que o Pix se tornou um instrumento de poder do Brasil, ampliando a soberania econômica e financeira do país. Professor de geopolítica da Escola Superior de Guerra (ESG), Ronaldo Carmon fiz que Pix se tornou instrumento de poder do Brasil - Foto: Sindicato dos Bancários da Bahia “Ao aumentar a autonomia e a soberania do país, o Brasil promove o comércio exterior bilateral com outros países em moedas nacionais, fugindo da arbitragem e da senhoriagem [receita oriundo da emissão de moeda] do dólar”, comentou. Carmona citou ainda o fato de o Banco Central ter acordos de cooperação técnica com 47 países para implementação de sistemas semelhantes ao Pix em outras nações, o que pode fragilizar ainda mais o controle de Washington sobre as transações financeiras em outras partes do mundo. O Pix barra sanções Sistemas de pagamentos nacionais, como o Pix, limitam a aplicação de sanções econômicas dos EUA contra instituições e indivíduos, “diferentemente do que ocorre com sistemas americanos”, explicou Ronaldo Carmona. Isso porque os sistemas de pagamento com sede nos EUA costumam cumprir todas as sanções da Casa Branca. Maicon Cláudio da Silva, professor de economia da UFRRJ, citou as sanções contra o ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes e o bloqueio a Cuba como casos em que Washington projeta poder sobre países soberanos por meio de bloqueios financeiros. “O avanço do bloqueio econômico dos EUA contra Cuba acabou levando a Visa e a Mastercard a deixar de operar na ilha. Ao controlar os meios de pagamento, os EUA podem, a qualquer momento, tomar algum tipo de sanção econômica contra países ou indivíduos”, explicou. Europa busca soberania financeira Em artigo publicado dias antes do anúncio do tarifaço contra o Brasil, a revista inglesa The Economist afirma que o Pix brasileiro, assim como outras iniciativas da União Europeia (UE), tem ameaçado a “supremacia” financeira dos EUA. “A ascensão de sistemas ‘soberanos’, especialmente na Europa – uma grande fonte dos negócios internacionais da Visa e da Mastercard –, poderia corroer suas invejáveis margens operacionais de mais de 50%”, diz a revista especializada em finanças globais. Recentemente, a UE anunciou o Euro Digital, sistema de pagamentos eletrônicos semelhante ao Pix, de acesso gratuito e público, com previsão de lançamento do projeto-piloto em 2027. A presidente do Banco Central Europeu (BCE), Christine Lagarde, não escondeu que o objetivo é reduzir a dependência dos sistemas estrangeiros. \"Dependemos predominantemente das redes americanas, mas também, por vezes, das chinesas, para organizar os pagamentos. Precisamos de uma solução europeia porque queremos ser soberanos internamente\", afirmou ao portal Euronews.",
+    "description": "O Pix brasileiro virou um dos alvos do governo dos Estados Unidos (EUA), entre outros motivos, por desafiar o controle financeiro de Washington sobre a infraestrutura brasileira de pagamentos eletrônicos. A avaliação é de especialistas em economia e relações internacionais consultados pela Agência Brasil. A razão do governo de Donald Trump para incluir o Pix entre as justificativas para o tarifaço de 25% seria, em primeiro lugar, geopolítica, e não estritamente econômica motivada pela concorrência com empresas dos EUA como Visa, MasterCard ou Whatsapp Pay. Notícias relacionadas: Entenda a Lei de Reciprocidade, que o Brasil pode adotar contra os EUA. Brasil não deixará de negociar tarifas impostas pelos EUA, diz Durigan. EUA atacam Pix para favorecer empresas de pagamentos estadunidenses. O professor de economia da Universidade Federal Rural do Rio de Janeiro (UFRRJ) Maicon Cláudio da Silva destaca que o ataque ao Pix tem relação direta com a perda de poder e controle dos EUA sobre o sistema financeiro do Brasil. “Esse tipo de medida deixa evidente que os EUA não querem perder esse poder que eles têm hoje sobre o sistema financeiro em boa parte do mundo. Não à toa, a China não usa Visa e Mastercard. Ela tem sistemas próprios, e isso tem a ver com uma maior soberania e autonomia desse país”, disse. Professor de economia da UFRRJ, Maicon Cláudio da Silva diz que ataque ao Pix tem relação direta com perda de poder dos EUA sobre sistema financeiro do Brasil - Foto: UFRRJ/ Divulgação Silva lembrou que o Pix aumentou a bancarização da população brasileira, trazendo ganhos econômicos também para as empresas dos EUA. “Movimentos econômicos que antes ocorriam só no dinheiro passaram a ocorrer via sistema financeiro, através do Pix. Isso facilita o acesso das pessoas a contas bancárias e, eventualmente, também a cartão de crédito”, explicou. Em 2025, os cartões movimentaram R$ 4,5 trilhões na esteira da expansão do Pix. Um crescimento de 10,1%, segundo dados da Associação Brasileira das Empresas de Cartões de Crédito e Serviços (Abecs). Perdas econômicas imediatas Como os EUA têm superávit comercial com o Brasil, o tarifaço tende a prejudicar mais as empresas americanas , observou o professor da UFRRJ. Nesse contexto, os interesses econômicos imediatos são deixados de lado. “Do ponto de vista imediato, essas taxas acabam prejudicando mais os EUA. Por isso, essa é uma política econômica internacional focada em exercer poder por meio das sanções e tarifaços de maneira a pressionar os países a se submeterem aos EUA”, finalizou. Pix como instrumento de poder O professor de geopolítica da Escola Superior de Guerra (ESG) Ronaldo Carmona destacou que o Pix se tornou um instrumento de poder do Brasil, ampliando a soberania econômica e financeira do país. Para o professor de geopolítica da Escola Superior de Guerra (ESG) Ronaldo Carmon, o Pix se tornou instrumento de poder do Brasil - Foto: Sindicato dos Bancários da Bahia “Ao aumentar a autonomia e a soberania do país, o Brasil promove o comércio exterior bilateral com outros países em moedas nacionais, fugindo da arbitragem e da senhoriagem [receita oriundo da emissão de moeda] do dólar”, comentou. Carmona citou ainda o fato de o Banco Central ter acordos de cooperação técnica com 47 países para implementação de sistemas semelhantes ao Pix em outras nações, o que pode fragilizar ainda mais o controle de Washington sobre as transações financeiras em outras partes do mundo. O Pix barra sanções Sistemas de pagamentos nacionais, como o Pix, limitam a aplicação de sanções econômicas dos EUA contra instituições e indivíduos, “diferentemente do que ocorre com sistemas americanos”, explicou Ronaldo Carmona. Isso porque os sistemas de pagamento com sede nos EUA costumam cumprir todas as sanções da Casa Branca. Maicon Cláudio da Silva, professor de economia da UFRRJ, citou as sanções contra o ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes e o bloqueio a Cuba como casos em que Washington projeta poder sobre países soberanos por meio de bloqueios financeiros. “O avanço do bloqueio econômico dos EUA contra Cuba acabou levando a Visa e a Mastercard a deixar de operar na ilha. Ao controlar os meios de pagamento, os EUA podem, a qualquer momento, tomar algum tipo de sanção econômica contra países ou indivíduos”, explicou. Europa busca soberania financeira Em artigo publicado dias antes do anúncio do tarifaço contra o Brasil, a revista inglesa The Economist afirma que o Pix brasileiro, assim como outras iniciativas da União Europeia (UE), tem ameaçado a “supremacia” financeira dos EUA. “A ascensão de sistemas ‘soberanos’, especialmente na Europa – uma grande fonte dos negócios internacionais da Visa e da Mastercard –, poderia corroer suas invejáveis margens operacionais de mais de 50%”, diz a revista especializada em finanças globais. Recentemente, a UE anunciou o Euro Digital, sistema de pagamentos eletrônicos semelhante ao Pix, de acesso gratuito e público, com previsão de lançamento do projeto-piloto em 2027. A presidente do Banco Central Europeu (BCE), Christine Lagarde, não escondeu que o objetivo é reduzir a dependência dos sistemas estrangeiros. \"Dependemos predominantemente das redes americanas, mas também, por vezes, das chinesas, para organizar os pagamentos. Precisamos de uma solução europeia porque queremos ser soberanos internamente\", afirmou ao portal Euronews.",
     "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Lucas Pordeus León - Repórter da Agência Brasil",
     "pub_date": "2026-07-21T11:31:00+00:00",
@@ -381,7 +752,7 @@
       "tarifaço",
       "Estados Unidos",
       "EUA",
-      "Comércio Exterior"
+      "comércio exterior"
     ],
     "in_scope": true,
     "canonical_category_l1": "Destinos",
@@ -390,7 +761,7 @@
     "category_mapping_confidence": 0.5751,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.501,
+    "destaque_score": 0.491,
     "layout_tier": "grade"
   },
   {
@@ -441,7 +812,7 @@
     "category_mapping_confidence": 0.3259,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.596,
+    "destaque_score": 0.59,
     "layout_tier": "grade"
   },
   {
@@ -512,7 +883,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.64,
+    "destaque_score": 0.634,
     "layout_tier": "grade"
   },
   {
@@ -627,7 +998,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.638,
+    "destaque_score": 0.632,
     "layout_tier": "grade"
   },
   {
@@ -673,7 +1044,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.637,
+    "destaque_score": 0.631,
     "layout_tier": "grade"
   },
   {
@@ -767,7 +1138,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.636,
+    "destaque_score": 0.629,
     "layout_tier": "grade"
   },
   {
@@ -790,7 +1161,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.634,
+    "destaque_score": 0.628,
     "layout_tier": "grade"
   },
   {
@@ -813,7 +1184,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.633,
+    "destaque_score": 0.627,
     "layout_tier": "grade"
   },
   {
@@ -836,7 +1207,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.633,
+    "destaque_score": 0.627,
     "layout_tier": "grade"
   },
   {
@@ -905,7 +1276,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.631,
+    "destaque_score": 0.625,
     "layout_tier": "grade"
   },
   {
@@ -928,7 +1299,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.63,
+    "destaque_score": 0.625,
     "layout_tier": "grade"
   },
   {
@@ -998,7 +1369,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.629,
+    "destaque_score": 0.623,
     "layout_tier": "grade"
   },
   {
@@ -1164,7 +1535,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.627,
+    "destaque_score": 0.621,
     "layout_tier": "grade"
   },
   {
@@ -1187,7 +1558,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.627,
+    "destaque_score": 0.621,
     "layout_tier": "grade"
   },
   {
@@ -1210,7 +1581,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.626,
+    "destaque_score": 0.621,
     "layout_tier": "grade"
   },
   {
@@ -1231,7 +1602,7 @@
     "category_mapping_confidence": 0.3679,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.548,
+    "destaque_score": 0.542,
     "layout_tier": "grade"
   },
   {
@@ -1258,7 +1629,7 @@
     "category_mapping_confidence": 0.4292,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.603,
+    "destaque_score": 0.597,
     "layout_tier": "grade"
   },
   {
@@ -1281,7 +1652,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.625,
+    "destaque_score": 0.62,
     "layout_tier": "grade"
   },
   {
@@ -1308,7 +1679,7 @@
     "category_mapping_confidence": 0.7775,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.689,
+    "destaque_score": 0.683,
     "layout_tier": "grade"
   },
   {
@@ -1331,7 +1702,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.824,
+    "destaque_score": 0.819,
     "layout_tier": "manchete"
   },
   {
@@ -1383,7 +1754,7 @@
     "category_mapping_confidence": 0.226,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.37,
+    "destaque_score": 0.305,
     "layout_tier": "condensado"
   },
   {
@@ -1427,7 +1798,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.623,
+    "destaque_score": 0.618,
     "layout_tier": "grade"
   },
   {
@@ -1450,7 +1821,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.822,
+    "destaque_score": 0.817,
     "layout_tier": "manchete"
   },
   {
@@ -1571,7 +1942,7 @@
     "category_mapping_confidence": 0.7939,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.689,
+    "destaque_score": 0.684,
     "layout_tier": "grade"
   },
   {
@@ -1594,7 +1965,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.821,
+    "destaque_score": 0.816,
     "layout_tier": "manchete"
   },
   {
@@ -1687,7 +2058,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.62,
+    "destaque_score": 0.615,
     "layout_tier": "grade"
   },
   {
@@ -1710,7 +2081,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.62,
+    "destaque_score": 0.614,
     "layout_tier": "grade"
   },
   {
@@ -1737,7 +2108,7 @@
     "category_mapping_confidence": 0.3245,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.37,
+    "destaque_score": 0.365,
     "layout_tier": "condensado"
   },
   {
@@ -1760,7 +2131,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.818,
+    "destaque_score": 0.813,
     "layout_tier": "manchete"
   },
   {
@@ -1813,7 +2184,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.618,
+    "destaque_score": 0.613,
     "layout_tier": "grade"
   },
   {
@@ -1866,7 +2237,7 @@
     "category_mapping_confidence": 0.59,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.612,
+    "destaque_score": 0.609,
     "layout_tier": "grade"
   },
   {
@@ -1896,7 +2267,7 @@
     "category_mapping_confidence": 0.3482,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.345,
+    "destaque_score": 0.342,
     "layout_tier": "condensado"
   },
   {
@@ -1925,7 +2296,7 @@
     "category_mapping_confidence": 0.389,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.339,
+    "destaque_score": 0.338,
     "layout_tier": "condensado"
   },
   {
@@ -1980,7 +2351,7 @@
     "category_mapping_confidence": 0.3522,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.52,
+    "destaque_score": 0.519,
     "layout_tier": "grade"
   },
   {
@@ -2003,7 +2374,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.561,
     "layout_tier": "grade"
   },
   {
@@ -2074,7 +2445,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2121,7 +2492,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2167,7 +2538,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2239,7 +2610,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2262,7 +2633,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2285,7 +2656,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2383,7 +2754,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2522,7 +2893,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2591,7 +2962,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.76,
+    "destaque_score": 0.759,
     "layout_tier": "manchete"
   },
   {
@@ -2660,7 +3031,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2852,7 +3223,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -2875,7 +3246,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -2921,7 +3292,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -2944,7 +3315,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -2967,7 +3338,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -2990,7 +3361,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -3087,7 +3458,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.756,
+    "destaque_score": 0.755,
     "layout_tier": "manchete"
   },
   {
@@ -3137,7 +3508,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.756,
+    "destaque_score": 0.755,
     "layout_tier": "manchete"
   },
   {
@@ -3160,7 +3531,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3206,7 +3577,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.756,
+    "destaque_score": 0.755,
     "layout_tier": "manchete"
   },
   {
@@ -3324,7 +3695,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3900,7 +4271,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -3923,7 +4294,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -3969,7 +4340,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4061,7 +4432,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -4084,7 +4455,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -4107,7 +4478,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4130,7 +4501,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4153,7 +4524,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -4176,7 +4547,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -4768,7 +5139,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4861,7 +5232,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4884,7 +5255,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -8744,7 +9115,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
