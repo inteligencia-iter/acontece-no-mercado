@@ -1,5 +1,34 @@
 [
   {
+    "source_id": "agenciabrasil",
+    "guid": "1697185 at https://agenciabrasil.ebc.com.br",
+    "title": "Acordo regulamenta trabalho no comércio em feriados",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/acordo-regulamenta-trabalho-no-comercio-em-feriados",
+    "description": "O ministro do Trabalho e Emprego, Luiz Marinho, assinou nesta terça-feira (21) a portaria que regulamenta o trabalho no comércio durante os feriados. As negociações duraram cerca de três anos entre representantes dos trabalhadores, do setor empresarial e do governo. A norma, que será publicada no Diário Oficial da União desta quarta-feira (22) e entra em vigor imediatamente, estabelece que o funcionamento do comércio nessas datas dependerá de autorização prevista em Convenção Coletiva de Trabalho (CCT), firmada entre sindicatos de trabalhadores e empregadores. Ao mesmo tempo, restabelece a autorização permanente para uma lista de atividades consideradas essenciais ou de interesse público. O que muda Notícias relacionadas: Trabalhadores nascidos em setembro e outubro recebem abono salarial. Economía crece 0,7% en mayo impulsada por el consumo de los hogares. Câmara aprova, em dois turnos, PEC pelo fim da escala 6x1. Com a nova regulamentação, empresas do comércio somente poderão funcionar em feriados quando houver previsão em convenção coletiva da categoria. Na prática, a decisão unilateral do empregador deixa de ser suficiente para autorizar o funcionamento em feriados para as atividades abrangidas pela norma. A regra mantém a necessidade de observância da Consolidação das Leis do Trabalho (CLT) e da legislação municipal aplicável. Setores liberados As seguintes atividades passam a ter autorização permanente para funcionar em feriados, sem necessidade de convenção coletiva: Venda de pães e biscoitos; Farmácias, inclusive de manipulação; Comércio de flores e coroas; Barbearias e salões de beleza; Postos de combustíveis; Comércio varejista de gás liquefeito de petróleo (GLP); Locação de bicicletas e equipamentos similares; Hotéis, restaurantes, bares e estabelecimentos similares; Casas de diversão e estabelecimentos esportivos com cobrança de ingresso; Feiras livres; Porteiros e cabineiros de edifícios residenciais; Agências de turismo, locadoras de veículos e embarcações; Comércio em feiras e exposições; Lavanderias, inclusive hospitalares; Serviços funerários. As demais atividades comerciais, incluindo supermercados e comércio varejista em geral, dependerão de negociação coletiva para operar em feriados. Negociação Durante a cerimônia de assinatura, Luiz Marinho afirmou que a regulamentação é resultado do diálogo entre trabalhadores e empregadores. \"O que a gente espera é que haja maturidade das lideranças sindicais para que, em torno de uma mesa, possam encontrar soluções para problemas que muitas vezes pareciam não ter solução. Esse é o espírito do nosso governo, buscar o diálogo\", disse. O ministro acrescentou que o governo continuará atuando como mediador sempre que houver necessidade. \"Enquanto houver problema, as portas do diálogo têm que permanecer abertas. É a forma mais eficiente de evitar conflitos\", declarou o ministro. Segurança jurídica Representante do setor privado na cerimônia, o presidente da Fecomércio-SP e diretor da Confederação Nacional de Bens, Serviços e Turismo (CNC), Ivo Dall'Acqua, avalia que o acordo traz maior previsibilidade para empresas e trabalhadores ao preservar a negociação coletiva prevista na legislação trabalhista. \"Os critérios estão mais claros para a organização das atividades aos feriados\", destacou. Segundo ele, a norma fortalece a segurança jurídica das relações de trabalho ao permitir que empregadores e sindicatos negociem regras específicas para cada categoria, respeitando a Constituição e a CLT. Dall'Acqua também destacou que o entendimento firmado não encerra o debate sobre o tema. \"Hoje estamos celebrando um acordo muito bem discutido, mas a discussão não para por aqui. O nosso diálogo tem que ser permanente\", afirmou. Histórico A regulamentação é resultado das negociações iniciadas em 2023, após a publicação da Portaria nº 3.665 , que voltou a exigir convenção coletiva para o trabalho em feriados no comércio e substituiu a regra editada em 2021, que autorizava de forma permanente o funcionamento de diversos setores sem necessidade de negociação. A nova portaria também determina que futuras inclusões ou exclusões de atividades com autorização permanente para funcionamento em feriados deverão ser analisadas por uma comissão tripartite , formada por representantes do governo, dos trabalhadores e dos empregadores.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Wellton Máximo - Repórter da Agência Brasil",
+    "pub_date": "2026-07-21T21:34:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "trabalho nos feriados",
+      "CLT",
+      "Ministério do Trabalho",
+      "trabalhadores",
+      "Empregadores",
+      "Trabalho no comércio"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3458,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.654,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=718418",
     "title": "Veja mais fotos da LGBT+ Turismo Expo 2026",
@@ -20,7 +49,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.696,
+    "destaque_score": 0.693,
     "layout_tier": "grade"
   },
   {
@@ -43,7 +72,53 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.696,
+    "destaque_score": 0.693,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/pesquisas-e-estatisticas/2026/07/como-e-onde-os-brasileiros-gastaram-na-copa-do-mundo-2026-nova-york-e-miami-lideram_230397.html",
+    "title": "Como e onde os brasileiros gastaram na Copa do Mundo 2026? Nova York e Miami lideram",
+    "link": "https://www.panrotas.com.br/mercado/pesquisas-e-estatisticas/2026/07/como-e-onde-os-brasileiros-gastaram-na-copa-do-mundo-2026-nova-york-e-miami-lideram_230397.html",
+    "description": "Levantamento aponta destinos, hábitos de consumo e formas de pagamento durante o torneio",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/21/80e717e7226e7579ff1dc0fb89461a39-unnamed20260721t170249.374.jpg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-07-21T20:17:00+00:00",
+    "source_category_raw": "Mercado - Pesquisas e Estatísticas",
+    "all_categories": [
+      "Mercado - Pesquisas e Estatísticas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": "Pesquisas e Estatísticas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.892,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/operadoras/2026/07/diversa-turismo-lanca-campanha-360-estados-unidos-com-premiacao-para-agentes_230393.html",
+    "title": "Diversa Turismo lança campanha 360 Estados Unidos com premiação para agentes",
+    "link": "https://www.panrotas.com.br/mercado/operadoras/2026/07/diversa-turismo-lanca-campanha-360-estados-unidos-com-premiacao-para-agentes_230393.html",
+    "description": "Ação vai até setembro e levará Destaques do Ano para roteiro por dez destinos nos EUA",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/21/edb8a042d4352aa9bcad2b3fd0d30577-image0031.jpg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-07-21T19:48:00+00:00",
+    "source_category_raw": "Mercado - Operadoras",
+    "all_categories": [
+      "Mercado - Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Operadoras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.69,
     "layout_tier": "grade"
   },
   {
@@ -66,7 +141,7 @@
     "category_mapping_confidence": 0.3712,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.616,
+    "destaque_score": 0.612,
     "layout_tier": "grade"
   },
   {
@@ -95,7 +170,7 @@
     "category_mapping_confidence": 0.2088,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.414,
+    "destaque_score": 0.411,
     "layout_tier": "grade"
   },
   {
@@ -118,7 +193,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.692,
+    "destaque_score": 0.689,
     "layout_tier": "grade"
   },
   {
@@ -141,7 +216,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.692,
+    "destaque_score": 0.688,
     "layout_tier": "grade"
   },
   {
@@ -164,8 +239,31 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.691,
+    "destaque_score": 0.688,
     "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/pesquisas-e-estatisticas/2026/07/idet-panrotas-73-das-empresas-ampliam-margens-e-90-das-operadoras-vendem-mais-em-junho_230380.html",
+    "title": "IDET PANROTAS: 73% das empresas ampliam margens e 90% das operadoras vendem mais em junho",
+    "link": "https://www.panrotas.com.br/mercado/pesquisas-e-estatisticas/2026/07/idet-panrotas-73-das-empresas-ampliam-margens-e-90-das-operadoras-vendem-mais-em-junho_230380.html",
+    "description": "Mês de junho fechou com 72,73% das empresas reportando margens maiores que há um ano",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/15/3448398b73d3f12265aab4ed94888339-idetnota.jpg.jpeg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-07-21T19:00:00+00:00",
+    "source_category_raw": "Mercado - Pesquisas e Estatísticas",
+    "all_categories": [
+      "Mercado - Pesquisas e Estatísticas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": "Pesquisas e Estatísticas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.887,
+    "layout_tier": "manchete"
   },
   {
     "source_id": "mercadoeeventos",
@@ -187,7 +285,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.69,
+    "destaque_score": 0.687,
     "layout_tier": "grade"
   },
   {
@@ -212,7 +310,7 @@
     "category_mapping_confidence": 0.4678,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -235,7 +333,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.688,
+    "destaque_score": 0.685,
     "layout_tier": "grade"
   },
   {
@@ -258,7 +356,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.687,
+    "destaque_score": 0.684,
     "layout_tier": "grade"
   },
   {
@@ -281,7 +379,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.687,
+    "destaque_score": 0.683,
     "layout_tier": "grade"
   },
   {
@@ -304,7 +402,30 @@
     "category_mapping_confidence": 0.2365,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.496,
+    "destaque_score": 0.492,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/diversidade/2026/07/lgbt-turismo-expo-destaca-potencial-do-viajante-60-para-a-industria_230389.html",
+    "title": "LGBT+ Turismo Expo destaca potencial do viajante 60+ para a indústria",
+    "link": "https://www.panrotas.com.br/mercado/diversidade/2026/07/lgbt-turismo-expo-destaca-potencial-do-viajante-60-para-a-industria_230389.html",
+    "description": "Kissimmee, Espanha e PAM Hotels reforçam importância de promover a diversidade e inclusão",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/21/52dfa1426e5fb463a5e87d23e962f325-rem8401.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-07-21T17:19:00+00:00",
+    "source_category_raw": "Mercado - Diversidade",
+    "all_categories": [
+      "Mercado - Diversidade"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Diversidade",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.681,
     "layout_tier": "grade"
   },
   {
@@ -444,7 +565,7 @@
     "category_mapping_confidence": 0.7126,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.489,
+    "destaque_score": 0.486,
     "layout_tier": "grade"
   },
   {
@@ -559,7 +680,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.691,
+    "destaque_score": 0.672,
     "layout_tier": "grade"
   },
   {
@@ -582,7 +703,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.689,
+    "destaque_score": 0.671,
     "layout_tier": "grade"
   },
   {
@@ -699,7 +820,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.686,
+    "destaque_score": 0.669,
     "layout_tier": "grade"
   },
   {
@@ -860,7 +981,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.681,
+    "destaque_score": 0.664,
     "layout_tier": "grade"
   },
   {
@@ -930,7 +1051,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.88,
+    "destaque_score": 0.863,
     "layout_tier": "manchete"
   },
   {
@@ -995,7 +1116,7 @@
     "category_mapping_confidence": 0.4962,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.419,
+    "destaque_score": 0.417,
     "layout_tier": "grade"
   },
   {
@@ -1018,7 +1139,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.679,
+    "destaque_score": 0.662,
     "layout_tier": "grade"
   },
   {
@@ -1041,7 +1162,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.864,
+    "destaque_score": 0.861,
     "layout_tier": "manchete"
   },
   {
@@ -1069,7 +1190,7 @@
     "category_mapping_confidence": 0.5751,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.477,
+    "destaque_score": 0.474,
     "layout_tier": "grade"
   },
   {
@@ -1120,7 +1241,7 @@
     "category_mapping_confidence": 0.3259,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.58,
+    "destaque_score": 0.578,
     "layout_tier": "grade"
   },
   {
@@ -1191,7 +1312,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.625,
+    "destaque_score": 0.623,
     "layout_tier": "grade"
   },
   {
@@ -1306,7 +1427,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.623,
+    "destaque_score": 0.621,
     "layout_tier": "grade"
   },
   {
@@ -1352,7 +1473,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.622,
+    "destaque_score": 0.62,
     "layout_tier": "grade"
   },
   {
@@ -1446,7 +1567,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.621,
+    "destaque_score": 0.619,
     "layout_tier": "grade"
   },
   {
@@ -1469,7 +1590,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.62,
+    "destaque_score": 0.618,
     "layout_tier": "grade"
   },
   {
@@ -1492,7 +1613,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.619,
+    "destaque_score": 0.617,
     "layout_tier": "grade"
   },
   {
@@ -1515,7 +1636,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.619,
+    "destaque_score": 0.617,
     "layout_tier": "grade"
   },
   {
@@ -1584,7 +1705,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.617,
+    "destaque_score": 0.616,
     "layout_tier": "grade"
   },
   {
@@ -1607,7 +1728,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.616,
+    "destaque_score": 0.615,
     "layout_tier": "grade"
   },
   {
@@ -1677,7 +1798,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.615,
+    "destaque_score": 0.614,
     "layout_tier": "grade"
   },
   {
@@ -1843,7 +1964,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.614,
+    "destaque_score": 0.612,
     "layout_tier": "grade"
   },
   {
@@ -1866,7 +1987,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.613,
+    "destaque_score": 0.612,
     "layout_tier": "grade"
   },
   {
@@ -1889,7 +2010,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.613,
+    "destaque_score": 0.612,
     "layout_tier": "grade"
   },
   {
@@ -1910,7 +2031,7 @@
     "category_mapping_confidence": 0.3679,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.535,
+    "destaque_score": 0.533,
     "layout_tier": "grade"
   },
   {
@@ -1937,7 +2058,7 @@
     "category_mapping_confidence": 0.4292,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.59,
+    "destaque_score": 0.588,
     "layout_tier": "grade"
   },
   {
@@ -1960,7 +2081,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.612,
+    "destaque_score": 0.611,
     "layout_tier": "grade"
   },
   {
@@ -1987,7 +2108,7 @@
     "category_mapping_confidence": 0.7775,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.676,
+    "destaque_score": 0.675,
     "layout_tier": "grade"
   },
   {
@@ -2010,7 +2131,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.811,
+    "destaque_score": 0.81,
     "layout_tier": "manchete"
   },
   {
@@ -2083,7 +2204,7 @@
     "category_mapping_confidence": 0.226,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.297,
+    "destaque_score": 0.296,
     "layout_tier": "condensado"
   },
   {
@@ -2106,7 +2227,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.61,
+    "destaque_score": 0.609,
     "layout_tier": "grade"
   },
   {
@@ -2129,7 +2250,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.81,
+    "destaque_score": 0.808,
     "layout_tier": "manchete"
   },
   {
@@ -2250,7 +2371,7 @@
     "category_mapping_confidence": 0.7939,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.677,
+    "destaque_score": 0.676,
     "layout_tier": "grade"
   },
   {
@@ -2273,7 +2394,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.809,
+    "destaque_score": 0.807,
     "layout_tier": "manchete"
   },
   {
@@ -2366,7 +2487,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.608,
+    "destaque_score": 0.607,
     "layout_tier": "grade"
   },
   {
@@ -2389,7 +2510,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.607,
+    "destaque_score": 0.606,
     "layout_tier": "grade"
   },
   {
@@ -2416,7 +2537,7 @@
     "category_mapping_confidence": 0.3245,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.358,
+    "destaque_score": 0.356,
     "layout_tier": "condensado"
   },
   {
@@ -2439,7 +2560,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.806,
+    "destaque_score": 0.805,
     "layout_tier": "manchete"
   },
   {
@@ -2492,7 +2613,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.606,
+    "destaque_score": 0.605,
     "layout_tier": "grade"
   },
   {
@@ -2545,7 +2666,7 @@
     "category_mapping_confidence": 0.59,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.604,
+    "destaque_score": 0.603,
     "layout_tier": "grade"
   },
   {
@@ -2575,7 +2696,7 @@
     "category_mapping_confidence": 0.3482,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.338,
+    "destaque_score": 0.337,
     "layout_tier": "condensado"
   },
   {
@@ -2604,7 +2725,7 @@
     "category_mapping_confidence": 0.389,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.336,
+    "destaque_score": 0.335,
     "layout_tier": "condensado"
   },
   {
@@ -2682,7 +2803,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -3478,7 +3599,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.558,
+    "destaque_score": 0.557,
     "layout_tier": "grade"
   },
   {
@@ -3531,7 +3652,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.558,
+    "destaque_score": 0.557,
     "layout_tier": "grade"
   },
   {
@@ -4003,7 +4124,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4026,7 +4147,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4095,7 +4216,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -5006,7 +5127,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.754,
+    "destaque_score": 0.753,
     "layout_tier": "manchete"
   },
   {
@@ -5029,7 +5150,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
