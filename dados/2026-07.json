@@ -1,6 +1,237 @@
 [
   {
     "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718197",
+    "title": "Frt Operadora realiza famtrip no Egito com agentes de quatro estados",
+    "link": "https://www.mercadoeeventos.com.br/_destaque_/agencias-e-operadoras-destaque/frt-operadora-realiza-famtrip-no-egito-com-agentes-de-quatro-estados/",
+    "description": "Viagem reúne profissionais de quatro estados em roteiro de capacitação pelo Egito até 22 de julho",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Frt-Egito2026.jpg",
+    "author": "Yuri Ricci",
+    "pub_date": "2026-07-21T14:35:00+00:00",
+    "source_category_raw": "Agencias e Operadoras - Destaque",
+    "all_categories": [
+      "Agencias e Operadoras - Destaque"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.7236,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.63,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718239",
+    "title": "Bruno Reis destaca potencial do turismo LGBT+ e prevê recorde de 10 milhões de turistas internacionais em 2026",
+    "link": "https://www.mercadoeeventos.com.br/uncategorized/bruno-reis-destaca-potencial-do-turismo-lgbt-e-preve-recorde-de-10-milhoes-de-turistas-internacionais-em-2026/",
+    "description": "Embratur prevê 10 milhões de turistas internacionais e reforça aposta no turismo LGBT+",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Bruno-Reis-presidente-da-Embratur-no-LGBT-Turismo-Expo-3-scaled.jpg",
+    "author": "Janaina Brito",
+    "pub_date": "2026-07-21T14:07:52+00:00",
+    "source_category_raw": "Uncategorized",
+    "all_categories": [
+      "Uncategorized"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.625,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.604,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718230",
+    "title": "LGBT+ Turismo Expo 2026 tem início em São Paulo; veja fotos",
+    "link": "https://www.mercadoeeventos.com.br/feiras-e-eventos/lgbt-turismo-expo-2026-tem-inicio-em-sao-paulo-veja-fotos/",
+    "description": "Autoridades e players do trade marcam presença na LGBT+ Turismo Expo 2026",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Bruno-Reis-da-Embratur-e-Alex-Bernardes-do-LGBT-Turismo-Expo-com-a-revista-do-ME-para-o-publico-LGBT--scaled.jpg",
+    "author": "Janaina Brito",
+    "pub_date": "2026-07-21T14:02:30+00:00",
+    "source_category_raw": "Feiras e Eventos",
+    "all_categories": [
+      "Feiras e Eventos",
+      "LGBT+ Expo 2026"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.697,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718236",
+    "title": "Latam mostra como acumular Milhas Latam Pass em toda a viagem",
+    "link": "https://www.mercadoeeventos.com.br/tecnologia-e-inovacao/latam-mostra-como-acumular-milhas-latam-pass-em-toda-a-viagem/",
+    "description": "Nova campanha destaca a vantagem do cliente acumular Milhas Latam Pass e Pontos Qualificáveis",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-34.png",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-21T13:58:28+00:00",
+    "source_category_raw": "Tecnologia e Inovação",
+    "all_categories": [
+      "Tecnologia e Inovação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.697,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718105",
+    "title": "Bruno Reis: “Turismo LGBTQIA+ deixou de ser nicho e é um dos motores do turismo mundial”",
+    "link": "https://www.mercadoeeventos.com.br/feiras-e-eventos/bruno-reis-turismo-lgbtqia-deixou-de-ser-nicho-e-e-um-dos-motores-do-turismo-mundial/",
+    "description": "Presidente da Embratur detalha planos para ampliar a presença do Brasil neste mercado",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/06/Bruno-reis-presidente-da-Embratur-5-scaled.jpg",
+    "author": "Janaina Brito",
+    "pub_date": "2026-07-21T13:23:00+00:00",
+    "source_category_raw": "Feiras e Eventos",
+    "all_categories": [
+      "Feiras e Eventos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.694,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718201",
+    "title": "Nova fase! Comunidade Agente de Valor se transforma em ecossistema de desenvolvimento",
+    "link": "https://www.mercadoeeventos.com.br/tecnologia-e-inovacao/nova-fase-comunidade-agente-de-valor-se-transforma-em-ecossistema-de-desenvolvimento/",
+    "description": "Plataforma passa a integrar cursos, mentorias e treinamentos para agentes de viagem",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/ChatGPT-Image-20-de-jul.-de-2026-09-42-14.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-21T12:51:54+00:00",
+    "source_category_raw": "Tecnologia e Inovação",
+    "all_categories": [
+      "Tecnologia e Inovação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.692,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718196",
+    "title": "Agora é oficial! Grupo Abra anuncia acordo para comprar até 45 aeronaves E195-E2 da Embraer",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/agora-e-oficial-grupo-abra-anuncia-acordo-para-comprar-ate-45-aeronaves-e195-e2-da-embraer/",
+    "description": "Acordo do Grupo inclui 20 aeronaves E195-E2 mais 10 opções de compra e 15 direitos de compra",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Screenshot_20260721_094005_Chrome.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-21T12:43:17+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.892,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718191",
+    "title": "BTG Pactual lança cartão Ultrablue World Legend para clientes com mais de R$ 3 milhões",
+    "link": "https://www.mercadoeeventos.com.br/luxo/btg-pactual-lanca-cartao-ultrablue-world-legend-para-clientes-com-mais-de-r-3-milhoes/",
+    "description": "BTG amplia benefícios para clientes de alta renda com pontos, cashback e experiências exclusivas",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-1-2.png",
+    "author": "Yuri Ricci",
+    "pub_date": "2026-07-21T12:32:14+00:00",
+    "source_category_raw": "Luxo",
+    "all_categories": [
+      "Luxo"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3791,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.536,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718193",
+    "title": "Seca na Europa afeta cruzeiros fluviais e provoca mudanças em roteiros",
+    "link": "https://www.mercadoeeventos.com.br/noticias/cruzeiros/seca-na-europa-afeta-cruzeiros-fluviais-e-provoca-mudancas-em-roteiros/",
+    "description": "Baixo nível dos rios altera operações de cruzeiros fluviais na Europa durante o verão",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Low-water-levels-in-Europe-are-disrupting-river-cr.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-21T12:30:23+00:00",
+    "source_category_raw": "Cruzeiros",
+    "all_categories": [
+      "Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.691,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718111",
+    "title": "“Turismo LGBTQIA+ fortalece a imagem do Brasil como destino acolhedor”, diz Ministro",
+    "link": "https://www.mercadoeeventos.com.br/feiras-e-eventos/turismo-lgbtqia-fortalece-a-imagem-do-brasil-como-destino-acolhedor-diz-ministro/",
+    "description": "Ministro do Turismo destaca ações para fortalecer o Brasil no mercado LGBTQIA+",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/05/Gustavo-Feliciano_Credito-Eric-Ribeiro-SeturSP-19.JPG-edited-scaled.jpeg",
+    "author": "Janaina Brito",
+    "pub_date": "2026-07-21T12:30:00+00:00",
+    "source_category_raw": "Feiras e Eventos",
+    "all_categories": [
+      "Feiras e Eventos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.691,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=718182",
     "title": "“LGBT + Turismo Expo se tornará a maior feira do mundo no segmento em poucos anos”, afirma idealizador do evento",
     "link": "https://www.mercadoeeventos.com.br/feiras-e-eventos/lgbt-turismo-expo-se-tornara-a-maior-feira-do-mundo-no-segmento-em-poucos-anos-afirma-idealizador-do-evento/",
@@ -91,6 +322,27 @@
     "layout_tier": "grade"
   },
   {
+    "source_id": "valor_economico",
+    "guid": "CBMiywFBVV95cUxQNlNFajhGcWtwLUVISkEwajNjYTJwSEk5eHktUFZBaVVBTEZwUGJnN0JBZ2hlMzdFdk0yMEZ5ZXFzVlJQMFR6ejZUY2F2RmtjS2ZtNEpYXzE1ZlhGSzZ3S2RTNk1CRUI5dFVDdDlWUW5hSlItZEROeFpYSVN4a1RFODN1SEdaQ2lxbkVHNGt6RDdTMWJqTGx1SnE2MlFHLV9DWU5HdldGSVZpSTN0N3RfSk4yTWxJU1VDZ0xoa1YtWkU3R1laSkwxRTJVMNIBywFBVV95cUxQNlNFajhGcWtwLUVISkEwajNjYTJwSEk5eHktUFZBaVVBTEZwUGJnN0JBZ2hlMzdFdk0yMEZ5ZXFzVlJQMFR6ejZUY2F2RmtjS2ZtNEpYXzE1ZlhGSzZ3S2RTNk1CRUI5dFVDdDlWUW5hSlItZEROeFpYSVN4a1RFODN1SEdaQ2lxbkVHNGt6RDdTMWJqTGx1SnE2MlFHLV9DWU5HdldGSVZpSTN0N3RfSk4yTWxJU1VDZ0xoa1YtWkU3R1laSkwxRTJVMA",
+    "title": "Wooba expande tecnologia integrada ao turismo global",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNlNFajhGcWtwLUVISkEwajNjYTJwSEk5eHktUFZBaVVBTEZwUGJnN0JBZ2hlMzdFdk0yMEZ5ZXFzVlJQMFR6ejZUY2F2RmtjS2ZtNEpYXzE1ZlhGSzZ3S2RTNk1CRUI5dFVDdDlWUW5hSlItZEROeFpYSVN4a1RFODN1SEdaQ2lxbkVHNGt6RDdTMWJqTGx1SnE2MlFHLV9DWU5HdldGSVZpSTN0N3RfSk4yTWxJU1VDZ0xoa1YtWkU3R1laSkwxRTJVMNIBywFBVV95cUxQNlNFajhGcWtwLUVISkEwajNjYTJwSEk5eHktUFZBaVVBTEZwUGJnN0JBZ2hlMzdFdk0yMEZ5ZXFzVlJQMFR6ejZUY2F2RmtjS2ZtNEpYXzE1ZlhGSzZ3S2RTNk1CRUI5dFVDdDlWUW5hSlItZEROeFpYSVN4a1RFODN1SEdaQ2lxbkVHNGt6RDdTMWJqTGx1SnE2MlFHLV9DWU5HdldGSVZpSTN0N3RfSk4yTWxJU1VDZ0xoa1YtWkU3R1laSkwxRTJVMA?oc=5",
+    "description": "Wooba expande tecnologia integrada ao turismo global Valor Econômico",
+    "image_url": null,
+    "author": "",
+    "pub_date": "2026-07-21T12:12:10+00:00",
+    "source_category_raw": null,
+    "all_categories": [],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4962,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.444,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/07/mercado-deve-demandar-85-mil-aeronaves-de-ate-150-assentos-ate-2045-diz-embraer_230340.html",
     "title": "Mercado deve demandar 8,5 mil aeronaves de até 150 assentos até 2045, diz Embraer",
@@ -110,7 +362,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.897,
+    "destaque_score": 0.887,
     "layout_tier": "manchete"
   },
   {
@@ -138,7 +390,7 @@
     "category_mapping_confidence": 0.5751,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.51,
+    "destaque_score": 0.501,
     "layout_tier": "grade"
   },
   {
@@ -189,7 +441,7 @@
     "category_mapping_confidence": 0.3259,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.603,
+    "destaque_score": 0.596,
     "layout_tier": "grade"
   },
   {
@@ -260,7 +512,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.646,
+    "destaque_score": 0.64,
     "layout_tier": "grade"
   },
   {
@@ -375,7 +627,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.644,
+    "destaque_score": 0.638,
     "layout_tier": "grade"
   },
   {
@@ -421,7 +673,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.643,
+    "destaque_score": 0.637,
     "layout_tier": "grade"
   },
   {
@@ -515,7 +767,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.641,
+    "destaque_score": 0.636,
     "layout_tier": "grade"
   },
   {
@@ -538,7 +790,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.64,
+    "destaque_score": 0.634,
     "layout_tier": "grade"
   },
   {
@@ -561,7 +813,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.639,
+    "destaque_score": 0.633,
     "layout_tier": "grade"
   },
   {
@@ -584,7 +836,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.639,
+    "destaque_score": 0.633,
     "layout_tier": "grade"
   },
   {
@@ -653,7 +905,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.637,
+    "destaque_score": 0.631,
     "layout_tier": "grade"
   },
   {
@@ -676,7 +928,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.636,
+    "destaque_score": 0.63,
     "layout_tier": "grade"
   },
   {
@@ -746,7 +998,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.635,
+    "destaque_score": 0.629,
     "layout_tier": "grade"
   },
   {
@@ -912,7 +1164,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.632,
+    "destaque_score": 0.627,
     "layout_tier": "grade"
   },
   {
@@ -935,7 +1187,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.632,
+    "destaque_score": 0.627,
     "layout_tier": "grade"
   },
   {
@@ -958,7 +1210,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.632,
+    "destaque_score": 0.626,
     "layout_tier": "grade"
   },
   {
@@ -979,7 +1231,7 @@
     "category_mapping_confidence": 0.3679,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.548,
     "layout_tier": "grade"
   },
   {
@@ -1006,7 +1258,7 @@
     "category_mapping_confidence": 0.4292,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.608,
+    "destaque_score": 0.603,
     "layout_tier": "grade"
   },
   {
@@ -1029,7 +1281,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.63,
+    "destaque_score": 0.625,
     "layout_tier": "grade"
   },
   {
@@ -1056,7 +1308,7 @@
     "category_mapping_confidence": 0.7775,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.694,
+    "destaque_score": 0.689,
     "layout_tier": "grade"
   },
   {
@@ -1079,7 +1331,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.829,
+    "destaque_score": 0.824,
     "layout_tier": "manchete"
   },
   {
@@ -1152,7 +1404,7 @@
     "category_mapping_confidence": 0.226,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.315,
+    "destaque_score": 0.31,
     "layout_tier": "condensado"
   },
   {
@@ -1175,7 +1427,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.628,
+    "destaque_score": 0.623,
     "layout_tier": "grade"
   },
   {
@@ -1198,7 +1450,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.827,
+    "destaque_score": 0.822,
     "layout_tier": "manchete"
   },
   {
@@ -1298,7 +1550,7 @@
     "guid": "1697063 at https://agenciabrasil.ebc.com.br",
     "title": "Mercado reduz expectativa de inflação para 5,15% em 2026",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/mercado-reduz-expectativa-de-inflacao-para-515-em-2026",
-    "description": "As expectativas do mercado financeiro para a inflação em 2026 mantêm a trajetória de queda observada nas últimas semanas. Segundo o boletim Focus divulgado nesta segunda-feira (20) pelo Banco Central (BC), o Índice Nacional de Preços ao Consumidor Amplo (IPCA) deve fechar o ano em 5,15%. Na semana passada, o mercado projetava que o IPCA, índice que corresponde à inflação no país, fecharia o ano em 5,16%. Há quatro semanas, a expectativa era uma inflação de 5,33%. Para os anos 2027 e 2028, o boletim projeta inflação em 4,20% e 3,78%, respectivamente. Notícias relacionadas: Mercado financeiro reduz projeção da inflação para 5,30%. Mercado financeiro abre espaço às iniciativas que preservam a floresta. Projeção oficial de inflação sobe para 5,1%, com estouro da meta. Nos demais indicadores (PIB, Câmbio e Selic), as projeções do mercado se mantiveram estáveis, também na comparação com as últimas semanas. PIB e dólar Com relação ao Produto Interno Bruto, (PIB - soma de todos os bens e serviços produzidos no país), as projeções do mercado financeiro são as mesmas há 3 semanas: crescimento de 1,99% em 2026. Há quatro semanas, as projeções eram de que a economia brasileira cresceria 1,98% no ano. Para 2027, o mercado projeta um crescimento de 1,65% para o PIB. Para 2028, 2%. As projeções para o câmbio ao final de 2026 estão estáveis há cinco semanas. A cotação prevista pelo mercado está em R$ 5,20 para o ano; em R$ 5,28 para 2027; e em R$ 5,30 para 2028. Taxa Selic A projeção da taxa básica de juros (Selic) para 2026 se manteve em 14% pela quarta semana consecutiva. A taxa atual, estabelecida pelo Comitê de Política Monetária (Copom) do BC em 17 de junho, é 14,25%. Com isso, há expectativa de pelo menos uma redução na atual taxa até o final de 2026. A próxima reunião do Copom está prevista para os dias 4 e 5 de agosto. As previsões da Selic para 2027 e 2028 se mantiveram estáveis, em 12% e 10,5%, respectivamente. De junho de 2025 até março de 2026, a Selic estava em 15% ao ano – o maior nível desde julho de 2006, quando foi fixada em 15,25% ao ano. De setembro de 2024 a junho de 2025, a taxa foi elevada sete vezes. Copom Quando o Copom reduz a Selic, a tendência é que o crédito fique mais barato, incentivando produção e consumo no país – o que acaba por estimular a atividade econômica. Por outro lado, segundo os especialistas que costumam ser consultados pelo BC para a elaboração do boletim Focus, créditos mais baratos tendem a aumentar pressões inflacionárias. Ao aumentar a taxa Selic, o Copom faz com que o crédito no país fique mais caro, o que estimula, em vez de consumo, a aplicação de recursos em poupanças ou em renda fixa. Na avaliação do mercado, taxas mais altas de juros acabam por dificultar a expansão da economia, uma vez que, ao desestimularem o consumo, reduzem demandas – ajudando a conter pressões inflacionárias. Para definir as taxas de juros que cobram de seus clientes, os bancos consideram, também, outros fatores. Entre eles, risco de inadimplência, lucro e despesas administrativas.",
+    "description": "As expectativas do mercado financeiro para a inflação em 2026 mantêm a trajetória de queda observada nas últimas semanas. Segundo o boletim Focus divulgado nesta segunda-feira (20) pelo Banco Central (BC), o Índice Nacional de Preços ao Consumidor Amplo (IPCA) deve fechar o ano em 5,15%. Na semana passada, o mercado projetava que o IPCA, índice que corresponde à inflação no país, fecharia o ano em 5,16%. Há quatro semanas, a expectativa era uma inflação de 5,33%. Para os anos 2027 e 2028, o boletim projeta inflação em 4,20% e 3,78%, respectivamente. Notícias relacionadas: Mercado financeiro reduz projeção da inflação para 5,30%. Mercado financeiro abre espaço às iniciativas que preservam a floresta. Projeção oficial de inflação sobe para 5,1%, com estouro da meta. Nos demais indicadores (PIB, Câmbio e Selic), as projeções do mercado se mantiveram estáveis, também na comparação com as últimas semanas. PIB e dólar Com relação ao Produto Interno Bruto, (PIB - soma de todos os bens e serviços produzidos no país), as projeções do mercado financeiro são as mesmas há 3 semanas: crescimento de 1,99% em 2026. Há quatro semanas, as projeções eram de que a economia brasileira cresceria 1,98% no ano. Para 2027, o mercado projeta um crescimento de 1,65% para o PIB. Para 2028, 2%. As projeções para o câmbio ao final de 2026 estão estáveis há cinco semanas. A cotação prevista pelo mercado está em R$ 5,20 para o ano; em R$ 5,28 para 2027; e em R$ 5,30 para 2028. Confira as informações sobre o Boletim Focus no Repórter Brasil , da TV Brasil Taxa Selic A projeção da taxa básica de juros (Selic) para 2026 se manteve em 14% pela quarta semana consecutiva. A taxa atual, estabelecida pelo Comitê de Política Monetária (Copom) do BC em 17 de junho, é 14,25%. Com isso, há expectativa de pelo menos uma redução na atual taxa até o final de 2026. A próxima reunião do Copom está prevista para os dias 4 e 5 de agosto. As previsões da Selic para 2027 e 2028 se mantiveram estáveis, em 12% e 10,5%, respectivamente. De junho de 2025 até março de 2026, a Selic estava em 15% ao ano – o maior nível desde julho de 2006, quando foi fixada em 15,25% ao ano. De setembro de 2024 a junho de 2025, a taxa foi elevada sete vezes. Copom Quando o Copom reduz a Selic, a tendência é que o crédito fique mais barato, incentivando produção e consumo no país – o que acaba por estimular a atividade econômica. Por outro lado, segundo os especialistas que costumam ser consultados pelo BC para a elaboração do boletim Focus, créditos mais baratos tendem a aumentar pressões inflacionárias. Ao aumentar a taxa Selic, o Copom faz com que o crédito no país fique mais caro, o que estimula, em vez de consumo, a aplicação de recursos em poupanças ou em renda fixa. Na avaliação do mercado, taxas mais altas de juros acabam por dificultar a expansão da economia, uma vez que, ao desestimularem o consumo, reduzem demandas – ajudando a conter pressões inflacionárias. Para definir as taxas de juros que cobram de seus clientes, os bancos consideram, também, outros fatores. Entre eles, risco de inadimplência, lucro e despesas administrativas.",
     "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Pedro Peduzzi - Repórter da Agência Brasil",
     "pub_date": "2026-07-20T12:47:00+00:00",
@@ -1306,19 +1558,20 @@
     "all_categories": [
       "Economia",
       "banco central",
-      "Boletim Focus",
+      "boletim Focus",
       "Selic",
-      "Taxas de Juros",
-      "Dólar"
+      "Taxas de juros",
+      "dólar",
+      "Multimídia"
     ],
     "in_scope": true,
     "canonical_category_l1": "Câmbio e Economia do Turismo",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf",
-    "category_mapping_confidence": 0.7967,
+    "category_mapping_confidence": 0.7939,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.695,
+    "destaque_score": 0.689,
     "layout_tier": "grade"
   },
   {
@@ -1341,7 +1594,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.826,
+    "destaque_score": 0.821,
     "layout_tier": "manchete"
   },
   {
@@ -1434,7 +1687,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.625,
+    "destaque_score": 0.62,
     "layout_tier": "grade"
   },
   {
@@ -1457,7 +1710,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.624,
+    "destaque_score": 0.62,
     "layout_tier": "grade"
   },
   {
@@ -1484,7 +1737,7 @@
     "category_mapping_confidence": 0.3245,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.374,
+    "destaque_score": 0.37,
     "layout_tier": "condensado"
   },
   {
@@ -1507,7 +1760,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.823,
+    "destaque_score": 0.818,
     "layout_tier": "manchete"
   },
   {
@@ -1560,7 +1813,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.622,
+    "destaque_score": 0.618,
     "layout_tier": "grade"
   },
   {
@@ -1613,7 +1866,7 @@
     "category_mapping_confidence": 0.59,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.615,
+    "destaque_score": 0.612,
     "layout_tier": "grade"
   },
   {
@@ -1643,7 +1896,7 @@
     "category_mapping_confidence": 0.3482,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.347,
+    "destaque_score": 0.345,
     "layout_tier": "condensado"
   },
   {
@@ -1672,7 +1925,7 @@
     "category_mapping_confidence": 0.389,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.341,
+    "destaque_score": 0.339,
     "layout_tier": "condensado"
   },
   {
@@ -1727,7 +1980,7 @@
     "category_mapping_confidence": 0.3522,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.521,
+    "destaque_score": 0.52,
     "layout_tier": "grade"
   },
   {
@@ -1821,7 +2074,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.561,
     "layout_tier": "grade"
   },
   {
@@ -1868,7 +2121,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.561,
     "layout_tier": "grade"
   },
   {
@@ -1914,7 +2167,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.561,
     "layout_tier": "grade"
   },
   {
@@ -1986,7 +2239,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.561,
     "layout_tier": "grade"
   },
   {
@@ -2107,7 +2360,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2130,7 +2383,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2269,7 +2522,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2453,7 +2706,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.76,
+    "destaque_score": 0.759,
     "layout_tier": "manchete"
   },
   {
@@ -2523,7 +2776,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2546,7 +2799,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2576,7 +2829,7 @@
     "category_mapping_confidence": 0.3688,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.322,
+    "destaque_score": 0.321,
     "layout_tier": "condensado"
   },
   {
@@ -2599,7 +2852,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2622,7 +2875,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.76,
+    "destaque_score": 0.759,
     "layout_tier": "manchete"
   },
   {
@@ -2645,7 +2898,7 @@
     "category_mapping_confidence": 0.4904,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.432,
+    "destaque_score": 0.431,
     "layout_tier": "grade"
   },
   {
@@ -2760,7 +3013,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -3094,7 +3347,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3163,7 +3416,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3186,7 +3439,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3209,7 +3462,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3232,7 +3485,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3278,7 +3531,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3322,7 +3575,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.756,
+    "destaque_score": 0.755,
     "layout_tier": "manchete"
   },
   {
@@ -3976,7 +4229,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4028,7 +4281,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4051,7 +4304,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4074,7 +4327,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -4097,7 +4350,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4660,7 +4913,7 @@
     "category_mapping_confidence": 0.7034,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.399,
+    "destaque_score": 0.398,
     "layout_tier": "condensado"
   },
   {
@@ -4733,7 +4986,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4756,7 +5009,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -4802,7 +5055,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4848,7 +5101,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4919,7 +5172,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -4942,7 +5195,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -5512,7 +5765,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.752,
+    "destaque_score": 0.751,
     "layout_tier": "manchete"
   },
   {
@@ -5607,7 +5860,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -5657,7 +5910,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -5726,7 +5979,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -6321,7 +6574,7 @@
     "category_mapping_confidence": 0.2408,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.362,
+    "destaque_score": 0.361,
     "layout_tier": "condensado"
   },
   {
@@ -7530,27 +7783,6 @@
     "layout_tier": "condensado"
   },
   {
-    "source_id": "valor_economico",
-    "guid": "CBMirAFBVV95cUxObjVGNlNiLXI2MHhYQWVMZ2c2TFJvVWxvQTZTd2xPVHA4UW5VdzZaX19hSUgwa1kxdER5Mnc4TE9xS0xxTFhucEJCOUZXRGtQV0RKUVNiZ19TdHVVX3hlSl9QSnhqWmVRQ3J0d0EzdjI4TG1WZDhybUd3UnZ1dk1jNElnV3k1em5XSW9OOUZ0UHREUEtTbHB5R1pmMzB0R3hXSmRvWENESkdMVnF30gG7AUFVX3lxTE5yVFhNcmJ1S3ZDVFNKbldjZWxZTEpJamh3MnRqM0kxVjlTNWdubWU3RUl4RVRSeWU2VDctQlJIUDhSQmFITzVpT2hXcEVsX0lUV0NXRGllbi02b1Z1SzFoSmIxREVGTmE1M0dtc2M3R2dHZUZwenpJanA0LWl1QUZCWVNBX3lEY3lJLVJFa0N1ZXZVM0UxU1V0Y0ZPWlhNZFpUSUg5ZkxYZGdnUW5VWWZidkZmc0tjVmlBbGs",
-    "title": "EUA impõem novas sanções ao Ministério do Turismo em Cuba",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObjVGNlNiLXI2MHhYQWVMZ2c2TFJvVWxvQTZTd2xPVHA4UW5VdzZaX19hSUgwa1kxdER5Mnc4TE9xS0xxTFhucEJCOUZXRGtQV0RKUVNiZ19TdHVVX3hlSl9QSnhqWmVRQ3J0d0EzdjI4TG1WZDhybUd3UnZ1dk1jNElnV3k1em5XSW9OOUZ0UHREUEtTbHB5R1pmMzB0R3hXSmRvWENESkdMVnF30gG7AUFVX3lxTE5yVFhNcmJ1S3ZDVFNKbldjZWxZTEpJamh3MnRqM0kxVjlTNWdubWU3RUl4RVRSeWU2VDctQlJIUDhSQmFITzVpT2hXcEVsX0lUV0NXRGllbi02b1Z1SzFoSmIxREVGTmE1M0dtc2M3R2dHZUZwenpJanA0LWl1QUZCWVNBX3lEY3lJLVJFa0N1ZXZVM0UxU1V0Y0ZPWlhNZFpUSUg5ZkxYZGdnUW5VWWZidkZmc0tjVmlBbGs?oc=5",
-    "description": "EUA impõem novas sanções ao Ministério do Turismo em Cuba Valor Econômico",
-    "image_url": null,
-    "author": "",
-    "pub_date": "2026-07-13T19:07:40+00:00",
-    "source_category_raw": null,
-    "all_categories": [],
-    "in_scope": true,
-    "canonical_category_l1": "Destinos",
-    "canonical_category_l2": null,
-    "category_mapping_method": "modelo_svc_tfidf",
-    "category_mapping_confidence": 0.5577,
-    "content_domain": "geopolitica_relevante",
-    "content_domain_confidence": 0.75,
-    "destaque_score": 0.32,
-    "layout_tier": "condensado"
-  },
-  {
     "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=717541",
     "title": "Azul conquista liderança em pontualidade entre aéreas brasileiras em junho",
@@ -8514,6 +8746,27 @@
     "content_domain_confidence": 0.9,
     "destaque_score": 0.551,
     "layout_tier": "grade"
+  },
+  {
+    "source_id": "valor_economico",
+    "guid": "CBMirAFBVV95cUxObjVGNlNiLXI2MHhYQWVMZ2c2TFJvVWxvQTZTd2xPVHA4UW5VdzZaX19hSUgwa1kxdER5Mnc4TE9xS0xxTFhucEJCOUZXRGtQV0RKUVNiZ19TdHVVX3hlSl9QSnhqWmVRQ3J0d0EzdjI4TG1WZDhybUd3UnZ1dk1jNElnV3k1em5XSW9OOUZ0UHREUEtTbHB5R1pmMzB0R3hXSmRvWENESkdMVnF30gG7AUFVX3lxTE5yVFhNcmJ1S3ZDVFNKbldjZWxZTEpJamh3MnRqM0kxVjlTNWdubWU3RUl4RVRSeWU2VDctQlJIUDhSQmFITzVpT2hXcEVsX0lUV0NXRGllbi02b1Z1SzFoSmIxREVGTmE1M0dtc2M3R2dHZUZwenpJanA0LWl1QUZCWVNBX3lEY3lJLVJFa0N1ZXZVM0UxU1V0Y0ZPWlhNZFpUSUg5ZkxYZGdnUW5VWWZidkZmc0tjVmlBbGs",
+    "title": "EUA impõem novas sanções ao Ministério do Turismo em Cuba",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObjVGNlNiLXI2MHhYQWVMZ2c2TFJvVWxvQTZTd2xPVHA4UW5VdzZaX19hSUgwa1kxdER5Mnc4TE9xS0xxTFhucEJCOUZXRGtQV0RKUVNiZ19TdHVVX3hlSl9QSnhqWmVRQ3J0d0EzdjI4TG1WZDhybUd3UnZ1dk1jNElnV3k1em5XSW9OOUZ0UHREUEtTbHB5R1pmMzB0R3hXSmRvWENESkdMVnF30gG7AUFVX3lxTE5yVFhNcmJ1S3ZDVFNKbldjZWxZTEpJamh3MnRqM0kxVjlTNWdubWU3RUl4RVRSeWU2VDctQlJIUDhSQmFITzVpT2hXcEVsX0lUV0NXRGllbi02b1Z1SzFoSmIxREVGTmE1M0dtc2M3R2dHZUZwenpJanA0LWl1QUZCWVNBX3lEY3lJLVJFa0N1ZXZVM0UxU1V0Y0ZPWlhNZFpUSUg5ZkxYZGdnUW5VWWZidkZmc0tjVmlBbGs?oc=5",
+    "description": "EUA impõem novas sanções ao Ministério do Turismo em Cuba Valor Econômico",
+    "image_url": null,
+    "author": "",
+    "pub_date": "2026-07-13T07:00:00+00:00",
+    "source_category_raw": null,
+    "all_categories": [],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.5577,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.32,
+    "layout_tier": "condensado"
   },
   {
     "source_id": "agenciabrasil",
