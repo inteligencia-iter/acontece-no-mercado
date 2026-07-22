@@ -1,6 +1,263 @@
 [
   {
     "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718468",
+    "title": "Setor do turismo amplia iniciativas voltadas à inclusão da comunidade LGBTQIAPN+ nas viagens",
+    "link": "https://www.mercadoeeventos.com.br/noticias/politica/setor-do-turismo-amplia-iniciativas-voltadas-a-inclusao-da-comunidade-lgbtqiapn-nas-viagens/",
+    "description": "Turismo LGBTQIAPN+ ganha espaço com ações de inclusão e capacitação no trade turístico",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/gay-with-rainbow-flags-sitting-street-edited-scaled.jpg",
+    "author": "Yuri Ricci",
+    "pub_date": "2026-07-22T21:00:00+00:00",
+    "source_category_raw": "Política",
+    "all_categories": [
+      "Política"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3067,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.522,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718562",
+    "title": "Turismo do Rio movimenta R$ 17,2 bilhões no primeiro semestre de 2026 com alta de visitantes estrangeiros",
+    "link": "https://www.mercadoeeventos.com.br/brasil/turismo-do-rio-movimenta-r-172-bilhoes-no-primeiro-semestre-de-2026-com-alta-de-visitantes-estrangeiros/",
+    "description": "Presidente do HotéisRIO destaca impacto econômico para toda a cadeia turística.",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/aerial-view-guanabara-bay-rio-de-janeiro-brasil-edited-scaled.jpg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-22T20:43:03+00:00",
+    "source_category_raw": "Brasil",
+    "all_categories": [
+      "Brasil",
+      "Sudeste"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.6621,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.61,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718558",
+    "title": "Aysha Pink transforma trajetória artística em política pública para fortalecer o turismo inclusivo de Porto Seguro",
+    "link": "https://www.mercadoeeventos.com.br/noticias/institucional/aysha-pink-transforma-trajetoria-artistica-em-politica-publica-para-fortalecer-o-turismo-inclusivo-de-porto-seguro/",
+    "description": "À frente da Gerência da Diversidade, Allan Cardoso une experiência como artista drag e gestor público para ampliar a representatividade",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/2-Allan-Cardoso-gerente-da-Diversidade-da-Secretaria-Municipal-de-Turismo-de-Porto-Seguro-scaled.jpeg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-22T20:35:49+00:00",
+    "source_category_raw": "Institucional",
+    "all_categories": [
+      "Institucional"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.2964,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.518,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "abcmais_hortensias",
+    "guid": "https://www.abcmais.com/brasil/gramado-vai-investir-mais-de-r-609-mil-para-reforma-dos-porticos-de-acesso-ao-municipio/",
+    "title": "Gramado vai investir mais de R$ 609 mil para reforma dos pórticos de acesso ao município",
+    "link": "https://www.abcmais.com/brasil/rio-grande-do-sul/hortensias/gramado/gramado-vai-investir-mais-de-r-609-mil-para-reforma-dos-porticos-de-acesso-ao-municipio/",
+    "description": "Estruturas são verdadeiros pontos turísticos da cidade; edital de licitação está aberto",
+    "image_url": "https://midia.gruposinos.com.br/_midias/jpg/2026/07/22/porticosgramado__4_-22835359.jpeg",
+    "author": "five.integracao",
+    "pub_date": "2026-07-22T20:28:02+00:00",
+    "source_category_raw": "Brasil",
+    "all_categories": [
+      "Brasil",
+      "Gramado",
+      "Hortênsias",
+      "Rio Grande do Sul",
+      "1",
+      "central de inverno",
+      "gramado",
+      "pórticos de gramado",
+      "prefeitura de gramado",
+      "reforma",
+      "rs-115",
+      "rs-235"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3334,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.606,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718552",
+    "title": "Azul Logística amplia rede para 350 lojas após abrir 14 novas unidades no primeiro semestre",
+    "link": "https://www.mercadoeeventos.com.br/uncategorized/azul-logistica-amplia-rede-para-350-lojas-apos-abrir-14-novas-unidades-no-primeiro-semestre/",
+    "description": "Azul Logística chega a 350 lojas e reforça presença em 268 cidades brasileiras com expansão nacional",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Azul-Logistica-.png",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-22T20:05:01+00:00",
+    "source_category_raw": "Uncategorized",
+    "all_categories": [
+      "Uncategorized"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3643,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.733,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718550",
+    "title": "Flytour Consolidadora reforça estratégia de valorização interna com promoção de Danieli Dantas",
+    "link": "https://www.mercadoeeventos.com.br/noticias/agencias-e-operadoras/flytour-consolidadora-reforca-estrategia-de-valorizacao-interna-com-promocao-de-danieli-dantas/",
+    "description": "Danieli Dantas ao cargo de Gerente Executiva de Vendas Sudeste da Flytour Consolidadora",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/radission-us-_XeQ8XEWb4Q-unsplash.jpg",
+    "author": "Ana Azevedo",
+    "pub_date": "2026-07-22T19:54:42+00:00",
+    "source_category_raw": "Agências e Operadoras",
+    "all_categories": [
+      "Agências e Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.691,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "abcmais_hortensias",
+    "guid": "https://www.abcmais.com/brasil/do-tradicional-pao-com-linguica-ao-risoto-de-chocolate-veja-como-comer-bem-pagando-ate-r-50-na-festa-colonial-de-canela/",
+    "title": "Do tradicional pão com linguiça ao risoto de chocolate: Veja como comer bem pagando até R$ 50 na Festa Colonial de Canela",
+    "link": "https://www.abcmais.com/regiao/do-tradicional-pao-com-linguica-ao-risoto-de-chocolate-veja-como-comer-bem-pagando-ate-r-50-na-festa-colonial-de-canela/",
+    "description": "A instabilidade não afastou a vontade de turistas de provarem um pouquinho dos pratos produzidos pelas famílias do interior da cidade",
+    "image_url": "https://midia.gruposinos.com.br/_midias/jpg/2026/07/22/festa_colonial_canela__2_-22835340.jpeg",
+    "author": "five.integracao",
+    "pub_date": "2026-07-22T19:51:25+00:00",
+    "source_category_raw": "Canela",
+    "all_categories": [
+      "Canela",
+      "Região",
+      "CANELA",
+      "central de inverno",
+      "Colonial",
+      "festa",
+      "festa colonial",
+      "Festa Colonial de Canela",
+      "gastronomia",
+      "interior de canela",
+      "INVERNO NA SERRA",
+      "pão com linguiça",
+      "produtos rurais",
+      "risoto de chocolate",
+      "turismo",
+      "turismo na serra"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3807,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.416,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718542",
+    "title": "Vai viajar? Saiba como reduzir o risco de golpe ao reservar hospedagem e passeios",
+    "link": "https://www.mercadoeeventos.com.br/noticias/servicos/vai-viajar-saiba-como-reduzir-o-risco-de-golpe-ao-reservar-hospedagem-e-passeios/",
+    "description": "MTur aponta uso do Cadastur como principal ferramenta para evitar golpe na hora da compra da viagem",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Gemini_Generated_Image_cwjbctcwjbctcwjb-2-scaled.png",
+    "author": "Ana Azevedo",
+    "pub_date": "2026-07-22T19:22:29+00:00",
+    "source_category_raw": "Serviços",
+    "all_categories": [
+      "Serviços"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3866,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.735,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718544",
+    "title": "Grupo Abra e Etihad Airways firmam parceria para ampliar conectividade internacional",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/grupo-abra-e-etihad-airways-firmam-parceria-para-ampliar-conectividade-internacional/",
+    "description": "Memorando de Entendimento cria uma estrutura para colaboração de longo prazo entre as companhias aéreas da Abra",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Screenshot_20260722_160503_Gmail.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-22T19:17:25+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.888,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/agencias-de-viagens/mercado/2026/07/dna-de-agente-kia-travel-quando-a-vocacao-para-o-turismo-comeca-cedo_230383.html",
+    "title": "DNA de Agente: Kia Travel - quando a vocação para o Turismo começa cedo",
+    "link": "https://www.panrotas.com.br/agencias-de-viagens/mercado/2026/07/dna-de-agente-kia-travel-quando-a-vocacao-para-o-turismo-comeca-cedo_230383.html",
+    "description": "Aos 13 anos de idade, Karina de Lima já organizava excursões para os amigos da escola e do bairro",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/21/65ac1a97c8cdf1159c575ff2a9b1b81b-whatsappimage20260713at10.29.28.jpeg",
+    "author": "Karina Cede&#241;o",
+    "pub_date": "2026-07-22T19:05:00+00:00",
+    "source_category_raw": "Agências de Viagens - Mercado",
+    "all_categories": [
+      "Agências de Viagens - Mercado"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Mercado",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.688,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=718539",
     "title": "Brasil registra alta de 29% nas buscas internacionais e se destaca entre os destinos das Américas",
     "link": "https://www.mercadoeeventos.com.br/noticias/turismo-em-dados/brasil-registra-alta-de-29-nas-buscas-internacionais-e-se-destaca-entre-os-destinos-das-americas/",
@@ -20,7 +277,7 @@
     "category_mapping_confidence": 0.283,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.521,
+    "destaque_score": 0.508,
     "layout_tier": "grade"
   },
   {
@@ -43,8 +300,8 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.7,
-    "layout_tier": "manchete"
+    "destaque_score": 0.687,
+    "layout_tier": "grade"
   },
   {
     "source_id": "mercadoeeventos",
@@ -275,7 +532,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.697,
+    "destaque_score": 0.678,
     "layout_tier": "grade"
   },
   {
@@ -283,7 +540,7 @@
     "guid": "1697233 at https://agenciabrasil.ebc.com.br",
     "title": "Chuvas deixam desabrigados e desalojados no Rio Grande do Sul",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/chuvas-deixam-desabrigados-e-desalojados-no-rio-grande-do-sul",
-    "description": "A Defesa Civil do Rio Grande do Sul informou que 143 municípios reportaram danos em consequência das inundações dos últimos dias, decorrentes das chuvas que atingem o estado. Os dados indicam que não há registro de mortes, mas há 51 desabrigados e 155 desalojados em todo o estado. Segundo o órgão, há 84 relatos de chuvas intensas, 58 de vendaval, 7 de granizo e 8 de inundações. Notícias relacionadas: Chuva: governo reconhece situação de emergência em municípios do RS. Um dos locais de maior volume de chuva em 24 horas foi Paraí, que registrou 200,8 milímetros (mm). Outros atingidos no mesmo período foram Marau (192 mm), André da Rocha (180 mm) e Passo Fundo (178,6 mm). Nas últimas 12 horas, os maiores acúmulos de chuva foram registrados em Marcelino Ramos (138 mm), Paim Filho (128,2 mm) e Getúlio Vargas (119,4 mm). Segundo a Defesa Civil, nas últimas 24 horas, as tempestades que caem no estado avançaram para as áreas próximas aos municípios de Marau e Nova Prata, onde ficam as nascentes dos rios Guaporé, Carreiro e da Prata. Em menos de 12 horas, os acumulados de chuva nesta região passaram dos 170 milímetros, o que provocou o envio de alertas em telefones para uma área de 37 municípios na tarde de terça-feira (21). A preocupação do órgão é o reflexo das enchentes no Rio Taquari, onde deságuam outros rios da região. “Por isso, a tendência é de que o nível do Taquari continue subindo nos próximos dias, à medida que a água escoe pelos seus afluentes”, alertou a Defesa Civil. Equipes do Centro de Monitoramento da Defesa Civil (CMDEC) perceberam a elevação do Rio Taquari na terça-feira (21) e estão prevendo um cenário mais crítico a partir da tarde desta quarta-feira (22). Alertas Durante a madrugada de hoje, o órgão começou a divulgar a partir das 2h19 uma série de alertas de inundação no Rio Taquari, com risco muito alto entre Muçum e Taquari. Depois das 7h, o risco muito alto era em Encantado com cota de até 15 metros (m). Na sequência, em Arroio do Mato (28m) e Lajeado e Cruzeiro do Sul (23m). Após as 8h, o alerta foi para Santa Tereza com risco muito alto e cota de até 17m, subindo para 19m perto das 12h. Em Estrela, a cota é de até 23m como também em Cruzeiro do Sul. Todos os avisos são válidos até o início da manhã de quinta-feira (23). “Evite áreas de risco. Emergência ligue 190/193”, recomendou a Defesa Civil. Ainda para Cruzeiro do Sul, a Defesa Civil emitiu alerta para condição de risco moderado para deslizamentos pontuais. “Saiba identificar os sinais de que deslizamentos de terra estão prestes a acontecer: barulhos ou vibrações no piso, telhado ou nas paredes, inclinações em postes, muros ou árvores, fendas ou trincas no terreno”, informou o órgão, acrescentando que, ao identificar qualquer um desses sinais, a população deve sair imediatamente do local e acionar as forças de resposta. “Lembre-se de avisar vizinhos e a comunidade do entorno caso ocorram quaisquer fatos atípicos”, completou.",
+    "description": "A Defesa Civil do Rio Grande do Sul informou que 143 municípios reportaram danos em consequência das inundações dos últimos dias, decorrentes das chuvas que atingem o estado. Os dados indicam que não há registro de mortes, mas há 51 desabrigados e 155 desalojados em todo o estado. Segundo o órgão, há 84 relatos de chuvas intensas, 58 de vendaval, 7 de granizo e 8 de inundações. Notícias relacionadas: Chuva: governo reconhece situação de emergência em municípios do RS. Um dos locais de maior volume de chuva em 24 horas foi Paraí, que registrou 200,8 milímetros (mm). Outros atingidos no mesmo período foram Marau (192 mm), André da Rocha (180 mm) e Passo Fundo (178,6 mm). Nas últimas 12 horas, os maiores acúmulos de chuva foram registrados em Marcelino Ramos (138 mm), Paim Filho (128,2 mm) e Getúlio Vargas (119,4 mm). Segundo a Defesa Civil, nas últimas 24 horas, as tempestades que caem no estado avançaram para as áreas próximas aos municípios de Marau e Nova Prata, onde ficam as nascentes dos rios Guaporé, Carreiro e da Prata. Em menos de 12 horas, os acumulados de chuva nesta região passaram dos 170 milímetros, o que provocou o envio de alertas em telefones para uma área de 37 municípios na tarde de terça-feira (21). A preocupação do órgão é o reflexo das enchentes no Rio Taquari, onde deságuam outros rios da região. “Por isso, a tendência é de que o nível do Taquari continue subindo nos próximos dias, à medida que a água escoe pelos seus afluentes”, alertou a Defesa Civil. Equipes do Centro de Monitoramento da Defesa Civil (CMDEC) perceberam a elevação do Rio Taquari na terça-feira (21) e estão prevendo um cenário mais crítico a partir da tarde desta quarta-feira (22). Alertas Durante a madrugada de hoje, o órgão começou a divulgar a partir das 2h19 uma série de alertas de inundação no Rio Taquari, com risco muito alto entre Muçum e Taquari. Depois das 7h, o risco muito alto era em Encantado com cota de até 15 metros (m). Na sequência, em Arroio do Mato (28m) e Lajeado e Cruzeiro do Sul (23m). Após as 8h, o alerta foi para Santa Tereza com risco muito alto e cota de até 17m, subindo para 19m perto das 12h. Em Estrela, a cota é de até 23m como também em Cruzeiro do Sul. Todos os avisos são válidos até o início da manhã de quinta-feira (23). “Evite áreas de risco. Emergência ligue 190/193”, recomendou a Defesa Civil. Ainda para Cruzeiro do Sul, a Defesa Civil emitiu alerta para condição de risco moderado para deslizamentos pontuais. “Saiba identificar os sinais de que deslizamentos de terra estão prestes a acontecer: barulhos ou vibrações no piso, telhado ou nas paredes, inclinações em postes, muros ou árvores, fendas ou trincas no terreno”, informou o órgão, acrescentando que, ao identificar qualquer um desses sinais, a população deve sair imediatamente do local e acionar as forças de resposta. “Lembre-se de avisar vizinhos e a comunidade do entorno caso ocorram quaisquer fatos atípicos”, completou. Saiba mais sobre a situação do estado no Repórter Brasil Tarde, da TV Brasil",
     "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Cristina Indio do Brasil – Repórter da Agência Brasil",
     "pub_date": "2026-07-22T16:18:00+00:00",
@@ -294,16 +551,17 @@
       "eventos climáticos extremos",
       "Rio Grande do Sul",
       "Lajeado",
-      "temporais"
+      "Temporais",
+      "Multimídia"
     ],
     "in_scope": true,
     "canonical_category_l1": "Destinos",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf_low_confidence",
-    "category_mapping_confidence": 0.3151,
+    "category_mapping_confidence": 0.3193,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.437,
+    "destaque_score": 0.427,
     "layout_tier": "grade"
   },
   {
@@ -349,7 +607,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.695,
+    "destaque_score": 0.676,
     "layout_tier": "grade"
   },
   {
@@ -425,7 +683,7 @@
     "category_mapping_confidence": 0.3721,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.449,
+    "destaque_score": 0.437,
     "layout_tier": "grade"
   },
   {
@@ -502,7 +760,7 @@
     "guid": "1697222 at https://agenciabrasil.ebc.com.br",
     "title": "Tarifaço de 25% dos EUA sobre o Brasil começa a valer; saiba mais",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/tarifaco-de-25-dos-eua-sobre-o-brasil-comeca-valer-nesta-quarta",
-    "description": "Começou a vigorar nesta quarta-feira (22) a tarifa adicional de 25% aplicada pelo governo de Donald Trump sobre produtos brasileiros. O tarifaço atinge 19% das exportações do Brasil para os Estados Unidos. A estimativa do valor total das exportações afetadas varia entre US$ 7,2 bilhões e US$ 11 bilhões, segundo cálculos da Agência Brasileira de Promoção das Exportações e Investimentos (Apex-Brasil) e da Câmara Americana de Comércio para o Brasil (Armcham Brasil). Notícias relacionadas: Tarifaço: EUA distorcem tema das big techs, afirmam especialistas . Tarifaço deve ter efeito limitado na balança comercial brasileira. Brasil não deixará de negociar tarifas impostas pelos EUA, diz Durigan. Entre os 2,3 mil produtos afetados, a maioria integra os setores de eletroeletrônicos; máquinas e equipamentos; autopeças e calçados. Praticamente, 700 produtos estão isentos da tarifa, número superior aos 615 previstos durante as negociações. Segundo o governo, o mercado estadunidense é o principal destino das exportações brasileiras de eletroeletrônicos . O país responde por cerca de um quarto das vendas externas do setor de máquinas e equipamentos. Os estados de São Paulo (SP) e Santa Catarina (SC) concentram 52% do impacto do tarifaço dos EUA, com o estado economicamente mais forte do país concentrando, sozinho, 41,6% do total do valor das exportações afetadas. Santa Catarina, porém, tem situação mais crítica, com 68% das exportações aos EUA atingidas pela medida da Casa Branca, segundo dados da Apex-Brasil. Políticas brasileiras O tarifaço adotado pelo governo Trump baseou-se em um processo conduzido pelo Escritório do Representante Comercial dos EUA (USTR, na sigla em inglês), que alega que o Brasil adota práticas “desleais” no comércio com os Estados Unidos. Os estadunidenses elencaram seis temas para decidir sobre a taxação: pagamentos eletrônicos (pix) e regulação de redes sociais; desmatamento ilegal; acesso ao mercado de etanol; combate à corrupção; proteção da propriedade intelectual; acordos preferenciais com México e Índia. O governo brasileiro rejeita as justificativas usadas para a taxação e argumenta que elas têm motivação política e não condizem com a realidade. Segundo o ministro das relações exteriores, Mauro Vieira, os negociadores dos EUA pediam a abertura total de mercados sem contrapartida. Ministro das Relações Exteriores, Mauro Vieira, diz que a taxação tem motivação política - Valter Campanato/Agência Brasil Diversificação Em resposta ao tarifaço, o governo brasileiro anunciou que retomará o programa de apoio aos setores afetados com linha de crédito para capital de giro, investimentos e com apoio para escoamento de produtos a outros clientes e países. Avalia também flexibilizar temporariamente regras do regime de isenção, suspensão ou restituição de tributos para insumos usados na produção de mercadorias para exportação. Já a Apex-Brasil prevê a divulgação, em agosto, de um plano de R$ 130 milhões para diversificar as exportações do Brasil, principalmente, para União Europeia, países que integram a Associação de Nações do Sudeste Asiático (Asean), como Indonésia, Malásia, Tailândia, Vietnã, além de nações da Ásia Central, como Cazaquistão e Uzbequistão. Conteúdo especial A Agência Brasil publicou reportagens especiais para contrapor os argumentos usados pelos EUA para justificar o tarifaço: Modelo do pix desafia controle financeiro dos EUA sobre o Brasil Tarifaço: EUA distorcem tema das big techs, afirmam especialistas Tarifaço deve ter efeito limitado na balança comercial brasileira Governo Trump usa desmatamento para impor taxas ao Brasil Tarifa dos EUA terá efeito limitado sobre etanol brasileiro",
+    "description": "Começou a vigorar nesta quarta-feira (22) a tarifa adicional de 25% aplicada pelo governo de Donald Trump sobre produtos brasileiros. O tarifaço atinge 19% das exportações do Brasil para os Estados Unidos. A estimativa do valor total das exportações afetadas varia entre US$ 7,2 bilhões e US$ 11 bilhões, segundo cálculos da Agência Brasileira de Promoção das Exportações e Investimentos (Apex-Brasil) e da Câmara Americana de Comércio para o Brasil (Armcham Brasil). Notícias relacionadas: Tarifaço: EUA distorcem tema das big techs, afirmam especialistas . Tarifaço deve ter efeito limitado na balança comercial brasileira. Brasil não deixará de negociar tarifas impostas pelos EUA, diz Durigan. Entre os 2,3 mil produtos afetados, a maioria integra os setores de eletroeletrônicos; máquinas e equipamentos; autopeças e calçados. Praticamente, 700 produtos estão isentos da tarifa, número superior aos 615 previstos durante as negociações. Segundo o governo, o mercado estadunidense é o principal destino das exportações brasileiras de eletroeletrônicos . O país responde por cerca de um quarto das vendas externas do setor de máquinas e equipamentos. Os estados de São Paulo (SP) e Santa Catarina (SC) concentram 52% do impacto do tarifaço dos EUA, com o estado economicamente mais forte do país concentrando, sozinho, 41,6% do total do valor das exportações afetadas. Santa Catarina, porém, tem situação mais crítica, com 68% das exportações aos EUA atingidas pela medida da Casa Branca, segundo dados da Apex-Brasil. Políticas brasileiras O tarifaço adotado pelo governo Trump baseou-se em um processo conduzido pelo Escritório do Representante Comercial dos EUA (USTR, na sigla em inglês), que alega que o Brasil adota práticas “desleais” no comércio com os Estados Unidos. Os estadunidenses elencaram seis temas para decidir sobre a taxação: pagamentos eletrônicos (pix) e regulação de redes sociais; desmatamento ilegal; acesso ao mercado de etanol; combate à corrupção; proteção da propriedade intelectual; acordos preferenciais com México e Índia. O governo brasileiro rejeita as justificativas usadas para a taxação e argumenta que elas têm motivação política e não condizem com a realidade. Segundo o ministro das relações exteriores, Mauro Vieira, os negociadores dos EUA pediam a abertura total de mercados sem contrapartida. Ministro das Relações Exteriores, Mauro Vieira, diz que a taxação tem motivação política - Valter Campanato/Agência Brasil Diversificação Em resposta ao tarifaço, o governo brasileiro anunciou que retomará o programa de apoio aos setores afetados com linha de crédito para capital de giro, investimentos e com apoio para escoamento de produtos a outros clientes e países. Avalia também flexibilizar temporariamente regras do regime de isenção, suspensão ou restituição de tributos para insumos usados na produção de mercadorias para exportação. Já a Apex-Brasil prevê a divulgação, em agosto, de um plano de R$ 130 milhões para diversificar as exportações do Brasil, principalmente, para União Europeia, países que integram a Associação de Nações do Sudeste Asiático (Asean), como Indonésia, Malásia, Tailândia, Vietnã, além de nações da Ásia Central, como Cazaquistão e Uzbequistão. Conteúdo especial A Agência Brasil publicou reportagens especiais para contrapor os argumentos usados pelos EUA para justificar o tarifaço: Modelo do pix desafia controle financeiro dos EUA sobre o Brasil Tarifaço: EUA distorcem tema das big techs, afirmam especialistas Tarifaço deve ter efeito limitado na balança comercial brasileira Governo Trump usa desmatamento para impor taxas ao Brasil Tarifa dos EUA terá efeito limitado sobre etanol brasileiro Saiba mais no Repórter Brasil Tarde, da TV Brasil",
     "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Lucas Pordeus Leon - Repórter da Agência Brasil",
     "pub_date": "2026-07-22T15:00:00+00:00",
@@ -511,16 +769,40 @@
       "Economia",
       "tarifaço",
       "brasil",
-      "EUA"
+      "EUA",
+      "Multimídia"
     ],
     "in_scope": true,
     "canonical_category_l1": "Destinos",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf",
-    "category_mapping_confidence": 0.5972,
+    "category_mapping_confidence": 0.5965,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.503,
+    "destaque_score": 0.491,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/hotelaria/inauguracoes/2026/07/vila-gale-prepara-inauguracao-de-dois-hoteis-em-sao-luis-ma-ainda-este-ano_230408.html",
+    "title": "Vila Galé prepara inauguração de dois hotéis em São Luís (MA) ainda este ano",
+    "link": "https://www.panrotas.com.br/hotelaria/inauguracoes/2026/07/vila-gale-prepara-inauguracao-de-dois-hoteis-em-sao-luis-ma-ainda-este-ano_230408.html",
+    "description": "Primeira unidade será inaugurada em outubro, enquanto segundo empreendimento deve ser lançado em dezembro",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/22/c28fb71c1b5a1c81b6a8942a870ffa03-unnamed12.png",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-07-22T14:57:00+00:00",
+    "source_category_raw": "Hotelaria - Inaugurações",
+    "all_categories": [
+      "Hotelaria - Inaugurações"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": "Inaugurações",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.672,
     "layout_tier": "grade"
   },
   {
@@ -543,7 +825,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.686,
+    "destaque_score": 0.669,
     "layout_tier": "grade"
   },
   {
@@ -568,6 +850,29 @@
     "content_domain_confidence": 0.9,
     "destaque_score": 0.878,
     "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/hotelaria/mercado/2026/07/hotelaria-cresce-em-diaria-e-revpar-em-junho-apesar-de-leve-queda-na-ocupacao_230384.html",
+    "title": "Hotelaria cresce em diária e RevPAR em junho, apesar de leve queda na ocupação",
+    "link": "https://www.panrotas.com.br/hotelaria/mercado/2026/07/hotelaria-cresce-em-diaria-e-revpar-em-junho-apesar-de-leve-queda-na-ocupacao_230384.html",
+    "description": "Ocupação nacional cresceu 0,7%, diária média aumentou 5,7% e RevPAR avançou 6,5%",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/10/24/23905d7e6b7c67c77380aa24364067de-aphotoofahotelroomwithamediumshottheroonqk3qkrdquxyu2h7erewvyuj6xrb2dcih1yecglq.jpeg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-07-22T12:28:00+00:00",
+    "source_category_raw": "Hotelaria - Mercado",
+    "all_categories": [
+      "Hotelaria - Mercado"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": "Mercado",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.664,
+    "layout_tier": "grade"
   },
   {
     "source_id": "mercadoeeventos",
@@ -612,7 +917,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.672,
+    "destaque_score": 0.662,
     "layout_tier": "grade"
   },
   {
@@ -635,8 +940,31 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.871,
+    "destaque_score": 0.861,
     "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/hotelaria/alimentos-e-bebidas/2026/07/equipotel-ampliara-espaco-dedicado-ao-foodservice-na-edicao-de-2026_230381.html",
+    "title": "Equipotel ampliará espaço dedicado ao foodservice na edição de 2026",
+    "link": "https://www.panrotas.com.br/hotelaria/alimentos-e-bebidas/2026/07/equipotel-ampliara-espaco-dedicado-ao-foodservice-na-edicao-de-2026_230381.html",
+    "description": "Gastronomia ganha cada vez mais protagonismo em destinos turísticos e hotelaria",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/21/8ed6b29b0a1863db427b82a1b146f8b9-manstandingfrontplatewithvegetable.jpg",
+    "author": "Karina Cede&#241;o",
+    "pub_date": "2026-07-22T11:15:00+00:00",
+    "source_category_raw": "Hotelaria - Alimentos e bebidas",
+    "all_categories": [
+      "Hotelaria - Alimentos e bebidas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": "Alimentos e bebidas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.66,
+    "layout_tier": "grade"
   },
   {
     "source_id": "agenciabrasil",
@@ -664,7 +992,7 @@
     "category_mapping_confidence": 0.4367,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.414,
+    "destaque_score": 0.407,
     "layout_tier": "grade"
   },
   {
@@ -695,7 +1023,7 @@
     "category_mapping_confidence": 0.4629,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.619,
+    "destaque_score": 0.612,
     "layout_tier": "grade"
   },
   {
@@ -718,7 +1046,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.633,
+    "destaque_score": 0.626,
     "layout_tier": "grade"
   },
   {
@@ -747,7 +1075,7 @@
     "category_mapping_confidence": 0.5041,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.629,
+    "destaque_score": 0.622,
     "layout_tier": "grade"
   },
   {
@@ -770,7 +1098,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.631,
+    "destaque_score": 0.624,
     "layout_tier": "grade"
   },
   {
@@ -823,7 +1151,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.83,
+    "destaque_score": 0.823,
     "layout_tier": "manchete"
   },
   {
@@ -846,7 +1174,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.63,
+    "destaque_score": 0.623,
     "layout_tier": "grade"
   },
   {
@@ -916,7 +1244,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.828,
+    "destaque_score": 0.821,
     "layout_tier": "manchete"
   },
   {
@@ -939,7 +1267,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.627,
+    "destaque_score": 0.62,
     "layout_tier": "grade"
   },
   {
@@ -962,7 +1290,7 @@
     "category_mapping_confidence": 0.3712,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.549,
+    "destaque_score": 0.543,
     "layout_tier": "grade"
   },
   {
@@ -985,7 +1313,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.626,
+    "destaque_score": 0.619,
     "layout_tier": "grade"
   },
   {
@@ -1014,7 +1342,7 @@
     "category_mapping_confidence": 0.2088,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.348,
+    "destaque_score": 0.342,
     "layout_tier": "condensado"
   },
   {
@@ -1043,7 +1371,7 @@
     "category_mapping_confidence": 0.5174,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.425,
+    "destaque_score": 0.419,
     "layout_tier": "grade"
   },
   {
@@ -1135,7 +1463,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.825,
+    "destaque_score": 0.819,
     "layout_tier": "manchete"
   },
   {
@@ -1206,7 +1534,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.624,
+    "destaque_score": 0.617,
     "layout_tier": "grade"
   },
   {
@@ -1298,7 +1626,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.621,
+    "destaque_score": 0.615,
     "layout_tier": "grade"
   },
   {
@@ -1461,7 +1789,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.819,
+    "destaque_score": 0.814,
     "layout_tier": "manchete"
   },
   {
@@ -1576,7 +1904,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.617,
+    "destaque_score": 0.611,
     "layout_tier": "grade"
   },
   {
@@ -1599,7 +1927,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.616,
+    "destaque_score": 0.611,
     "layout_tier": "grade"
   },
   {
@@ -1645,7 +1973,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.615,
+    "destaque_score": 0.61,
     "layout_tier": "grade"
   },
   {
@@ -1739,7 +2067,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.615,
+    "destaque_score": 0.609,
     "layout_tier": "grade"
   },
   {
@@ -1762,7 +2090,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.614,
+    "destaque_score": 0.609,
     "layout_tier": "grade"
   },
   {
@@ -1923,7 +2251,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.612,
+    "destaque_score": 0.607,
     "layout_tier": "grade"
   },
   {
@@ -1993,7 +2321,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.812,
+    "destaque_score": 0.807,
     "layout_tier": "manchete"
   },
   {
@@ -2037,7 +2365,7 @@
     "category_mapping_confidence": 0.4962,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.366,
+    "destaque_score": 0.36,
     "layout_tier": "condensado"
   },
   {
@@ -2081,7 +2409,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.611,
+    "destaque_score": 0.606,
     "layout_tier": "grade"
   },
   {
@@ -2104,7 +2432,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.81,
+    "destaque_score": 0.805,
     "layout_tier": "manchete"
   },
   {
@@ -2254,7 +2582,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.59,
+    "destaque_score": 0.586,
     "layout_tier": "grade"
   },
   {
@@ -2369,7 +2697,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.589,
+    "destaque_score": 0.586,
     "layout_tier": "grade"
   },
   {
@@ -2415,7 +2743,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.588,
+    "destaque_score": 0.585,
     "layout_tier": "grade"
   },
   {
@@ -2509,7 +2837,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.588,
+    "destaque_score": 0.585,
     "layout_tier": "grade"
   },
   {
@@ -2532,7 +2860,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.587,
+    "destaque_score": 0.584,
     "layout_tier": "grade"
   },
   {
@@ -2555,7 +2883,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.587,
+    "destaque_score": 0.584,
     "layout_tier": "grade"
   },
   {
@@ -2578,7 +2906,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.587,
+    "destaque_score": 0.584,
     "layout_tier": "grade"
   },
   {
@@ -2647,7 +2975,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.586,
+    "destaque_score": 0.583,
     "layout_tier": "grade"
   },
   {
@@ -2670,7 +2998,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.585,
+    "destaque_score": 0.582,
     "layout_tier": "grade"
   },
   {
@@ -2740,7 +3068,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.585,
+    "destaque_score": 0.582,
     "layout_tier": "grade"
   },
   {
@@ -2906,7 +3234,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.584,
+    "destaque_score": 0.581,
     "layout_tier": "grade"
   },
   {
@@ -2929,7 +3257,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.584,
+    "destaque_score": 0.581,
     "layout_tier": "grade"
   },
   {
@@ -2952,7 +3280,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.584,
+    "destaque_score": 0.581,
     "layout_tier": "grade"
   },
   {
@@ -2973,7 +3301,7 @@
     "category_mapping_confidence": 0.3679,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.505,
+    "destaque_score": 0.503,
     "layout_tier": "grade"
   },
   {
@@ -2999,7 +3327,7 @@
     "category_mapping_confidence": 0.4292,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.561,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -3022,7 +3350,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.583,
+    "destaque_score": 0.58,
     "layout_tier": "grade"
   },
   {
@@ -3072,7 +3400,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.783,
+    "destaque_score": 0.78,
     "layout_tier": "manchete"
   },
   {
@@ -3145,7 +3473,7 @@
     "category_mapping_confidence": 0.226,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.269,
+    "destaque_score": 0.266,
     "layout_tier": "condensado"
   },
   {
@@ -3168,7 +3496,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.582,
+    "destaque_score": 0.58,
     "layout_tier": "grade"
   },
   {
@@ -3191,7 +3519,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.782,
+    "destaque_score": 0.779,
     "layout_tier": "manchete"
   },
   {
@@ -3335,7 +3663,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.781,
+    "destaque_score": 0.779,
     "layout_tier": "manchete"
   },
   {
@@ -3428,7 +3756,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.581,
+    "destaque_score": 0.578,
     "layout_tier": "grade"
   },
   {
@@ -3451,7 +3779,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.581,
+    "destaque_score": 0.578,
     "layout_tier": "grade"
   },
   {
@@ -3478,7 +3806,7 @@
     "category_mapping_confidence": 0.3245,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.331,
+    "destaque_score": 0.329,
     "layout_tier": "condensado"
   },
   {
@@ -3501,7 +3829,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.78,
+    "destaque_score": 0.778,
     "layout_tier": "manchete"
   },
   {
@@ -3554,7 +3882,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.58,
+    "destaque_score": 0.577,
     "layout_tier": "grade"
   },
   {
@@ -3607,7 +3935,7 @@
     "category_mapping_confidence": 0.59,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.587,
+    "destaque_score": 0.585,
     "layout_tier": "grade"
   },
   {
@@ -3637,7 +3965,7 @@
     "category_mapping_confidence": 0.3482,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.324,
+    "destaque_score": 0.322,
     "layout_tier": "condensado"
   },
   {
@@ -3862,7 +4190,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -3908,7 +4236,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -3980,7 +4308,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4003,7 +4331,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4026,7 +4354,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4101,7 +4429,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4639,7 +4967,7 @@
     "category_mapping_confidence": 0.4904,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.427,
+    "destaque_score": 0.426,
     "layout_tier": "grade"
   },
   {
@@ -4708,7 +5036,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.754,
+    "destaque_score": 0.753,
     "layout_tier": "manchete"
   },
   {
@@ -4731,7 +5059,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.754,
+    "destaque_score": 0.753,
     "layout_tier": "manchete"
   },
   {
@@ -4754,7 +5082,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.754,
+    "destaque_score": 0.753,
     "layout_tier": "manchete"
   },
   {
@@ -4828,7 +5156,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -4878,7 +5206,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -4901,7 +5229,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -8338,7 +8666,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8431,7 +8759,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8526,7 +8854,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -8549,7 +8877,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8619,7 +8947,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -8667,7 +8995,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
