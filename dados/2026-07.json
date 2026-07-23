@@ -1,5 +1,242 @@
 [
   {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718644",
+    "title": "BeFly lança academia digital gratuita e aposta na qualificação dos agentes de viagens",
+    "link": "https://www.mercadoeeventos.com.br/noticias/agencias-e-operadoras/befly-lanca-academia-digital-gratuita-e-aposta-na-qualificacao-dos-agentes-de-viagens/",
+    "description": "Plataforma gratuita reúne cursos, trilhas e certificados para agentes parceiros da BeFly",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/ChatGPT-Image-23-de-jul.-de-2026-18_03_10.png",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-23T21:07:04+00:00",
+    "source_category_raw": "Agências e Operadoras",
+    "all_categories": [
+      "Agências e Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.696,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718642",
+    "title": "Flytour anuncia promoção de André Gonçalves e reforça estratégia de valorização interna",
+    "link": "https://www.mercadoeeventos.com.br/noticias/vai-e-vem/flytour-anuncia-promocao-de-andre-goncalves-e-reforca-estrategia-de-valorizacao-interna/",
+    "description": "Executivo assume as vendas da Flytour nas regiões Centro-Oeste, Norte e Nordeste do país",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/ChatGPT-Image-23-de-jul.-de-2026-17_50_37.png",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-23T20:53:49+00:00",
+    "source_category_raw": "Vai e Vem",
+    "all_categories": [
+      "Vai e Vem"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3986,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.545,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718641",
+    "title": "Latam confirma 5 voos semanais entre São Paulo e Amsterdã a partir de outubro",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/latam-confirma-5-voos-semanais-entre-sao-paulo-e-amsterda-a-partir-de-outubro/",
+    "description": "Latam: passagens começam a ser vendidas neste fim de semana para a temporada de inverno europeu",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/05/latam-1-edited-scaled.webp",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-23T20:47:04+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.894,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718635",
+    "title": "CVC Corp encerra roadshow pelo Nordeste e reúne mais de mil profissionais do setor",
+    "link": "https://www.mercadoeeventos.com.br/noticias/agencias-e-operadoras/cvc-corp-encerra-roadshow-pelo-nordeste-e-reune-mais-de-mil-profissionais-do-setor/",
+    "description": "CVC Corp aposta na proximidade com o mercado para impulsionar o turismo nacional",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-23-at-16.48.06.jpeg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-23T19:56:34+00:00",
+    "source_category_raw": "Agências e Operadoras",
+    "all_categories": [
+      "Agências e Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.691,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718632",
+    "title": "AmaWaterways lança roteiro em português pela França para viajantes brasileiros",
+    "link": "https://www.mercadoeeventos.com.br/noticias/cruzeiros/amawaterways-lanca-roteiro-em-portugues-pela-franca-para-viajantes-brasileiros/",
+    "description": "AmaWaterways inclui equipe de bordo, cardápios, guias locais e aplicativo no idioma",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2025/06/unnamed-23-1.jpg",
+    "author": "Ana Azevedo",
+    "pub_date": "2026-07-23T19:53:41+00:00",
+    "source_category_raw": "Cruzeiros",
+    "all_categories": [
+      "Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.691,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718627",
+    "title": "9 países que viraram sonho dos brasileiros após a Copa do Mundo de 2026",
+    "link": "https://www.mercadoeeventos.com.br/internacional/9-paises-que-viraram-sonho-dos-brasileiros-apos-a-copa-do-mundo-de-2026/",
+    "description": "Dados do Airbnb mostram como a Copa de 2026 influenciou o interesse dos brasileiros por viagens",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-22.jpg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-23T19:49:50+00:00",
+    "source_category_raw": "Internacional",
+    "all_categories": [
+      "Internacional",
+      "América do Norte e Caribe",
+      "América Latina",
+      "Europa"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.2986,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.515,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718630",
+    "title": "Cheia histórica fecha acesso à Garganta do Diabo nas Cataratas do Iguaçu nesta quinta-feira (23)",
+    "link": "https://www.mercadoeeventos.com.br/noticias/parques-e-atracoes/cheia-historica-fecha-acesso-a-garganta-do-diabo-nas-cataratas-do-iguacu/",
+    "description": "Mirantes e trilhas das Cataratas do Iguaçu seguem abertos nos dois parques nacionais",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/IMG_0353.webp",
+    "author": "Ana Azevedo",
+    "pub_date": "2026-07-23T19:34:23+00:00",
+    "source_category_raw": "Parques e Atrações",
+    "all_categories": [
+      "Parques e Atrações"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.303,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.515,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718626",
+    "title": "Air France lança Paris Stopover e transforma conexões em roteiros turísticos de até 4 noites na França",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/air-france-lanca-paris-stopover-e-transforma-conexoes-em-roteiros-turisticos-de-ate-4-noites-na-franca/",
+    "description": "Serviço permite incluir hospedagem, traslados e passeios durante conexões em Paris",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-21-1-scaled.jpg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-23T19:27:48+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.889,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1697358 at https://agenciabrasil.ebc.com.br",
+    "title": "CPTM assumirá operação de linhas que falharam e causaram caos em SP",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/cptm-assumira-operacao-de-linhas-que-falharam-e-causaram-caos-em-sp",
+    "description": "A Agência Reguladora de Serviços Públicos Delegados de Transporte do Estado de São Paulo (Artesp) determinou que a Companhia Paulista de Trens Metropolitanos (CPTM) retome a operação das Linhas 11-Coral, 12-Safira e 13-Jade por um período inicial de até 90 dias. Essas são as linhas operadas pela concessionária Trivia Trens que falharam na manhã desta quinta-feira (23) e causaram caos no transporte público da capital paulista. Notícias relacionadas: Três linhas de trens têm funcionamento interrompido em São Paulo. A medida foi tomada pela própria Artesp e pelo governo de São Paulo para “garantir a qualidade do serviço e prevenir falhas como as registradas nos primeiros dias de operação assistida sob responsabilidade da operadora”. A Trivia assumiu o controle das linhas 11, 12 e 13, que foram privatizadas, na terça-feira (21) e tem enfrentado problemas operacionais desde então. “O que nós vimos nos últimos dois dias, especialmente hoje, é inaceitável. Como fiscalizadores e reguladores do contrato, estamos agindo de modo imediato. A ideia é a volta da CPTM para operação, porque o que nós vimos realmente é muito ruim, muito penoso para o cidadão\", ressaltou André Isper, Diretor-Presidente da Artesp em comunicado oficial. A Artesp informa ainda que identificará as causas das falhas e apurará a responsabilidade da concessionária pelos problemas no serviço. \"Vamos trabalhar para assegurar um serviço de excelência ao cidadão, sem permitir que um serviço ruim prejudique quem depende do transporte todos os dias.\"",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Agência Brasil",
+    "pub_date": "2026-07-23T19:19:00+00:00",
+    "source_category_raw": "Geral",
+    "all_categories": [
+      "Geral",
+      "CPTM",
+      "São Paulo",
+      "Transporte"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4081,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.46,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718599",
+    "title": "12 atrações culturais revelam o lado menos conhecido da Flórida Central, nos EUA",
+    "link": "https://www.mercadoeeventos.com.br/internacional/12-atracoes-culturais-revelam-o-lado-menos-conhecido-da-florida-central-nos-eua/",
+    "description": "Roteiro une arte urbana, patrimônio histórico e experiências que atravessam gerações",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-19-1.jpg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-23T17:30:00+00:00",
+    "source_category_raw": "Internacional",
+    "all_categories": [
+      "Internacional",
+      "América do Norte e Caribe"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.824,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.637,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "abcmais_hortensias",
     "guid": "https://www.abcmais.com/brasil/em-gramado-turistas-encontram-pecas-tipicas-do-inverno-e-lembrancas-da-tradicao-gaucha/",
     "title": "Em Gramado, turistas encontram peças típicas do inverno e lembranças da tradição gaúcha",
@@ -7,7 +244,7 @@
     "description": "Visitantes de diferentes estados passam pela Vila da Moda em busca de cachecóis, casacos e acessórios para enfrentar o inverno e levar souvenirs da Serra",
     "image_url": "https://midia.gruposinos.com.br/_midias/jpg/2026/07/23/vila_da_moda__4_-22836643.jpeg",
     "author": "five.integracao",
-    "pub_date": "2026-07-23T17:19:26+00:00",
+    "pub_date": "2026-07-23T17:19:00+00:00",
     "source_category_raw": "Brasil",
     "all_categories": [
       "Brasil",
@@ -27,7 +264,7 @@
     "category_mapping_confidence": 0.6433,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.491,
+    "destaque_score": 0.471,
     "layout_tier": "grade"
   },
   {
@@ -56,24 +293,24 @@
   {
     "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=718621",
-    "title": "Empresas enfrentam alta dos custos e buscam tecnologia para controlar viagens corporativas",
-    "link": "https://www.mercadoeeventos.com.br/noticias/tecnologia/empresas-enfrentam-alta-dos-custos-e-buscam-tecnologia-para-controlar-viagens-corporativas/",
+    "title": "Viagens corporativas: empresas enfrentam alta dos custos e buscam tecnologia para controlar gastos",
+    "link": "https://www.mercadoeeventos.com.br/tecnologia-e-inovacao/empresas-enfrentam-alta-dos-custos-e-buscam-tecnologia-para-controlar-viagens-corporativas/",
     "description": "Pesquisa aponta que 84% dos gestores de viagens corporativas estão preocupados com custos",
     "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Aline-Bueno-CEO-da-Argo.jpg",
     "author": "Ana Azevedo",
     "pub_date": "2026-07-23T16:57:14+00:00",
-    "source_category_raw": "Tecnologia",
+    "source_category_raw": "Tecnologia e Inovação",
     "all_categories": [
-      "Tecnologia"
+      "Tecnologia e Inovação"
     ],
     "in_scope": true,
     "canonical_category_l1": "Corporativo",
     "canonical_category_l2": null,
-    "category_mapping_method": "modelo_svc_tfidf",
-    "category_mapping_confidence": 0.9416,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.684,
+    "destaque_score": 0.679,
     "layout_tier": "grade"
   },
   {
@@ -81,7 +318,7 @@
     "guid": "1697342 at https://agenciabrasil.ebc.com.br",
     "title": "Preço do petróleo supera os US$ 100 após ataques no Mar Vermelho",
     "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/preco-do-petroleo-supera-os-us-100-apos-ataques-no-mar-vermelho",
-    "description": "Após ataques dos houthis, do Iêmen, contra navios da Arábia Saudita, no Mar Vermelho, o preço do barril de petróleo voltou a disparar com aumento de 6% do óleo do tipo Brent, chegando a ser vendido a US$ 101 dólares no início da tarde desta quinta-feira (23). A escalada da guerra no Oriente Médio, com o fechamento do Estreito de Bab el-Manbed pelos houthis para navios da Arábia Saudita, vem agravando a situação do comércio global de combustíveis, com potencial de repercutir na inflação em todo o mundo. Notícias relacionadas: Houthis fecham estreito de Bab el-Mandeb em bloqueio à Arábia Saudita . Irã informa ter atacado central de dados da Amazon no Bahrein. A alta ocorre no momento em que o mercado do petróleo acumula cinco meses de redução da oferta, após o início da agressão dos Estados Unidos (EUA) e de Israel contra o Irã, em 28 de fevereiro. As tensões levaram ao fechamento do Estreito de Ormuz, por onde transitavam 20% do comércio marítimo de combustíveis. Após a assinatura do memorando de entendimento entre Irã e EUA, em 17 de junho, o preço do barril de petróleo começou a cair até chegar ao valor mínimo de US$ 70, no dia 1º de julho, menor preço desde o início da guerra. Desde então, o preço do Brent aumentou 42%. A diretora técnica do Instituto de Estudos Estratégicos em Petróleo, Gás Natural e Biocombustíveis (Ineep), Ticiana Álvares, explicou à Agência Brasil que o fechamento da via do Mar Vermelho para Arábia Saudita tem impacto “bem relevante”. “A alternativa da Arábia Saudita para escoamento do petróleo com as restrições do Estreito de Ormuz vinham sendo via oleoduto até o Mar Vermelho. Com o fechamento de Bab el-Manbed, isso não é mais possível”, comentou. A especialista lembrou que a Arábia Saudita é um dos maiores produtores globais de petróleo e que o bloqueio ao país árabe deve afetar a oferta do produto para os EUA, que usa o petróleo saudita para fazer combustíveis, como gasolina e diesel. “Se houve um fechamento mais geral do Estreito de Bab el-Manbed, isso vai afetar a Europa em cheio porque a Ásia envia seus produtos para Europa pelo Mar Vermelho. Isso vai afetar muito o preço de frete”, concluiu. Historiador e pesquisador de conflitos armados Rodolfo Queiroz Laterza - Cleia Viana/Câmara dos Deputado Estima-se que cerca de 10% do comércio marítimo do petróleo passe pelo Estreito de Bab el-Manbed e pelo Mar Vermelho, segundo Agência Internacional de Energia (AIE). O diretor do Instituto de Altos Estudos de Geopolítica, Segurança e Conflitos (GSEC), Rodolfo Queiroz Laterza, destacou à Agência Brasil que a Arábia Saudita deve ter perdas econômicas “substanciais”. “Isso vai agravar as cadeias logísticas de abastecimento no mundo e afetar inúmeras economias de vários países, principalmente aqueles dependentes da importação de petróleo e derivados”, comentou. Nova etapa da guerra O professor de relações internacionais da Pontifícia Universidade Católica (PUC) de Minas, Danny Zahreddine, avalia que a guerra entre Irã e EUA entra em nova etapa com o fechamento da passagem de el-Manbed pelos houthis. “Nós estamos vivendo um impasse em que, quando os americanos apertam os iranianos, eles vão apertar mais ainda os EUA e seus aliados. E, sem sombra de dúvida, o estreito de Bab el Mandeb e o seu fechamento ele vai gerar um choque ainda maior na distribuição do petróleo”, disse. Os houthis têm uma aliança com o Irã, enquanto a Arábia Saudita é uma aliada histórica dos EUA, além de ser uma rival regional de Teerã. Danny Zahreddine, diretor do Instituto de Ciências Sociais da PUC Minas - Agência Pública/Divulgação O professor Zahreddine acrescentou que não só a Arábia Saudita deve ser afetada, mas todo e qualquer tipo de transportes que venha da Europa ou dos EUA e que passe ali pelo Mar Vermelho e Canal de Suez. “Ou do transporte da China, da Ásia, Malásia, Indonésia, Singapura que seja para a Europa ou EUA. Essa rota passando pelo Portal das Lágrimas, que é o que significa o Bab el Mandeb, é muito mais curto. Então, o impacto é evidente”, finalizou. Iêmen entra na guerra Para o historiador Laterza, a guerra de Israel e EUA contra o Irã teve desdobramentos em conflitos até então “congelados”, como a guerra no Iêmen. “Cujas hostilidades foram encerradas em um acordo frágil em 2022 intermediado pela China. Os ataques aéreos sauditas ao porto de Sanaa [no Iêmen] dias atrás levaram a esta resposta firme dos houthis, que possuem plena capacidade de negação de uso do Mar Vermelho e de restringir a navegação no Estreito de Bab al-Mandeb”, comentou. Ainda segundo especialista do GSEC, os houthis tem comprovada capacidade militar no emprego de mísseis antinavio, mísseis balísticos, hipersônicos e drones kamikaze. “A realidade é bastante desfavorável para a estabilidade dos preços mundiais dos hidrocarbonetos e os impasses estratégicos para os EUA com o envolvimento militar dos Houthis irá se agravar”, concluiu Laterza.",
+    "description": "Após ataques dos houthis, do Iêmen, contra navios da Arábia Saudita, no Mar Vermelho, o preço do barril de petróleo voltou a disparar com aumento de 6% do óleo do tipo Brent, chegando a ser vendido a US$ 101 dólares no início da tarde desta quinta-feira (23). A escalada da guerra no Oriente Médio, com o fechamento do Estreito de Bab el-Manbed pelos houthis para navios da Arábia Saudita, vem agravando a situação do comércio global de combustíveis, com potencial de repercutir na inflação em todo o mundo. Notícias relacionadas: Houthis fecham estreito de Bab el-Mandeb em bloqueio à Arábia Saudita . Irã informa ter atacado central de dados da Amazon no Bahrein. A alta ocorre no momento em que o mercado do petróleo acumula cinco meses de redução da oferta, após o início da agressão dos Estados Unidos (EUA) e de Israel contra o Irã, em 28 de fevereiro. As tensões levaram ao fechamento do Estreito de Ormuz, por onde transitavam 20% do comércio marítimo de combustíveis. Infográfico mostra oscilação dos preços do petróleo devido ao conflito no Oriente Médio. - Arte Dijor/EBC Após a assinatura do memorando de entendimento entre Irã e EUA, em 17 de junho, o preço do barril de petróleo começou a cair até chegar ao valor mínimo de US$ 70, no dia 1º de julho, menor preço desde o início da guerra. Desde então, o preço do Brent aumentou 42%. A diretora técnica do Instituto de Estudos Estratégicos em Petróleo, Gás Natural e Biocombustíveis (Ineep), Ticiana Álvares, explicou à Agência Brasil que o fechamento da via do Mar Vermelho para Arábia Saudita tem impacto “bem relevante”. “A alternativa da Arábia Saudita para escoamento do petróleo com as restrições do Estreito de Ormuz vinham sendo via oleoduto até o Mar Vermelho. Com o fechamento de Bab el-Manbed, isso não é mais possível”, comentou. A especialista lembrou que a Arábia Saudita é um dos maiores produtores globais de petróleo e que o bloqueio ao país árabe deve afetar a oferta do produto para os EUA, que usa o petróleo saudita para fazer combustíveis, como gasolina e diesel. Fechamento do Estreito de Bad el Mandeb afeta frete e impacta preço do petróleo. Arte Dijor/EBC “Se houve um fechamento mais geral do Estreito de Bab el-Manbed, isso vai afetar a Europa em cheio porque a Ásia envia seus produtos para Europa pelo Mar Vermelho. Isso vai afetar muito o preço de frete”, concluiu. Historiador e pesquisador de conflitos armados Rodolfo Queiroz Laterza - Cleia Viana/Câmara dos Deputado Estima-se que cerca de 10% do comércio marítimo do petróleo passe pelo Estreito de Bab el-Manbed e pelo Mar Vermelho, segundo Agência Internacional de Energia (AIE). O diretor do Instituto de Altos Estudos de Geopolítica, Segurança e Conflitos (GSEC), Rodolfo Queiroz Laterza, destacou à Agência Brasil que a Arábia Saudita deve ter perdas econômicas “substanciais”. “Isso vai agravar as cadeias logísticas de abastecimento no mundo e afetar inúmeras economias de vários países, principalmente aqueles dependentes da importação de petróleo e derivados”, comentou. Nova etapa da guerra O professor de relações internacionais da Pontifícia Universidade Católica (PUC) de Minas, Danny Zahreddine, avalia que a guerra entre Irã e EUA entra em nova etapa com o fechamento da passagem de el-Manbed pelos houthis. “Nós estamos vivendo um impasse em que, quando os americanos apertam os iranianos, eles vão apertar mais ainda os EUA e seus aliados. E, sem sombra de dúvida, o estreito de Bab el Mandeb e o seu fechamento ele vai gerar um choque ainda maior na distribuição do petróleo”, disse. Os houthis têm uma aliança com o Irã, enquanto a Arábia Saudita é uma aliada histórica dos EUA, além de ser uma rival regional de Teerã. Danny Zahreddine, diretor do Instituto de Ciências Sociais da PUC Minas - Agência Pública/Divulgação O professor Zahreddine acrescentou que não só a Arábia Saudita deve ser afetada, mas todo e qualquer tipo de transportes que venha da Europa ou dos EUA e que passe ali pelo Mar Vermelho e Canal de Suez. “Ou do transporte da China, da Ásia, Malásia, Indonésia, Singapura que seja para a Europa ou EUA. Essa rota passando pelo Portal das Lágrimas, que é o que significa o Bab el Mandeb, é muito mais curto. Então, o impacto é evidente”, finalizou. Iêmen entra na guerra Para o historiador Laterza, a guerra de Israel e EUA contra o Irã teve desdobramentos em conflitos até então “congelados”, como a guerra no Iêmen. “Cujas hostilidades foram encerradas em um acordo frágil em 2022 intermediado pela China. Os ataques aéreos sauditas ao porto de Sanaa [no Iêmen] dias atrás levaram a esta resposta firme dos houthis, que possuem plena capacidade de negação de uso do Mar Vermelho e de restringir a navegação no Estreito de Bab al-Mandeb”, comentou. Ainda segundo especialista do GSEC, os houthis tem comprovada capacidade militar no emprego de mísseis antinavio, mísseis balísticos, hipersônicos e drones kamikaze. “A realidade é bastante desfavorável para a estabilidade dos preços mundiais dos hidrocarbonetos e os impasses estratégicos para os EUA com o envolvimento militar dos Houthis irá se agravar”, concluiu Laterza. Saiba mais sobre os ataques no Repórter Brasil Tarde, da TV Brasil",
     "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Lucas Pordeus León – Repórter da Agência Brasil",
     "pub_date": "2026-07-23T16:41:00+00:00",
@@ -89,19 +326,20 @@
     "all_categories": [
       "Internacional",
       "Conflito no Oriente Médio",
-      "Petróleo",
+      "petróleo",
       "barril Brent",
       "Estreito de Ormuz",
-      "Estreito de Bab el-Manbed"
+      "Estreito de Bab el-Manbed",
+      "Multimídia"
     ],
     "in_scope": true,
     "canonical_category_l1": "Aviação",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf_low_confidence",
-    "category_mapping_confidence": 0.4391,
+    "category_mapping_confidence": 0.4816,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.677,
+    "destaque_score": 0.669,
     "layout_tier": "grade"
   },
   {
@@ -170,7 +408,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.695,
+    "destaque_score": 0.677,
     "layout_tier": "grade"
   },
   {
@@ -178,7 +416,7 @@
     "guid": "1697338 at https://agenciabrasil.ebc.com.br",
     "title": "Dez cidades mais violentas do país estão no Nordeste, aponta estudo",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/dez-cidades-mais-violentas-do-pais-estao-no-nordeste-aponta-estudo",
-    "description": "As dez cidades mais violentas do Brasil estão na região Nordeste, apontam os dados do 20º Anuário Brasileiro de Segurança Pública , divulgado nesta quinta-feira (23). O relatório produzido pelo Fórum Brasileiro de Segurança Pública reúne os principais dados sobre as ocorrências criminais registradas no país em de 2025. A lista reúne as cidades com as maiores taxas de Mortes Violentas Intencionais (MVI) a cada 100 mil habitantes. A Bahia possui cinco cidades no ranking e o Ceará, três. Pernambuco e Paraíba contam com um município na lista, cada. A categoria MVI inclui homicídio doloso, feminicídio, roubo seguidos de morte (latrocínio), lesão corporal seguida de morte, morte decorrente de intervenções policiais e morte de policiais em serviço e fora do horário de trabalho. Confira a lista das 10 cidades com maior número de mortes violentas Maranguape (CE) - (100,3) Eunápolis (BA) - (85,1) Maracanaú (CE) - (80,7) Porto Seguro (BA) - (71,2) Simões Filho (BA) - (58,1) Jequié (BA) - (57,4) Caucaia (CE) - (56,6) Cabo de Santo Agostinho (PE) - (55,1) Santa Rita (PB) - (50,9) Juazeiro (BA) - (55,8) Tráfico de drogas Notícias relacionadas: Mortes violentas caem 8,2% no país em 2025; feminicídios aumentam 4%. Estado de SP registra crescimento de casos de feminicídios em 2026. Saiba como vai funcionar programa federal contra o crime organizado . De acordo com o Fórum, o principal fator que contribui para o alto índice de violência nessas cidades é a disputa entre grupos criminosos pelo controle do tráfico de drogas. Maranguape lidera o ranking nacional e registra taxa de mortes cinco vezes superior à média do país. O local se tornou atrativo para organizações criminosas devido à sua localização estratégica perto de importantes eixos rodoviários da região, como a BR-22 e a CE065. Maracanaú, terceira na lista das mais violentas, é vizinha à Maranguape e está mais próxima do Aeroporto Internacional de Fortaleza. Já a segunda do ranking, Eunápolis, no extremo sul da Bahia, conta com uma taxa de 85,1 casos por 100 mil habitantes. A cidade também enfrenta um cenário de disputas por grupos faccionados distintos e representa um ponto estratégico para o transporte de drogas, sendo cruzada por duas rodovias nacionais. No anuário do ano passado, a cidade não figurava nem entre as 20 cidades com os maiores índices por morte violenta. Cenário nacional A 20ª edição do Anuário Brasileiro de Segurança Pública mostra que o número de mortes violentas intencionais (MVI) no Brasil caiu de 20,6 casos por 100 mil habitantes em 2024, para 19,1 casos por 100 mil habitantes, em 2025 – uma diminuição de 8,2%. Esse é o menor patamar registrado desde 2012, quando o índice começou a ser medido. Em números absolutos, foram registradas 40.775 mortes violentas intencionais no ano passado ante 44.127 em 2024. *Estagiário da Agência Brasil sob supervisão de Odair Braz Junior",
+    "description": "As dez cidades mais violentas do Brasil estão na região Nordeste, apontam os dados do 20º Anuário Brasileiro de Segurança Pública , divulgado nesta quinta-feira (23). O relatório produzido pelo Fórum Brasileiro de Segurança Pública reúne os principais dados sobre as ocorrências criminais registradas no país em 2025. A lista reúne as cidades com as maiores taxas de Mortes Violentas Intencionais (MVI) a cada 100 mil habitantes. A Bahia possui cinco cidades no ranking e o Ceará, três. Pernambuco e Paraíba contam com um município na lista, cada. A categoria MVI inclui homicídio doloso, feminicídio, roubo seguidos de morte (latrocínio), lesão corporal seguida de morte, morte decorrente de intervenções policiais e morte de policiais em serviço e fora do horário de trabalho. Confira a lista das 10 cidades com maior número de mortes violentas Maranguape (CE) - (100,3) Eunápolis (BA) - (85,1) Maracanaú (CE) - (80,7) Porto Seguro (BA) - (71,2) Simões Filho (BA) - (58,1) Jequié (BA) - (57,4) Caucaia (CE) - (56,6) Cabo de Santo Agostinho (PE) - (55,1) Santa Rita (PB) - (50,9) Juazeiro (BA) - (55,8) Tráfico de drogas Notícias relacionadas: Mortes violentas caem 8,2% no país em 2025; feminicídios aumentam 4%. Estado de SP registra crescimento de casos de feminicídios em 2026. Saiba como vai funcionar programa federal contra o crime organizado . De acordo com o Fórum, o principal fator que contribui para o alto índice de violência nessas cidades é a disputa entre grupos criminosos pelo controle do tráfico de drogas. Maranguape lidera o ranking nacional e registra taxa de mortes cinco vezes superior à média do país. O local se tornou atrativo para organizações criminosas devido à sua localização estratégica perto de importantes eixos rodoviários da região, como a BR-22 e a CE065. Maracanaú, terceira na lista das mais violentas, é vizinha à Maranguape e está mais próxima do Aeroporto Internacional de Fortaleza. Já a segunda do ranking, Eunápolis, no extremo sul da Bahia, conta com uma taxa de 85,1 casos por 100 mil habitantes. A cidade também enfrenta um cenário de disputas por grupos faccionados distintos e representa um ponto estratégico para o transporte de drogas, sendo cruzada por duas rodovias nacionais. No anuário do ano passado, a cidade não figurava nem entre as 20 cidades com os maiores índices por morte violenta. Cenário nacional A 20ª edição do Anuário Brasileiro de Segurança Pública mostra que o número de mortes violentas intencionais (MVI) no Brasil caiu de 20,6 casos por 100 mil habitantes em 2024, para 19,1 casos por 100 mil habitantes, em 2025 – uma diminuição de 8,2%. Esse é o menor patamar registrado desde 2012, quando o índice começou a ser medido. Em números absolutos, foram registradas 40.775 mortes violentas intencionais no ano passado ante 44.127 em 2024. *Estagiário da Agência Brasil sob supervisão de Odair Braz Junior",
     "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Matheus Crobelatti*",
     "pub_date": "2026-07-23T16:15:00+00:00",
@@ -187,7 +425,7 @@
       "Geral",
       "Anuário Brasileiro de Segurança Pública",
       "crimes organizado",
-      "Facções",
+      "facções",
       "Fórum Brasileiro de Segurança Pública"
     ],
     "in_scope": true,
@@ -197,7 +435,7 @@
     "category_mapping_confidence": 0.3535,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.654,
+    "destaque_score": 0.635,
     "layout_tier": "grade"
   },
   {
@@ -267,7 +505,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.692,
+    "destaque_score": 0.674,
     "layout_tier": "grade"
   },
   {
@@ -290,7 +528,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.691,
+    "destaque_score": 0.673,
     "layout_tier": "grade"
   },
   {
@@ -336,7 +574,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.69,
+    "destaque_score": 0.672,
     "layout_tier": "grade"
   },
   {
@@ -406,7 +644,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.688,
+    "destaque_score": 0.671,
     "layout_tier": "grade"
   },
   {
@@ -429,7 +667,7 @@
     "category_mapping_confidence": 0.446,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.55,
+    "destaque_score": 0.532,
     "layout_tier": "grade"
   },
   {
@@ -475,7 +713,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.685,
+    "destaque_score": 0.667,
     "layout_tier": "grade"
   },
   {
@@ -498,7 +736,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.883,
+    "destaque_score": 0.866,
     "layout_tier": "manchete"
   },
   {
@@ -521,7 +759,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.682,
+    "destaque_score": 0.665,
     "layout_tier": "grade"
   },
   {
@@ -544,7 +782,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.682,
+    "destaque_score": 0.665,
     "layout_tier": "grade"
   },
   {
@@ -552,26 +790,27 @@
     "guid": "1697289 at https://agenciabrasil.ebc.com.br",
     "title": "Três linhas de trens têm funcionamento interrompido em São Paulo",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/tres-linhas-de-trens-tem-funcionamento-interrompido-em-sao-paulo",
-    "description": "Os trens das linhas 11-Coral, 12-Safira e 13-Jade, todas operadas pela Trivia Trens, pararam de funcionar na manhã desta quinta-feira (23) devido a uma falha de energia, segundo informa a concessionária. A interrupção do serviço acontece entre as estações Brás e Sebastião Gualberto. O Serviço Expresso Aeroporto também foi afetado e não está em operação. A Trivia passou a controlar a operação destas linhas nesta terça-feira (21). Além disso, um incêndio atingiu um dos trens nas proximidades da rua Bresser, no centro da cidade, por volta das 5h30. Os bombeiros foram para o local e controlaram a situação. Com os problemas nas três linhas, muitos passageiros tiveram de sair dos comboios e estão andando sobre os trilhos. Devido a todo esse problema, as estações ficaram lotadas, o que afetou também o trânsito no entorno. O sistema de ônibus Paese (Plano de Apoio entre Empresas em Situação de Emergência) foi acionado. O Metrô, a partir das 6h, permitiu transferências nas estações Tatuapé e Corinthians-Itaquera para auxiliar no transporte de passageiros. A Trivia informou que “equipes técnicas atuam no local para identificara causa da ocorrência e realizar os reparos necessários” nas linhas afetadas. A prefeitura de São Paulo anunciou por volta das 8h que suspendeu o rodízio de veículos na Zona Leste, onde acontecem as falhas nas linhas de trens. Segundo a CET, o cancelamento do rodízio vale para as avenidas Celso Garcia, Radial Leste, Salim Farah Maluf, Avenida do Estado, Luiz Inácio de Anhaia Mello e ainda a Marginal Tietê.",
+    "description": "Os trens das linhas 11-Coral, 12-Safira e 13-Jade, todas operadas pela Trivia Trens, pararam de funcionar na manhã desta quinta-feira (23) devido a uma falha de energia, segundo informa a concessionária. A interrupção do serviço acontece entre as estações Brás e Sebastião Gualberto. O Serviço Expresso Aeroporto também foi afetado e não está em operação. A Trivia passou a controlar a operação destas linhas nesta terça-feira (21). Além disso, um incêndio atingiu um dos trens nas proximidades da rua Bresser, no centro da cidade, por volta das 5h30. Os bombeiros foram para o local e controlaram a situação. Com os problemas nas três linhas, muitos passageiros tiveram de sair dos comboios e estão andando sobre os trilhos. Devido a todo esse problema, as estações ficaram lotadas, o que afetou também o trânsito no entorno. O sistema de ônibus Paese (Plano de Apoio entre Empresas em Situação de Emergência) foi acionado. O Metrô, a partir das 6h, permitiu transferências nas estações Tatuapé e Corinthians-Itaquera para auxiliar no transporte de passageiros. A Trivia informou que “equipes técnicas atuam no local para identificara causa da ocorrência e realizar os reparos necessários” nas linhas afetadas. A prefeitura de São Paulo anunciou por volta das 8h que suspendeu o rodízio de veículos na Zona Leste, onde acontecem as falhas nas linhas de trens. Segundo a CET, o cancelamento do rodízio vale para as avenidas Celso Garcia, Radial Leste, Salim Farah Maluf, Avenida do Estado, Luiz Inácio de Anhaia Mello e ainda a Marginal Tietê. Saiba mais no Repórter Brasil Tarde, da TV Brasil",
     "image_url": "https://agenciabrasil.ebc.com.br/ebc.png?id=1697289&amp;o=rss",
     "author": "Agência Brasil",
     "pub_date": "2026-07-23T11:26:00+00:00",
     "source_category_raw": "Geral",
     "all_categories": [
       "Geral",
-      "Metrô",
-      "Transporte Público",
+      "metrô",
+      "transporte público",
       "São Paulo",
-      "Trivia Trens"
+      "Trivia Trens",
+      "Multimídia"
     ],
     "in_scope": true,
     "canonical_category_l1": "Distribuição e Trade",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf_low_confidence",
-    "category_mapping_confidence": 0.2114,
+    "category_mapping_confidence": 0.2249,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.399,
+    "destaque_score": 0.386,
     "layout_tier": "condensado"
   },
   {
@@ -594,7 +833,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.676,
+    "destaque_score": 0.66,
     "layout_tier": "grade"
   },
   {
@@ -620,7 +859,7 @@
     "category_mapping_confidence": 0.3731,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.599,
+    "destaque_score": 0.588,
     "layout_tier": "grade"
   },
   {
@@ -643,7 +882,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.835,
+    "destaque_score": 0.824,
     "layout_tier": "manchete"
   },
   {
@@ -666,7 +905,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.634,
+    "destaque_score": 0.623,
     "layout_tier": "grade"
   },
   {
@@ -718,7 +957,7 @@
     "category_mapping_confidence": 0.5395,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.438,
+    "destaque_score": 0.428,
     "layout_tier": "grade"
   },
   {
@@ -765,7 +1004,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.633,
+    "destaque_score": 0.622,
     "layout_tier": "grade"
   },
   {
@@ -822,7 +1061,7 @@
     "category_mapping_confidence": 0.3334,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.545,
+    "destaque_score": 0.535,
     "layout_tier": "grade"
   },
   {
@@ -845,7 +1084,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.632,
+    "destaque_score": 0.621,
     "layout_tier": "grade"
   },
   {
@@ -891,7 +1130,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.631,
+    "destaque_score": 0.62,
     "layout_tier": "grade"
   },
   {
@@ -952,7 +1191,7 @@
     "category_mapping_confidence": 0.3807,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.356,
+    "destaque_score": 0.345,
     "layout_tier": "condensado"
   },
   {
@@ -975,7 +1214,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.63,
+    "destaque_score": 0.62,
     "layout_tier": "grade"
   },
   {
@@ -998,7 +1237,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.63,
+    "destaque_score": 0.62,
     "layout_tier": "grade"
   },
   {
@@ -1067,7 +1306,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.629,
+    "destaque_score": 0.619,
     "layout_tier": "grade"
   },
   {
@@ -1090,7 +1329,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.629,
+    "destaque_score": 0.619,
     "layout_tier": "grade"
   },
   {
@@ -1160,7 +1399,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.628,
+    "destaque_score": 0.618,
     "layout_tier": "grade"
   },
   {
@@ -1229,7 +1468,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.628,
+    "destaque_score": 0.618,
     "layout_tier": "grade"
   },
   {
@@ -1258,7 +1497,7 @@
     "category_mapping_confidence": 0.2182,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.352,
+    "destaque_score": 0.342,
     "layout_tier": "condensado"
   },
   {
@@ -1281,7 +1520,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.627,
+    "destaque_score": 0.617,
     "layout_tier": "grade"
   },
   {
@@ -1304,7 +1543,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.827,
+    "destaque_score": 0.817,
     "layout_tier": "manchete"
   },
   {
@@ -1350,7 +1589,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.626,
+    "destaque_score": 0.616,
     "layout_tier": "grade"
   },
   {
@@ -1396,7 +1635,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.625,
+    "destaque_score": 0.616,
     "layout_tier": "grade"
   },
   {
@@ -1536,7 +1775,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.623,
+    "destaque_score": 0.614,
     "layout_tier": "grade"
   },
   {
@@ -1565,7 +1804,7 @@
     "category_mapping_confidence": 0.3193,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.373,
+    "destaque_score": 0.363,
     "layout_tier": "condensado"
   },
   {
@@ -1611,7 +1850,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.622,
+    "destaque_score": 0.613,
     "layout_tier": "grade"
   },
   {
@@ -1710,7 +1949,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.821,
+    "destaque_score": 0.812,
     "layout_tier": "manchete"
   },
   {
@@ -1806,7 +2045,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.62,
+    "destaque_score": 0.611,
     "layout_tier": "grade"
   },
   {
@@ -1829,7 +2068,7 @@
     "category_mapping_confidence": 0.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.369,
+    "destaque_score": 0.36,
     "layout_tier": "condensado"
   },
   {
@@ -1852,7 +2091,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.618,
+    "destaque_score": 0.609,
     "layout_tier": "grade"
   },
   {
@@ -1875,7 +2114,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.817,
+    "destaque_score": 0.808,
     "layout_tier": "manchete"
   },
   {
@@ -1898,7 +2137,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.615,
+    "destaque_score": 0.607,
     "layout_tier": "grade"
   },
   {
@@ -1944,7 +2183,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.614,
+    "destaque_score": 0.606,
     "layout_tier": "grade"
   },
   {
@@ -1967,7 +2206,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.814,
+    "destaque_score": 0.805,
     "layout_tier": "manchete"
   },
   {
@@ -1990,7 +2229,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.613,
+    "destaque_score": 0.605,
     "layout_tier": "grade"
   },
   {
@@ -2050,7 +2289,7 @@
     "category_mapping_confidence": 0.4629,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.58,
+    "destaque_score": 0.574,
     "layout_tier": "grade"
   },
   {
@@ -2073,7 +2312,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.594,
+    "destaque_score": 0.588,
     "layout_tier": "grade"
   },
   {
@@ -2125,7 +2364,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.593,
+    "destaque_score": 0.587,
     "layout_tier": "grade"
   },
   {
@@ -2178,7 +2417,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.792,
+    "destaque_score": 0.787,
     "layout_tier": "manchete"
   },
   {
@@ -2201,7 +2440,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.592,
+    "destaque_score": 0.586,
     "layout_tier": "grade"
   },
   {
@@ -2271,7 +2510,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.791,
+    "destaque_score": 0.786,
     "layout_tier": "manchete"
   },
   {
@@ -2294,7 +2533,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.59,
+    "destaque_score": 0.585,
     "layout_tier": "grade"
   },
   {
@@ -2317,7 +2556,7 @@
     "category_mapping_confidence": 0.3712,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.513,
+    "destaque_score": 0.508,
     "layout_tier": "grade"
   },
   {
@@ -2340,7 +2579,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.59,
+    "destaque_score": 0.585,
     "layout_tier": "grade"
   },
   {
@@ -2369,7 +2608,7 @@
     "category_mapping_confidence": 0.2088,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.312,
+    "destaque_score": 0.307,
     "layout_tier": "condensado"
   },
   {
@@ -2398,7 +2637,7 @@
     "category_mapping_confidence": 0.5174,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.389,
+    "destaque_score": 0.384,
     "layout_tier": "condensado"
   },
   {
@@ -2490,7 +2729,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.789,
+    "destaque_score": 0.784,
     "layout_tier": "manchete"
   },
   {
@@ -2561,7 +2800,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.589,
+    "destaque_score": 0.584,
     "layout_tier": "grade"
   },
   {
@@ -2653,7 +2892,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.587,
+    "destaque_score": 0.583,
     "layout_tier": "grade"
   },
   {
@@ -2816,7 +3055,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.786,
+    "destaque_score": 0.782,
     "layout_tier": "manchete"
   },
   {
@@ -2931,7 +3170,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.585,
+    "destaque_score": 0.581,
     "layout_tier": "grade"
   },
   {
@@ -2954,7 +3193,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.585,
+    "destaque_score": 0.58,
     "layout_tier": "grade"
   },
   {
@@ -3000,7 +3239,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.584,
+    "destaque_score": 0.58,
     "layout_tier": "grade"
   },
   {
@@ -3094,7 +3333,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.584,
+    "destaque_score": 0.58,
     "layout_tier": "grade"
   },
   {
@@ -3117,7 +3356,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.584,
+    "destaque_score": 0.58,
     "layout_tier": "grade"
   },
   {
@@ -3278,7 +3517,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.583,
+    "destaque_score": 0.578,
     "layout_tier": "grade"
   },
   {
@@ -3348,7 +3587,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.782,
+    "destaque_score": 0.778,
     "layout_tier": "manchete"
   },
   {
@@ -3392,7 +3631,7 @@
     "category_mapping_confidence": 0.4962,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.336,
+    "destaque_score": 0.332,
     "layout_tier": "condensado"
   },
   {
@@ -3436,7 +3675,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.582,
+    "destaque_score": 0.578,
     "layout_tier": "grade"
   },
   {
@@ -3459,7 +3698,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.782,
+    "destaque_score": 0.778,
     "layout_tier": "manchete"
   },
   {
@@ -3609,7 +3848,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.571,
+    "destaque_score": 0.568,
     "layout_tier": "grade"
   },
   {
@@ -3724,7 +3963,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.57,
+    "destaque_score": 0.568,
     "layout_tier": "grade"
   },
   {
@@ -3770,7 +4009,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.57,
+    "destaque_score": 0.568,
     "layout_tier": "grade"
   },
   {
@@ -3864,7 +4103,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.57,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -3887,7 +4126,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -3910,7 +4149,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -3933,7 +4172,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.569,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -4002,7 +4241,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.566,
     "layout_tier": "grade"
   },
   {
@@ -4025,7 +4264,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.566,
     "layout_tier": "grade"
   },
   {
@@ -4095,7 +4334,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.568,
+    "destaque_score": 0.566,
     "layout_tier": "grade"
   },
   {
@@ -4261,7 +4500,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.568,
+    "destaque_score": 0.566,
     "layout_tier": "grade"
   },
   {
@@ -4284,7 +4523,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.568,
+    "destaque_score": 0.565,
     "layout_tier": "grade"
   },
   {
@@ -4307,7 +4546,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.568,
+    "destaque_score": 0.565,
     "layout_tier": "grade"
   },
   {
@@ -4328,7 +4567,7 @@
     "category_mapping_confidence": 0.3679,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.49,
+    "destaque_score": 0.487,
     "layout_tier": "grade"
   },
   {
@@ -4354,7 +4593,7 @@
     "category_mapping_confidence": 0.4292,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.545,
+    "destaque_score": 0.543,
     "layout_tier": "grade"
   },
   {
@@ -4377,7 +4616,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.567,
+    "destaque_score": 0.565,
     "layout_tier": "grade"
   },
   {
@@ -4427,7 +4666,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.767,
+    "destaque_score": 0.765,
     "layout_tier": "manchete"
   },
   {
@@ -4500,7 +4739,7 @@
     "category_mapping_confidence": 0.226,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.253,
+    "destaque_score": 0.251,
     "layout_tier": "condensado"
   },
   {
@@ -4523,7 +4762,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.567,
+    "destaque_score": 0.565,
     "layout_tier": "grade"
   },
   {
@@ -4546,7 +4785,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.767,
+    "destaque_score": 0.765,
     "layout_tier": "manchete"
   },
   {
@@ -4690,7 +4929,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.766,
+    "destaque_score": 0.764,
     "layout_tier": "manchete"
   },
   {
@@ -4783,7 +5022,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.566,
+    "destaque_score": 0.564,
     "layout_tier": "grade"
   },
   {
@@ -4806,7 +5045,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.566,
+    "destaque_score": 0.564,
     "layout_tier": "grade"
   },
   {
@@ -4833,7 +5072,7 @@
     "category_mapping_confidence": 0.3245,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.317,
+    "destaque_score": 0.315,
     "layout_tier": "condensado"
   },
   {
@@ -4856,7 +5095,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.766,
+    "destaque_score": 0.764,
     "layout_tier": "manchete"
   },
   {
@@ -4909,7 +5148,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.566,
+    "destaque_score": 0.564,
     "layout_tier": "grade"
   },
   {
@@ -5099,7 +5338,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -5170,7 +5409,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -5217,7 +5456,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -5263,7 +5502,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -5994,7 +6233,7 @@
     "category_mapping_confidence": 0.4904,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.425,
+    "destaque_score": 0.424,
     "layout_tier": "grade"
   },
   {
@@ -8105,7 +8344,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -8151,7 +8390,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8197,7 +8436,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8268,7 +8507,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -8291,7 +8530,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -8314,7 +8553,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -8407,7 +8646,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8430,7 +8669,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -8554,7 +8793,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -8577,7 +8816,7 @@
     "category_mapping_confidence": 0.572,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.644,
+    "destaque_score": 0.643,
     "layout_tier": "grade"
   },
   {
@@ -8600,7 +8839,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8623,7 +8862,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8669,7 +8908,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
