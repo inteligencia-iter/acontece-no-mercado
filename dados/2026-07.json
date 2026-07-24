@@ -1,6 +1,405 @@
 [
   {
     "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718794",
+    "title": "Regent Seven Seas Cruises prepara coleção de cruzeiros para celebrar 35 anos em 2027",
+    "link": "https://www.mercadoeeventos.com.br/noticias/cruzeiros/regent-seven-seas-cruises-prepara-colecao-de-cruzeiros-para-celebrar-35-anos-em-2027/",
+    "description": "Os cruzeiros comemorativos da Regent Seven Seas serão realizados a bordo dos navios da classe Prestige",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-2-9.jpg",
+    "author": "Ana Azevedo",
+    "pub_date": "2026-07-24T17:05:00+00:00",
+    "source_category_raw": "Cruzeiros",
+    "all_categories": [
+      "Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.698,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718758",
+    "title": "7 hotéis da Vila Galé entram em promoção com diárias a partir de R$ 450",
+    "link": "https://www.mercadoeeventos.com.br/noticias/hotelaria/7-hoteis-da-vila-gale-entram-em-promocao-com-diarias-a-partir-de-r-450/",
+    "description": "Vila Galé aposta em campanha de inverno para estimular reservas antecipadas em todo o país",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-24.jpg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-24T17:04:00+00:00",
+    "source_category_raw": "Hotelaria",
+    "all_categories": [
+      "Hotelaria"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.698,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718778",
+    "title": "Turquia conquista viajantes de última hora com praias premiadas e experiências pelo Mediterrâneo",
+    "link": "https://www.mercadoeeventos.com.br/internacional/turquia-conquista-viajantes-de-ultima-hora-com-praias-premiadas-e-experiencias-pelo-mediterraneo/",
+    "description": "Turquia reúne praias premiadas, gastronomia e longa temporada de verão",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-25.jpg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-24T17:01:00+00:00",
+    "source_category_raw": "Internacional",
+    "all_categories": [
+      "Internacional",
+      "Ásia"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.689,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.62,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718798",
+    "title": "Grupo MSC entrega Explora III e acelera expansão da marca de ultraluxo",
+    "link": "https://www.mercadoeeventos.com.br/noticias/cruzeiros/grupo-msc-entrega-explora-iii-e-acelera-expansao-da-marca-de-ultraluxo/",
+    "description": "Explora III estreia em agosto e navegará pela Europa, Groenlândia, Canadá e Alasca",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Bottle-breaking.jpg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-24T16:57:01+00:00",
+    "source_category_raw": "Cruzeiros",
+    "all_categories": [
+      "Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.698,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "abcmais_hortensias",
+    "guid": "https://www.abcmais.com/brasil/os-turistas-que-estavam-aqui-nao-acreditavam-no-que-estavam-vendo-novas-imagens-mostram-cervo-dentro-de-cafeteria-de-gramado/",
+    "title": "“Os turistas que estavam aqui não acreditavam no que estavam vendo”: Novas imagens mostram cervo dentro de cafeteria de Gramado",
+    "link": "https://www.abcmais.com/brasil/rio-grande-do-sul/hortensias/gramado/os-turistas-que-estavam-aqui-nao-acreditavam-no-que-estavam-vendo-novas-imagens-mostram-cervo-dentro-de-cafeteria-de-gramado/",
+    "description": "Animal ficou dentro do empreendimento por cerca de três minutos, caminhando e chegou até a deitar",
+    "image_url": "https://midia.gruposinos.com.br/_midias/jpg/2026/07/24/cervo2-22837525.jpeg",
+    "author": "five.integracao",
+    "pub_date": "2026-07-24T16:35:03+00:00",
+    "source_category_raw": "Brasil",
+    "all_categories": [
+      "Brasil",
+      "Gramado",
+      "Hortênsias",
+      "Rio Grande do Sul",
+      "avenida central",
+      "cafeteria em gramado",
+      "central de inverno",
+      "Cervo",
+      "cervo em cafeteria",
+      "cervo em gramado",
+      "EXPERIÊNCIA",
+      "turistas",
+      "VEADO"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4197,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.431,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718789",
+    "title": "Vai ao João Rock? Festival anuncia mudança que promete reduzir filas nos bares",
+    "link": "https://www.mercadoeeventos.com.br/tecnologia-e-inovacao/vai-ao-joao-rock-festival-anuncia-mudanca-que-promete-reduzir-filas-nos-bares/",
+    "description": "Cartão passa a ser aceito diretamente nos pontos de venda do festival João Rock",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-26.jpg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-24T16:01:00+00:00",
+    "source_category_raw": "Tecnologia e Inovação",
+    "all_categories": [
+      "Tecnologia e Inovação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.694,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718788",
+    "title": "Fecomércio empossa diretoria e conselhos do Sesc e Senac para mandato até 2030",
+    "link": "https://www.mercadoeeventos.com.br/noticias/politica/fecomercio-empossa-diretoria-e-conselhos-do-sesc-e-senac-para-mandato-ate-2030/",
+    "description": "A gestão da Fecomércio terá como prioridades ampliar o diálogo com os segmentos do Comércio de Bens, Serviços e Turismo",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/posse-da-nova-diretoria-vices-foto-erbs-jr.jpeg",
+    "author": "Ana Azevedo",
+    "pub_date": "2026-07-24T15:50:26+00:00",
+    "source_category_raw": "Política",
+    "all_categories": [
+      "Política"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3285,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.725,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "abcmais_hortensias",
+    "guid": "https://www.abcmais.com/brasil/rua-torta-o-ponto-turistico-mais-fotografado-de-gramado-tem-inspiracao-nos-eua-entenda/",
+    "title": "Rua Torta: O ponto turístico mais fotografado de Gramado tem inspiração nos EUA; entenda",
+    "link": "https://www.abcmais.com/brasil/rio-grande-do-sul/hortensias/gramado/rua-torta-o-ponto-turistico-mais-fotografado-de-gramado-tem-inspiracao-nos-eua-entenda/",
+    "description": "Conheça a atração gratuita que virou um dos lugares mais fotografados da cidade",
+    "image_url": "https://midia.gruposinos.com.br/_midias/jpg/2025/05/20/rua_torta_de_gramado-22344676.jpg",
+    "author": "Redação ABC+",
+    "pub_date": "2026-07-24T15:45:11+00:00",
+    "source_category_raw": "Brasil",
+    "all_categories": [
+      "Brasil",
+      "Gramado",
+      "Hortênsias",
+      "Rio Grande do Sul",
+      "atração gratuita",
+      "central de inverno",
+      "gramado",
+      "hortênsias garden",
+      "lombard street",
+      "Recomendadas pelo Editor",
+      "rua emílio sorgetz",
+      "rua mais famosa de gramado",
+      "rua torta",
+      "rua torta de gramado",
+      "turismo"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.5563,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.462,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1697443 at https://agenciabrasil.ebc.com.br",
+    "title": "Linhas de trem que retornaram para CPTM funcionam normalmente em SP",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/linhas-de-trem-que-retornaram-para-cptm-funcionam-normalmente-em-sp",
+    "description": "As linhas 11-Coral, 12-Safira e 13-Jade do transporte metropolitano de São Paulo funcionam normalmente nesta sexta-feira (24). O funcionamento dos trens voltou a ser feito pela Companhia Paulista de Trens Metropolitanos (CPTM) após falhas da concessionária Trivia Trens, que assumiu as linhas no início desta semana após privatização. É a primeira vez que esse tipo de intervenção ocorre em São Paulo. A manhã dessa quinta-feira (23) foi caótica para os paulistanos , em decorrência da paralisação dos trens logo no início da manhã após problemas de energia. Uma das composições foi atingida por um incêndio nas proximidades da estação Bresser-Mooca. Os problemas causaram superlotação nas estações, principalmente da zona leste. Notícias relacionadas: CPTM assumirá operação de linhas que falharam e causaram caos em SP. Três linhas de trens têm funcionamento interrompido em São Paulo. Com todas as falhas verificadas, a Agência Reguladora de Serviços Públicos de Transporte do Estado de São Paulo (Artesp) e o Governo do Estado determinaram que a CPTM retomasse a operação das linhas por até 90 dias. Segundo o governo estadual e a Artesp, a medida foi tomada para “garantir a qualidade do serviço e prevenir falhas como as registradas nos primeiros dias de operação assistida sob responsabilidade da operadora”. *Estagiário da Agência Brasil sob supervisão de Odair Braz Junior",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Matheus Crobelatti*",
+    "pub_date": "2026-07-24T15:23:00+00:00",
+    "source_category_raw": "Geral",
+    "all_categories": [
+      "Geral",
+      "CPTM",
+      "São Paulo",
+      "Transporte Público"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3518,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.449,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718775",
+    "title": "A Odisseia: conheça os destinos reais onde Christopher Nolan filmou o longa",
+    "link": "https://www.mercadoeeventos.com.br/noticias/destinos/exterior/a-odisseia-conheca-os-destinos-reais-onde-christopher-nolan-filmou-o-longa/",
+    "description": "A Odisseia estrelada por Matt Damon percorreu cinco países e um território não autônomo para recriar a jornada de Ulisses",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/1-Melinda-Sue-GordonUniversal-Pic.png",
+    "author": "Ana Azevedo",
+    "pub_date": "2026-07-24T15:06:06+00:00",
+    "source_category_raw": "Exterior",
+    "all_categories": [
+      "Exterior"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.2467,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.502,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718780",
+    "title": "Hopi Hari oferece ingresso gratuito para professores durante as férias escolares",
+    "link": "https://www.mercadoeeventos.com.br/uncategorized/hopi-hari-oferece-ingresso-gratuito-para-professores-durante-as-ferias-escolares/",
+    "description": "Professores podem garantir ingresso cortesia no Hopi Hari durante a campanha de férias",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-24-at-11.29.13-edited.jpeg",
+    "author": "Yuri Ricci",
+    "pub_date": "2026-07-24T14:50:52+00:00",
+    "source_category_raw": "Uncategorized",
+    "all_categories": [
+      "Uncategorized",
+      "Parques e Atrações"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3821,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.534,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718773",
+    "title": "Airalo ultrapassa 30 milhões de usuários com expansão do eSIM para viagens internacionais",
+    "link": "https://www.mercadoeeventos.com.br/noticias/tecnologia/airalo-ultrapassa-30-milhoes-de-usuarios-com-expansao-do-esim-para-viagens-internacionais/",
+    "description": "Estudo da Airalo aponta mudança no comportamento dos viajantes e crescimento da procura por conectividade durante viagens ao exterior",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/11123.jpg",
+    "author": "Ana Azevedo",
+    "pub_date": "2026-07-24T14:49:40+00:00",
+    "source_category_raw": "Tecnologia",
+    "all_categories": [
+      "Tecnologia"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4915,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.562,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718767",
+    "title": "Brasil e México discutem ampliação dos voos em reunião que reforça parceria no turismo",
+    "link": "https://www.mercadoeeventos.com.br/noticias/turismo-em-dados/brasil-e-mexico-discutem-ampliacao-dos-voos-em-reuniao-que-reforca-parceria-no-turismo/",
+    "description": "Brasil e México voltam a tratar da expansão das ligações aéreas e do fluxo de visitantes",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-23-edited-1.jpg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-24T13:59:30+00:00",
+    "source_category_raw": "Turismo em Dados",
+    "all_categories": [
+      "Turismo em Dados"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.5566,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.775,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/07/funcionarios-da-air-canada-aprovam-acordo-coletivo-com-novos-salarios-e-beneficios_230475.html",
+    "title": "Funcionários da Air Canada aprovam acordo coletivo com novos salários e benefícios",
+    "link": "https://www.panrotas.com.br/aviacao/empresas/2026/07/funcionarios-da-air-canada-aprovam-acordo-coletivo-com-novos-salarios-e-beneficios_230475.html",
+    "description": "Representante do sindicato diz que contrato com a companhia canadense atendeu a expectativa da categoria",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/08/21/b8fc9d7e597fe4c6617fdfd7d471fd1c-20250819cupestrikeimpactairportyulz810073.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-07-24T13:49:00+00:00",
+    "source_category_raw": "Aviação - Empresas",
+    "all_categories": [
+      "Aviação - Empresas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Empresas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.885,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/07/cenipa-aponta-falhas-da-tripulacao-e-sistema-de-degelo-desligado-em-acidente-da-voepass_230494.html",
+    "title": "Cenipa aponta falhas da tripulação e sistema de degelo desligado em acidente da Voepass",
+    "link": "https://www.panrotas.com.br/aviacao/empresas/2026/07/cenipa-aponta-falhas-da-tripulacao-e-sistema-de-degelo-desligado-em-acidente-da-voepass_230494.html",
+    "description": "Relatório final cita falhas diante de alertas de gelo, mas não aponta causa única da tragédia",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/07/10/0a2308324dec962feed63237016a8352-unnamed.png",
+    "author": "Filip Calixto",
+    "pub_date": "2026-07-24T12:56:00+00:00",
+    "source_category_raw": "Aviação - Empresas",
+    "all_categories": [
+      "Aviação - Empresas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Empresas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.881,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/07/latam-mantem-voos-semanais-entre-sao-paulo-e-amsterda-durante-verao-no-brasil_230493.html",
+    "title": "Latam mantém cinco voos semanais entre São Paulo e Amsterdã durante verão no Brasil",
+    "link": "https://www.panrotas.com.br/aviacao/empresas/2026/07/latam-mantem-voos-semanais-entre-sao-paulo-e-amsterda-durante-verao-no-brasil_230493.html",
+    "description": "Passagens começam a ser vendidas neste fim de semana para viagens a partir do fim de outubro",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/07/5e42273c04729d5e510e7e5407ef33b1-unnamed20260707t112131.661.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-07-24T12:29:00+00:00",
+    "source_category_raw": "Aviação - Empresas",
+    "all_categories": [
+      "Aviação - Empresas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Empresas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.88,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=718615",
     "title": "Turismo de aventura será a tendência de mercado para 2026, aponta Pinterest",
     "link": "https://www.mercadoeeventos.com.br/turismo-em-dados-2/turismo-de-aventura-sera-a-tendencia-de-mercado-para-2026-aponta-pinterest/",
@@ -44,6 +443,29 @@
     "content_domain_confidence": 0.9,
     "destaque_score": 0.697,
     "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/aeroportos/2026/07/aena-entrega-novas-areas-de-check-in-e-embarque-no-aeroporto-de-carajas-pa_230469.html",
+    "title": "Aena entrega novas áreas de check-in e embarque no Aeroporto de Carajás (PA)",
+    "link": "https://www.panrotas.com.br/aviacao/aeroportos/2026/07/aena-entrega-novas-areas-de-check-in-e-embarque-no-aeroporto-de-carajas-pa_230469.html",
+    "description": "Obras ampliam terminal e fazem parte de projeto que elevará área para 4 mil metros quadrados",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/23/e3a8261616c4b21aa8d7237a38b15baa-unnamed20260723t150436.527.jpg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-07-24T11:21:00+00:00",
+    "source_category_raw": "Aviação - Aeroportos",
+    "all_categories": [
+      "Aviação - Aeroportos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Aeroportos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.876,
+    "layout_tier": "manchete"
   },
   {
     "source_id": "mercadoeeventos",
@@ -90,7 +512,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.663,
+    "destaque_score": 0.648,
     "layout_tier": "grade"
   },
   {
@@ -113,7 +535,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.863,
+    "destaque_score": 0.847,
     "layout_tier": "manchete"
   },
   {
@@ -160,7 +582,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.66,
+    "destaque_score": 0.645,
     "layout_tier": "grade"
   },
   {
@@ -191,29 +613,28 @@
     "guid": "1697405 at https://agenciabrasil.ebc.com.br",
     "title": "Pilotos da Voepass não relatavam falhas nas aeronaves, diz Cenipa",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/pilotos-da-voepass-nao-relatavam-falhas-nas-aeronaves-diz-cenipa",
-    "description": "Falhas no sistema, alertas ignorados, revisões mecânicas insuficientes e uma cultura organizacional de não reportar falhas em voos anteriores estão entre as causas da queda da aeronave PS-VPB, da Voepass, em 2024. O Centro de Investigação e Prevenção de Acidentes Aeronáuticos (Cenipa) concluiu as investigações e divulgou os resultados nesta quinta-feira (23). No dia 9 de agosto de 2024, o turboélice da marca francesa ATR, da empresa Voepass, caiu em Vinhedo, município vizinho de Campinas, no interior de São Paulo, vindo de Cascavel, no Paraná. A aeronave seguia para Guarulhos (SP). Foram 62 mortos no acidente, sendo 4 deles tripulantes. Na ocasião, um representante da empresa afirmou que a aeronave havia passado por manutenção de rotina antes do voo e não apresentava nenhum problema técnico. As investigações, no entanto, mostraram “várias fragilidades nas atividades de manutenção”. O Cenipa analisou os últimos voos anteriores da mesma aeronave com tripulações diferentes. Em todos eles, realizados entre cidades do estado de São Paulo, houve detecção de gelo e falha no sistema que retira esse gelo das partes do avião. Porém, não houve relato dessas falhas no registro de bordo. “Três tripulações diferentes realizando normalização de desvio [de procedimento]. Fizemos uma análise mais ampla e notamos que outras tripulações também faziam isso, o que demonstra uma cultura organizacional”, afirmou o Investigador-Encarregado do Cenipa, Tenente-Coronel Fróes. As investigações também mostraram que as manutenções nas aeronaves da empresa não cumpriam requisitos necessários de segurança. Mecânicos entrevistados afirmaram que havia troca de componentes em falha entre aeronaves. Pegavam componentes em falha de uma aeronave, instalavam em outra e liberavam para voo. Cultura organizacional O Cenipa concluiu também que havia uma cultura dentro da empresa de normalizar os desvios nas aeronaves. Pilotos e copilotos, inclusive aqueles envolvidos no acidente, recebiam alertas do sistema e desligavam os alertas, percebiam falhas nos sistemas de correção, mas não reportavam essas falhas. “O que podemos afirmar é que essa ocorrência foi um acidente com peso elevadíssimo da parte da cultura organizacional. Foram 19 fatores contribuintes, mas a cultura organizacional foi muito presente”, disse o Brigadeiro do Ar Avellar, chefe do Cenipa. Alerta de gelo Durante o voo de Cascavel para Guarulhos, o sistema da aeronave alertou para o acúmulo de gelo várias vezes. O sistema também avisou, por oito vezes, que a velocidade da aeronave estava caindo em virtude do peso do gelo na fuselagem. O sistema de degelo da aeronave chegou a ser acionado, mas apresentou falha e, por isso, foi desligado pelos pilotos. Não houve mudança no plano de voo em virtude dessas falhas. O procedimento correto, de acordo com o Cenipa, é reiniciar o sistema. Caso haja uma segunda falha, o sistema tem que ser desligado e a aeronave levada a voar em níveis mais baixos, onde as temperaturas são menos extremas. Esse procedimento, no entanto, não foi adotado. Além das falhas no sistema, a aeronave não poderia ter voado naquele momento por um problema nos limpadores de para-brisa. Essa pane limitava a aeronave a voar apenas quando não estivesse chovendo e não houvesse previsão de chuva por uma hora antes da decolagem e uma hora após o pouso. O Cenipa analisou 15 mil voos da Voepass para entender possíveis padrões. Desses 15 mil, 1.674 voos tiveram algum tipo de alerta de degradação de performance. Um desses voos teve perda de controle em algum momento. O Cenipa, no entanto, nunca foi informado desse episódio, algo que deveria ter ocorrido. Componente humano Durante o voo, piloto e copiloto falavam sobre os alertas dados no painel. Depois de pouco mais de uma hora de voo, o copiloto aviou o piloto que havia esquecido de ligar o sistema de degelo, mesmo depois dos alertas. Minutos antes da queda, o copiloto comentou que havia “bastante gelo” na aeronave. Em outros momentos, antes desse ponto, o sistema de degelo já havia apresentado falha. Próximo do destino, quando a aeronave passou a emitir vários alertas, como de excesso de gelo e de queda na velocidade em virtude do peso excessivo provocado por esse gelo, os pilotos passaram a lidar com várias questões ao mesmo tempo, como o procedimento de descida e os problemas com o gelo. Além disso, conversavam com a torre de comando sobre autorização para pouso. “O cérebro não consegue gerenciar aquelas informações em excesso. Isso pode ter comprometido a reação deles aos alertas”, disse Fróes. A demora em obter a liberação para pouso, o acúmulo de gelo, as falhas no sistema e a reação tardia dos pilotos aos problemas contribuíram para a perda gradual de controle. O ATR-72 212A da Voepass acabou entrando em rotação em parafuso, colidindo contra o solo. Acesse aqui o relatório completo do Cenipa .",
-    "image_url": "https://agenciabrasil.ebc.com.br/ebc.png?id=1697405&amp;o=rss",
+    "description": "Falhas no sistema, alertas ignorados, revisões mecânicas insuficientes e uma cultura organizacional de não reportar falhas em voos anteriores estão entre as causas da queda da aeronave PS-VPB, da Voepass, em 2024. O Centro de Investigação e Prevenção de Acidentes Aeronáuticos (Cenipa) concluiu as investigações e divulgou os resultados nesta quinta-feira (23). Notícias relacionadas: Um ano depois de tragédia da Voepass, familiares inauguram memorial . Pilotos da Voepass não relatavam falhas nas aeronaves, diz Cenipa. No dia 9 de agosto de 2024, o turboélice da marca francesa ATR, da empresa Voepass, caiu em Vinhedo, município vizinho de Campinas, no interior de São Paulo, vindo de Cascavel, no Paraná. A aeronave seguia para Guarulhos (SP). Foram 62 mortos no acidente, sendo 4 deles tripulantes. Na ocasião, um representante da empresa afirmou que a aeronave havia passado por manutenção de rotina antes do voo e não apresentava nenhum problema técnico. As investigações, no entanto, mostraram “várias fragilidades nas atividades de manutenção”. O Cenipa analisou os últimos voos anteriores da mesma aeronave com tripulações diferentes. Em todos eles, realizados entre cidades do estado de São Paulo, houve detecção de gelo e falha no sistema que retira esse gelo das partes do avião. Porém, não houve relato dessas falhas no registro de bordo. “Três tripulações diferentes realizando normalização de desvio [de procedimento]. Fizemos uma análise mais ampla e notamos que outras tripulações também faziam isso, o que demonstra uma cultura organizacional”, afirmou o Investigador-Encarregado do Cenipa, Tenente-Coronel Fróes. As investigações também mostraram que as manutenções nas aeronaves da empresa não cumpriam requisitos necessários de segurança. Mecânicos entrevistados afirmaram que havia troca de componentes em falha entre aeronaves. Pegavam componentes em falha de uma aeronave, instalavam em outra e liberavam para voo. Cultura organizacional O Cenipa concluiu também que havia uma cultura dentro da empresa de normalizar os desvios nas aeronaves. Pilotos e copilotos, inclusive aqueles envolvidos no acidente, recebiam alertas do sistema e desligavam os alertas, percebiam falhas nos sistemas de correção, mas não reportavam essas falhas. “O que podemos afirmar é que essa ocorrência foi um acidente com peso elevadíssimo da parte da cultura organizacional. Foram 19 fatores contribuintes, mas a cultura organizacional foi muito presente”, disse o Brigadeiro do Ar Avellar, chefe do Cenipa. Alerta de gelo Durante o voo de Cascavel para Guarulhos, o sistema da aeronave alertou para o acúmulo de gelo várias vezes. O sistema também avisou, por oito vezes, que a velocidade da aeronave estava caindo em virtude do peso do gelo na fuselagem. O sistema de degelo da aeronave chegou a ser acionado, mas apresentou falha e, por isso, foi desligado pelos pilotos. Não houve mudança no plano de voo em virtude dessas falhas. O procedimento correto, de acordo com o Cenipa, é reiniciar o sistema. Caso haja uma segunda falha, o sistema tem que ser desligado e a aeronave levada a voar em níveis mais baixos, onde as temperaturas são menos extremas. Esse procedimento, no entanto, não foi adotado. Além das falhas no sistema, a aeronave não poderia ter voado naquele momento por um problema nos limpadores de para-brisa. Essa pane limitava a aeronave a voar apenas quando não estivesse chovendo e não houvesse previsão de chuva por uma hora antes da decolagem e uma hora após o pouso. O Cenipa analisou 15 mil voos da Voepass para entender possíveis padrões. Desses 15 mil, 1.674 voos tiveram algum tipo de alerta de degradação de performance. Um desses voos teve perda de controle em algum momento. O Cenipa, no entanto, nunca foi informado desse episódio, algo que deveria ter ocorrido. Confira as informações sobre o relatório do Cenipa no Repórter Brasil , da TV Brasil Componente humano Durante o voo, piloto e copiloto falavam sobre os alertas dados no painel. Depois de pouco mais de uma hora de voo, o copiloto aviou o piloto que havia esquecido de ligar o sistema de degelo, mesmo depois dos alertas. Minutos antes da queda, o copiloto comentou que havia “bastante gelo” na aeronave. Em outros momentos, antes desse ponto, o sistema de degelo já havia apresentado falha. Próximo do destino, quando a aeronave passou a emitir vários alertas, como de excesso de gelo e de queda na velocidade em virtude do peso excessivo provocado por esse gelo, os pilotos passaram a lidar com várias questões ao mesmo tempo, como o procedimento de descida e os problemas com o gelo. Além disso, conversavam com a torre de comando sobre autorização para pouso. “O cérebro não consegue gerenciar aquelas informações em excesso. Isso pode ter comprometido a reação deles aos alertas”, disse Fróes. A demora em obter a liberação para pouso, o acúmulo de gelo, as falhas no sistema e a reação tardia dos pilotos aos problemas contribuíram para a perda gradual de controle. O ATR-72 212A da Voepass acabou entrando em rotação em parafuso, colidindo contra o solo. Acesse aqui o relatório completo do Cenipa .",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Marcelo Brandão - Repórter da Agência Brasil",
     "pub_date": "2026-07-24T00:41:00+00:00",
     "source_category_raw": "Geral",
     "all_categories": [
       "Geral",
       "voepass",
-      "Acidente",
-      "aérea",
-      "avião",
+      "Cenipa",
+      "Acidente Aéreo",
       "Vinhedo",
-      "2024"
+      "Multimídia"
     ],
     "in_scope": true,
     "canonical_category_l1": "Aviação",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf",
-    "category_mapping_confidence": 0.7259,
+    "category_mapping_confidence": 0.7253,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.709,
-    "layout_tier": "manchete"
+    "destaque_score": 0.694,
+    "layout_tier": "grade"
   },
   {
     "source_id": "mercadoeeventos",
@@ -258,7 +679,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.657,
+    "destaque_score": 0.642,
     "layout_tier": "grade"
   },
   {
@@ -305,7 +726,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.655,
+    "destaque_score": 0.641,
     "layout_tier": "grade"
   },
   {
@@ -356,7 +777,7 @@
     "category_mapping_confidence": 0.6985,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.698,
+    "destaque_score": 0.683,
     "layout_tier": "grade"
   },
   {
@@ -402,7 +823,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.648,
+    "destaque_score": 0.634,
     "layout_tier": "grade"
   },
   {
@@ -448,7 +869,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.647,
+    "destaque_score": 0.633,
     "layout_tier": "grade"
   },
   {
@@ -589,7 +1010,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.643,
+    "destaque_score": 0.63,
     "layout_tier": "grade"
   },
   {
@@ -643,7 +1064,7 @@
     "guid": "1697358 at https://agenciabrasil.ebc.com.br",
     "title": "CPTM assumirá operação de linhas que falharam e causaram caos em SP",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/cptm-assumira-operacao-de-linhas-que-falharam-e-causaram-caos-em-sp",
-    "description": "A Agência Reguladora de Serviços Públicos Delegados de Transporte do Estado de São Paulo (Artesp) determinou que a Companhia Paulista de Trens Metropolitanos (CPTM) retome a operação das Linhas 11-Coral, 12-Safira e 13-Jade por um período inicial de até 90 dias. Essas são as linhas operadas pela concessionária Trivia Trens que falharam na manhã desta quinta-feira (23) e causaram caos no transporte público da capital paulista. Notícias relacionadas: Três linhas de trens têm funcionamento interrompido em São Paulo. A medida foi tomada pela própria Artesp e pelo governo de São Paulo para “garantir a qualidade do serviço e prevenir falhas como as registradas nos primeiros dias de operação assistida sob responsabilidade da operadora”. A Trivia assumiu o controle das linhas 11, 12 e 13, que foram privatizadas, na terça-feira (21) e tem enfrentado problemas operacionais desde então. “O que nós vimos nos últimos dois dias, especialmente hoje, é inaceitável. Como fiscalizadores e reguladores do contrato, estamos agindo de modo imediato. A ideia é a volta da CPTM para operação, porque o que nós vimos realmente é muito ruim, muito penoso para o cidadão\", ressaltou André Isper, Diretor-Presidente da Artesp em comunicado oficial. A Artesp informa ainda que identificará as causas das falhas e apurará a responsabilidade da concessionária pelos problemas no serviço. \"Vamos trabalhar para assegurar um serviço de excelência ao cidadão, sem permitir que um serviço ruim prejudique quem depende do transporte todos os dias.\"",
+    "description": "A Agência Reguladora de Serviços Públicos Delegados de Transporte do Estado de São Paulo (Artesp) determinou que a Companhia Paulista de Trens Metropolitanos (CPTM) retome a operação das Linhas 11-Coral, 12-Safira e 13-Jade por um período inicial de até 90 dias. Essas são as linhas operadas pela concessionária Trivia Trens que falharam na manhã desta quinta-feira (23) e causaram caos no transporte público da capital paulista. Notícias relacionadas: Três linhas de trens têm funcionamento interrompido em São Paulo. A medida foi tomada pela própria Artesp e pelo governo de São Paulo para “garantir a qualidade do serviço e prevenir falhas como as registradas nos primeiros dias de operação assistida sob responsabilidade da operadora”. A Trivia assumiu o controle das linhas 11, 12 e 13, que foram privatizadas, na terça-feira (21) e tem enfrentado problemas operacionais desde então. “O que nós vimos nos últimos dois dias, especialmente hoje, é inaceitável. Como fiscalizadores e reguladores do contrato, estamos agindo de modo imediato. A ideia é a volta da CPTM para operação, porque o que nós vimos realmente é muito ruim, muito penoso para o cidadão\", ressaltou André Isper, Diretor-Presidente da Artesp em comunicado oficial. A Artesp informa ainda que identificará as causas das falhas e apurará a responsabilidade da concessionária pelos problemas no serviço. \"Vamos trabalhar para assegurar um serviço de excelência ao cidadão, sem permitir que um serviço ruim prejudique quem depende do transporte todos os dias.\" Confira mais informações sobre o assunto no Repórter Brasil , da TV Brasil",
     "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Agência Brasil",
     "pub_date": "2026-07-23T19:19:00+00:00",
@@ -652,16 +1073,17 @@
       "Geral",
       "CPTM",
       "São Paulo",
-      "Transporte"
+      "Transporte",
+      "Multimídia"
     ],
     "in_scope": true,
     "canonical_category_l1": "Distribuição e Trade",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf_low_confidence",
-    "category_mapping_confidence": 0.4081,
+    "category_mapping_confidence": 0.4176,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.414,
+    "destaque_score": 0.403,
     "layout_tier": "grade"
   },
   {
@@ -684,7 +1106,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.842,
+    "destaque_score": 0.829,
     "layout_tier": "manchete"
   },
   {
@@ -707,7 +1129,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.641,
+    "destaque_score": 0.628,
     "layout_tier": "grade"
   },
   {
@@ -730,7 +1152,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.84,
+    "destaque_score": 0.827,
     "layout_tier": "manchete"
   },
   {
@@ -753,7 +1175,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.639,
+    "destaque_score": 0.627,
     "layout_tier": "grade"
   },
   {
@@ -776,7 +1198,7 @@
     "category_mapping_confidence": 0.2284,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.446,
+    "destaque_score": 0.433,
     "layout_tier": "grade"
   },
   {
@@ -799,7 +1221,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.837,
+    "destaque_score": 0.825,
     "layout_tier": "manchete"
   },
   {
@@ -877,7 +1299,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.836,
+    "destaque_score": 0.824,
     "layout_tier": "manchete"
   },
   {
@@ -946,7 +1368,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.635,
+    "destaque_score": 0.623,
     "layout_tier": "grade"
   },
   {
@@ -954,7 +1376,7 @@
     "guid": "1697342 at https://agenciabrasil.ebc.com.br",
     "title": "Preço do petróleo supera os US$ 100 após ataques no Mar Vermelho",
     "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/preco-do-petroleo-supera-os-us-100-apos-ataques-no-mar-vermelho",
-    "description": "Após ataques dos houthis, do Iêmen, contra navios da Arábia Saudita, no Mar Vermelho, o preço do barril de petróleo voltou a disparar com aumento de 6% do óleo do tipo Brent, chegando a ser vendido a US$ 101 dólares no início da tarde desta quinta-feira (23). A escalada da guerra no Oriente Médio, com o fechamento do Estreito de Bab el-Manbed pelos houthis para navios da Arábia Saudita, vem agravando a situação do comércio global de combustíveis, com potencial de repercutir na inflação em todo o mundo. Notícias relacionadas: Houthis fecham estreito de Bab el-Mandeb em bloqueio à Arábia Saudita . Irã informa ter atacado central de dados da Amazon no Bahrein. A alta ocorre no momento em que o mercado do petróleo acumula cinco meses de redução da oferta, após o início da agressão dos Estados Unidos (EUA) e de Israel contra o Irã, em 28 de fevereiro. As tensões levaram ao fechamento do Estreito de Ormuz, por onde transitavam 20% do comércio marítimo de combustíveis. Infográfico mostra oscilação dos preços do petróleo devido ao conflito no Oriente Médio. - Arte Dijor/EBC Após a assinatura do memorando de entendimento entre Irã e EUA, em 17 de junho, o preço do barril de petróleo começou a cair até chegar ao valor mínimo de US$ 70, no dia 1º de julho, menor preço desde o início da guerra. Desde então, o preço do Brent aumentou 42%. A diretora técnica do Instituto de Estudos Estratégicos em Petróleo, Gás Natural e Biocombustíveis (Ineep), Ticiana Álvares, explicou à Agência Brasil que o fechamento da via do Mar Vermelho para Arábia Saudita tem impacto “bem relevante”. “A alternativa da Arábia Saudita para escoamento do petróleo com as restrições do Estreito de Ormuz vinham sendo via oleoduto até o Mar Vermelho. Com o fechamento de Bab el-Manbed, isso não é mais possível”, comentou. A especialista lembrou que a Arábia Saudita é um dos maiores produtores globais de petróleo e que o bloqueio ao país árabe deve afetar a oferta do produto para os EUA, que usa o petróleo saudita para fazer combustíveis, como gasolina e diesel. Fechamento do Estreito de Bad el Mandeb afeta frete e impacta preço do petróleo. Arte Dijor/EBC “Se houve um fechamento mais geral do Estreito de Bab el-Manbed, isso vai afetar a Europa em cheio porque a Ásia envia seus produtos para Europa pelo Mar Vermelho. Isso vai afetar muito o preço de frete”, concluiu. Historiador e pesquisador de conflitos armados Rodolfo Queiroz Laterza - Cleia Viana/Câmara dos Deputado Estima-se que cerca de 10% do comércio marítimo do petróleo passe pelo Estreito de Bab el-Manbed e pelo Mar Vermelho, segundo Agência Internacional de Energia (AIE). O diretor do Instituto de Altos Estudos de Geopolítica, Segurança e Conflitos (GSEC), Rodolfo Queiroz Laterza, destacou à Agência Brasil que a Arábia Saudita deve ter perdas econômicas “substanciais”. “Isso vai agravar as cadeias logísticas de abastecimento no mundo e afetar inúmeras economias de vários países, principalmente aqueles dependentes da importação de petróleo e derivados”, comentou. Nova etapa da guerra O professor de relações internacionais da Pontifícia Universidade Católica (PUC) de Minas, Danny Zahreddine, avalia que a guerra entre Irã e EUA entra em nova etapa com o fechamento da passagem de el-Manbed pelos houthis. “Nós estamos vivendo um impasse em que, quando os americanos apertam os iranianos, eles vão apertar mais ainda os EUA e seus aliados. E, sem sombra de dúvida, o estreito de Bab el Mandeb e o seu fechamento ele vai gerar um choque ainda maior na distribuição do petróleo”, disse. Os houthis têm uma aliança com o Irã, enquanto a Arábia Saudita é uma aliada histórica dos EUA, além de ser uma rival regional de Teerã. Danny Zahreddine, diretor do Instituto de Ciências Sociais da PUC Minas - Agência Pública/Divulgação O professor Zahreddine acrescentou que não só a Arábia Saudita deve ser afetada, mas todo e qualquer tipo de transportes que venha da Europa ou dos EUA e que passe ali pelo Mar Vermelho e Canal de Suez. “Ou do transporte da China, da Ásia, Malásia, Indonésia, Singapura que seja para a Europa ou EUA. Essa rota passando pelo Portal das Lágrimas, que é o que significa o Bab el Mandeb, é muito mais curto. Então, o impacto é evidente”, finalizou. Iêmen entra na guerra Para o historiador Laterza, a guerra de Israel e EUA contra o Irã teve desdobramentos em conflitos até então “congelados”, como a guerra no Iêmen. “Cujas hostilidades foram encerradas em um acordo frágil em 2022 intermediado pela China. Os ataques aéreos sauditas ao porto de Sanaa [no Iêmen] dias atrás levaram a esta resposta firme dos houthis, que possuem plena capacidade de negação de uso do Mar Vermelho e de restringir a navegação no Estreito de Bab al-Mandeb”, comentou. Ainda segundo especialista do GSEC, os houthis tem comprovada capacidade militar no emprego de mísseis antinavio, mísseis balísticos, hipersônicos e drones kamikaze. “A realidade é bastante desfavorável para a estabilidade dos preços mundiais dos hidrocarbonetos e os impasses estratégicos para os EUA com o envolvimento militar dos Houthis irá se agravar”, concluiu Laterza. Saiba mais sobre os ataques no Repórter Brasil Tarde, da TV Brasil",
+    "description": "Após ataques dos houthis, do Iêmen, contra navios da Arábia Saudita, no Mar Vermelho, o preço do barril de petróleo voltou a disparar com aumento de 6% do óleo do tipo Brent, chegando a ser vendido a US$ 101 dólares no início da tarde desta quinta-feira (23). A escalada da guerra no Oriente Médio, com o fechamento do Estreito de Bab el-Manbed pelos houthis para navios da Arábia Saudita, vem agravando a situação do comércio global de combustíveis, com potencial de repercutir na inflação em todo o mundo. Notícias relacionadas: Houthis fecham estreito de Bab el-Mandeb em bloqueio à Arábia Saudita . Irã informa ter atacado central de dados da Amazon no Bahrein. A alta ocorre no momento em que o mercado do petróleo acumula cinco meses de redução da oferta, após o início da agressão dos Estados Unidos (EUA) e de Israel contra o Irã, em 28 de fevereiro. As tensões levaram ao fechamento do Estreito de Ormuz, por onde transitavam 20% do comércio marítimo de combustíveis. Após a assinatura do memorando de entendimento entre Irã e EUA, em 17 de junho, o preço do barril de petróleo começou a cair até chegar ao valor mínimo de US$ 70, no dia 1º de julho, menor preço desde o início da guerra. Desde então, o preço do Brent aumentou 42%. A diretora técnica do Instituto de Estudos Estratégicos em Petróleo, Gás Natural e Biocombustíveis (Ineep), Ticiana Álvares, explicou à Agência Brasil que o fechamento da via do Mar Vermelho para Arábia Saudita tem impacto “bem relevante”. “A alternativa da Arábia Saudita para escoamento do petróleo com as restrições do Estreito de Ormuz vinham sendo via oleoduto até o Mar Vermelho. Com o fechamento de Bab el-Manbed, isso não é mais possível”, comentou. A especialista lembrou que a Arábia Saudita é um dos maiores produtores globais de petróleo e que o bloqueio ao país árabe deve afetar a oferta do produto para os EUA, que usa o petróleo saudita para fazer combustíveis, como gasolina e diesel. Fechamento do Estreito de Bad el Mandeb afeta frete e impacta preço do petróleo. Arte Dijor/EBC “Se houve um fechamento mais geral do Estreito de Bab el-Manbed, isso vai afetar a Europa em cheio porque a Ásia envia seus produtos para Europa pelo Mar Vermelho. Isso vai afetar muito o preço de frete”, concluiu. Historiador e pesquisador de conflitos armados Rodolfo Queiroz Laterza - Cleia Viana/Câmara dos Deputado Estima-se que cerca de 10% do comércio marítimo do petróleo passe pelo Estreito de Bab el-Manbed e pelo Mar Vermelho, segundo Agência Internacional de Energia (AIE). O diretor do Instituto de Altos Estudos de Geopolítica, Segurança e Conflitos (GSEC), Rodolfo Queiroz Laterza, destacou à Agência Brasil que a Arábia Saudita deve ter perdas econômicas “substanciais”. “Isso vai agravar as cadeias logísticas de abastecimento no mundo e afetar inúmeras economias de vários países, principalmente aqueles dependentes da importação de petróleo e derivados”, comentou. Nova etapa da guerra O professor de relações internacionais da Pontifícia Universidade Católica (PUC) de Minas, Danny Zahreddine, avalia que a guerra entre Irã e EUA entra em nova etapa com o fechamento da passagem de el-Manbed pelos houthis. “Nós estamos vivendo um impasse em que, quando os americanos apertam os iranianos, eles vão apertar mais ainda os EUA e seus aliados. E, sem sombra de dúvida, o estreito de Bab el Mandeb e o seu fechamento ele vai gerar um choque ainda maior na distribuição do petróleo”, disse. Os houthis têm uma aliança com o Irã, enquanto a Arábia Saudita é uma aliada histórica dos EUA, além de ser uma rival regional de Teerã. Danny Zahreddine, diretor do Instituto de Ciências Sociais da PUC Minas - Agência Pública/Divulgação O professor Zahreddine acrescentou que não só a Arábia Saudita deve ser afetada, mas todo e qualquer tipo de transportes que venha da Europa ou dos EUA e que passe ali pelo Mar Vermelho e Canal de Suez. “Ou do transporte da China, da Ásia, Malásia, Indonésia, Singapura que seja para a Europa ou EUA. Essa rota passando pelo Portal das Lágrimas, que é o que significa o Bab el Mandeb, é muito mais curto. Então, o impacto é evidente”, finalizou. Iêmen entra na guerra Para o historiador Laterza, a guerra de Israel e EUA contra o Irã teve desdobramentos em conflitos até então “congelados”, como a guerra no Iêmen. “Cujas hostilidades foram encerradas em um acordo frágil em 2022 intermediado pela China. Os ataques aéreos sauditas ao porto de Sanaa [no Iêmen] dias atrás levaram a esta resposta firme dos houthis, que possuem plena capacidade de negação de uso do Mar Vermelho e de restringir a navegação no Estreito de Bab al-Mandeb”, comentou. Ainda segundo especialista do GSEC, os houthis tem comprovada capacidade militar no emprego de mísseis antinavio, mísseis balísticos, hipersônicos e drones kamikaze. “A realidade é bastante desfavorável para a estabilidade dos preços mundiais dos hidrocarbonetos e os impasses estratégicos para os EUA com o envolvimento militar dos Houthis irá se agravar”, concluiu Laterza. Saiba mais sobre os ataques no Repórter Brasil Tarde, da TV Brasil",
     "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Lucas Pordeus León – Repórter da Agência Brasil",
     "pub_date": "2026-07-23T16:41:00+00:00",
@@ -962,20 +1384,20 @@
     "all_categories": [
       "Internacional",
       "Conflito no Oriente Médio",
-      "petróleo",
+      "Petróleo",
       "barril Brent",
       "Estreito de Ormuz",
       "Estreito de Bab el-Manbed",
-      "Multimídia"
+      "multimídia"
     ],
     "in_scope": true,
     "canonical_category_l1": "Aviação",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf_low_confidence",
-    "category_mapping_confidence": 0.4816,
+    "category_mapping_confidence": 0.4259,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.625,
+    "destaque_score": 0.6,
     "layout_tier": "grade"
   },
   {
@@ -1044,7 +1466,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.634,
+    "destaque_score": 0.622,
     "layout_tier": "grade"
   },
   {
@@ -1052,15 +1474,16 @@
     "guid": "1697338 at https://agenciabrasil.ebc.com.br",
     "title": "Dez cidades mais violentas do país estão no Nordeste, aponta estudo",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/dez-cidades-mais-violentas-do-pais-estao-no-nordeste-aponta-estudo",
-    "description": "As dez cidades mais violentas do Brasil estão na região Nordeste, apontam os dados do 20º Anuário Brasileiro de Segurança Pública , divulgado nesta quinta-feira (23). O relatório produzido pelo Fórum Brasileiro de Segurança Pública reúne os principais dados sobre as ocorrências criminais registradas no país em 2025. A lista reúne as cidades com as maiores taxas de Mortes Violentas Intencionais (MVI) a cada 100 mil habitantes. A Bahia possui cinco cidades no ranking e o Ceará, três. Pernambuco e Paraíba contam com um município na lista, cada. A categoria MVI inclui homicídio doloso, feminicídio, roubo seguidos de morte (latrocínio), lesão corporal seguida de morte, morte decorrente de intervenções policiais e morte de policiais em serviço e fora do horário de trabalho. Confira a lista das 10 cidades com maior número de mortes violentas Maranguape (CE) - (100,3) Eunápolis (BA) - (85,1) Maracanaú (CE) - (80,7) Porto Seguro (BA) - (71,2) Simões Filho (BA) - (58,1) Jequié (BA) - (57,4) Caucaia (CE) - (56,6) Cabo de Santo Agostinho (PE) - (55,1) Santa Rita (PB) - (50,9) Juazeiro (BA) - (55,8) Tráfico de drogas Notícias relacionadas: Mortes violentas caem 8,2% no país em 2025; feminicídios aumentam 4%. Estado de SP registra crescimento de casos de feminicídios em 2026. Saiba como vai funcionar programa federal contra o crime organizado . De acordo com o Fórum, o principal fator que contribui para o alto índice de violência nessas cidades é a disputa entre grupos criminosos pelo controle do tráfico de drogas. Maranguape lidera o ranking nacional e registra taxa de mortes cinco vezes superior à média do país. O local se tornou atrativo para organizações criminosas devido à sua localização estratégica perto de importantes eixos rodoviários da região, como a BR-22 e a CE065. Maracanaú, terceira na lista das mais violentas, é vizinha à Maranguape e está mais próxima do Aeroporto Internacional de Fortaleza. Já a segunda do ranking, Eunápolis, no extremo sul da Bahia, conta com uma taxa de 85,1 casos por 100 mil habitantes. A cidade também enfrenta um cenário de disputas por grupos faccionados distintos e representa um ponto estratégico para o transporte de drogas, sendo cruzada por duas rodovias nacionais. No anuário do ano passado, a cidade não figurava nem entre as 20 cidades com os maiores índices por morte violenta. Cenário nacional A 20ª edição do Anuário Brasileiro de Segurança Pública mostra que o número de mortes violentas intencionais (MVI) no Brasil caiu de 20,6 casos por 100 mil habitantes em 2024, para 19,1 casos por 100 mil habitantes, em 2025 – uma diminuição de 8,2%. Esse é o menor patamar registrado desde 2012, quando o índice começou a ser medido. Em números absolutos, foram registradas 40.775 mortes violentas intencionais no ano passado ante 44.127 em 2024. *Estagiário da Agência Brasil sob supervisão de Odair Braz Junior",
+    "description": "As dez cidades mais violentas do Brasil estão na região Nordeste, apontam os dados do 20º Anuário Brasileiro de Segurança Pública , divulgado nesta quinta-feira (23). O relatório produzido pelo Fórum Brasileiro de Segurança Pública reúne os principais dados sobre as ocorrências criminais registradas no país em 2025. A lista reúne as cidades com as maiores taxas de Mortes Violentas Intencionais (MVI) a cada 100 mil habitantes. A Bahia possui cinco cidades no ranking e o Ceará, três. Pernambuco e Paraíba contam com um município na lista, cada. A categoria MVI inclui homicídio doloso, feminicídio, roubo seguidos de morte (latrocínio), lesão corporal seguida de morte, morte decorrente de intervenções policiais e morte de policiais em serviço e fora do horário de trabalho. Confira a lista das 10 cidades com maior número de mortes violentas Maranguape (CE) - (100,3) Eunápolis (BA) - (85,1) Maracanaú (CE) - (80,7) Porto Seguro (BA) - (71,2) Simões Filho (BA) - (58,1) Jequié (BA) - (57,4) Caucaia (CE) - (56,6) Cabo de Santo Agostinho (PE) - (55,1) Santa Rita (PB) - (50,9) Juazeiro (BA) - (55,8) Tráfico de drogas Notícias relacionadas: Mortes violentas caem 8,2% no país em 2025; feminicídios aumentam 4%. Estado de SP registra crescimento de casos de feminicídios em 2026. Saiba como vai funcionar programa federal contra o crime organizado . De acordo com o Fórum, o principal fator que contribui para o alto índice de violência nessas cidades é a disputa entre grupos criminosos pelo controle do tráfico de drogas. Maranguape lidera o ranking nacional e registra taxa de mortes cinco vezes superior à média do país. O local se tornou atrativo para organizações criminosas devido à sua localização estratégica perto de importantes eixos rodoviários da região, como a BR-22 e a CE065. Maracanaú, terceira na lista das mais violentas, é vizinha à Maranguape e está mais próxima do Aeroporto Internacional de Fortaleza. Já a segunda do ranking, Eunápolis, no extremo sul da Bahia, conta com uma taxa de 85,1 casos por 100 mil habitantes. A cidade também enfrenta um cenário de disputas por grupos faccionados distintos e representa um ponto estratégico para o transporte de drogas, sendo cruzada por duas rodovias nacionais. No anuário do ano passado, a cidade não figurava nem entre as 20 cidades com os maiores índices por morte violenta. Cenário nacional A 20ª edição do Anuário Brasileiro de Segurança Pública mostra que o número de mortes violentas intencionais (MVI) no Brasil caiu de 20,6 casos por 100 mil habitantes em 2024, para 19,1 casos por 100 mil habitantes, em 2025 – uma diminuição de 8,2%. Esse é o menor patamar registrado desde 2012, quando o índice começou a ser medido. Em números absolutos, foram registradas 40.775 mortes violentas intencionais no ano passado ante 44.127 em 2024. Confira mais informações sobre o Anuário de Segurança Pública no Repórter Brasil , da TV Brasil *Estagiário da Agência Brasil sob supervisão de Odair Braz Junior",
     "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Matheus Crobelatti*",
     "pub_date": "2026-07-23T16:15:00+00:00",
     "source_category_raw": "Geral",
     "all_categories": [
       "Geral",
+      "Multimídia",
       "Anuário Brasileiro de Segurança Pública",
-      "crimes organizado",
+      "crime organizado",
       "facções",
       "Fórum Brasileiro de Segurança Pública"
     ],
@@ -1068,10 +1491,10 @@
     "canonical_category_l1": "Câmbio e Economia do Turismo",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf_low_confidence",
-    "category_mapping_confidence": 0.3535,
+    "category_mapping_confidence": 0.3507,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.592,
+    "destaque_score": 0.58,
     "layout_tier": "grade"
   },
   {
@@ -1141,7 +1564,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.833,
+    "destaque_score": 0.821,
     "layout_tier": "manchete"
   },
   {
@@ -1164,7 +1587,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.632,
+    "destaque_score": 0.621,
     "layout_tier": "grade"
   },
   {
@@ -1187,7 +1610,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.832,
+    "destaque_score": 0.821,
     "layout_tier": "manchete"
   },
   {
@@ -1210,7 +1633,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.632,
+    "destaque_score": 0.62,
     "layout_tier": "grade"
   },
   {
@@ -1256,7 +1679,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.631,
+    "destaque_score": 0.62,
     "layout_tier": "grade"
   },
   {
@@ -1326,7 +1749,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.63,
+    "destaque_score": 0.619,
     "layout_tier": "grade"
   },
   {
@@ -1349,7 +1772,7 @@
     "category_mapping_confidence": 0.446,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.491,
+    "destaque_score": 0.48,
     "layout_tier": "grade"
   },
   {
@@ -1395,7 +1818,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.629,
+    "destaque_score": 0.618,
     "layout_tier": "grade"
   },
   {
@@ -1418,7 +1841,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.628,
+    "destaque_score": 0.617,
     "layout_tier": "grade"
   },
   {
@@ -1441,7 +1864,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.827,
+    "destaque_score": 0.816,
     "layout_tier": "manchete"
   },
   {
@@ -1464,7 +1887,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.626,
+    "destaque_score": 0.616,
     "layout_tier": "grade"
   },
   {
@@ -1487,7 +1910,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.626,
+    "destaque_score": 0.615,
     "layout_tier": "grade"
   },
   {
@@ -1510,7 +1933,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.625,
+    "destaque_score": 0.615,
     "layout_tier": "grade"
   },
   {
@@ -1538,7 +1961,7 @@
     "category_mapping_confidence": 0.2249,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.349,
+    "destaque_score": 0.339,
     "layout_tier": "condensado"
   },
   {
@@ -1561,7 +1984,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.623,
+    "destaque_score": 0.613,
     "layout_tier": "grade"
   },
   {
@@ -1610,7 +2033,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.799,
+    "destaque_score": 0.792,
     "layout_tier": "manchete"
   },
   {
@@ -1633,7 +2056,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.599,
+    "destaque_score": 0.592,
     "layout_tier": "grade"
   },
   {
@@ -1685,8 +2108,8 @@
     "category_mapping_confidence": 0.5395,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.403,
-    "layout_tier": "grade"
+    "destaque_score": 0.396,
+    "layout_tier": "condensado"
   },
   {
     "source_id": "mercadoeeventos",
@@ -1732,7 +2155,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.598,
+    "destaque_score": 0.591,
     "layout_tier": "grade"
   },
   {
@@ -1812,7 +2235,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.597,
+    "destaque_score": 0.591,
     "layout_tier": "grade"
   },
   {
@@ -1858,7 +2281,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.597,
+    "destaque_score": 0.59,
     "layout_tier": "grade"
   },
   {
@@ -1942,7 +2365,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.597,
+    "destaque_score": 0.59,
     "layout_tier": "grade"
   },
   {
@@ -1965,7 +2388,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.596,
+    "destaque_score": 0.59,
     "layout_tier": "grade"
   },
   {
@@ -2034,7 +2457,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.596,
+    "destaque_score": 0.589,
     "layout_tier": "grade"
   },
   {
@@ -2127,7 +2550,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.595,
+    "destaque_score": 0.589,
     "layout_tier": "grade"
   },
   {
@@ -2196,7 +2619,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.595,
+    "destaque_score": 0.589,
     "layout_tier": "grade"
   },
   {
@@ -2225,7 +2648,7 @@
     "category_mapping_confidence": 0.2182,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.319,
+    "destaque_score": 0.313,
     "layout_tier": "condensado"
   },
   {
@@ -2248,7 +2671,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.595,
+    "destaque_score": 0.588,
     "layout_tier": "grade"
   },
   {
@@ -2271,7 +2694,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.794,
+    "destaque_score": 0.788,
     "layout_tier": "manchete"
   },
   {
@@ -2317,7 +2740,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.594,
+    "destaque_score": 0.588,
     "layout_tier": "grade"
   },
   {
@@ -2363,7 +2786,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.593,
+    "destaque_score": 0.587,
     "layout_tier": "grade"
   },
   {
@@ -2503,7 +2926,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.592,
+    "destaque_score": 0.586,
     "layout_tier": "grade"
   },
   {
@@ -2578,7 +3001,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.592,
+    "destaque_score": 0.586,
     "layout_tier": "grade"
   },
   {
@@ -2677,7 +3100,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.791,
+    "destaque_score": 0.785,
     "layout_tier": "manchete"
   },
   {
@@ -2773,7 +3196,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.59,
+    "destaque_score": 0.585,
     "layout_tier": "grade"
   },
   {
@@ -2796,7 +3219,7 @@
     "category_mapping_confidence": 0.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.34,
+    "destaque_score": 0.334,
     "layout_tier": "condensado"
   },
   {
@@ -2819,7 +3242,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.589,
+    "destaque_score": 0.584,
     "layout_tier": "grade"
   },
   {
@@ -2842,7 +3265,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.789,
+    "destaque_score": 0.783,
     "layout_tier": "manchete"
   },
   {
@@ -2865,7 +3288,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.588,
+    "destaque_score": 0.582,
     "layout_tier": "grade"
   },
   {
@@ -2911,7 +3334,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.587,
+    "destaque_score": 0.582,
     "layout_tier": "grade"
   },
   {
@@ -2934,7 +3357,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.787,
+    "destaque_score": 0.782,
     "layout_tier": "manchete"
   },
   {
@@ -2957,7 +3380,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.586,
+    "destaque_score": 0.581,
     "layout_tier": "grade"
   },
   {
@@ -3017,7 +3440,7 @@
     "category_mapping_confidence": 0.4629,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.561,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -3040,7 +3463,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.575,
+    "destaque_score": 0.572,
     "layout_tier": "grade"
   },
   {
@@ -3092,7 +3515,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.575,
+    "destaque_score": 0.571,
     "layout_tier": "grade"
   },
   {
@@ -3145,7 +3568,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.774,
+    "destaque_score": 0.771,
     "layout_tier": "manchete"
   },
   {
@@ -3168,7 +3591,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.574,
+    "destaque_score": 0.571,
     "layout_tier": "grade"
   },
   {
@@ -3238,7 +3661,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.774,
+    "destaque_score": 0.77,
     "layout_tier": "manchete"
   },
   {
@@ -3261,7 +3684,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.573,
+    "destaque_score": 0.57,
     "layout_tier": "grade"
   },
   {
@@ -3284,7 +3707,7 @@
     "category_mapping_confidence": 0.3712,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.496,
+    "destaque_score": 0.493,
     "layout_tier": "grade"
   },
   {
@@ -3307,7 +3730,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.573,
+    "destaque_score": 0.57,
     "layout_tier": "grade"
   },
   {
@@ -3336,7 +3759,7 @@
     "category_mapping_confidence": 0.2088,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.295,
+    "destaque_score": 0.292,
     "layout_tier": "condensado"
   },
   {
@@ -3356,7 +3779,8 @@
       "LGBT+ Turismo Expo",
       "LGBTQIA+",
       "Principal",
-      "São Paulo"
+      "São Paulo",
+      "Tela Principal"
     ],
     "in_scope": true,
     "canonical_category_l1": "Eventos e Feiras",
@@ -3365,7 +3789,7 @@
     "category_mapping_confidence": 0.5174,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.372,
+    "destaque_score": 0.369,
     "layout_tier": "condensado"
   },
   {
@@ -3457,7 +3881,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.773,
+    "destaque_score": 0.77,
     "layout_tier": "manchete"
   },
   {
@@ -3528,7 +3952,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.572,
+    "destaque_score": 0.569,
     "layout_tier": "grade"
   },
   {
@@ -3620,7 +4044,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.572,
+    "destaque_score": 0.569,
     "layout_tier": "grade"
   },
   {
@@ -3783,7 +4207,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.771,
+    "destaque_score": 0.768,
     "layout_tier": "manchete"
   },
   {
@@ -3898,7 +4322,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.57,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -3921,7 +4345,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.57,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -3967,7 +4391,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.57,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -4061,7 +4485,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.57,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -4084,7 +4508,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.57,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -4245,7 +4669,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.566,
     "layout_tier": "grade"
   },
   {
@@ -4315,7 +4739,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.769,
+    "destaque_score": 0.766,
     "layout_tier": "manchete"
   },
   {
@@ -4359,7 +4783,7 @@
     "category_mapping_confidence": 0.4962,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.323,
+    "destaque_score": 0.32,
     "layout_tier": "condensado"
   },
   {
@@ -4403,7 +4827,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.566,
     "layout_tier": "grade"
   },
   {
@@ -4426,7 +4850,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.768,
+    "destaque_score": 0.766,
     "layout_tier": "manchete"
   },
   {
@@ -4576,7 +5000,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -4691,7 +5115,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -4737,7 +5161,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -4831,7 +5255,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -4854,7 +5278,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -4877,7 +5301,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -4900,7 +5324,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -4969,7 +5393,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -4992,7 +5416,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -5062,7 +5486,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -5228,7 +5652,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -5251,7 +5675,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -5274,7 +5698,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -5295,7 +5719,7 @@
     "category_mapping_confidence": 0.3679,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.482,
+    "destaque_score": 0.481,
     "layout_tier": "grade"
   },
   {
@@ -5321,7 +5745,7 @@
     "category_mapping_confidence": 0.4292,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.537,
+    "destaque_score": 0.536,
     "layout_tier": "grade"
   },
   {
@@ -5344,7 +5768,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -5394,7 +5818,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.76,
+    "destaque_score": 0.759,
     "layout_tier": "manchete"
   },
   {
@@ -5467,7 +5891,7 @@
     "category_mapping_confidence": 0.226,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.246,
+    "destaque_score": 0.245,
     "layout_tier": "condensado"
   },
   {
@@ -5490,7 +5914,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -5513,7 +5937,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.76,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -5657,7 +6081,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -5750,7 +6174,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -5773,7 +6197,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -5800,7 +6224,7 @@
     "category_mapping_confidence": 0.3245,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.31,
+    "destaque_score": 0.309,
     "layout_tier": "condensado"
   },
   {
@@ -5823,7 +6247,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -5876,7 +6300,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -6066,7 +6490,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -8390,7 +8814,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -8413,7 +8837,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8436,7 +8860,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
