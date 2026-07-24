@@ -1,5 +1,337 @@
 [
   {
+    "source_id": "agenciabrasil",
+    "guid": "1697484 at https://agenciabrasil.ebc.com.br",
+    "title": "Presidente defende investimento nas Forças Armadas",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/presidente-defende-investimento-nas-forcas-armadas",
+    "description": "O presidente da República, Luiz Inácio Lula da Silva, defendeu nesta sexta-feira (24) o investimento nas Forças Armadas do país, no preparo dos militares e no fortalecimento da defesa nacional. “Quero ela [Forças Armadas] bem preparada do ponto de visto do poderio, do conhecimento científico e tecnológico para que a gente possa andar de cabeça erguida, sem nenhuma arrogância. Falando em paz, mas preparado para não deixar ninguém meter o nariz no nosso país\", disse. Ainda sobre esse tema, o presidente citou a dimensão territorial do Brasil e sua posição no continente, com fronteira seca com quase todos os países da América do Sul. Lula participou de evento na empresa Avibras Aeroco, em Jacareí (SP), que produz sistemas de defesa e espaciais, incluindo mísseis, foguetes, veículos especiais e lançadores espaciais civis. A empresa reabriu as portas em março deste ano. Com mais de 50 anos de atuação, a empresa brasileira privada de engenharia desenvolve tecnologia para as áreas de defesa e civil, com destaque para sistemas de lançamento de mísseis de cruzeiro e foguetes guiados, além de diferentes motores foguetes para a Marinha e para a Força Aérea Brasileira e veículos blindados. A empresa passou por uma greve que durou 1.280 dias e uma crise financeira que resultou em um pedido de recuperação judicial. A recuperação judicial foi apresentada em março de 2022, após a Avibras alegar ter dívidas de R$ 600 milhões. No mesmo momento, anunciou 420 demissões, que foram suspensas pela Justiça um mês depois, devido a uma ação movida pelo Sindicato dos Metalúrgicos de São José dos Campos e Região. A fábrica foi retomada sob nova direção. O ex-proprietário João Brasil Carvalho Leite foi destituído em 25 de julho de 2025, pelo Tribunal de Justiça do Estado de São Paulo, que homologou a transferência de 99% das ações para o Brasil Crédito Gestão Fundo de Investimento em Direitos Creditórios, credor da Avibras.",
+    "image_url": "https://agenciabrasil.ebc.com.br/ebc.png?id=1697484&amp;o=rss",
+    "author": "Marcelo Brandão – Repórter da Agência Brasil",
+    "pub_date": "2026-07-24T21:58:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "Forças Armadas",
+      "Soberania Nacional"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4712,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.6,
+    "destaque_score": 0.487,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718848",
+    "title": "CEO do Tauá Resorts: “Queremos que o hóspede conheça toda a Paraíba”",
+    "link": "https://www.mercadoeeventos.com.br/noticias/hotelaria/ceo-do-taua-resorts-queremos-que-o-hospede-conheca-toda-a-paraiba/",
+    "description": "Tauá João Pessoa aposta na cultura da Paraíba para transformar o resort em porta de entrada para o destino",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-24-at-17.35.57-1.jpeg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-24T21:51:17+00:00",
+    "source_category_raw": "Hotelaria",
+    "all_categories": [
+      "Hotelaria",
+      "GTA"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.699,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718842",
+    "title": "BeFly e Reservia lançam Portal de Faturas para digitalizar processos financeiros com hotéis",
+    "link": "https://www.mercadoeeventos.com.br/noticias/agencias-e-operadoras/befly-e-reservia-lancam-portal-de-faturas-para-digitalizar-processos-financeiros-com-hoteis/",
+    "description": "Solução da BeFly e Reservia reduz processos manuais para ampliar a rastreabilidade das operações",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/72781.jpg",
+    "author": "Ana Azevedo",
+    "pub_date": "2026-07-24T20:54:24+00:00",
+    "source_category_raw": "Agências e Operadoras",
+    "all_categories": [
+      "Agências e Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.695,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718835",
+    "title": "Azul Viagens quer transformar João Pessoa em modelo para novos destinos turísticos do Brasil",
+    "link": "https://www.mercadoeeventos.com.br/feiras-e-eventos/azul-viagens-quer-transformar-joao-pessoa-em-modelo-para-novos-destinos-turisticos-do-brasil/",
+    "description": "Executivos defendem que o sucesso de João Pessoa pode servir de referência para outros destinos",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-24-at-17.35.56-1-1024x576.jpeg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-24T20:45:59+00:00",
+    "source_category_raw": "Feiras e Eventos",
+    "all_categories": [
+      "Feiras e Eventos",
+      "GTA"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.694,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718834",
+    "title": "Hotelaria aposta em inovação para cortar perdas de alimentos e fortalecer sustentabilidade",
+    "link": "https://www.mercadoeeventos.com.br/esg/hotelaria-aposta-em-inovacao-para-cortar-perdas-de-alimentos-e-fortalecer-sustentabilidade/",
+    "description": "Hotelaria amplia ações ESG com foco em alimentos, inovação e qualificação profissional",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Foto-Programa-Talentos-ESG.jpeg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-24T20:44:41+00:00",
+    "source_category_raw": "ESG",
+    "all_categories": [
+      "ESG"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.7708,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.637,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718831",
+    "title": "Felipe Massa assina roteiro da Driveness pela Itália com acesso ao universo Ferrari",
+    "link": "https://www.mercadoeeventos.com.br/noticias/agencias-e-operadoras/felipe-massa-assina-roteiro-da-driveness-pela-italia-com-acesso-ao-universo-ferrari/",
+    "description": "Além da convivência com Felipe Massa, os participantes visitam locais ligados à história da Ferrari e da Fórmula 1",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/felipe-massa-Divulgacao-Driveness2-scaled.jpg",
+    "author": "Ana Azevedo",
+    "pub_date": "2026-07-24T20:23:21+00:00",
+    "source_category_raw": "Agências e Operadoras",
+    "all_categories": [
+      "Agências e Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.693,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1697473 at https://agenciabrasil.ebc.com.br",
+    "title": "Acordo com Arábia Saudita expõe contradição dos EUA na questão nuclear",
+    "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/acordo-com-arabia-saudita-expoe-contradicao-dos-eua-na-questao-nuclear",
+    "description": "O acordo de cooperação nuclear anunciado pelos Estados Unidos (EUA) e pela Arábia Saudita, que deve durar “décadas” e envolveria bilhões de dólares, expõe a contradição da política externa da Casa Branca em relação à questão nuclear. O acordo , que não foi divulgado na íntegra, deve ainda passar por análise do Congresso estadunidense. A contradição se expressa pelo fato de o governo Donald Trump fechar essa parceria com a monarquia absolutista da Arábia Saudita, abrindo caminho para o que o país enriqueça urânio, ainda que alegue que é para fins pacíficos, logo após começar uma guerra exigindo o fim do enriquecimento de urânio no Irã , ainda que Teerã sustente que o programa não tem objetivos militares. Notícias relacionadas: EUA e Arábia Saudita fecham acordo de energia nuclear. Depois de críticas de Israel, Trump foi às redes sociais afirmar que a parceria nuclear estaria condicionada à assinatura, pela Arábia Saudita, dos acordos de Abraão, o que colocou em dúvida o futuro do acordo nuclear entre Washington e Riade, a capital do reino árabe. Promovidos por Trump, os acordos de Abraão obrigam os países árabes a reconhecer Israel independentemente da questão palestina. Os sauditas têm sustentado que apenas assinariam o acordo com garantias para um Estado palestino, o que é rejeitado pelo governo de Benjamin Netanyahu. Historiador da Universidade Federal do Rio de Janeiro (UFRJ) Francisco Carlos Teixeira da Silva - Foto: Francisco Teixeira da Silva/ Arquivo Pessoal Proteção à Arábia Saudita O historiador da Universidade Federal do Rio de Janeiro (UFRJ) Francisco Carlos Teixeira da Silva avalia que o acordo expõe a contradição na política nuclear dos EUA, sendo uma forma de Trump reverter a perda de confiança de Riade, após a guerra com o Irã, em relação à proteção que Washington daria ao país árabe. “Isso é um reconhecimento da falência do ‘escudo americano’. Tudo isso se dá em meio a um bombardeio pesado do Irã contra a Arábia Saudita. Agora os EUA sugerem que os sauditas podem ter armas nucleares e, com isso, poderiam responder ao Irã com armas nucleares”, disse à Agência Brasil . Apesar de o governo Trump afirmar que a Arábia Saudita não desenvolveria armas nucleares, especialistas e organizações que lutam contra a proliferação de armas atômicas alertam que a monarquia não tem aceitado assinar um “protocolo adicional” com a Agência de Energia Atômica (AIEA) que permitiria inspeções-surpresa. “Os líderes sauditas, por vezes, manifestaram o desejo de desenvolver um ciclo de combustível completo, desde a extração de urânio até o reprocessamento do combustível irradiado. Isso não é típico de países que estão apenas iniciando programas de energia nuclear”, disse a Associação de Controle de Armas . A organização não governamental (ONG) dos EUA argumenta que permitir que a Arábia Saudita ignore o protocolo adicional da AIEA enfraquece a posição de Washington nas negociações com Teerã. Príncipe herdeiro saudita Mohammed bin Salman - Foto: Saudi News Agency/Reuters/ Proibida a reprodução “Fechar um acordo com a Arábia Saudita antes de resolver a questão nuclear iraniana seria insensato e míope”, diz a entidade, acrescentando que o príncipe herdeiro da Arábia Saudita, Mohammed bin Salman, afirmou, em 2018, que buscaria uma arma nuclear caso o Irã tivesse acesso a uma. Sinal alarmante para Oriente Médio O professor de relações internacionais da Universidade de Brasília (UnB) Roberto Goulart Menezes destacou à Agência Brasil que, embora a Arábia Saudita tenha assinado o Acordo de Não Proliferação de Armas Nucleares (TNP), a parceria com os EUA envia um sinal contraditório para o Oriente Médio. “É alarmante porque, embora haja um compromisso para enriquecer o urânio para fins pacíficos, o fato é que, na trajetória do programa nuclear da Arábia Saudita, pode haver outros interesses no futuro que sejam diferentes do ponto de partida. Isso aumenta as incertezas na região”, comentou. O especialista da UnB lembra que, desde a Guerra Fria, os EUA trabalham para convencer países a abrir mão de desenvolver armamentos nucleares ou mesmo promover programas nucleares. Brasil, México e África do Sul são exemplos de nações que assinaram o TNP em meio à pressão de Washington. Professor de relações internacionais da Universidade de Brasília (UnB) Roberto Goulart Menezes - Foto: Roberto Goulart Menezes/Arquivo pessoal “Juntamente com a União Soviética (URSS), o objetivo dos EUA era barrar a proliferação nuclear. Isso porque quanto mais Estados passassem a ter acesso à tecnologia nuclear e, no momento seguinte, a possibilidade de ter arma atômica, isso diminuiria o poder dos EUA e da URSS”, contextualizou Menezes. Coreia do Sul O acordo dos EUA com Arábia Saudita contrasta ainda com a política nuclear da Casa Branca para a Coreia do Sul que, há décadas, busca uma parceria com Washington para enriquecer urânio diante das tensões militares com a Coreia no Norte. “[Isso] expõe um flagrante duplo padrão na política nuclear americana. Washington parece ter aberto caminho para que a Arábia Saudita obtenha direitos de enriquecimento para usinas nucleares que ainda não foram construídas, enquanto os nega à Coreia do Sul, que já opera 26 reatores”, escreveu o correspondente do The New York Times em Seul, Choe Sang-Hun. Negociações começaram em 2008 Desde 2008, EUA e Arábia Saudita discutem um possível acordo nuclear para fins pacíficos. Em 2020, o Escritório de Prestação de Contas do Governo dos EUA (GAO, na sigla em inglês) relatou que os países não haviam feito “progressos significativos” para um acordo. “Devido a divergências persistentes sobre condições de não proliferação, incluindo aquelas relacionadas a um Protocolo Adicional e a restrições ao enriquecimento e ao reprocessamento de material nuclear”, escreveu o escritório ligado à Casa Branca. A divergência teria persistido durante a administração de Joe Biden (2021-2025), alimentada ainda pelo assassinato do jornalista saudita Jamal Khashoggi no consulado da Arábia Saudita na Turquia. A investigação do governo turco apontou que o jornalista, que era crítico da monarquia do país, foi esquartejado e teve o corpo dissolvido em substância química por funcionários da embaixada do regime do Oriente Médio. O caso mobilizou a opinião pública estadunidense contra a Arábia Saudita. A situação mudou no segundo mandato do presidente Donald Trump. Em novembro do ano passado, os países assinaram uma declaração conjunta sobre o tema, mostrando avanço nas negociações. Com a escalada da guerra no Oriente Médio nos últimos dias, o acordo foi anunciado. Isso apenas dois dias após os houthis, do Iêmen, bloquearem a passagem dos navios sauditas no Estreito de Bad el-Mandeb, no Mar Vermelho, prejudicando as exportações do país, já prejudicadas pelo fechamento do Estreito de Ormuz. Arte Dijor/EBC",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Lucas Pordeus León - Repórter da Agência Brasil",
+    "pub_date": "2026-07-24T20:10:00+00:00",
+    "source_category_raw": "Internacional",
+    "all_categories": [
+      "Internacional",
+      "EUA",
+      "Estados Unidos",
+      "Arábia Saudita",
+      "energia nuclear",
+      "AIEA",
+      "Conflito no Oriente Médio"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3536,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.45,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718816",
+    "title": "5 fatos sobre o túnel submarino que pode ligar Europa e África em apenas 30 minutos",
+    "link": "https://www.mercadoeeventos.com.br/tecnologia-e-inovacao/5-fatos-sobre-o-tunel-submarino-que-pode-ligar-europa-e-africa-em-apenas-30-minutos/",
+    "description": "Megaestrutura poderá transportar passageiros e cargas entre os dois continentes",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/ChatGPT-Image-24-de-jul.-de-2026-15_30_51.png",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-24T20:01:00+00:00",
+    "source_category_raw": "Tecnologia e Inovação",
+    "all_categories": [
+      "Tecnologia e Inovação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.691,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718825",
+    "title": "7 diferenciais do Airbus A321 XLR que prometem transformar voos de longa distância",
+    "link": "https://www.mercadoeeventos.com.br/aviacao-2/7-diferenciais-do-airbus-a321-xlr-que-prometem-transformar-voos-de-longa-distancia/",
+    "description": "Airbus apresenta cabine inspirada no A350 para elevar conforto em aeronave de corredor único",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/ChatGPT-Image-24-de-jul.-de-2026-16_43_21.png",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-24T19:53:02+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.891,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718822",
+    "title": "Patricia Kruger assume gerência executiva da Flytour e reforça estratégia de valorização interna",
+    "link": "https://www.mercadoeeventos.com.br/noticias/vai-e-vem/patricia-kruger-assume-gerencia-executiva-da-flytour-e-reforca-estrategia-de-valorizacao-interna/",
+    "description": "Executiva passa a liderar o atendimento da Região Sul na Flytour Consolidadora",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/ChatGPT-Image-24-de-jul.-de-2026-15_55_47.png",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-24T19:31:00+00:00",
+    "source_category_raw": "Vai e Vem",
+    "all_categories": [
+      "Vai e Vem"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.5147,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.568,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/eventos/2026/07/move-2026-para-gestores-de-viagens-vem-ai-participe-do-evento-em-5-de-outubro_230480.html",
+    "title": "MOVE 2026, para gestores de viagens, vem aí; participe do evento em 5 de outubro",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/eventos/2026/07/move-2026-para-gestores-de-viagens-vem-ai-participe-do-evento-em-5-de-outubro_230480.html",
+    "description": "Segunda edição do encontro da PANROTAS focado em travel managers ocorre no Tivoli Mofarrej, em São Paulo",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/24/00c4080acffc607b854cfae9454d5e60-notaportal1.jpg.jpeg",
+    "author": "Beatrice Teizen",
+    "pub_date": "2026-07-24T19:07:00+00:00",
+    "source_category_raw": "Corporativo - Eventos",
+    "all_categories": [
+      "Corporativo - Eventos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Eventos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.688,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718819",
+    "title": "Costa Serena terá 1.500 cabines na temporada 2026/2027 na América do Sul",
+    "link": "https://www.mercadoeeventos.com.br/noticias/cruzeiros/costa-serena-tera-1-500-cabines-na-temporada-2026-2027-na-america-do-sul/",
+    "description": "Navio da Costa Cruzeiros fará embarques no Rio de Janeiro entre dezembro de 2026 e abril de 2027",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Costa-Serena-.jpg",
+    "author": "Ana Azevedo",
+    "pub_date": "2026-07-24T18:48:43+00:00",
+    "source_category_raw": "Cruzeiros",
+    "all_categories": [
+      "Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.686,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718815",
+    "title": "Parque Nacional do Iguaçu reabre Passarela das Cataratas nesta sexta-feira (24)",
+    "link": "https://www.mercadoeeventos.com.br/noticias/parques-e-atracoes/parque-nacional-do-iguacu-reabre-passarela-das-cataratas-nesta-sexta-feira-24/",
+    "description": "Reabertura ocorreu após monitoramento das equipes técnicas da Urbia+ Cataratas e do ICMBio",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2025/09/As-cataratas-do-Iguacu-os-visitantes-chegam-bem-proximo-as-quedas-para-aprecia-las.jpg",
+    "author": "Ana Azevedo",
+    "pub_date": "2026-07-24T18:19:21+00:00",
+    "source_category_raw": "Parques e Atrações",
+    "all_categories": [
+      "Parques e Atrações"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.2475,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.496,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/07/passarela-das-cataratas-do-iguacu-e-reaberta-para-visitacao-nesta-sexta-24_230503.html",
+    "title": "Passarela das Cataratas do Iguaçu é reaberta para visitação nesta sexta (24)",
+    "link": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/07/passarela-das-cataratas-do-iguacu-e-reaberta-para-visitacao-nesta-sexta-24_230503.html",
+    "description": "Estrutura havia sido interditada temporariamente na manhã de quinta-feira (23), como medida preventiva",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/24/47aef0fb9f3e8826a8e2328edffc5b01-unnamed.jpg",
+    "author": "Beatrice Teizen",
+    "pub_date": "2026-07-24T17:21:00+00:00",
+    "source_category_raw": "Destinos - Parques temáticos",
+    "all_categories": [
+      "Destinos - Parques temáticos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": "Parques temáticos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.681,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=718794",
     "title": "Regent Seven Seas Cruises prepara coleção de cruzeiros para celebrar 35 anos em 2027",
@@ -124,7 +456,7 @@
     "category_mapping_confidence": 0.4197,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.431,
+    "destaque_score": 0.413,
     "layout_tier": "grade"
   },
   {
@@ -215,7 +547,7 @@
     "guid": "1697443 at https://agenciabrasil.ebc.com.br",
     "title": "Linhas de trem que retornaram para CPTM funcionam normalmente em SP",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/linhas-de-trem-que-retornaram-para-cptm-funcionam-normalmente-em-sp",
-    "description": "As linhas 11-Coral, 12-Safira e 13-Jade do transporte metropolitano de São Paulo funcionam normalmente nesta sexta-feira (24). O funcionamento dos trens voltou a ser feito pela Companhia Paulista de Trens Metropolitanos (CPTM) após falhas da concessionária Trivia Trens, que assumiu as linhas no início desta semana após privatização. É a primeira vez que esse tipo de intervenção ocorre em São Paulo. A manhã dessa quinta-feira (23) foi caótica para os paulistanos , em decorrência da paralisação dos trens logo no início da manhã após problemas de energia. Uma das composições foi atingida por um incêndio nas proximidades da estação Bresser-Mooca. Os problemas causaram superlotação nas estações, principalmente da zona leste. Notícias relacionadas: CPTM assumirá operação de linhas que falharam e causaram caos em SP. Três linhas de trens têm funcionamento interrompido em São Paulo. Com todas as falhas verificadas, a Agência Reguladora de Serviços Públicos de Transporte do Estado de São Paulo (Artesp) e o Governo do Estado determinaram que a CPTM retomasse a operação das linhas por até 90 dias. Segundo o governo estadual e a Artesp, a medida foi tomada para “garantir a qualidade do serviço e prevenir falhas como as registradas nos primeiros dias de operação assistida sob responsabilidade da operadora”. *Estagiário da Agência Brasil sob supervisão de Odair Braz Junior",
+    "description": "As linhas 11-Coral, 12-Safira e 13-Jade do transporte metropolitano de São Paulo funcionam normalmente nesta sexta-feira (24). O funcionamento dos trens voltou a ser feito pela Companhia Paulista de Trens Metropolitanos (CPTM) após falhas da concessionária Trivia Trens, que assumiu as linhas no início desta semana após privatização. É a primeira vez que esse tipo de intervenção ocorre em São Paulo. A manhã dessa quinta-feira (23) foi caótica para os paulistanos , em decorrência da paralisação dos trens logo no início da manhã após problemas de energia. Uma das composições foi atingida por um incêndio nas proximidades da estação Bresser-Mooca. Os problemas causaram superlotação nas estações, principalmente da zona leste. Notícias relacionadas: CPTM assumirá operação de linhas que falharam e causaram caos em SP. Três linhas de trens têm funcionamento interrompido em São Paulo. Com todas as falhas verificadas, a Agência Reguladora de Serviços Públicos de Transporte do Estado de São Paulo (Artesp) e o Governo do Estado determinaram que a CPTM retomasse a operação das linhas por até 90 dias. Segundo o governo estadual e a Artesp, a medida foi tomada para “garantir a qualidade do serviço e prevenir falhas como as registradas nos primeiros dias de operação assistida sob responsabilidade da operadora”. Saiba mais no Repórter Brasil Tarde, da TV Brasil *Estagiário da Agência Brasil sob supervisão de Odair Braz Junior",
     "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Matheus Crobelatti*",
     "pub_date": "2026-07-24T15:23:00+00:00",
@@ -224,16 +556,17 @@
       "Geral",
       "CPTM",
       "São Paulo",
-      "Transporte Público"
+      "transporte público",
+      "Multimídia"
     ],
     "in_scope": true,
     "canonical_category_l1": "Distribuição e Trade",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf_low_confidence",
-    "category_mapping_confidence": 0.3518,
+    "category_mapping_confidence": 0.3656,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.449,
+    "destaque_score": 0.435,
     "layout_tier": "grade"
   },
   {
@@ -349,7 +682,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.885,
+    "destaque_score": 0.868,
     "layout_tier": "manchete"
   },
   {
@@ -372,7 +705,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.881,
+    "destaque_score": 0.865,
     "layout_tier": "manchete"
   },
   {
@@ -395,8 +728,31 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.88,
+    "destaque_score": 0.864,
     "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/07/halloween-horror-nights-da-universal-tera-zona-de-medo-inspirada-em-fortnite_230484.html",
+    "title": "Halloween Horror Nights, da Universal, terá zona de medo inspirada em Fortnite",
+    "link": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/07/halloween-horror-nights-da-universal-tera-zona-de-medo-inspirada-em-fortnite_230484.html",
+    "description": "Atração imersiva inspirada no jogo de videogame começa já no próximo mês de agosto, em Orlando",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/23/911c1978b23a467103e5f08d47656e63-26una9679850hhn26ush1920x10801536x864.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-07-24T12:02:00+00:00",
+    "source_category_raw": "Destinos - Parques temáticos",
+    "all_categories": [
+      "Destinos - Parques temáticos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": "Parques temáticos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.662,
+    "layout_tier": "grade"
   },
   {
     "source_id": "mercadoeeventos",
@@ -464,7 +820,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.876,
+    "destaque_score": 0.86,
     "layout_tier": "manchete"
   },
   {
@@ -512,7 +868,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.648,
+    "destaque_score": 0.636,
     "layout_tier": "grade"
   },
   {
@@ -535,7 +891,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.847,
+    "destaque_score": 0.835,
     "layout_tier": "manchete"
   },
   {
@@ -582,7 +938,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.645,
+    "destaque_score": 0.633,
     "layout_tier": "grade"
   },
   {
@@ -613,7 +969,7 @@
     "guid": "1697405 at https://agenciabrasil.ebc.com.br",
     "title": "Pilotos da Voepass não relatavam falhas nas aeronaves, diz Cenipa",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/pilotos-da-voepass-nao-relatavam-falhas-nas-aeronaves-diz-cenipa",
-    "description": "Falhas no sistema, alertas ignorados, revisões mecânicas insuficientes e uma cultura organizacional de não reportar falhas em voos anteriores estão entre as causas da queda da aeronave PS-VPB, da Voepass, em 2024. O Centro de Investigação e Prevenção de Acidentes Aeronáuticos (Cenipa) concluiu as investigações e divulgou os resultados nesta quinta-feira (23). Notícias relacionadas: Um ano depois de tragédia da Voepass, familiares inauguram memorial . Pilotos da Voepass não relatavam falhas nas aeronaves, diz Cenipa. No dia 9 de agosto de 2024, o turboélice da marca francesa ATR, da empresa Voepass, caiu em Vinhedo, município vizinho de Campinas, no interior de São Paulo, vindo de Cascavel, no Paraná. A aeronave seguia para Guarulhos (SP). Foram 62 mortos no acidente, sendo 4 deles tripulantes. Na ocasião, um representante da empresa afirmou que a aeronave havia passado por manutenção de rotina antes do voo e não apresentava nenhum problema técnico. As investigações, no entanto, mostraram “várias fragilidades nas atividades de manutenção”. O Cenipa analisou os últimos voos anteriores da mesma aeronave com tripulações diferentes. Em todos eles, realizados entre cidades do estado de São Paulo, houve detecção de gelo e falha no sistema que retira esse gelo das partes do avião. Porém, não houve relato dessas falhas no registro de bordo. “Três tripulações diferentes realizando normalização de desvio [de procedimento]. Fizemos uma análise mais ampla e notamos que outras tripulações também faziam isso, o que demonstra uma cultura organizacional”, afirmou o Investigador-Encarregado do Cenipa, Tenente-Coronel Fróes. As investigações também mostraram que as manutenções nas aeronaves da empresa não cumpriam requisitos necessários de segurança. Mecânicos entrevistados afirmaram que havia troca de componentes em falha entre aeronaves. Pegavam componentes em falha de uma aeronave, instalavam em outra e liberavam para voo. Cultura organizacional O Cenipa concluiu também que havia uma cultura dentro da empresa de normalizar os desvios nas aeronaves. Pilotos e copilotos, inclusive aqueles envolvidos no acidente, recebiam alertas do sistema e desligavam os alertas, percebiam falhas nos sistemas de correção, mas não reportavam essas falhas. “O que podemos afirmar é que essa ocorrência foi um acidente com peso elevadíssimo da parte da cultura organizacional. Foram 19 fatores contribuintes, mas a cultura organizacional foi muito presente”, disse o Brigadeiro do Ar Avellar, chefe do Cenipa. Alerta de gelo Durante o voo de Cascavel para Guarulhos, o sistema da aeronave alertou para o acúmulo de gelo várias vezes. O sistema também avisou, por oito vezes, que a velocidade da aeronave estava caindo em virtude do peso do gelo na fuselagem. O sistema de degelo da aeronave chegou a ser acionado, mas apresentou falha e, por isso, foi desligado pelos pilotos. Não houve mudança no plano de voo em virtude dessas falhas. O procedimento correto, de acordo com o Cenipa, é reiniciar o sistema. Caso haja uma segunda falha, o sistema tem que ser desligado e a aeronave levada a voar em níveis mais baixos, onde as temperaturas são menos extremas. Esse procedimento, no entanto, não foi adotado. Além das falhas no sistema, a aeronave não poderia ter voado naquele momento por um problema nos limpadores de para-brisa. Essa pane limitava a aeronave a voar apenas quando não estivesse chovendo e não houvesse previsão de chuva por uma hora antes da decolagem e uma hora após o pouso. O Cenipa analisou 15 mil voos da Voepass para entender possíveis padrões. Desses 15 mil, 1.674 voos tiveram algum tipo de alerta de degradação de performance. Um desses voos teve perda de controle em algum momento. O Cenipa, no entanto, nunca foi informado desse episódio, algo que deveria ter ocorrido. Confira as informações sobre o relatório do Cenipa no Repórter Brasil , da TV Brasil Componente humano Durante o voo, piloto e copiloto falavam sobre os alertas dados no painel. Depois de pouco mais de uma hora de voo, o copiloto aviou o piloto que havia esquecido de ligar o sistema de degelo, mesmo depois dos alertas. Minutos antes da queda, o copiloto comentou que havia “bastante gelo” na aeronave. Em outros momentos, antes desse ponto, o sistema de degelo já havia apresentado falha. Próximo do destino, quando a aeronave passou a emitir vários alertas, como de excesso de gelo e de queda na velocidade em virtude do peso excessivo provocado por esse gelo, os pilotos passaram a lidar com várias questões ao mesmo tempo, como o procedimento de descida e os problemas com o gelo. Além disso, conversavam com a torre de comando sobre autorização para pouso. “O cérebro não consegue gerenciar aquelas informações em excesso. Isso pode ter comprometido a reação deles aos alertas”, disse Fróes. A demora em obter a liberação para pouso, o acúmulo de gelo, as falhas no sistema e a reação tardia dos pilotos aos problemas contribuíram para a perda gradual de controle. O ATR-72 212A da Voepass acabou entrando em rotação em parafuso, colidindo contra o solo. Acesse aqui o relatório completo do Cenipa .",
+    "description": "Falhas no sistema, alertas ignorados, revisões mecânicas insuficientes e uma cultura organizacional de não reportar falhas em voos anteriores estão entre as causas da queda da aeronave PS-VPB, da Voepass, em 2024. O Centro de Investigação e Prevenção de Acidentes Aeronáuticos (Cenipa) concluiu as investigações e divulgou os resultados nesta quinta-feira (23). Notícias relacionadas: Um ano depois de tragédia da Voepass, familiares inauguram memorial . Pilotos da Voepass não relatavam falhas nas aeronaves, diz Cenipa. No dia 9 de agosto de 2024, o turboélice da marca francesa ATR, da empresa Voepass, caiu em Vinhedo, município vizinho de Campinas, no interior de São Paulo, vindo de Cascavel, no Paraná. A aeronave seguia para Guarulhos (SP). Foram 62 mortos no acidente, sendo 4 deles tripulantes. Na ocasião, um representante da empresa afirmou que a aeronave havia passado por manutenção de rotina antes do voo e não apresentava nenhum problema técnico. As investigações, no entanto, mostraram “várias fragilidades nas atividades de manutenção”. O Cenipa analisou os últimos voos anteriores da mesma aeronave com tripulações diferentes. Em todos eles, realizados entre cidades do estado de São Paulo, houve detecção de gelo e falha no sistema que retira esse gelo das partes do avião. Porém, não houve relato dessas falhas no registro de bordo. “Três tripulações diferentes realizando normalização de desvio [de procedimento]. Fizemos uma análise mais ampla e notamos que outras tripulações também faziam isso, o que demonstra uma cultura organizacional”, afirmou o Investigador-Encarregado do Cenipa, Tenente-Coronel Fróes. As investigações também mostraram que as manutenções nas aeronaves da empresa não cumpriam requisitos necessários de segurança. Mecânicos entrevistados afirmaram que havia troca de componentes em falha entre aeronaves. Pegavam componentes em falha de uma aeronave, instalavam em outra e liberavam para voo. Cultura organizacional O Cenipa concluiu também que havia uma cultura dentro da empresa de normalizar os desvios nas aeronaves. Pilotos e copilotos, inclusive aqueles envolvidos no acidente, recebiam alertas do sistema e desligavam os alertas, percebiam falhas nos sistemas de correção, mas não reportavam essas falhas. “O que podemos afirmar é que essa ocorrência foi um acidente com peso elevadíssimo da parte da cultura organizacional. Foram 19 fatores contribuintes, mas a cultura organizacional foi muito presente”, disse o Brigadeiro do Ar Avellar, chefe do Cenipa. Alerta de gelo Durante o voo de Cascavel para Guarulhos, o sistema da aeronave alertou para o acúmulo de gelo várias vezes. O sistema também avisou, por oito vezes, que a velocidade da aeronave estava caindo em virtude do peso do gelo na fuselagem. O sistema de degelo da aeronave chegou a ser acionado, mas apresentou falha e, por isso, foi desligado pelos pilotos. Não houve mudança no plano de voo em virtude dessas falhas. O procedimento correto, de acordo com o Cenipa, é reiniciar o sistema. Caso haja uma segunda falha, o sistema tem que ser desligado e a aeronave levada a voar em níveis mais baixos, onde as temperaturas são menos extremas. Esse procedimento, no entanto, não foi adotado. Além das falhas no sistema, a aeronave não poderia ter voado naquele momento por um problema nos limpadores de para-brisa. Essa pane limitava a aeronave a voar apenas quando não estivesse chovendo e não houvesse previsão de chuva por uma hora antes da decolagem e uma hora após o pouso. O Cenipa analisou 15 mil voos da Voepass para entender possíveis padrões. Desses 15 mil, 1.674 voos tiveram algum tipo de alerta de degradação de performance. Um desses voos teve perda de controle em algum momento. O Cenipa, no entanto, nunca foi informado desse episódio, algo que deveria ter ocorrido. Confira as informações sobre o relatório do Cenipa no Repórter Brasil Tarde , da TV Brasil Componente humano Durante o voo, piloto e copiloto falavam sobre os alertas dados no painel. Depois de pouco mais de uma hora de voo, o copiloto aviou o piloto que havia esquecido de ligar o sistema de degelo, mesmo depois dos alertas. Minutos antes da queda, o copiloto comentou que havia “bastante gelo” na aeronave. Em outros momentos, antes desse ponto, o sistema de degelo já havia apresentado falha. Próximo do destino, quando a aeronave passou a emitir vários alertas, como de excesso de gelo e de queda na velocidade em virtude do peso excessivo provocado por esse gelo, os pilotos passaram a lidar com várias questões ao mesmo tempo, como o procedimento de descida e os problemas com o gelo. Além disso, conversavam com a torre de comando sobre autorização para pouso. “O cérebro não consegue gerenciar aquelas informações em excesso. Isso pode ter comprometido a reação deles aos alertas”, disse Fróes. A demora em obter a liberação para pouso, o acúmulo de gelo, as falhas no sistema e a reação tardia dos pilotos aos problemas contribuíram para a perda gradual de controle. O ATR-72 212A da Voepass acabou entrando em rotação em parafuso, colidindo contra o solo. Acesse aqui o relatório completo do Cenipa .",
     "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Marcelo Brandão - Repórter da Agência Brasil",
     "pub_date": "2026-07-24T00:41:00+00:00",
@@ -622,18 +978,18 @@
       "Geral",
       "voepass",
       "Cenipa",
-      "Acidente Aéreo",
+      "acidente aéreo",
       "Vinhedo",
-      "Multimídia"
+      "multimídia"
     ],
     "in_scope": true,
     "canonical_category_l1": "Aviação",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf",
-    "category_mapping_confidence": 0.7253,
+    "category_mapping_confidence": 0.7248,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.694,
+    "destaque_score": 0.682,
     "layout_tier": "grade"
   },
   {
@@ -679,7 +1035,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.642,
+    "destaque_score": 0.631,
     "layout_tier": "grade"
   },
   {
@@ -726,7 +1082,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.641,
+    "destaque_score": 0.63,
     "layout_tier": "grade"
   },
   {
@@ -758,7 +1114,7 @@
     "guid": "1697398 at https://agenciabrasil.ebc.com.br",
     "title": "Subsídio de R$ 0,44 por litro da gasolina é prorrogado por 30 dias",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/subsidio-de-r-044-por-litro-da-gasolina-pode-ser-prorrogado",
-    "description": "O agravamento da guerra no Oriente Médio fez o governo prorrogar o subsídio de R$ 0,44 por litro da gasolina. Em vigor desde 25 de maio, o benefício acabaria no sábado (25) e foi estendido por 30 dias a partir de domingo (26) . O ministro da Fazenda, Dario Durigan, assinou nesta quinta-feira (23) à noite a portaria com a extensão do subsídio, criado para reduzir os impactos do conflito guerra no Oriente Médio sobre os preços dos combustíveis no Brasil. Notícias relacionadas: Conselho eleva de 30% para 32% teor de etanol na gasolina por 180 dias. O subsídio de R$ 1,12 por litro do diesel continua em vigor. No último dia 16, o Congresso Nacional prorrogou, por 60 dias, a Medida Provisória 1.363 , que instituiu a subvenção. O que é o subsídio? Chamado oficialmente de subvenção econômica, o subsídio é um incentivo pago pelo governo aos produtores e importadores de combustíveis para reduzir o impacto da alta dos preços internacionais sobre o consumidor . Na prática, o governo cobre parte do custo da gasolina, permitindo que o aumento nas refinarias ou no mercado internacional chegue de forma mais branda aos postos. O pagamento é feito diretamente aos produtores e importadores por meio da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP). Por que o governo quer prorrogar? A principal razão é a nova disparada do preço do petróleo no mercado internacional. Depois de um período de queda em junho, o barril do petróleo tipo Brent voltou a ultrapassar US$ 100 nesta semana , pressionado pela retomada dos conflitos no Oriente Médio. Segundo o Ministério da Fazenda, esse cenário levou a equipe econômica a reavaliar o fim do benefício. Em nota enviada à Agência Brasil , mais cedo, a pasta já havia informado que estava em discussão \"possível ato para viabilizar sua prorrogação, sem, ainda, decisão certa sobre prazo e valor\", acrescentando que a medida dependeria de novas avaliações. Guerra influencia O governo havia sinalizado que poderia encerrar o subsídio da gasolina neste mês após o anúncio de um acordo preliminar de paz entre Estados Unidos e Irã, em junho, que reduziu temporariamente o preço do petróleo. No entanto, a retomada das tensões mudou o cenário. No início de julho, o presidente dos Estados Unidos, Donald Trump, declarou que o acordo com o Irã havia fracassado e afirmou que não pretendia retomar as negociações. A escalada do conflito voltou a pressionar o mercado internacional de petróleo. Além disso, ataques a petroleiros no Mar Vermelho e os riscos para a navegação na região elevaram as preocupações sobre a oferta mundial da commodity. Impacto no Brasil O petróleo é a principal matéria-prima utilizada na produção de gasolina, diesel e querosene de aviação. Quando o barril sobe no mercado internacional, o custo dos combustíveis também tende a aumentar, pressionando a inflação e elevando despesas com transporte de passageiros e de cargas. Foi justamente para reduzir esse impacto que o governo criou as subvenções temporárias aos combustíveis. Poucos dias após o lançamento do subsídio da gasolina, por exemplo, a Petrobras elevou em R$ 0,48 por litro o preço da gasolina A vendida às distribuidoras. Com a ajuda do governo, o reajuste efetivo foi reduzido para cerca de R$ 0,04 por litro. Diesel continua O subsídio ao diesel permanece garantido. A medida provisória que instituiu o benefício de R$ 1,12 por litro foi prorrogada por mais 60 dias. Pela regra, ao fim de cada período de dois meses, o ministro da Fazenda poderá manter, alterar ou encerrar a subvenção, desde que comunique previamente os beneficiários com pelo menos 15 dias de antecedência. Outro subsídio para o diesel, de R$ 0,35, foi revogado em 1º de julho , após dois meses em vigor. Na ocasião, o barril do petróleo estava em torno de US$ 70, o que levou a equipe econômica a retirar o benefício. Outras medidas Além dos subsídios, o governo também adotou ações para reduzir os efeitos da alta do petróleo sobre os preços internos. Na semana passada, o Conselho Nacional de Política Energética (CNPE) autorizou o aumento da mistura obrigatória de etanol anidro na gasolina para 32%, medida válida inicialmente por 180 dias. A expectativa do governo é que o maior uso de biocombustível ajude a reduzir a dependência da gasolina derivada do petróleo e contribua para conter novos aumentos nos preços ao consumidor.",
+    "description": "O agravamento da guerra no Oriente Médio fez o governo prorrogar o subsídio de R$ 0,44 por litro da gasolina. Em vigor desde 25 de maio, o benefício acabaria no sábado (25) e foi estendido por 30 dias a partir de domingo (26) . O ministro da Fazenda, Dario Durigan, assinou nesta quinta-feira (23) à noite a portaria com a extensão do subsídio, criado para reduzir os impactos do conflito guerra no Oriente Médio sobre os preços dos combustíveis no Brasil. Notícias relacionadas: Conselho eleva de 30% para 32% teor de etanol na gasolina por 180 dias. O subsídio de R$ 1,12 por litro do diesel continua em vigor. No último dia 16, o Congresso Nacional prorrogou, por 60 dias, a Medida Provisória 1.363 , que instituiu a subvenção. O que é o subsídio? Chamado oficialmente de subvenção econômica, o subsídio é um incentivo pago pelo governo aos produtores e importadores de combustíveis para reduzir o impacto da alta dos preços internacionais sobre o consumidor . Na prática, o governo cobre parte do custo da gasolina, permitindo que o aumento nas refinarias ou no mercado internacional chegue de forma mais branda aos postos. O pagamento é feito diretamente aos produtores e importadores por meio da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP). Por que o governo quer prorrogar? A principal razão é a nova disparada do preço do petróleo no mercado internacional. Depois de um período de queda em junho, o barril do petróleo tipo Brent voltou a ultrapassar US$ 100 nesta semana , pressionado pela retomada dos conflitos no Oriente Médio. Segundo o Ministério da Fazenda, esse cenário levou a equipe econômica a reavaliar o fim do benefício. Em nota enviada à Agência Brasil , mais cedo, a pasta já havia informado que estava em discussão \"possível ato para viabilizar sua prorrogação, sem, ainda, decisão certa sobre prazo e valor\", acrescentando que a medida dependeria de novas avaliações. Entenda a medida no Repórter Brasil Tarde, da TV Brasil Guerra influencia O governo havia sinalizado que poderia encerrar o subsídio da gasolina neste mês após o anúncio de um acordo preliminar de paz entre Estados Unidos e Irã, em junho, que reduziu temporariamente o preço do petróleo. No entanto, a retomada das tensões mudou o cenário. No início de julho, o presidente dos Estados Unidos, Donald Trump, declarou que o acordo com o Irã havia fracassado e afirmou que não pretendia retomar as negociações. A escalada do conflito voltou a pressionar o mercado internacional de petróleo. Além disso, ataques a petroleiros no Mar Vermelho e os riscos para a navegação na região elevaram as preocupações sobre a oferta mundial da commodity. Impacto no Brasil O petróleo é a principal matéria-prima utilizada na produção de gasolina, diesel e querosene de aviação. Quando o barril sobe no mercado internacional, o custo dos combustíveis também tende a aumentar, pressionando a inflação e elevando despesas com transporte de passageiros e de cargas. Foi justamente para reduzir esse impacto que o governo criou as subvenções temporárias aos combustíveis. Poucos dias após o lançamento do subsídio da gasolina, por exemplo, a Petrobras elevou em R$ 0,48 por litro o preço da gasolina A vendida às distribuidoras. Com a ajuda do governo, o reajuste efetivo foi reduzido para cerca de R$ 0,04 por litro. Diesel continua O subsídio ao diesel permanece garantido. A medida provisória que instituiu o benefício de R$ 1,12 por litro foi prorrogada por mais 60 dias. Pela regra, ao fim de cada período de dois meses, o ministro da Fazenda poderá manter, alterar ou encerrar a subvenção, desde que comunique previamente os beneficiários com pelo menos 15 dias de antecedência. Outro subsídio para o diesel, de R$ 0,35, foi revogado em 1º de julho , após dois meses em vigor. Na ocasião, o barril do petróleo estava em torno de US$ 70, o que levou a equipe econômica a retirar o benefício. Outras medidas Além dos subsídios, o governo também adotou ações para reduzir os efeitos da alta do petróleo sobre os preços internos. Na semana passada, o Conselho Nacional de Política Energética (CNPE) autorizou o aumento da mistura obrigatória de etanol anidro na gasolina para 32%, medida válida inicialmente por 180 dias. A expectativa do governo é que o maior uso de biocombustível ajude a reduzir a dependência da gasolina derivada do petróleo e contribua para conter novos aumentos nos preços ao consumidor.",
     "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Wellton Máximo – Repórter da Agência Brasil",
     "pub_date": "2026-07-23T23:16:00+00:00",
@@ -766,18 +1122,19 @@
     "all_categories": [
       "Economia",
       "gasolina",
-      "subsídio",
-      "petróleo",
-      "Oriente Médio"
+      "Subsídio",
+      "Petróleo",
+      "Oriente Médio",
+      "Multimídia"
     ],
     "in_scope": true,
     "canonical_category_l1": "Aviação",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf",
-    "category_mapping_confidence": 0.6985,
+    "category_mapping_confidence": 0.6999,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.683,
+    "destaque_score": 0.673,
     "layout_tier": "grade"
   },
   {
@@ -823,7 +1180,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.634,
+    "destaque_score": 0.624,
     "layout_tier": "grade"
   },
   {
@@ -869,7 +1226,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.633,
+    "destaque_score": 0.623,
     "layout_tier": "grade"
   },
   {
@@ -1010,7 +1367,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.63,
+    "destaque_score": 0.62,
     "layout_tier": "grade"
   },
   {
@@ -1083,8 +1440,8 @@
     "category_mapping_confidence": 0.4176,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.403,
-    "layout_tier": "grade"
+    "destaque_score": 0.394,
+    "layout_tier": "condensado"
   },
   {
     "source_id": "panrotas",
@@ -1106,7 +1463,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.829,
+    "destaque_score": 0.819,
     "layout_tier": "manchete"
   },
   {
@@ -1129,7 +1486,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.628,
+    "destaque_score": 0.618,
     "layout_tier": "grade"
   },
   {
@@ -1152,7 +1509,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.827,
+    "destaque_score": 0.818,
     "layout_tier": "manchete"
   },
   {
@@ -1175,7 +1532,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.627,
+    "destaque_score": 0.617,
     "layout_tier": "grade"
   },
   {
@@ -1198,7 +1555,7 @@
     "category_mapping_confidence": 0.2284,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.433,
+    "destaque_score": 0.424,
     "layout_tier": "grade"
   },
   {
@@ -1221,7 +1578,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.825,
+    "destaque_score": 0.816,
     "layout_tier": "manchete"
   },
   {
@@ -1299,7 +1656,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.824,
+    "destaque_score": 0.815,
     "layout_tier": "manchete"
   },
   {
@@ -1368,7 +1725,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.623,
+    "destaque_score": 0.614,
     "layout_tier": "grade"
   },
   {
@@ -1397,7 +1754,7 @@
     "category_mapping_confidence": 0.4259,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.6,
+    "destaque_score": 0.591,
     "layout_tier": "grade"
   },
   {
@@ -1466,7 +1823,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.622,
+    "destaque_score": 0.613,
     "layout_tier": "grade"
   },
   {
@@ -1494,7 +1851,7 @@
     "category_mapping_confidence": 0.3507,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.58,
+    "destaque_score": 0.571,
     "layout_tier": "grade"
   },
   {
@@ -1564,7 +1921,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.821,
+    "destaque_score": 0.812,
     "layout_tier": "manchete"
   },
   {
@@ -1587,7 +1944,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.621,
+    "destaque_score": 0.612,
     "layout_tier": "grade"
   },
   {
@@ -1610,7 +1967,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.821,
+    "destaque_score": 0.812,
     "layout_tier": "manchete"
   },
   {
@@ -1633,7 +1990,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.62,
+    "destaque_score": 0.612,
     "layout_tier": "grade"
   },
   {
@@ -1679,7 +2036,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.62,
+    "destaque_score": 0.611,
     "layout_tier": "grade"
   },
   {
@@ -1749,7 +2106,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.619,
+    "destaque_score": 0.61,
     "layout_tier": "grade"
   },
   {
@@ -1772,7 +2129,7 @@
     "category_mapping_confidence": 0.446,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.48,
+    "destaque_score": 0.472,
     "layout_tier": "grade"
   },
   {
@@ -1818,7 +2175,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.618,
+    "destaque_score": 0.609,
     "layout_tier": "grade"
   },
   {
@@ -1841,7 +2198,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.617,
+    "destaque_score": 0.609,
     "layout_tier": "grade"
   },
   {
@@ -1864,7 +2221,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.816,
+    "destaque_score": 0.808,
     "layout_tier": "manchete"
   },
   {
@@ -1887,7 +2244,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.616,
+    "destaque_score": 0.607,
     "layout_tier": "grade"
   },
   {
@@ -1910,7 +2267,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.615,
+    "destaque_score": 0.607,
     "layout_tier": "grade"
   },
   {
@@ -1933,7 +2290,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.615,
+    "destaque_score": 0.607,
     "layout_tier": "grade"
   },
   {
@@ -1961,7 +2318,7 @@
     "category_mapping_confidence": 0.2249,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.339,
+    "destaque_score": 0.331,
     "layout_tier": "condensado"
   },
   {
@@ -1984,7 +2341,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.613,
+    "destaque_score": 0.605,
     "layout_tier": "grade"
   },
   {
@@ -2033,7 +2390,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.792,
+    "destaque_score": 0.787,
     "layout_tier": "manchete"
   },
   {
@@ -2056,7 +2413,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.592,
+    "destaque_score": 0.587,
     "layout_tier": "grade"
   },
   {
@@ -2108,7 +2465,7 @@
     "category_mapping_confidence": 0.5395,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.396,
+    "destaque_score": 0.391,
     "layout_tier": "condensado"
   },
   {
@@ -2155,7 +2512,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.591,
+    "destaque_score": 0.586,
     "layout_tier": "grade"
   },
   {
@@ -2235,7 +2592,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.591,
+    "destaque_score": 0.586,
     "layout_tier": "grade"
   },
   {
@@ -2281,7 +2638,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.59,
+    "destaque_score": 0.585,
     "layout_tier": "grade"
   },
   {
@@ -2365,7 +2722,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.59,
+    "destaque_score": 0.585,
     "layout_tier": "grade"
   },
   {
@@ -2388,7 +2745,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.59,
+    "destaque_score": 0.585,
     "layout_tier": "grade"
   },
   {
@@ -2457,7 +2814,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.589,
+    "destaque_score": 0.584,
     "layout_tier": "grade"
   },
   {
@@ -2550,7 +2907,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.589,
+    "destaque_score": 0.584,
     "layout_tier": "grade"
   },
   {
@@ -2619,7 +2976,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.589,
+    "destaque_score": 0.584,
     "layout_tier": "grade"
   },
   {
@@ -2648,7 +3005,7 @@
     "category_mapping_confidence": 0.2182,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.313,
+    "destaque_score": 0.308,
     "layout_tier": "condensado"
   },
   {
@@ -2671,7 +3028,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.588,
+    "destaque_score": 0.584,
     "layout_tier": "grade"
   },
   {
@@ -2694,7 +3051,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.788,
+    "destaque_score": 0.783,
     "layout_tier": "manchete"
   },
   {
@@ -2740,7 +3097,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.588,
+    "destaque_score": 0.583,
     "layout_tier": "grade"
   },
   {
@@ -2786,7 +3143,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.587,
+    "destaque_score": 0.583,
     "layout_tier": "grade"
   },
   {
@@ -2926,7 +3283,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.586,
+    "destaque_score": 0.582,
     "layout_tier": "grade"
   },
   {
@@ -3001,7 +3358,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.586,
+    "destaque_score": 0.581,
     "layout_tier": "grade"
   },
   {
@@ -3100,7 +3457,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.785,
+    "destaque_score": 0.781,
     "layout_tier": "manchete"
   },
   {
@@ -3196,7 +3553,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.585,
+    "destaque_score": 0.581,
     "layout_tier": "grade"
   },
   {
@@ -3219,7 +3576,7 @@
     "category_mapping_confidence": 0.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.334,
+    "destaque_score": 0.33,
     "layout_tier": "condensado"
   },
   {
@@ -3242,7 +3599,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.584,
+    "destaque_score": 0.58,
     "layout_tier": "grade"
   },
   {
@@ -3265,7 +3622,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.783,
+    "destaque_score": 0.779,
     "layout_tier": "manchete"
   },
   {
@@ -3288,7 +3645,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.582,
+    "destaque_score": 0.578,
     "layout_tier": "grade"
   },
   {
@@ -3334,7 +3691,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.582,
+    "destaque_score": 0.578,
     "layout_tier": "grade"
   },
   {
@@ -3357,7 +3714,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.782,
+    "destaque_score": 0.778,
     "layout_tier": "manchete"
   },
   {
@@ -3380,7 +3737,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.581,
+    "destaque_score": 0.577,
     "layout_tier": "grade"
   },
   {
@@ -3440,7 +3797,7 @@
     "category_mapping_confidence": 0.4629,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.558,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3463,7 +3820,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.572,
+    "destaque_score": 0.569,
     "layout_tier": "grade"
   },
   {
@@ -3515,7 +3872,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.571,
+    "destaque_score": 0.569,
     "layout_tier": "grade"
   },
   {
@@ -3568,7 +3925,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.771,
+    "destaque_score": 0.768,
     "layout_tier": "manchete"
   },
   {
@@ -3591,7 +3948,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.571,
+    "destaque_score": 0.568,
     "layout_tier": "grade"
   },
   {
@@ -3661,7 +4018,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.77,
+    "destaque_score": 0.768,
     "layout_tier": "manchete"
   },
   {
@@ -3684,7 +4041,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.57,
+    "destaque_score": 0.568,
     "layout_tier": "grade"
   },
   {
@@ -3707,7 +4064,7 @@
     "category_mapping_confidence": 0.3712,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.493,
+    "destaque_score": 0.49,
     "layout_tier": "grade"
   },
   {
@@ -3730,7 +4087,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.57,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -3759,7 +4116,7 @@
     "category_mapping_confidence": 0.2088,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.292,
+    "destaque_score": 0.29,
     "layout_tier": "condensado"
   },
   {
@@ -3789,7 +4146,7 @@
     "category_mapping_confidence": 0.5174,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.369,
+    "destaque_score": 0.367,
     "layout_tier": "condensado"
   },
   {
@@ -3881,7 +4238,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.77,
+    "destaque_score": 0.767,
     "layout_tier": "manchete"
   },
   {
@@ -3952,7 +4309,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -4044,7 +4401,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.566,
     "layout_tier": "grade"
   },
   {
@@ -4207,7 +4564,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.768,
+    "destaque_score": 0.766,
     "layout_tier": "manchete"
   },
   {
@@ -4322,7 +4679,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.567,
+    "destaque_score": 0.565,
     "layout_tier": "grade"
   },
   {
@@ -4345,7 +4702,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.567,
+    "destaque_score": 0.565,
     "layout_tier": "grade"
   },
   {
@@ -4391,7 +4748,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.567,
+    "destaque_score": 0.565,
     "layout_tier": "grade"
   },
   {
@@ -4485,7 +4842,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.567,
+    "destaque_score": 0.565,
     "layout_tier": "grade"
   },
   {
@@ -4508,7 +4865,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.567,
+    "destaque_score": 0.565,
     "layout_tier": "grade"
   },
   {
@@ -4669,7 +5026,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.566,
+    "destaque_score": 0.564,
     "layout_tier": "grade"
   },
   {
@@ -4739,7 +5096,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.766,
+    "destaque_score": 0.764,
     "layout_tier": "manchete"
   },
   {
@@ -4783,7 +5140,7 @@
     "category_mapping_confidence": 0.4962,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.32,
+    "destaque_score": 0.318,
     "layout_tier": "condensado"
   },
   {
@@ -4827,7 +5184,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.566,
+    "destaque_score": 0.564,
     "layout_tier": "grade"
   },
   {
@@ -4850,7 +5207,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.766,
+    "destaque_score": 0.764,
     "layout_tier": "manchete"
   },
   {
@@ -5000,7 +5357,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -5115,7 +5472,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -5161,7 +5518,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -5255,7 +5612,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -5278,7 +5635,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -5301,7 +5658,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -5324,7 +5681,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.56,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -5393,7 +5750,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -5416,7 +5773,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -5486,7 +5843,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -5652,7 +6009,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -5675,7 +6032,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -5698,7 +6055,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -5719,7 +6076,7 @@
     "category_mapping_confidence": 0.3679,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.481,
+    "destaque_score": 0.48,
     "layout_tier": "grade"
   },
   {
@@ -5745,7 +6102,7 @@
     "category_mapping_confidence": 0.4292,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.536,
+    "destaque_score": 0.535,
     "layout_tier": "grade"
   },
   {
@@ -5768,7 +6125,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -5818,7 +6175,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.757,
     "layout_tier": "manchete"
   },
   {
@@ -5891,7 +6248,7 @@
     "category_mapping_confidence": 0.226,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.245,
+    "destaque_score": 0.244,
     "layout_tier": "condensado"
   },
   {
@@ -5914,7 +6271,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.558,
+    "destaque_score": 0.557,
     "layout_tier": "grade"
   },
   {
@@ -5937,7 +6294,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.758,
+    "destaque_score": 0.757,
     "layout_tier": "manchete"
   },
   {
@@ -6081,7 +6438,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.758,
+    "destaque_score": 0.757,
     "layout_tier": "manchete"
   },
   {
@@ -6174,7 +6531,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.558,
+    "destaque_score": 0.557,
     "layout_tier": "grade"
   },
   {
@@ -6197,7 +6554,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.558,
+    "destaque_score": 0.557,
     "layout_tier": "grade"
   },
   {
@@ -6224,7 +6581,7 @@
     "category_mapping_confidence": 0.3245,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.309,
+    "destaque_score": 0.308,
     "layout_tier": "condensado"
   },
   {
@@ -6247,7 +6604,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.758,
+    "destaque_score": 0.757,
     "layout_tier": "manchete"
   },
   {
@@ -6300,7 +6657,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.558,
+    "destaque_score": 0.557,
     "layout_tier": "grade"
   },
   {
@@ -7385,7 +7742,7 @@
     "category_mapping_confidence": 0.4904,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.424,
+    "destaque_score": 0.423,
     "layout_tier": "grade"
   },
   {
@@ -8341,7 +8698,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8387,7 +8744,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8410,7 +8767,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -8456,7 +8813,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8548,7 +8905,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -8571,7 +8928,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -8594,7 +8951,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8617,7 +8974,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8640,7 +8997,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -8663,7 +9020,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -8716,7 +9073,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8768,7 +9125,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8791,7 +9148,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -10721,7 +11078,7 @@
     "category_mapping_confidence": 0.4054,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.402,
+    "destaque_score": 0.401,
     "layout_tier": "grade"
   },
   {
