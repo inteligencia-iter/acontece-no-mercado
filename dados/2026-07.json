@@ -1,9 +1,270 @@
 [
   {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718967",
+    "title": "Choose Chicago amplia sua presença global ao anunciar novas agências parceiras",
+    "link": "https://www.mercadoeeventos.com.br/noticias/agencias-e-operadoras/choose-chicago-amplia-sua-presenca-global-ao-anunciar-novas-agencias-parceiras/",
+    "description": "Agências foram selecionadas após um processo competitivo de RFP",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Screenshot_20260727_135151_Instagram.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-27T17:06:33+00:00",
+    "source_category_raw": "Agências e Operadoras",
+    "all_categories": [
+      "Agências e Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.697,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718964",
+    "title": "Brasil registra 11,6 milhões de passageiros aéreos a mais no semestre, mas atrasos prolongados aumentam",
+    "link": "https://www.mercadoeeventos.com.br/noticias/turismo-em-dados/brasil-registra-116-milhoes-de-passageiros-aereos-a-mais-no-semestre-mas-atrasos-prolongados-aumentam/",
+    "description": "AirHelp destaca que aumento por viagens foi acompanhado pelo número de passageiros afetados em voos do Brasil",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/passenger-airplane-taking-off-dusk-sky-generated-by-ai-scaled.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-27T16:25:31+00:00",
+    "source_category_raw": "Turismo em Dados",
+    "all_categories": [
+      "Turismo em Dados",
+      "Julho 2026"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.8058,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.846,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718953",
+    "title": "Voos acima de 4 horas: os riscos para o corpo que muitos passageiros ignoram",
+    "link": "https://www.mercadoeeventos.com.br/uncategorized/voos-acima-de-4-horas-os-riscos-para-o-corpo-que-muitos-passageiros-ignoram/",
+    "description": "Entenda por que voos longos exigem atenção com circulação, sono e alimentação",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-12-4.jpg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-27T16:05:58+00:00",
+    "source_category_raw": "Uncategorized",
+    "all_categories": [
+      "Uncategorized"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.8512,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.856,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718961",
+    "title": "Agaxtur anuncia retorno de Paulo Biondo, ex-CVC, como head de Produtos e Operações",
+    "link": "https://www.mercadoeeventos.com.br/noticias/vai-e-vem/agaxtur-anuncia-retorno-de-paulo-biondo-ex-cvc-como-head-de-produtos-e-operacoes/",
+    "description": "Foco será fortalecer o portfólio e ampliar parcerias acompanhando a estratégia de crescimento da Agaxtur em lazer e MICE",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/IMG-20260727-WA0020.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-27T16:05:09+00:00",
+    "source_category_raw": "Vai e Vem",
+    "all_categories": [
+      "Vai e Vem"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.6044,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.594,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718957",
+    "title": "Parto em Fernando de Noronha é permitido? Mulher dá à luz na ilha e caso chama atenção",
+    "link": "https://www.mercadoeeventos.com.br/brasil/parto-em-fernando-de-noronha-e-permitido-mulher-da-a-luz-na-ilha-e-caso-chama-atencao/",
+    "description": "Administração de Fernando de Noronha informou que paciente chegou em trabalho de parto avançado e não pôde ser transferida",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/02/Fernando-de-Noronha-comemora-ocupacao-hoteleira-de-9677-durante-o-Carnaval-Credito-Pedro-Menezes-scaled.jpeg",
+    "author": "Ana Azevedo",
+    "pub_date": "2026-07-27T15:57:53+00:00",
+    "source_category_raw": "Brasil",
+    "all_categories": [
+      "Brasil",
+      "Nordeste"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4018,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.543,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718958",
+    "title": "Grupo Kontik investirá R$ 85 milhões em tecnologia e lança hub de inovação",
+    "link": "https://www.mercadoeeventos.com.br/tecnologia-e-inovacao/grupo-kontik-investira-r-85-milhoes-em-tecnologia-e-lanca-hub-de-inovacao/",
+    "description": "Grupo Kontik amplia investimentos em tecnologia e inteligência artificial até 2028",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2024/03/Fernando-Kontik.jpg",
+    "author": "Yuri Ricci",
+    "pub_date": "2026-07-27T15:55:43+00:00",
+    "source_category_raw": "Tecnologia e Inovação",
+    "all_categories": [
+      "Tecnologia e Inovação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.693,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718951",
+    "title": "Caribe Mexicano: 12 destinos turísticos para vivenciar o local de forma diferenciada",
+    "link": "https://www.mercadoeeventos.com.br/noticias/destinos/exterior/caribe-mexicano-12-destinos-turisticos-para-vivenciar-o-local-de-forma-diferenciada/",
+    "description": "Caribe Mexicano combina natureza, cultura maia e experiências de aventura em cenários singulares",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Screenshot_20260727_120908_Drive.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-27T15:29:43+00:00",
+    "source_category_raw": "Exterior",
+    "all_categories": [
+      "Exterior",
+      "América do Norte e Caribe",
+      "Internacional"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.6194,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.596,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718949",
+    "title": "Presidente da Anac diz que Voepass enviava informações falsas sobre manutenção de aeronaves",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/presidente-da-anac-diz-que-voepass-enviava-informacoes-falsas-sobre-manutencao-de-aeronaves/",
+    "description": "Declaração sobre a Voepass reforça conclusões do relatório final do acidente de 2024",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/acidente_aereo_que_envolveu_aviao_da_voepass_-e1739191221803-1.webp",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-27T15:05:39+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.889,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718946",
+    "title": "Avianca transportou mais de 350 mil passageiros durante Copa do Mundo nos EUA, México e Canadá",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/avianca-transportou-mais-de-350-mil-passageiros-durante-copa-do-mundo-nos-eua-mexico-e-canada/",
+    "description": "Avianca levou 350 mil passageiros a cidades-sede do torneio de futebol nas Américas",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-29.jpg",
+    "author": "Yuri Ricci",
+    "pub_date": "2026-07-27T14:44:24+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.888,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718938",
+    "title": "Cidadania italiana: Corte Europeia vai decidir futuro de milhares de processos",
+    "link": "https://www.mercadoeeventos.com.br/acordos-internacionais/cidadania-italiana-corte-europeia-vai-decidir-futuro-de-milhares-de-processos/",
+    "description": "Corte Europeia vai analisar restrições da nova Lei da Cidadania Italiana",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-11-4.jpg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-27T14:35:30+00:00",
+    "source_category_raw": "Acordos Internacionais",
+    "all_categories": [
+      "Acordos Internacionais"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3227,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.518,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1697682 at https://agenciabrasil.ebc.com.br",
+    "title": "Durigan: dívida do Brasil é menor do que a de grandes economias",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/durigan-divida-do-brasil-e-menor-do-que-de-grandes-economias",
+    "description": "O ministro da Fazenda, Dario Durigan, afirmou nesta segunda-feira (27) que a dívida pública brasileira continua elevada, mas está sob controle e em patamar inferior ao de diversas economias desenvolvidas. Em entrevista à Rádio Jornal de Pernambuco, o ministro argumentou que não existe uma regra internacional que estabeleça um limite único para o endividamento dos países e defendeu que a situação fiscal deve ser analisada de acordo com as características de cada economia. Notícias relacionadas: Mercado reduz para 5,12% expectativa de inflação em 2026. Receita prevê arrecadar R$ 17,2 bilhões com IR sobre dividendos. Reforma tributária impulsiona doações de imóveis a herdeiros. “Não existe uma regra ou um limite colocado nos manuais internacionais, seja do FMI, seja de outra organização internacional, que diga qual é o limite do endividamento de um país. São tamanhos e países diferentes”, afirmou o ministro. Durigan ressaltou que a comparação favorável ao Brasil, em termos proporcionais na relação entre dívida e Produto Interno Bruto (PIB, a soma de todos os bens e serviços produzidos no país), não significa que a situação do país esteja confortável. “Não estou comparando para dizer que o nosso está bom, porque o nosso não está bom”, disse ao lembrar que a dívida bruta do Brasil está entre 80% e 81% do PIB, enquanto alguns países alcançam níveis que chegam a 200%. “Quando você olha para os Estados Unidos, para os países da Europa, para a China, para o Japão, o endividamento é muito maior que o nosso”, afirmou. “Temos um endividamento alto [no Brasil] , mas ele está sob controle.” O ministro explicou que mesmo as projeções “muito conservadoras” do Tesouro Nacional apontam que a dívida brasileira continuará crescendo até 2030, mas que a partir daí ela começará a reduzir em termos proporcionais ao PIB. Juros altos Para Durigan, o principal desafio é impedir que a dívida continue crescendo. Ele argumentou que, atualmente, o principal fator de pressão sobre o endividamento brasileiro são os juros pagos pelo governo para financiar a própria dívida – e pela população, que também acaba tendo de pagar taxas mais altas. “O grande desafio é mostrar que, já que a gente não tem déficit primário, o que explica hoje o endividamento são os juros. A quantidade que pagamos de juros para rolar a dívida do país faz com que a gente aumente a nossa dívida pública”, afirmou. O ministro defendeu que a redução desse custo depende da construção de confiança na condução da economia. Segundo ele, investidores precisam enxergar que o país tem condições de manter uma trajetória sustentável para as contas públicas ao longo do tempo. “Mostrar que eu tenho uma trajetória sustentável no tempo dá tranquilidade para o investidor”, disse. “Dá tranquilidade para investidores e para os atores da economia do Brasil e do mundo, para que a gente diminua esse endividamento com o tempo.” Incertezas no mundo Durigan acrescentou que a credibilidade fiscal se torna ainda mais importante em um contexto internacional marcado por guerras, tensões geopolíticas e incertezas econômicas. “É uma incerteza brutal saber se essa guerra [entre EUA e Irã] vai acabar, se não vai acabar. Nós temos que proteger o nosso povo com medidas racionais, que não prejudiquem as contas públicas”, afirmou. Segundo o ministro, preparar o país para um cenário global mais instável exige consolidação fiscal e capacidade de investimento em áreas estratégicas. “Preparar o país para o mundo de incerteza, para o mundo de conflito, é o que é mais importante. E essa preparação envolve consolidação fiscal”, disse. Na avaliação de Durigan, o equilíbrio das contas públicas não deve ser visto apenas como resposta às expectativas do mercado financeiro, mas como instrumento para garantir crescimento sustentável, ampliar investimentos e melhorar as condições de vida da população. Segundo ele, o objetivo é fazer com que o Brasil funcione como “um porto seguro para o mundo” em um ambiente internacional cada vez mais incerto.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Pedro Peduzzi - Repórter da Agência Brasil",
+    "pub_date": "2026-07-27T14:02:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "Dario Durigan",
+      "Ministro da Fazenda",
+      "dívida do Brasil",
+      "Rádio Jornal de Pernambuco"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.6548,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.719,
+    "layout_tier": "manchete"
+  },
+  {
     "source_id": "agenciabrasil",
     "guid": "1697677 at https://agenciabrasil.ebc.com.br",
-    "title": "Acordo Mecosul-China é tratado em conversa entre Lula e Xi Jinpping",
-    "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/acordo-mecosul-china-e-tratado-em-conversa-entre-lula-e-xi-jinpping",
+    "title": "Acordo Mercosul-China é tratado em conversa entre Lula e Xi Jinping",
+    "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/acordo-mercosul-china-e-tratado-em-conversa-entre-lula-e-xi-jinping",
     "description": "Os presidentes do Brasil, Luiz Inácio Lula da Silva, e da China, Xi Jinping, conversaram na noite de domingo (26) por mais de uma hora, em ligação telefônica. Além de tratarem da integração dos projetos nacionais de desenvolvimento, os líderes também falaram sobre a formalização de uma zona livre de comércio que envolva os dois países. De acordo com nota divulgada pela Secretaria de Comunicação Social (Secom), os presidentes “coincidiram a respeito da importância de acelerar as tratativas para um acordo Mercosul-China, que contemple as necessárias flexibilidades.” Notícias relacionadas: Preço do petróleo supera os US$ 100 após ataques no Mar Vermelho. Presidente de Cuba acusa EUA de “genocídio político” em meio a tensões. Após ofensas de Milei a Lula, Itamaraty chama embaixador para consulta. A ampliação da cooperação em áreas estratégicas e de alta tecnologia, como inteligência artificial, satélites, beneficiamento de minerais críticos e comércio de fertilizantes teve destaque nos propósitos compartilhados pelos dois presidentes. Além de comentarem o balanço positivo do comércio entre os dois países, Lula e Xi Jinping avaliaram positivamente os resultados das ações bilaterais já em andamento, como a isenção de visto para visitas de curta duração, vigente nos dois países desde maio deste ano, e as agendas de atividades para ampliar o conhecimento mútuo entre brasileiros e chineses, promovidas pelas celebrações do Ano Cultural Brasil-China 2026. Os conflitos globais e seus impactos sobre a vida das pessoas, a segurança alimentar e energética global foram destacadas pelos dois líderes como principais desafios da agenda global. “Os presidentes expressaram profunda preocupação com a continuidade da situação humanitária em Gaza”, informa o comunicado da Secom. Lula e Xi Jinping também concordaram que as restrições à livre navegação nos estreitos de Ormuz e Bab el-Mandeb têm efeitos nefastos sobre a economia mundial. Os líderes destacaram a relevância do Grupo de Amigos da Paz - iniciativa diplomática liderada pelos dois países na ONU, com o objetivo de buscar uma solução pacífica aos conflitos, por meio do diálogo entre países do Sul Global - para o fim da Guerra na Ucrânia. Apesar de criticarem a incapacidade do Conselho de Segurança das Nações Unidas de responder adequadamente aos conflitos, os presidentes reiteraram o compromisso com a defesa do multilateralismo e a intenção de atuarem de forma coordenada nos fóruns internacionais.",
     "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Fabíola Sinimbú - Repórter da Agência Brasil",
@@ -11,18 +272,18 @@
     "source_category_raw": "Internacional",
     "all_categories": [
       "Internacional",
-      "Acordo Mecosul-China",
+      "Acordo Mercosul-China",
       "Lula",
-      "Xi Jinpping"
+      "Xi Jinping"
     ],
     "in_scope": true,
     "canonical_category_l1": "Eventos e Feiras",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf_low_confidence",
-    "category_mapping_confidence": 0.2284,
+    "category_mapping_confidence": 0.2367,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.425,
+    "destaque_score": 0.411,
     "layout_tier": "grade"
   },
   {
@@ -68,7 +329,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.697,
+    "destaque_score": 0.681,
     "layout_tier": "grade"
   },
   {
@@ -118,7 +379,7 @@
     "category_mapping_confidence": 0.7051,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.742,
+    "destaque_score": 0.726,
     "layout_tier": "manchete"
   },
   {
@@ -211,7 +472,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.693,
+    "destaque_score": 0.677,
     "layout_tier": "grade"
   },
   {
@@ -237,7 +498,7 @@
     "category_mapping_confidence": 0.3837,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.458,
+    "destaque_score": 0.443,
     "layout_tier": "grade"
   },
   {
@@ -260,7 +521,7 @@
     "category_mapping_confidence": 0.4497,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.627,
+    "destaque_score": 0.612,
     "layout_tier": "grade"
   },
   {
@@ -283,7 +544,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.66,
+    "destaque_score": 0.648,
     "layout_tier": "grade"
   },
   {
@@ -334,7 +595,7 @@
     "category_mapping_confidence": 0.5371,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.433,
+    "destaque_score": 0.425,
     "layout_tier": "grade"
   },
   {
@@ -408,7 +669,7 @@
     "category_mapping_confidence": 0.3786,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.354,
+    "destaque_score": 0.35,
     "layout_tier": "condensado"
   },
   {
@@ -431,7 +692,7 @@
     "category_mapping_confidence": 0.5392,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.346,
+    "destaque_score": 0.342,
     "layout_tier": "condensado"
   },
   {
@@ -461,7 +722,7 @@
     "category_mapping_confidence": 0.3434,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.531,
+    "destaque_score": 0.528,
     "layout_tier": "grade"
   },
   {
@@ -486,7 +747,7 @@
     "category_mapping_confidence": 0.4712,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.362,
+    "destaque_score": 0.359,
     "layout_tier": "condensado"
   },
   {
@@ -556,7 +817,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.773,
+    "destaque_score": 0.77,
     "layout_tier": "manchete"
   },
   {
@@ -649,7 +910,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.573,
+    "destaque_score": 0.57,
     "layout_tier": "grade"
   },
   {
@@ -678,7 +939,7 @@
     "category_mapping_confidence": 0.3683,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.335,
+    "destaque_score": 0.332,
     "layout_tier": "condensado"
   },
   {
@@ -747,7 +1008,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.772,
+    "destaque_score": 0.77,
     "layout_tier": "manchete"
   },
   {
@@ -793,7 +1054,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.572,
+    "destaque_score": 0.57,
     "layout_tier": "grade"
   },
   {
@@ -816,7 +1077,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.572,
+    "destaque_score": 0.57,
     "layout_tier": "grade"
   },
   {
@@ -862,7 +1123,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.572,
+    "destaque_score": 0.569,
     "layout_tier": "grade"
   },
   {
@@ -908,7 +1169,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.571,
+    "destaque_score": 0.569,
     "layout_tier": "grade"
   },
   {
@@ -931,7 +1192,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.571,
+    "destaque_score": 0.569,
     "layout_tier": "grade"
   },
   {
@@ -1169,7 +1430,7 @@
     "category_mapping_confidence": 0.3656,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.331,
+    "destaque_score": 0.329,
     "layout_tier": "condensado"
   },
   {
@@ -1262,7 +1523,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.769,
+    "destaque_score": 0.767,
     "layout_tier": "manchete"
   },
   {
@@ -1308,7 +1569,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.769,
+    "destaque_score": 0.767,
     "layout_tier": "manchete"
   },
   {
@@ -1331,7 +1592,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -1354,7 +1615,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.768,
+    "destaque_score": 0.766,
     "layout_tier": "manchete"
   },
   {
@@ -1377,7 +1638,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.768,
+    "destaque_score": 0.766,
     "layout_tier": "manchete"
   },
   {
@@ -1400,7 +1661,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.568,
+    "destaque_score": 0.566,
     "layout_tier": "grade"
   },
   {
@@ -1446,7 +1707,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.568,
+    "destaque_score": 0.566,
     "layout_tier": "grade"
   },
   {
@@ -1492,7 +1753,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.768,
+    "destaque_score": 0.766,
     "layout_tier": "manchete"
   },
   {
@@ -1563,7 +1824,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.564,
+    "destaque_score": 0.562,
     "layout_tier": "grade"
   },
   {
@@ -1586,7 +1847,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.764,
+    "destaque_score": 0.762,
     "layout_tier": "manchete"
   },
   {
@@ -1633,7 +1894,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.563,
+    "destaque_score": 0.562,
     "layout_tier": "grade"
   },
   {
@@ -1684,7 +1945,7 @@
     "category_mapping_confidence": 0.7248,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.614,
+    "destaque_score": 0.613,
     "layout_tier": "grade"
   },
   {
@@ -1730,7 +1991,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.563,
+    "destaque_score": 0.561,
     "layout_tier": "grade"
   },
   {
@@ -1777,7 +2038,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.563,
+    "destaque_score": 0.561,
     "layout_tier": "grade"
   },
   {
@@ -1875,7 +2136,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -1921,7 +2182,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2062,7 +2323,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2158,7 +2419,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.761,
+    "destaque_score": 0.76,
     "layout_tier": "manchete"
   },
   {
@@ -2181,7 +2442,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2204,7 +2465,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.761,
+    "destaque_score": 0.76,
     "layout_tier": "manchete"
   },
   {
@@ -2227,7 +2488,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2250,7 +2511,7 @@
     "category_mapping_confidence": 0.2284,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.368,
+    "destaque_score": 0.367,
     "layout_tier": "condensado"
   },
   {
@@ -2273,7 +2534,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.76,
+    "destaque_score": 0.759,
     "layout_tier": "manchete"
   },
   {
@@ -2351,7 +2612,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.76,
+    "destaque_score": 0.759,
     "layout_tier": "manchete"
   },
   {
@@ -2420,7 +2681,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2449,7 +2710,7 @@
     "category_mapping_confidence": 0.4259,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.537,
+    "destaque_score": 0.536,
     "layout_tier": "grade"
   },
   {
@@ -2518,7 +2779,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2616,7 +2877,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.76,
+    "destaque_score": 0.759,
     "layout_tier": "manchete"
   },
   {
@@ -2639,7 +2900,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2662,7 +2923,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.76,
+    "destaque_score": 0.759,
     "layout_tier": "manchete"
   },
   {
@@ -2685,7 +2946,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2731,7 +2992,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2801,7 +3062,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2824,7 +3085,7 @@
     "category_mapping_confidence": 0.446,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.421,
+    "destaque_score": 0.42,
     "layout_tier": "grade"
   },
   {
@@ -2870,7 +3131,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -2893,7 +3154,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -2916,7 +3177,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -2939,7 +3200,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -2962,7 +3223,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -2985,7 +3246,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -3036,7 +3297,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -3085,7 +3346,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.756,
+    "destaque_score": 0.755,
     "layout_tier": "manchete"
   },
   {
@@ -3108,7 +3369,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3160,7 +3421,7 @@
     "category_mapping_confidence": 0.5395,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.361,
+    "destaque_score": 0.36,
     "layout_tier": "condensado"
   },
   {
@@ -3207,7 +3468,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3287,7 +3548,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3333,7 +3594,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3417,7 +3678,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3440,7 +3701,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3700,7 +3961,7 @@
     "category_mapping_confidence": 0.2182,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.28,
+    "destaque_score": 0.279,
     "layout_tier": "condensado"
   },
   {
@@ -4053,7 +4314,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4152,7 +4413,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -4248,7 +4509,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4271,7 +4532,7 @@
     "category_mapping_confidence": 0.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.305,
+    "destaque_score": 0.304,
     "layout_tier": "condensado"
   },
   {
@@ -4294,7 +4555,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4317,7 +4578,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -4338,7 +4599,7 @@
     "category_mapping_confidence": 0.577,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.329,
+    "destaque_score": 0.328,
     "layout_tier": "condensado"
   },
   {
@@ -4361,7 +4622,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4513,7 +4774,7 @@
     "category_mapping_confidence": 0.4629,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.539,
+    "destaque_score": 0.538,
     "layout_tier": "grade"
   },
   {
@@ -4757,7 +5018,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4780,7 +5041,7 @@
     "category_mapping_confidence": 0.3712,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.476,
+    "destaque_score": 0.475,
     "layout_tier": "grade"
   },
   {
@@ -4803,7 +5064,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4954,7 +5215,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -5025,7 +5286,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -5117,7 +5378,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -5280,7 +5541,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
