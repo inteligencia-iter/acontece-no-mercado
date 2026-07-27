@@ -1,6 +1,308 @@
 [
   {
     "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719001",
+    "title": "Travel Next Minas terá “Butecrawl” com caminhada gastronômica pelo centro de Belo Horizonte",
+    "link": "https://www.mercadoeeventos.com.br/feiras-e-eventos/travel-next-minas-tera-butecrawl-com-caminhada-gastronomica-pelo-centro-de-belo-horizonte/",
+    "description": "Experiência do Travel Next Minas será realizada em 13 de agosto",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/A-Savassi-bairro-famoso-de-Belo-Horizonte-e-ponto-de-encontro-com-cafes-bares-e-vida-urbana-MTur-Pedro-Vilela--scaled.jpg",
+    "author": "Ana Azevedo",
+    "pub_date": "2026-07-27T21:52:43+00:00",
+    "source_category_raw": "Feiras e Eventos",
+    "all_categories": [
+      "Feiras e Eventos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.699,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1697744 at https://agenciabrasil.ebc.com.br",
+    "title": "Dólar fecha no maior valor em duas semanas com queda no petróleo",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-fecha-no-maior-valor-em-duas-semanas-com-queda-no-petroleo",
+    "description": "O mercado financeiro terminou a segunda-feira (27) em direções opostas. O dólar voltou a subir e atingiu o maior nível em duas semanas, pressionado pela forte queda do petróleo e pelo cenário externo. A bolsa avançou, sustentada por ações de bancos e de mineradoras. No mercado internacional, o petróleo despencou mais de 6% após sinais de trégua entre Estados Unidos e Irã reduzirem os temores sobre interrupções na oferta global da commodity (bem primário com cotação internacional). Dólar avança Notícias relacionadas: Mercado reduz para 5,12% expectativa de inflação em 2026. Receita prevê arrecadar R$ 17,2 bilhões com IR sobre dividendos. O dólar à vista encerrou esta segunda vendido a R$ 5,113, com alta de 0,62%. A cotação está no maior nível desde o último dia 13. Apesar da valorização diária, a moeda norte-americana ainda acumula queda de 0,98% em julho e de 6,86% em 2026. A desvalorização do real ocorreu na contramão de outros ativos domésticos. A principal pressão veio do recuo do petróleo, que reduz a atratividade da moeda brasileira por afetar os termos de troca do país, um dos exportadores líquidos do produto. Além disso, o mercado acompanhou a expectativa pela decisão de política monetária do Federal Reserve (Fed), marcada para quarta-feira, e continuou monitorando os efeitos das tarifas impostas pelos Estados Unidos sobre produtos brasileiros, além do cenário político doméstico. No exterior, o índice DXY, que mede o desempenho do dólar frente a uma cesta de moedas fortes, terminou em leve alta. Ibovespa sobe Enquanto o câmbio refletiu a perda de força das commodities, a bolsa brasileira encontrou suporte no ambiente externo mais favorável ao risco. O Ibovespa subiu 0,74%, encerrando o pregão aos 175.334 pontos, com volume financeiro de R$ 19,2 bilhões. O avanço foi liderado pelas ações de bancos e de mineradoras, que compensaram a forte queda dos papéis ligados ao setor de petróleo. A melhora do humor dos investidores ocorreu após o anúncio de uma pausa nos ataques entre Estados Unidos e Irã, alimentando expectativas de retomada das negociações diplomáticas. O mercado também continuou atento à expectativa pela reunião do Federal Reserve (Fed, Banco Central estadunidense), que pode sinalizar os próximos passos da política monetária norte-americana. Petróleo despenca Os contratos internacionais de petróleo registraram forte correção depois da disparada observada na semana passada. O Brent, referência para a Petrobras, caiu 6,33%, encerrando o dia a US$ 85,87 por barril. O WTI, do Texas, recuou 7,50%, para US$ 82,61. A queda foi motivada pelo anúncio de uma pausa nos ataques dos Estados Unidos contra o Irã e pela perspectiva de retomada das negociações diplomáticas entre os dois países. O presidente estadunidense, Donald Trump, afirmou que Washington mantém conversas com Teerã e indicou haver possibilidade de um acordo, reduzindo temporariamente o prêmio de risco embutido nas cotações da commodity. Apesar do recuo expressivo, o mercado continua atento à situação no Oriente Médio. O Estreito de Ormuz segue operando com restrições, e persistem preocupações com a segurança das rotas marítimas utilizadas para o transporte de petróleo, mantendo elevada a volatilidade do produto. * com informações da Reuters",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Wellton Máximo – Repórter da Agência Brasil*",
+    "pub_date": "2026-07-27T21:35:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "Conflito no Oriente Médio",
+      "dólar",
+      "Bolsa de Valores",
+      "Ibovespa",
+      "petróleo"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3269,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.649,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718995",
+    "title": "Taag inaugura rota para Guangzhou e amplia conexões entre Brasil, África e China",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/taag-inaugura-rota-para-guangzhou-e-amplia-conexoes-entre-brasil-africa-e-china/",
+    "description": "Os bilhetes para a nova rota podem ser adquiridos pelos canais de venda da Taag",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2025/06/787_Final-1-scaled.png",
+    "author": "Ana Azevedo",
+    "pub_date": "2026-07-27T21:28:24+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação",
+      "Julho 2026"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.897,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718989",
+    "title": "Concha y Toro anuncia nova experiência que está atraindo viajantes em Santiago",
+    "link": "https://www.mercadoeeventos.com.br/noticias/destinos/exterior/concha-y-toro-anuncia-nova-experiencia-que-esta-atraindo-viajantes-em-santiago/",
+    "description": "Conheça o Centro del Vino, projeto que redefiniu a forma como visitantes exploram história, cultura e vinhos da Concha y Toro",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Screenshot_20260727_182137_Gmail.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-27T21:24:16+00:00",
+    "source_category_raw": "Exterior",
+    "all_categories": [
+      "Exterior",
+      "América Latina",
+      "Internacional"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3458,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.533,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718983",
+    "title": "Férias de inverno: Parque Nacional do Iguaçu estende horário de entrada até o início de agosto",
+    "link": "https://www.mercadoeeventos.com.br/noticias/parques-e-atracoes/ferias-de-inverno-parque-nacional-do-iguacu-estende-horario-de-entrada-ate-o-inicio-de-agosto/",
+    "description": "Unidade abrirá às 8h durante as férias de inverno e recomenda compra antecipada",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Creditos-Urbia-Cataratas-e-Eagle-Eye-Company-1-scaled.jpg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-27T20:45:00+00:00",
+    "source_category_raw": "Parques e Atrações",
+    "all_categories": [
+      "Parques e Atrações"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.2877,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.516,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718985",
+    "title": "The Boca Raton incorpora tecnologia de ponta para recuperação de atividades esportivas",
+    "link": "https://www.mercadoeeventos.com.br/noticias/hotelaria/the-boca-raton-incorpora-tecnologia-de-ponta-para-recuperacao-de-atividades-esportivas/",
+    "description": "Além da reabilitação em nível celular, o The Boca Raton oferece uma infraestrutura esportiva de nível mundial",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Screenshot_20260727_171927_Gmail.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-27T20:27:29+00:00",
+    "source_category_raw": "Hotelaria",
+    "all_categories": [
+      "Hotelaria"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.693,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718981",
+    "title": "Campanha de Status Match da Flying Blue é prorrogada até 25 de agosto",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/campanha-de-status-match-da-flying-blue-e-prorrogada-ate-25-de-agosto/",
+    "description": "Clientes selecionados da Flying Blue ganham mais um mês para aproveitar os benefícios do programa de fidelidade",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-1-.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-27T20:16:29+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.892,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718980",
+    "title": "Meeting Festuris entra na reta final da pré-venda com ingresso quase pela metade do preço",
+    "link": "https://www.mercadoeeventos.com.br/feiras-e-eventos/meeting-festuris-entra-na-reta-final-da-pre-venda-com-ingresso-quase-pela-metade-do-preco/",
+    "description": "Evento antecede o Festuris e aposta em conteúdo e geração de negócios",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Meeting-1-1.jpg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-27T20:11:42+00:00",
+    "source_category_raw": "Feiras e Eventos",
+    "all_categories": [
+      "Feiras e Eventos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.692,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718978",
+    "title": "Cruzeiros pelo Mediterrâneo ficam mais baratos com nova campanha da Costa Cruzeiros",
+    "link": "https://www.mercadoeeventos.com.br/noticias/cruzeiros/cruzeiros-pelo-mediterraneo-ficam-mais-baratos-com-nova-campanha-da-costa-cruzeiros/",
+    "description": "Promoção da Costa vale para viagens entre novembro de 2026 e fevereiro de 2027",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-13-3-scaled.jpg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-27T20:02:03+00:00",
+    "source_category_raw": "Cruzeiros",
+    "all_categories": [
+      "Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.691,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=718963",
+    "title": "Campanha de Dia dos Pais aposta em pontos extras Livelo para impulsionar compras",
+    "link": "https://www.mercadoeeventos.com.br/tecnologia-e-inovacao/campanha-de-dia-dos-pais-aposta-em-pontos-extras-livelo-para-impulsionar-compras/",
+    "description": "Clientes encontram ofertas para diferentes perfis de pais durante o período da ação",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/ChatGPT-Image-27-de-jul.-de-2026-16_35_56.png",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-27T20:01:00+00:00",
+    "source_category_raw": "Tecnologia e Inovação",
+    "all_categories": [
+      "Tecnologia e Inovação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.691,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/07/gol-linhas-aereas-suspende-voos-para-aruba-a-partir-de-outubro_230543.html",
+    "title": "Gol Linhas Aéreas suspende voos para Aruba a partir de outubro",
+    "link": "https://www.panrotas.com.br/aviacao/empresas/2026/07/gol-linhas-aereas-suspende-voos-para-aruba-a-partir-de-outubro_230543.html",
+    "description": "Passageiros com viagens já emitidas e impactadas pela decisão serão comunicados pelos canais de contato",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/05/21/b9055d4e849e2d5e4a210fd3632b7b8e-u1a0222.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-07-27T19:58:00+00:00",
+    "source_category_raw": "Aviação - Empresas",
+    "all_categories": [
+      "Aviação - Empresas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Empresas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.891,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "abcmais_hortensias",
+    "guid": "https://www.abcmais.com/brasil/do-vale-do-bom-retiro-ao-lago-negro-ponto-turistico-de-gramado-teve-historia-mudada-aos-longo-dos-anos/",
+    "title": "Do Vale do Bom Retiro ao Lago Negro: Ponto turístico de Gramado teve história mudada aos longo dos anos",
+    "link": "https://www.abcmais.com/brasil/rio-grande-do-sul/hortensias/gramado/do-vale-do-bom-retiro-ao-lago-negro-ponto-turistico-de-gramado-teve-historia-mudada-aos-longo-dos-anos/",
+    "description": "O espaço recebe durante todo o ano milhões de turistas e já foi eleito um dos melhores parques da América Latina",
+    "image_url": "https://midia.gruposinos.com.br/_midias/jpg/2026/07/27/lago_negro__5_-22840475.jpeg",
+    "author": "five.integracao",
+    "pub_date": "2026-07-27T19:03:39+00:00",
+    "source_category_raw": "Brasil",
+    "all_categories": [
+      "Brasil",
+      "Gramado",
+      "Hortênsias",
+      "Rio Grande do Sul",
+      "central de inverno",
+      "gramado",
+      "história do lago negro",
+      "INVERNO NA SERRA",
+      "lago negro",
+      "leopoldo rosenfeldt",
+      "passeio",
+      "passeio turístico",
+      "pedalinhos no lago negro",
+      "pinheiro importados",
+      "ponto turístico",
+      "serra gaucha",
+      "turismo",
+      "turismo na serra",
+      "vale do bom retiro"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.2455,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.379,
+    "layout_tier": "condensado"
+  },
+  {
+    "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=718967",
     "title": "Choose Chicago amplia sua presença global ao anunciar novas agências parceiras",
     "link": "https://www.mercadoeeventos.com.br/noticias/agencias-e-operadoras/choose-chicago-amplia-sua-presenca-global-ao-anunciar-novas-agencias-parceiras/",
@@ -20,6 +322,29 @@
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
     "destaque_score": 0.697,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/tmcs/2026/07/grupo-kontik-investira-r-85-milhoes-em-tecnologia-e-ia-ate-2028_230532.html",
+    "title": "Grupo Kontik investirá R$ 85 milhões em tecnologia e IA até 2028",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/tmcs/2026/07/grupo-kontik-investira-r-85-milhoes-em-tecnologia-e-ia-ate-2028_230532.html",
+    "description": "Empresa anuncia R$ 50 milhões apenas para 2026, cria o Kontik Labs e ainda reforça área de Tecnologia",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/27/f9a575b7f3d3dab6a752940a5b9de1ae-fernandovasconcellosceodogrupokontikdanielacoelhocoodogrupokontikeceodazuppereeduardovasconcelloscoceodogrupokontik.jpg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-07-27T16:29:00+00:00",
+    "source_category_raw": "Corporativo - TMCs",
+    "all_categories": [
+      "Corporativo - TMCs"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "TMCs",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.677,
     "layout_tier": "grade"
   },
   {
@@ -91,6 +416,29 @@
     "content_domain_confidence": 0.9,
     "destaque_score": 0.594,
     "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/pesquisas-e-estatisticas/2026/07/america-latina-movimenta-440-milhoes-de-passageiros-em-2025-veja-ranking-dos-aeroportos_230465.html",
+    "title": "América Latina movimenta 440 milhões de passageiros em 2025; veja ranking dos aeroportos",
+    "link": "https://www.panrotas.com.br/aviacao/pesquisas-e-estatisticas/2026/07/america-latina-movimenta-440-milhoes-de-passageiros-em-2025-veja-ranking-dos-aeroportos_230465.html",
+    "description": "Brasil, México e Colômbia lideraram o desempenho aeroportuário na região ao longo do ano passado",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/11/09/e86395952c01c14a971c146228168126-dsc52052.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-07-27T16:02:00+00:00",
+    "source_category_raw": "Aviação - Pesquisas e Estatísticas",
+    "all_categories": [
+      "Aviação - Pesquisas e Estatísticas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Pesquisas e Estatísticas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.876,
+    "layout_tier": "manchete"
   },
   {
     "source_id": "mercadoeeventos",
@@ -165,6 +513,29 @@
     "layout_tier": "grade"
   },
   {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/07/avianca-transporta-mais-de-350-mil-passageiros-durante-copa-do-mundo-2026_230530.html",
+    "title": "Avianca transporta mais de 350 mil passageiros durante Copa do Mundo 2026",
+    "link": "https://www.panrotas.com.br/aviacao/empresas/2026/07/avianca-transporta-mais-de-350-mil-passageiros-durante-copa-do-mundo-2026_230530.html",
+    "description": "Companhia conectou dez das 16 cidades-sede entre 1º de junho e 19 de julho",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/05/26/7aafa042a75b041aeb22adbe4f089af9-unnamed20260526t170454.142.jpg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-07-27T15:06:00+00:00",
+    "source_category_raw": "Aviação - Empresas",
+    "all_categories": [
+      "Aviação - Empresas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Empresas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.872,
+    "layout_tier": "manchete"
+  },
+  {
     "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=718949",
     "title": "Presidente da Anac diz que Voepass enviava informações falsas sobre manutenção de aeronaves",
@@ -209,6 +580,29 @@
     "content_domain_confidence": 0.9,
     "destaque_score": 0.888,
     "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/hotelaria/investimentos/2026/07/sol-by-melia-anuncia-reposicionamento-de-marca-e-renovacao-de-hoteis_230528.html",
+    "title": "Sol by Meliá anuncia reposicionamento de marca e renovação de hotéis",
+    "link": "https://www.panrotas.com.br/hotelaria/investimentos/2026/07/sol-by-melia-anuncia-reposicionamento-de-marca-e-renovacao-de-hoteis_230528.html",
+    "description": "Revitalização coincide com o 70º aniversário da rede Meliá Hotels",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/27/9680dddaedbfbcfdb85cec37db4f4968-poolsolmarrakeshi.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-07-27T14:39:00+00:00",
+    "source_category_raw": "Hotelaria - Investimentos",
+    "all_categories": [
+      "Hotelaria - Investimentos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": "Investimentos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.671,
+    "layout_tier": "grade"
   },
   {
     "source_id": "mercadoeeventos",
@@ -257,7 +651,7 @@
     "category_mapping_confidence": 0.6548,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.719,
+    "destaque_score": 0.702,
     "layout_tier": "manchete"
   },
   {
@@ -265,7 +659,7 @@
     "guid": "1697677 at https://agenciabrasil.ebc.com.br",
     "title": "Acordo Mercosul-China é tratado em conversa entre Lula e Xi Jinping",
     "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/acordo-mercosul-china-e-tratado-em-conversa-entre-lula-e-xi-jinping",
-    "description": "Os presidentes do Brasil, Luiz Inácio Lula da Silva, e da China, Xi Jinping, conversaram na noite de domingo (26) por mais de uma hora, em ligação telefônica. Além de tratarem da integração dos projetos nacionais de desenvolvimento, os líderes também falaram sobre a formalização de uma zona livre de comércio que envolva os dois países. De acordo com nota divulgada pela Secretaria de Comunicação Social (Secom), os presidentes “coincidiram a respeito da importância de acelerar as tratativas para um acordo Mercosul-China, que contemple as necessárias flexibilidades.” Notícias relacionadas: Preço do petróleo supera os US$ 100 após ataques no Mar Vermelho. Presidente de Cuba acusa EUA de “genocídio político” em meio a tensões. Após ofensas de Milei a Lula, Itamaraty chama embaixador para consulta. A ampliação da cooperação em áreas estratégicas e de alta tecnologia, como inteligência artificial, satélites, beneficiamento de minerais críticos e comércio de fertilizantes teve destaque nos propósitos compartilhados pelos dois presidentes. Além de comentarem o balanço positivo do comércio entre os dois países, Lula e Xi Jinping avaliaram positivamente os resultados das ações bilaterais já em andamento, como a isenção de visto para visitas de curta duração, vigente nos dois países desde maio deste ano, e as agendas de atividades para ampliar o conhecimento mútuo entre brasileiros e chineses, promovidas pelas celebrações do Ano Cultural Brasil-China 2026. Os conflitos globais e seus impactos sobre a vida das pessoas, a segurança alimentar e energética global foram destacadas pelos dois líderes como principais desafios da agenda global. “Os presidentes expressaram profunda preocupação com a continuidade da situação humanitária em Gaza”, informa o comunicado da Secom. Lula e Xi Jinping também concordaram que as restrições à livre navegação nos estreitos de Ormuz e Bab el-Mandeb têm efeitos nefastos sobre a economia mundial. Os líderes destacaram a relevância do Grupo de Amigos da Paz - iniciativa diplomática liderada pelos dois países na ONU, com o objetivo de buscar uma solução pacífica aos conflitos, por meio do diálogo entre países do Sul Global - para o fim da Guerra na Ucrânia. Apesar de criticarem a incapacidade do Conselho de Segurança das Nações Unidas de responder adequadamente aos conflitos, os presidentes reiteraram o compromisso com a defesa do multilateralismo e a intenção de atuarem de forma coordenada nos fóruns internacionais.",
+    "description": "Os presidentes do Brasil, Luiz Inácio Lula da Silva, e da China, Xi Jinping, conversaram na noite de domingo (26) por mais de uma hora, em ligação telefônica. Além de tratarem da integração dos projetos nacionais de desenvolvimento, os líderes também falaram sobre a formalização de uma zona livre de comércio que envolva os dois países. De acordo com nota divulgada pela Secretaria de Comunicação Social (Secom), os presidentes “coincidiram a respeito da importância de acelerar as tratativas para um acordo Mercosul-China, que contemple as necessárias flexibilidades.” Notícias relacionadas: Preço do petróleo supera os US$ 100 após ataques no Mar Vermelho. Presidente de Cuba acusa EUA de “genocídio político” em meio a tensões. Após ofensas de Milei a Lula, Itamaraty chama embaixador para consulta. A ampliação da cooperação em áreas estratégicas e de alta tecnologia, como inteligência artificial, satélites, beneficiamento de minerais críticos e comércio de fertilizantes teve destaque nos propósitos compartilhados pelos dois presidentes. Além de comentarem o balanço positivo do comércio entre os dois países, Lula e Xi Jinping avaliaram positivamente os resultados das ações bilaterais já em andamento, como a isenção de visto para visitas de curta duração, vigente nos dois países desde maio deste ano, e as agendas de atividades para ampliar o conhecimento mútuo entre brasileiros e chineses, promovidas pelas celebrações do Ano Cultural Brasil-China 2026. Os conflitos globais e seus impactos sobre a vida das pessoas, a segurança alimentar e energética global foram destacadas pelos dois líderes como principais desafios da agenda global. “Os presidentes expressaram profunda preocupação com a continuidade da situação humanitária em Gaza”, informa o comunicado da Secom. Lula e Xi Jinping também concordaram que as restrições à livre navegação nos estreitos de Ormuz e Bab el-Mandeb têm efeitos nefastos sobre a economia mundial. Os líderes destacaram a relevância do Grupo de Amigos da Paz - iniciativa diplomática liderada pelos dois países na ONU, com o objetivo de buscar uma solução pacífica aos conflitos, por meio do diálogo entre países do Sul Global - para o fim da Guerra na Ucrânia. Apesar de criticarem a incapacidade do Conselho de Segurança das Nações Unidas de responder adequadamente aos conflitos, os presidentes reiteraram o compromisso com a defesa do multilateralismo e a intenção de atuarem de forma coordenada nos fóruns internacionais. Confira mais informações sobre o assunto no Repórter Brasil Tarde , da TV Brasil",
     "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Fabíola Sinimbú - Repórter da Agência Brasil",
     "pub_date": "2026-07-27T13:16:00+00:00",
@@ -274,17 +668,18 @@
       "Internacional",
       "Acordo Mercosul-China",
       "Lula",
-      "Xi Jinping"
+      "Xi Jinping",
+      "Multimídia"
     ],
     "in_scope": true,
     "canonical_category_l1": "Eventos e Feiras",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf_low_confidence",
-    "category_mapping_confidence": 0.2367,
+    "category_mapping_confidence": 0.2523,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.411,
-    "layout_tier": "grade"
+    "destaque_score": 0.399,
+    "layout_tier": "condensado"
   },
   {
     "source_id": "mercadoeeventos",
@@ -329,7 +724,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.681,
+    "destaque_score": 0.665,
     "layout_tier": "grade"
   },
   {
@@ -357,6 +752,29 @@
     "layout_tier": "grade"
   },
   {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/eventos/2026/07/travel-connect-2026-reune-ceos-da-atlantica-e-assist-card-em-painel-sobre-hospitalidade_230521.html",
+    "title": "Travel Connect 2026 reúne CEOs da Atlantica e Assist Card em painel sobre hospitalidade",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/eventos/2026/07/travel-connect-2026-reune-ceos-da-atlantica-e-assist-card-em-painel-sobre-hospitalidade_230521.html",
+    "description": "Eduardo Giestas e Alexandre Camargo debatem no evento segurança e bem-estar do viajante",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/27/0e625b4b3f314e3d8f3cfa9f28520ca7-imgpanrotastc261.png",
+    "author": "Luiz Felipe Sim&#245;es",
+    "pub_date": "2026-07-27T12:42:00+00:00",
+    "source_category_raw": "Corporativo - Eventos",
+    "all_categories": [
+      "Corporativo - Eventos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Eventos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.664,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "agenciabrasil",
     "guid": "1697675 at https://agenciabrasil.ebc.com.br",
     "title": "Mercado reduz para 5,12% expectativa de inflação em 2026",
@@ -379,7 +797,7 @@
     "category_mapping_confidence": 0.7051,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.726,
+    "destaque_score": 0.71,
     "layout_tier": "manchete"
   },
   {
@@ -430,6 +848,29 @@
     "layout_tier": "grade"
   },
   {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/07/anac-diz-que-voepass-fornecia-informacoes-falsas-durante-fiscalizacoes-de-rotina_230515.html",
+    "title": "Anac diz que Voepass fornecia informações falsas durante fiscalizações de rotina",
+    "link": "https://www.panrotas.com.br/aviacao/empresas/2026/07/anac-diz-que-voepass-fornecia-informacoes-falsas-durante-fiscalizacoes-de-rotina_230515.html",
+    "description": "Tiago Faierstein disse que a Voepass apresentava documentos informando que manutenções tinham sido feitas",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/05/07/f41b9d99c1f3102882018388b2748262-a3e04b6830ab810a565146c9ca29166c.jpeg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-07-27T12:28:00+00:00",
+    "source_category_raw": "Aviação - Empresas",
+    "all_categories": [
+      "Aviação - Empresas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Empresas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.863,
+    "layout_tier": "manchete"
+  },
+  {
     "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=718913",
     "title": "Copa do Mundo Feminina de 2027: confira as datas do torneio no Brasil",
@@ -472,7 +913,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.677,
+    "destaque_score": 0.662,
     "layout_tier": "grade"
   },
   {
@@ -480,25 +921,28 @@
     "guid": "1697671 at https://agenciabrasil.ebc.com.br",
     "title": "Incêndios florestais ameaçam cidade histórica francesa de Bordeaux",
     "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/incendios-florestais-ameacam-cidade-historica-francesa-de-bordeaux",
-    "description": "Incêndios florestais avançaram em direção aos arredores da histórica cidade francesa de Bordeaux, no coração da região vinícola do país, enquanto França e Espanha lutam contra as chamas que já forçaram a retirada de centenas de milhares de pessoas de suas casas. Cerca de 220 mil pessoas deixaram suas casas na França. Na Espanha, esse número passa dos 75 mil e outras 30 mil receberam ordem para permanecer em abrigos, informaram autoridades. Notícias relacionadas: Quase 260 mil deixam casas em áreas de incêndio na Espanha e na França. Incêndios florestais: Espanha declara estado de emergência nacional. Na França, os incêndios devastaram a península de Cap Ferret, na costa atlântica – um destino turístico popular – e se espalharam pelas áreas ao redor de Bordeaux, onde os bombeiros tentavam impedir que as chamas atinjam a capital regional. “Temos um incêndio que não está sob controle e que está se movendo na direção da área urbana”, disse o ministro do Interior, Laurent Nunez, à emissora France 2 nesse domingo. “A situação geral é muito desfavorável; estamos diante de uma situação sem precedentes.” O prefeito de Bordeaux, Thomas Cazenave, disse que o incêndio estava a cerca de 15 quilômetros dos pontos de acesso à cidade. Cazenave havia afirmado no início do domingo que não havia planos de evacuar Bordeaux, cuja área metropolitana conta com uma população de cerca de 850 mil habitantes. Nunez disse que as autoridades continuarão avaliando a situação com calma e realismo. À medida que o incêndio avançava, a polícia foi de porta em porta durante a madrugada nos municípios de Marcheprime e Cestas para retirar os moradores de suas casas. As autoridades francesas divulgaram imagens que mostram policiais batendo nas portas no escuro e pedindo às pessoas que saíssem. Avião de combate a incêndios da Canadair lança água para combater incêndio florestal na França - REUTERS/Manon Cruz/ Proibido reprodução Na Espanha, o primeiro-ministro, Pedro Sánchez, visitou áreas atingidas pelo incêndio em Ávila, uma das três províncias do centro do país afetadas por grandes incêndios, ao lado de Madri e Toledo. As chamas devastaram mais de 50 mil hectares de áreas rurais em Ávila, tornando-se o maior incêndio florestal da história recente da Espanha, segundo a ministra do Meio Ambiente, Sara Aagesen. Vários focos Um incêndio separado na província de Castellón, no Leste da Espanha, devastou mais de 4,3 mil hectares, informaram as autoridades regionais. “O incêndio está fora de controle, é muito difícil de extinguir do ponto de vista técnico, especialmente devido às condições climáticas adversas que persistirão ao longo do dia”, disse o governador regional de Valência, Juanfran Pérez, a jornalistas próximos ao local. O incêndio florestal atingiu o parque natural da Sierra de Espadan, que abriga grandes florestas de pinheiros e sobreiros. Os incêndios são os mais recentes desastres relacionados à seca prolongada e às sucessivas ondas de calor que, segundo cientistas, têm se intensificado devido às mudanças climáticas. Tanto em Bordeaux quanto em Ávila, as temperaturas máximas em julho atingiram uma média de 32 graus Celsius, quase 6°C acima da média normal para o mês, de acordo com o Reuters Climate Monitor. Mais de 150 mil hectares foram queimados em toda a Espanha desde janeiro, seis vezes a área destruída durante o mesmo período do ano passado. Embora os incêndios florestais sejam há muito uma característica dos verões espanhóis, Sánchez afirmou que sua escala e intensidade crescentes, alimentadas por condições climáticas cada vez mais extremas, exigem políticas baseadas na ciência climática. Escócia e Itália Nas terras altas da Escócia, cerca de 500 bombeiros vêm combatendo um grande incêndio no Parque Nacional de Cairngorms desde 15 de julho. Os moradores da vila de Nethy Bridge, que foram retirados na noite de sexta-feira após uma mudança nas condições climáticas, puderam retornar às suas casas no final do sábado. Na Itália, vários incêndios florestais forçaram o fechamento, por várias horas, de um trecho sul do anel viário de Roma, bem como de uma rodovia que leva à capital, causando grandes transtornos no trânsito. Na região de Puglia, no Sul da Itália, turistas tiveram de deixar resorts à beira-mar devido a um grande incêndio florestal na área de Gargano, informou o Corpo de Bombeiros nacional. Alguns foram resgatados por via marítima pela guarda costeira, acrescentou a agência de notícias Ansa. Outros incêndios levaram à suspensão temporária do tráfego ferroviário nos arredores da cidade de Acireale, no Leste da Sicília, e na linha do leste do Adriático, ao sul da cidade de Termoli, informou a empresa ferroviária RFI. O Papa Leão, falando de sua residência de verão em Castel Gandolfo, nos arredores de Roma, ofereceu apoio espiritual. “À luz dos devastadores incêndios florestais que afetaram várias regiões da França e da Espanha nos últimos dias, desejo expressar minha solidariedade e proximidade, e convido a todos a rezarem pelas pessoas afetadas e pelas equipes de resgate envolvidas nos esforços de socorro.” *É proibida a reprodução deste conteúdo",
+    "description": "Incêndios florestais avançaram em direção aos arredores da histórica cidade francesa de Bordeaux, no coração da região vinícola do país, enquanto França e Espanha lutam contra as chamas que já forçaram a retirada de centenas de milhares de pessoas de suas casas. Cerca de 220 mil pessoas deixaram suas casas na França. Na Espanha, esse número passa dos 75 mil e outras 30 mil receberam ordem para permanecer em abrigos, informaram autoridades. Notícias relacionadas: Quase 260 mil deixam casas em áreas de incêndio na Espanha e na França. Incêndios florestais: Espanha declara estado de emergência nacional. Na França, os incêndios devastaram a península de Cap Ferret, na costa atlântica – um destino turístico popular – e se espalharam pelas áreas ao redor de Bordeaux, onde os bombeiros tentavam impedir que as chamas atinjam a capital regional. “Temos um incêndio que não está sob controle e que está se movendo na direção da área urbana”, disse o ministro do Interior, Laurent Nunez, à emissora France 2 nesse domingo. “A situação geral é muito desfavorável; estamos diante de uma situação sem precedentes.” O prefeito de Bordeaux, Thomas Cazenave, disse que o incêndio estava a cerca de 15 quilômetros dos pontos de acesso à cidade. Cazenave havia afirmado no início do domingo que não havia planos de evacuar Bordeaux, cuja área metropolitana conta com uma população de cerca de 850 mil habitantes. Nunez disse que as autoridades continuarão avaliando a situação com calma e realismo. À medida que o incêndio avançava, a polícia foi de porta em porta durante a madrugada nos municípios de Marcheprime e Cestas para retirar os moradores de suas casas. As autoridades francesas divulgaram imagens que mostram policiais batendo nas portas no escuro e pedindo às pessoas que saíssem. Avião de combate a incêndios da Canadair lança água para combater incêndio florestal na França - REUTERS/Manon Cruz/ Proibido reprodução Na Espanha, o primeiro-ministro, Pedro Sánchez, visitou áreas atingidas pelo incêndio em Ávila, uma das três províncias do centro do país afetadas por grandes incêndios, ao lado de Madri e Toledo. As chamas devastaram mais de 50 mil hectares de áreas rurais em Ávila, tornando-se o maior incêndio florestal da história recente da Espanha, segundo a ministra do Meio Ambiente, Sara Aagesen. Confira mais informações sobre os incêndios na Europa no Repórter Brasil Tarde , na TV Brasil Vários focos Um incêndio separado na província de Castellón, no Leste da Espanha, devastou mais de 4,3 mil hectares, informaram as autoridades regionais. “O incêndio está fora de controle, é muito difícil de extinguir do ponto de vista técnico, especialmente devido às condições climáticas adversas que persistirão ao longo do dia”, disse o governador regional de Valência, Juanfran Pérez, a jornalistas próximos ao local. O incêndio florestal atingiu o parque natural da Sierra de Espadan, que abriga grandes florestas de pinheiros e sobreiros. Os incêndios são os mais recentes desastres relacionados à seca prolongada e às sucessivas ondas de calor que, segundo cientistas, têm se intensificado devido às mudanças climáticas. Tanto em Bordeaux quanto em Ávila, as temperaturas máximas em julho atingiram uma média de 32 graus Celsius, quase 6°C acima da média normal para o mês, de acordo com o Reuters Climate Monitor. Mais de 150 mil hectares foram queimados em toda a Espanha desde janeiro, seis vezes a área destruída durante o mesmo período do ano passado. Embora os incêndios florestais sejam há muito uma característica dos verões espanhóis, Sánchez afirmou que sua escala e intensidade crescentes, alimentadas por condições climáticas cada vez mais extremas, exigem políticas baseadas na ciência climática. Escócia e Itália Nas terras altas da Escócia, cerca de 500 bombeiros vêm combatendo um grande incêndio no Parque Nacional de Cairngorms desde 15 de julho. Os moradores da vila de Nethy Bridge, que foram retirados na noite de sexta-feira após uma mudança nas condições climáticas, puderam retornar às suas casas no final do sábado. Na Itália, vários incêndios florestais forçaram o fechamento, por várias horas, de um trecho sul do anel viário de Roma, bem como de uma rodovia que leva à capital, causando grandes transtornos no trânsito. Na região de Puglia, no Sul da Itália, turistas tiveram de deixar resorts à beira-mar devido a um grande incêndio florestal na área de Gargano, informou o Corpo de Bombeiros nacional. Alguns foram resgatados por via marítima pela guarda costeira, acrescentou a agência de notícias Ansa. Outros incêndios levaram à suspensão temporária do tráfego ferroviário nos arredores da cidade de Acireale, no Leste da Sicília, e na linha do leste do Adriático, ao sul da cidade de Termoli, informou a empresa ferroviária RFI. O Papa Leão, falando de sua residência de verão em Castel Gandolfo, nos arredores de Roma, ofereceu apoio espiritual. “À luz dos devastadores incêndios florestais que afetaram várias regiões da França e da Espanha nos últimos dias, desejo expressar minha solidariedade e proximidade, e convido a todos a rezarem pelas pessoas afetadas e pelas equipes de resgate envolvidas nos esforços de socorro.” *É proibida a reprodução deste conteúdo",
     "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Manuel Ausloos e David Latona - Repórteres da Reuters",
     "pub_date": "2026-07-27T11:49:00+00:00",
     "source_category_raw": "Internacional",
     "all_categories": [
       "Internacional",
-      "incêndios",
+      "Incêndios Florestais",
       "França",
-      "Espanha"
+      "Espanha",
+      "europa",
+      "meteorologia",
+      "Multimídia"
     ],
     "in_scope": true,
     "canonical_category_l1": "Destinos",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf_low_confidence",
-    "category_mapping_confidence": 0.3837,
+    "category_mapping_confidence": 0.3849,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.443,
+    "destaque_score": 0.427,
     "layout_tier": "grade"
   },
   {
@@ -521,7 +965,7 @@
     "category_mapping_confidence": 0.4497,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.612,
+    "destaque_score": 0.598,
     "layout_tier": "grade"
   },
   {
@@ -544,7 +988,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.648,
+    "destaque_score": 0.636,
     "layout_tier": "grade"
   },
   {
@@ -595,7 +1039,7 @@
     "category_mapping_confidence": 0.5371,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.425,
+    "destaque_score": 0.416,
     "layout_tier": "grade"
   },
   {
@@ -669,7 +1113,7 @@
     "category_mapping_confidence": 0.3786,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.35,
+    "destaque_score": 0.345,
     "layout_tier": "condensado"
   },
   {
@@ -692,7 +1136,7 @@
     "category_mapping_confidence": 0.5392,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.342,
+    "destaque_score": 0.339,
     "layout_tier": "condensado"
   },
   {
@@ -722,7 +1166,7 @@
     "category_mapping_confidence": 0.3434,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.528,
+    "destaque_score": 0.525,
     "layout_tier": "grade"
   },
   {
@@ -747,7 +1191,7 @@
     "category_mapping_confidence": 0.4712,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.359,
+    "destaque_score": 0.356,
     "layout_tier": "condensado"
   },
   {
@@ -817,7 +1261,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.77,
+    "destaque_score": 0.768,
     "layout_tier": "manchete"
   },
   {
@@ -910,7 +1354,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.57,
+    "destaque_score": 0.568,
     "layout_tier": "grade"
   },
   {
@@ -939,7 +1383,7 @@
     "category_mapping_confidence": 0.3683,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.332,
+    "destaque_score": 0.33,
     "layout_tier": "condensado"
   },
   {
@@ -1008,7 +1452,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.77,
+    "destaque_score": 0.767,
     "layout_tier": "manchete"
   },
   {
@@ -1054,7 +1498,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.57,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -1077,7 +1521,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.57,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -1123,7 +1567,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -1169,7 +1613,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.566,
     "layout_tier": "grade"
   },
   {
@@ -1192,7 +1636,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.566,
     "layout_tier": "grade"
   },
   {
@@ -1430,7 +1874,7 @@
     "category_mapping_confidence": 0.3656,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.329,
+    "destaque_score": 0.327,
     "layout_tier": "condensado"
   },
   {
@@ -1523,7 +1967,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.767,
+    "destaque_score": 0.765,
     "layout_tier": "manchete"
   },
   {
@@ -1569,7 +2013,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.767,
+    "destaque_score": 0.765,
     "layout_tier": "manchete"
   },
   {
@@ -1592,7 +2036,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.567,
+    "destaque_score": 0.565,
     "layout_tier": "grade"
   },
   {
@@ -1615,7 +2059,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.766,
+    "destaque_score": 0.764,
     "layout_tier": "manchete"
   },
   {
@@ -1638,7 +2082,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.766,
+    "destaque_score": 0.764,
     "layout_tier": "manchete"
   },
   {
@@ -1661,7 +2105,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.566,
+    "destaque_score": 0.564,
     "layout_tier": "grade"
   },
   {
@@ -1707,7 +2151,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.566,
+    "destaque_score": 0.564,
     "layout_tier": "grade"
   },
   {
@@ -1753,7 +2197,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.766,
+    "destaque_score": 0.764,
     "layout_tier": "manchete"
   },
   {
@@ -1824,7 +2268,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.561,
     "layout_tier": "grade"
   },
   {
@@ -1847,7 +2291,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.762,
+    "destaque_score": 0.761,
     "layout_tier": "manchete"
   },
   {
@@ -1894,7 +2338,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -1945,7 +2389,7 @@
     "category_mapping_confidence": 0.7248,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.613,
+    "destaque_score": 0.611,
     "layout_tier": "grade"
   },
   {
@@ -1991,7 +2435,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2038,7 +2482,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2136,7 +2580,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2182,7 +2626,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2323,7 +2767,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2419,7 +2863,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.76,
+    "destaque_score": 0.759,
     "layout_tier": "manchete"
   },
   {
@@ -2442,7 +2886,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2465,7 +2909,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.76,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -2488,7 +2932,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -2511,7 +2955,7 @@
     "category_mapping_confidence": 0.2284,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.367,
+    "destaque_score": 0.365,
     "layout_tier": "condensado"
   },
   {
@@ -2534,7 +2978,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -2612,7 +3056,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -2681,7 +3125,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -2710,7 +3154,7 @@
     "category_mapping_confidence": 0.4259,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.536,
+    "destaque_score": 0.534,
     "layout_tier": "grade"
   },
   {
@@ -2779,7 +3223,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -2877,7 +3321,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -2900,7 +3344,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -2923,7 +3367,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -2946,7 +3390,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -2992,7 +3436,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -3062,7 +3506,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -3085,7 +3529,7 @@
     "category_mapping_confidence": 0.446,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.42,
+    "destaque_score": 0.419,
     "layout_tier": "grade"
   },
   {
@@ -3131,7 +3575,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.558,
+    "destaque_score": 0.557,
     "layout_tier": "grade"
   },
   {
@@ -3154,7 +3598,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.558,
+    "destaque_score": 0.557,
     "layout_tier": "grade"
   },
   {
@@ -3177,7 +3621,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.758,
+    "destaque_score": 0.757,
     "layout_tier": "manchete"
   },
   {
@@ -3200,7 +3644,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.558,
+    "destaque_score": 0.557,
     "layout_tier": "grade"
   },
   {
@@ -3223,7 +3667,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.558,
+    "destaque_score": 0.557,
     "layout_tier": "grade"
   },
   {
@@ -3246,7 +3690,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.558,
+    "destaque_score": 0.557,
     "layout_tier": "grade"
   },
   {
@@ -3297,7 +3741,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.558,
+    "destaque_score": 0.557,
     "layout_tier": "grade"
   },
   {
@@ -3421,7 +3865,7 @@
     "category_mapping_confidence": 0.5395,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.36,
+    "destaque_score": 0.359,
     "layout_tier": "condensado"
   },
   {
@@ -3468,7 +3912,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -3548,7 +3992,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -3594,7 +4038,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -3678,7 +4122,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -3701,7 +4145,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -3770,7 +4214,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -3863,7 +4307,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -3932,7 +4376,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -3984,7 +4428,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4007,7 +4451,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -4053,7 +4497,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4099,7 +4543,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4239,7 +4683,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -4668,7 +5112,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -4691,7 +5135,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.754,
+    "destaque_score": 0.753,
     "layout_tier": "manchete"
   },
   {
@@ -4714,7 +5158,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -4797,7 +5241,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4849,7 +5293,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4902,7 +5346,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -4925,7 +5369,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4995,7 +5439,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -7225,7 +7669,7 @@
     "category_mapping_confidence": 0.226,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.238,
+    "destaque_score": 0.237,
     "layout_tier": "condensado"
   },
   {
