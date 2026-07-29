@@ -1,6 +1,246 @@
 [
   {
     "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719164",
+    "title": "Abav-SP apresenta nova pesquisa para mapear o uso de Inteligência Artificial nas agências de viagens",
+    "link": "https://www.mercadoeeventos.com.br/noticias/agencias-e-operadoras/abav-sp-apresenta-nova-pesquisa-para-mapear-o-uso-de-inteligencia-artificial-nas-agencias-de-viagens/",
+    "description": "Iniciativa vai balizar treinamentos futuros e os resultados serão apresentados em painel exclusivo no 5º Abav MeetingSP",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Screenshot_20260729_094350_Gmail.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-29T12:51:47+00:00",
+    "source_category_raw": "Agências e Operadoras",
+    "all_categories": [
+      "Agências e Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.699,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719163",
+    "title": "WTTC apresenta plano com 7 medidas para evitar o turismo excessivo e fortalecer os destinos",
+    "link": "https://www.mercadoeeventos.com.br/noticias/turismo-em-dados/wttc-apresenta-plano-com-7-medidas-para-evitar-o-turismo-excessivo-e-fortalecer-os-destinos/",
+    "description": "Relatório defende planejamento, uso de dados e participação dos moradores para equilibrar crescimento",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/ChatGPT-Image-29-de-jul.-de-2026-09_44_14.png",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-29T12:50:45+00:00",
+    "source_category_raw": "Turismo em Dados",
+    "all_categories": [
+      "Turismo em Dados"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.5036,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.575,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719152",
+    "title": "Como vender mais seguro viagem? Affinity apresenta argumentos em live gratuita para agentes no HUB ME",
+    "link": "https://www.mercadoeeventos.com.br/noticias/institucional/como-vender-mais-seguro-viagem-affinity-apresenta-argumentos-em-live-gratuita-para-agentes-no-hub-me/",
+    "description": "A Affinity defende que a possibilidade de sucesso na venda começa na forma como o produto é apresentado ao cliente",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/41066.jpg",
+    "author": "Ana Azevedo",
+    "pub_date": "2026-07-29T12:43:16+00:00",
+    "source_category_raw": "Institucional",
+    "all_categories": [
+      "Institucional",
+      "HUB ME"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.5381,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.583,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719156",
+    "title": "Avião da Airbus bate recorde com voo direto de mais de 24 horas",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/aviao-da-airbus-bate-recorde-com-voo-direto-de-mais-de-24-horas/",
+    "description": "Voo direto da Airbus durou 24 horas e reforça preparação para nova rota da Qantas",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/06/first-flight-of-the-qantas-a350-1000ulr-msn-707.jpg",
+    "author": "Yuri Ricci",
+    "pub_date": "2026-07-29T12:31:31+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.898,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719148",
+    "title": "Flybondi tem comercialização de passagens limitadas no Brasil; entenda",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/flybondi-tem-comercializacao-de-passagens-limitadas-no-brasil-entenda/",
+    "description": "Já em vigor, decisão da Anac foi tomada por meio de medida cautelar para evitar prejuízos a passageiros que voam com a Flybondi",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2025/09/Avion-Flybondi--scaled.jpeg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-29T12:09:33+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação",
+      "Julho 2026"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.896,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "valor_economico",
+    "guid": "CBMi6AFBVV95cUxNWFpJMjh4NllJMTZiN1FhRUxxWlhuRTl2UnpQYUt1Tkh3TDZ2QmVoaWJiT291ZVRTNEtJbG9YcnlkREJkcjNkMUtPam9qY1hjd21FMDNnV0RjbDdLdWQ1TllqT3BPdDdreEVwaU1wUFFrbjBrdDc4TG1xYWNlbXM4aGo2LVI4SE5ZUWRLc1JYUllGUFQ5ZDdSeDc5bnBLNVc5cXlPRDZJRm80b2JQUHVjcEk2LXNibExKa1hCVmNCUmRtVjFPMjBZa3h0LUtpUEs0bjdqcUFQUjJIcjZQNC1Qd0lFa3ZnYnZ60gHoAUFVX3lxTE1YWkkyOHg2WUkxNmI3UWFFTHFaWG5FOXZSelBhS3VOSHdMNnZCZWhpYmJPb3VlVFM0S0lsb1hyeWREQmRyM2QxS09qb2pjWGN3bUUwM2dXRGNsN0t1ZDVOWWpPcE90N2t4RXBpTXBQUWtuMGt0NzhMbXFhY2VtczhoajYtUjhITllRZEtzUlhSWUZQVDlkN1J4NzlucEs1VzlxeU9ENklGbzRvYlBQdWNwSTYtc2JsTEprWEJWY0JSZG1WMU8yMFlreHQtS2lQSzRuN2pxQVBSMkhyNlA0LVB3SUVrdmdidno",
+    "title": "Terminais se adaptam para navio de cruzeiro",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWFpJMjh4NllJMTZiN1FhRUxxWlhuRTl2UnpQYUt1Tkh3TDZ2QmVoaWJiT291ZVRTNEtJbG9YcnlkREJkcjNkMUtPam9qY1hjd21FMDNnV0RjbDdLdWQ1TllqT3BPdDdreEVwaU1wUFFrbjBrdDc4TG1xYWNlbXM4aGo2LVI4SE5ZUWRLc1JYUllGUFQ5ZDdSeDc5bnBLNVc5cXlPRDZJRm80b2JQUHVjcEk2LXNibExKa1hCVmNCUmRtVjFPMjBZa3h0LUtpUEs0bjdqcUFQUjJIcjZQNC1Qd0lFa3ZnYnZ60gHoAUFVX3lxTE1YWkkyOHg2WUkxNmI3UWFFTHFaWG5FOXZSelBhS3VOSHdMNnZCZWhpYmJPb3VlVFM0S0lsb1hyeWREQmRyM2QxS09qb2pjWGN3bUUwM2dXRGNsN0t1ZDVOWWpPcE90N2t4RXBpTXBQUWtuMGt0NzhMbXFhY2VtczhoajYtUjhITllRZEtzUlhSWUZQVDlkN1J4NzlucEs1VzlxeU9ENklGbzRvYlBQdWNwSTYtc2JsTEprWEJWY0JSZG1WMU8yMFlreHQtS2lQSzRuN2pxQVBSMkhyNlA0LVB3SUVrdmdidno?oc=5",
+    "description": "Terminais se adaptam para navio de cruzeiro Valor Econômico",
+    "image_url": null,
+    "author": "",
+    "pub_date": "2026-07-29T08:03:04+00:00",
+    "source_category_raw": null,
+    "all_categories": [],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.7807,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.505,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "g1_turismo",
+    "guid": "https://g1.globo.com/fantastico/noticia/2026/07/29/castelo-mais-mal-assombrado-da-franca-conheca-lugar-que-atrai-investigadores-paranormais-e-curiosos.ghtml",
+    "title": "Castelo mais 'mal-assombrado' da França: conheça lugar que atrai investigadores paranormais e curiosos",
+    "link": "https://g1.globo.com/fantastico/noticia/2026/07/29/castelo-mais-mal-assombrado-da-franca-conheca-lugar-que-atrai-investigadores-paranormais-e-curiosos.ghtml",
+    "description": "Quem Vive Ali: Fantástico passa a noite no castelo mais mal-assombrado da França Construído no século XIV para proteger moradores de invasões, um castelo medieval no oeste da França ganhou, séculos depois, outro motivo para chamar atenção. Hoje, o Castelo de Fugiré é conhecido como o \"castelo mais mal-assombrado\" do país e recebe visitantes que chegam de diferentes regiões em busca de uma noite cercada por histórias de fantasmas, aparições e fenômenos considerados paranormais. A fama é tão grande que, antes mesmo de chegar ao local, os visitantes costumam ouvir alertas. No caminho até o castelo, um taxista chega a se recusar a entrar na propriedade e conta que conhece pessoas que passaram por experiências estranhas ali. O imóvel, que começou como uma fortaleza militar, hoje é palco de relatos que desafiam a explicação de seus moradores. Construído no século XIV para proteger moradores de invasões, um castelo medieval no oeste da França ganhou, séculos depois, outro motivo para chamar atenção. Hoje, o Castelo de Fugiré é conhecido como o \"castelo mais mal-assombrado\" do país e recebe visitantes que chegam de diferentes regiões em busca de uma noite cercada por histórias de fantasmas, aparições e fenômenos considerados paranormais. A fama é tão grande que, antes mesmo de chegar ao local, os visitantes costumam ouvir alertas. No caminho até o castelo, um taxista chega a se recusar a entrar na propriedade e conta que conhece pessoas que passaram por experiências estranhas ali. O imóvel, que começou como uma fortaleza militar, hoje é palco de relatos que desafiam a explicação de seus moradores. Quem Vive Ali: Fantástico passa a noite no castelo mais mal-assombrado da França Reprodução/TV Globo Dos ataques medievais às histórias de fantasmas O castelo pertence desde 2009 à historiadora Véronique e ao marido, François. Ela diz que sempre sonhou em morar em um castelo, mas afirma que, pouco depois da mudança, percebeu que não dividia o espaço apenas com a família. Segundo Véronique, uma presença masculina parecia acompanhá-la constantemente. Já François conta que, enquanto trabalhava no jardim, sentiu alguém tocar seus ombros, mas não havia ninguém por perto. Com o passar do tempo, o casal diz ter presenciado objetos se movendo sozinhos, camas vibrando, lustres atravessando cômodos e vozes sem origem aparente. Quem Vive Ali: Fantástico passa a noite no castelo mais mal-assombrado da França Reprodução/TV Globo 'Os Invisíveis' Os donos afirmam que aprenderam a conviver com as supostas entidades, que passaram a chamar de \"Os Invisíveis\". Para Véronique, muitos desses espíritos seriam antigos moradores do castelo. Ela diz que a família chegou a colocar o imóvel à venda, mas a reputação de assombrado afastou compradores. Hoje, em vez de esconder a fama, eles convivem com ela e acreditam que o fenômeno faz parte da história do lugar. Quem Vive Ali: Fantástico passa a noite no castelo mais mal-assombrado da França Reprodução/TV Globo Quartos com histórias de mortes e uma capela secreta Cada ambiente do castelo guarda uma história. Um dos quartos é associado a Félix, um antigo morador que morreu ali no século XIX. Outro pertenceu a Alice, uma jovem que se casou no castelo em julho de 1924 e morreu poucos dias depois vítima de uma infecção. Durante a visita, também é possível conhecer o cômodo onde, segundo relatos históricos apresentados pelos proprietários, um oficial de Justiça foi assassinado a machadadas no século XVIII. Escondida atrás de uma escada estreita, uma pequena capela clandestina lembra outro período dramático da história francesa: a Revolução Francesa, quando praticar a religião podia levar à execução. Quem Vive Ali: Fantástico passa a noite no castelo mais mal-assombrado da França Reprodução/TV Globo Turismo movido pelo sobrenatural Mais do que um patrimônio histórico, o castelo se tornou um destino para quem quer testar as próprias crenças. Há mais de dez anos, investigadores paranormais alugam quartos para realizar gravações e tentar captar vozes ou sons considerados inexplicáveis. Também chegam turistas comuns, muitos deles carregando malas para passar o fim de semana na propriedade. Segundo a família, a atividade ajuda a custear a manutenção do castelo. Entre os frequentadores há quem diga ter visto sombras, ouvido ruídos ou até conseguido se comunicar com parentes mortos. Casal que vive em castelo 'mal-assombrado' na França Reprodução/TV Globo Mistério permanece Apesar das dezenas de relatos, nem todos saem do castelo convencidos de que há algo sobrenatural. Durante a noite passada no local pelos repórteres, nenhum fenômeno foi registrado. Para Véronique, porém, isso não diminui o significado da experiência. Ela afirma acreditar que existe uma realidade invisível aos olhos e diz que o castelo não deve ser tratado como uma atração de terror. \"Isso aqui não é um circo. É preciso ouvir com empatia e respeito\", afirma. Se existem ou não fantasmas, uma coisa é certa: são essas histórias que mantêm vivo, até hoje, um castelo construído para sobreviver às guerras e que acabou encontrando um novo papel séculos depois. Quem Vive Ali: Fantástico passa a noite no castelo mais mal-assombrado da França Reprodução/TV Globo GloboPop: clique para ver os vídeos do palco do Fantástico Ouça os podcasts do Fantástico ISSO É FANTÁSTICO O podcast Isso É Fantástico está disponível no g1 e nos principais aplicativos de podcasts, trazendo grandes reportagens, investigações e histórias fascinantes em podcast com o selo de jornalismo do Fantástico: profundidade, contexto e informação. Siga, curta ou assine o Isso É Fantástico no seu tocador de podcasts favorito. Todo domingo tem um episódio novo.",
+    "image_url": "https://s2-g1.glbimg.com/iW_UvJWBNQcOBefz3l4KWMcb1Ik=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/v/BMzRu2SviFZmQkAuqpAw/captura-de-tela-2026-07-28-111113.jpg",
+    "author": "",
+    "pub_date": "2026-07-29T06:00:09+00:00",
+    "source_category_raw": "G1",
+    "all_categories": [
+      "G1"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.5276,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.6,
+    "destaque_score": 0.434,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1697953 at https://agenciabrasil.ebc.com.br",
+    "title": "Bolívia apreende ouro ilegal em jatinho de empresário brasileiro",
+    "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/bolivia-apreende-ouro-ilegal-em-jatinho-de-empresario-brasileiro",
+    "description": "Forças policiais da Bolívia apreenderam 189,5 kg de ouro em um jatinho particular no Aeroporto Internacional Viru Viru, em Santa Cruz de la Sierra. A aeronave pertence ao empresário brasileiro Valdir José Zorzo. Segundo a polícia boliviana, a carga, avaliada em mais de R$ 120 milhões, estava sendo transportada sem autorização para exportação e seria levada para Dubai, nos Emirados Árabes Unidos . O ouro apreendido foi entregue ao Banco Central de Bolívia, por decisão judicial. Valdir José Zorzo é dono do grupo sul-mato-grossense Dallas, que atua no setor agroindustrial e de alimentos. Em nota, divulgada nessa segunda-feira (27), o Grupo Dallas informou que o empresário não estava a bordo, não autorizou o voo e não há qualquer envolvimento dele no caso. No comunicado, a empresa afirma que o avião não opera serviços de frete comercial, não foi apreendido e que o empresário e o grupo estão colaborando com as autoridades bolivianas. “A aeronave encontra-se em território brasileiro e não está sujeita a qualquer medida de apreensão”, diz a nota, acrescentando que foi abertura apuração interna na empresa para esclarecimento do caso. Até o momento, conforme o grupo empresarial, não há qualquer acusação formal contra o Valdir José Zorzo ou contra o Grupo Dallas.",
+    "image_url": "https://agenciabrasil.ebc.com.br/ebc.png?id=1697953&amp;o=rss",
+    "author": "Douglas Corrêa - Repórter da Agência Brasil",
+    "pub_date": "2026-07-29T00:56:00+00:00",
+    "source_category_raw": "Internacional",
+    "all_categories": [
+      "Internacional",
+      "Bolívia",
+      "Ouro",
+      "Valdir Zorzo",
+      "Dallas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.5033,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.652,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1697949 at https://agenciabrasil.ebc.com.br",
+    "title": "Produção de petróleo e gás no Brasil cresce 14% no 2º trimestre",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/producao-de-petroleo-e-gas-no-brasil-cresce-14-no-2o-trimestre",
+    "description": "A Petrobras informou que a produção total de petróleo e gás (óleo, líquido de gás natural e gás natural) alcançou a marca recorde de 3,34 milhões (MM) barris de óleo equivalente por dia (boed) no 2º trimestre de 2026 , valor 14,1% acima do mesmo trimestre do ano passado e 3,4% acima do 1º trimestre de 2026. De acordo com a companhia, o desempenho resulta da melhoria na eficiência dos navios-plataforma Maria Quitéria, no campo de Jubarte; Alexandre de Gusmão; e no campo de Mero, P-78, no campo de Búzios, além do início de produção do FPSO P-79, no campo de Búzios. Notícias relacionadas: Dólar fecha no maior valor em duas semanas com queda no petróleo. Petróleo dispara com aumento de tensão no Oriente Médio. Preço do petróleo supera os US$ 100 após ataques no Mar Vermelho. A empresa informou que dez novos poços produtores entraram em operação no trimestre avaliado, sendo quatro na Bacia de Campos e seis na Bacia de Santos. Exportações Com o aumento da produção, as exportações cresceram para cerca de 1 MM bpd, ante redução das importações de óleo para 89 mbpd no segundo trimestre, considerado o menor volume desde a pandemia . No mesmo período, o fator de utilização das refinarias chegou a 101,2%. A empresa destaca que, diante do cenário de guerra no Oriente Médio e oscilação do valor do petróleo global, a maior utilização do parque de refino \"tem sido fundamental para ampliar a oferta de derivados no mercado nacional\". Mercado interno As vendas no mercado interno mantiveram-se em patamar semelhante ao do primeiro trimestre, já que o aumento da comercialização de diesel e GLP compensou a retração do consumo de demais produtos.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Douglas Corrêa - Repórter da Agência Brasil",
+    "pub_date": "2026-07-29T00:32:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "Petróleo",
+      "Petrobras",
+      "Gás Natural"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.361,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.615,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1697935 at https://agenciabrasil.ebc.com.br",
+    "title": "Holandês morre durante passeio de barco nas Cataratas do Iguaçu",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/holandes-morre-durante-passeio-de-barco-nas-cataratas-do-iguacu",
+    "description": "Um holandês de 26 anos morreu nesta terça-feira (28) quando participava de um passeio de barco nas Cataratas do Iguaçu, em Foz do Iguaçu, no Paraná. Quando o barco virou, o turista estava acompanhado de cinco familiares, além de dois tripulantes, todos resgatados pelo Corpo de Bombeiros. Notícias relacionadas: Estado de SP tem previsão de chuvas e ventanias para os próximos dias. Polícia Civil investiga morte de bebê em creche de São Paulo. RS tem alerta vermelho para inundação dos rios dos Sinos e Uruguai. O barco de turismo pertence à empresa Ilha do Sol, agência de viagens responsável pelo passeio Macuco Safari. O contrato de concessão para passeios pelas Cataratas foi celebrado em janeiro de 2010 entre a empresa e o Instituto Chico Mendes da Conservação da Biodiversidade (ICMBio). O Corpo de Bombeiros do Paraná informou que o turista sofreu afogamento que evoluiu para parada cardiorrespiratória. As outras vítimas foram atendidas no local pela equipe do parque e depois encaminhadas ao hospital no Porto Seco do Kattamaram, para onde foram encaminhados também o piloto e o co-piloto do barco. Todos estão fora de perigo. Os holandeses chegaram ao Brasil nesta segunda-feira (27) e iriam retornar para a Holanda no próximo dia 30. ICMBio Em nota, o ICMBio lamentou a morte e anunciou a suspensão do Passeio do Macuco por três dias, a partir desta quarta-feira (29). A nota diz que o caso envolveu uma família que estava em um passeio privativo e que o resgate e a assistência aos turistas foram feitos de forma imediata. Como fiscal do contrato, o ICMBio verificou que toda a documentação relacionada à concessionária Ilha do Sol está regular e que as circunstâncias do acidente estão sendo apuradas. Empresa Em nota, a Ilha do Sol manifestou pesar pelo falecimento do jovem e disse que presta assistência às vítimas e que colabora com as investigações.. A empresa disse ainda que atua há 35 anos no Parque Nacional do Iguaçu e que tem todas as certificações e licenças necessárias para operar.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Douglas Corrêa - Repórter da Agência Brasil",
+    "pub_date": "2026-07-28T22:54:00+00:00",
+    "source_category_raw": "Geral",
+    "all_categories": [
+      "Geral",
+      "Foz do Iguaçu",
+      "Passeio Macuco Safari",
+      "Turista Holandês"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3084,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.397,
+    "layout_tier": "condensado"
+  },
+  {
+    "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=719143",
     "title": "Bate-Papo com a Flytour ganha calendário nacional e discute futuro das viagens corporativas",
     "link": "https://www.mercadoeeventos.com.br/noticias/agencias-e-operadoras/bate-papo-com-a-flytour-ganha-calendario-nacional-e-discute-futuro-das-viagens-corporativas/",
@@ -19,7 +259,53 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.699,
+    "destaque_score": 0.647,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/mice/2026/07/veja-mais-fotos-do-forum-mice-abracorp-realizado-na-capital-paulista_230588.html",
+    "title": "Veja mais fotos do Fórum Mice Abracorp, realizado na capital paulista",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/mice/2026/07/veja-mais-fotos-do-forum-mice-abracorp-realizado-na-capital-paulista_230588.html",
+    "description": "Programação da manhã reuniu clientes e fornecedores para debater assuntos relacionados ao setor de eventos",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/28/0276c9c0e4cea214c0b9743b8a0989e6-rem1511.jpg",
+    "author": "Karina Cede&#241;o",
+    "pub_date": "2026-07-28T21:45:00+00:00",
+    "source_category_raw": "Corporativo - Mice",
+    "all_categories": [
+      "Corporativo - Mice"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": "Mice",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.646,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/hotelaria/inauguracoes/2026/07/hcc-hospitality-inaugura-plaza-belmar-novo-hotel-em-campo-grande-ms_230581.html",
+    "title": "HCC Hospitality inaugura Plaza Belmar, novo hotel em Campo Grande (MS)",
+    "link": "https://www.panrotas.com.br/hotelaria/inauguracoes/2026/07/hcc-hospitality-inaugura-plaza-belmar-novo-hotel-em-campo-grande-ms_230581.html",
+    "description": "Empreendimento conta com 192 apartamentos e centro de eventos para até 370 pessoas",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/28/b7bbbf1d8b91ef0e9df056e8e509d107-hotelplazabelmarentranceatdusk1.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-07-28T21:37:00+00:00",
+    "source_category_raw": "Hotelaria - Inaugurações",
+    "all_categories": [
+      "Hotelaria - Inaugurações"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": "Inaugurações",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.55,
+    "destaque_score": 0.646,
     "layout_tier": "grade"
   },
   {
@@ -42,7 +328,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.696,
+    "destaque_score": 0.645,
     "layout_tier": "grade"
   },
   {
@@ -67,7 +353,7 @@
     "category_mapping_confidence": 0.3692,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.538,
+    "destaque_score": 0.487,
     "layout_tier": "grade"
   },
   {
@@ -95,8 +381,54 @@
     "category_mapping_confidence": 0.7025,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.741,
+    "destaque_score": 0.69,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/07/copa-airlines-tera-oito-bancos-de-conexao-no-panama-e-mais-opcoes-de-voos-a-partir-de-2027_230587.html",
+    "title": "Copa Airlines terá oito bancos de conexão no Panamá e mais opções de voos a partir de 2027",
+    "link": "https://www.panrotas.com.br/aviacao/empresas/2026/07/copa-airlines-tera-oito-bancos-de-conexao-no-panama-e-mais-opcoes-de-voos-a-partir-de-2027_230587.html",
+    "description": "Nova estrutura permitirá a companhia a distribuir as conexões de forma mais eficiente ao longo do dia",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/08/16/b3b5c8d2d7b9b7baa0daf1324d2c213e-dsc07140.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-07-28T21:04:00+00:00",
+    "source_category_raw": "Aviação - Empresas",
+    "all_categories": [
+      "Aviação - Empresas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Empresas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.845,
     "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/hotelaria/tecnologia/2026/07/rio-de-janeiro-ganha-plataforma-internacional-para-investimentos-em-hotelaria_230578.html",
+    "title": "Rio de Janeiro ganha plataforma internacional para investimentos em hotelaria",
+    "link": "https://www.panrotas.com.br/hotelaria/tecnologia/2026/07/rio-de-janeiro-ganha-plataforma-internacional-para-investimentos-em-hotelaria_230578.html",
+    "description": "Plataforma foi criada para conectar pessoas e projetos que estão moldando o futuro da hotelaria",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/28/d0edac71d7c47910ff7e75bce98395b7-unnamed56.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-07-28T20:49:00+00:00",
+    "source_category_raw": "Hotelaria - Tecnologia",
+    "all_categories": [
+      "Hotelaria - Tecnologia"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": "Tecnologia",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.644,
+    "layout_tier": "grade"
   },
   {
     "source_id": "mercadoeeventos",
@@ -118,7 +450,7 @@
     "category_mapping_confidence": 0.5074,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.571,
+    "destaque_score": 0.52,
     "layout_tier": "grade"
   },
   {
@@ -187,15 +519,38 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.893,
+    "destaque_score": 0.843,
     "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/eventos/2026/07/eventos-corporativos-o-que-os-clientes-irao-exigir-nos-proximos-cinco-anos-confira_230580.html",
+    "title": "Eventos corporativos: o que os clientes irão exigir nos próximos cinco anos? Confira",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/eventos/2026/07/eventos-corporativos-o-que-os-clientes-irao-exigir-nos-proximos-cinco-anos-confira_230580.html",
+    "description": "Painel com fornecedores trouxe o tema à tona durante o Fórum Mice Abracorp, realizado hoje em São Paulo",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/28/1c3716b1a9429ffa5659c0c537f574dd-whatsappimage20260728at12.26.56.jpeg",
+    "author": "Karina Cede&#241;o",
+    "pub_date": "2026-07-28T20:21:00+00:00",
+    "source_category_raw": "Corporativo - Eventos",
+    "all_categories": [
+      "Corporativo - Eventos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Eventos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.643,
+    "layout_tier": "grade"
   },
   {
     "source_id": "agenciabrasil",
     "guid": "1697919 at https://agenciabrasil.ebc.com.br",
     "title": "Vendas do Tesouro Direto atingem segundo melhor resultado da história",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/vendas-do-tesouro-direto-atingem-segundo-melhor-resultado-da-historia",
-    "description": "Impulsionadas pelo novo título Tesouro Reserva , as vendas de títulos públicos a pessoas físicas pela internet registraram o segundo maior volume da história em junho, divulgou nesta terça-feira (28) o Tesouro Nacional. No mês passado, o Tesouro Direto vendeu R$ 14,76 bilhões em papéis. Por uma diferença de R$ 30 milhões, o valor só perde para o recorde histórico de março , quando as vendas de títulos federais pela internet somaram R$ 14,79 bilhões. Em junho, o volume foi 44,51% maior que em maio, quando as vendas do Tesouro Direto somaram R$ 10,22 bilhões. Na comparação com junho do ano passado, o volume é 156,03% maior. Os títulos mais procurados pelos investidores em junho foram os vinculados aos juros básicos, cuja participação nas vendas somou 54,5%. A vendas das tradicionais Letras Financeiras do Tesouro (LFT) somaram R$ 4,16 bilhões (28,2% do total). As vendas do Tesouro Reserva, novo título indexado aos juros básicos que funciona como as caixinhas de bancos digitais, somaram R$ 2,09 bilhões (14,2% do total). Os papéis corrigidos pela inflação (Índice Nacional de Preços ao Consumidor Amplo – IPCA), corresponderam a 34,3% do total, enquanto os prefixados, com juros definidos no momento da emissão, totalizaram 16,7%. Destinados ao financiamento de aposentadorias, o Tesouro Renda+, lançado no início de 2023, respondeu por 4,6% das vendas. Criado em agosto de 2023, o novo título Tesouro Educa+, que pretende financiar uma poupança para o ensino superior, atraiu apenas 2% das vendas. O interesse por papéis vinculados aos juros básicos é justificado pelo alto nível da Taxa Selic, que está em 14,25% ao ano. Com os juros altos, os papéis continuam atrativos. Os títulos vinculados à inflação também têm atraído os investidores por causa da expectativa de alta da inflação oficial nos próximos meses. O estoque total do Tesouro Direto alcançou R$ 262,47 bilhões no fim de junho, alta de 4,57% em relação ao mês anterior (R$ 251,01 bilhões) e alta de 45,53% em relação a junho do ano passado (R$ 180,35 bilhões). Essa alta ocorreu por causa da correção pelos juros e porque as vendas superaram os resgates em R$ 10,1 bilhões no último mês. Investidores Em relação ao número de investidores, 261.877 participantes passaram a fazer parte do programa no mês passado. O total de investidores cadastrados atingiu 35.853.678. Nos últimos 12 meses, o número de investidores acumula alta de 9,53%. O total de investidores ativos (com operações em aberto) chegou a 3.689.486, aumento de 21,19% em 12 meses. A utilização do Tesouro Direto por pequenos investidores pode ser observada pelo considerável número de vendas de até R$ 5 mil, que correspondeu a 75,4% do total de 1.530.276 operações de vendas ocorridas em junho. Só as aplicações de até R$ 1 mil representaram 50,7%. O valor médio por operação atingiu R$ 9.648,34. Os investidores estão preferindo papéis de médio prazo. As vendas de títulos entre cinco e dez anos representam 45,7% do total. As operações com prazo de até cinco anos correspondem a 37,9% do total. Os papéis de mais de dez anos de prazo representaram 16,4% das vendas. O balanço completo do Tesouro Direto está disponível na página do Tesouro Transparente . Captação de recursos O Tesouro Direto foi criado em janeiro de 2002 para popularizar esse tipo de aplicação e permitir que pessoas físicas pudessem adquirir títulos públicos diretamente do Tesouro Nacional, via internet, sem intermediação de agentes financeiros. O aplicador só precisa pagar uma taxa para a B3, a bolsa de valores brasileira, descontada nas movimentações dos títulos. Mais informações podem ser obtidas no site do Tesouro Direto . A venda de títulos é uma das formas que o governo tem de captar recursos para pagar dívidas e honrar compromissos. Em troca, o Tesouro Nacional se compromete a devolver o valor com um adicional que pode variar de acordo com a Selic, índices de inflação, câmbio ou uma taxa definida antecipadamente no caso dos papéis pré-fixados.",
+    "description": "Impulsionadas pelo novo título Tesouro Reserva , as vendas de títulos públicos a pessoas físicas pela internet registraram o segundo maior volume da história em junho, divulgou nesta terça-feira (28) o Tesouro Nacional. No mês passado, o Tesouro Direto vendeu R$ 14,76 bilhões em papéis. Por uma diferença de R$ 30 milhões, o valor só perde para o recorde histórico de março , quando as vendas de títulos federais pela internet somaram R$ 14,79 bilhões. Em junho, o volume foi 44,51% maior que em maio, quando as vendas do Tesouro Direto somaram R$ 10,22 bilhões. Na comparação com junho do ano passado, o volume é 156,03% maior. Os títulos mais procurados pelos investidores em junho foram os vinculados aos juros básicos, cuja participação nas vendas somou 54,5%. A vendas das tradicionais Letras Financeiras do Tesouro (LFT) somaram R$ 4,16 bilhões (28,2% do total). As vendas do Tesouro Reserva, novo título indexado aos juros básicos que funciona como as caixinhas de bancos digitais, somaram R$ 2,09 bilhões (14,2% do total). Os papéis corrigidos pela inflação (Índice Nacional de Preços ao Consumidor Amplo – IPCA), corresponderam a 34,3% do total, enquanto os prefixados, com juros definidos no momento da emissão, totalizaram 16,7%. Destinados ao financiamento de aposentadorias, o Tesouro Renda+, lançado no início de 2023, respondeu por 4,6% das vendas. Criado em agosto de 2023, o novo título Tesouro Educa+, que pretende financiar uma poupança para o ensino superior, atraiu apenas 2% das vendas. O interesse por papéis vinculados aos juros básicos é justificado pelo alto nível da Taxa Selic, que está em 14,25% ao ano. Com os juros altos, os papéis continuam atrativos. Os títulos vinculados à inflação também têm atraído os investidores por causa da expectativa de alta da inflação oficial nos próximos meses. O estoque total do Tesouro Direto alcançou R$ 262,47 bilhões no fim de junho, alta de 4,57% em relação ao mês anterior (R$ 251,01 bilhões) e alta de 45,53% em relação a junho do ano passado (R$ 180,35 bilhões). Essa alta ocorreu por causa da correção pelos juros e porque as vendas superaram os resgates em R$ 10,1 bilhões no último mês. Investidores Em relação ao número de investidores, 261.877 participantes passaram a fazer parte do programa no mês passado. O total de investidores cadastrados atingiu 35.853.678. Nos últimos 12 meses, o número de investidores acumula alta de 9,53%. O total de investidores ativos (com operações em aberto) chegou a 3.689.486, aumento de 21,19% em 12 meses. A utilização do Tesouro Direto por pequenos investidores pode ser observada pelo considerável número de vendas de até R$ 5 mil, que correspondeu a 75,4% do total de 1.530.276 operações de vendas ocorridas em junho. Só as aplicações de até R$ 1 mil representaram 50,7%. O valor médio por operação atingiu R$ 9.648,34. Os investidores estão preferindo papéis de médio prazo. As vendas de títulos entre cinco e dez anos representam 45,7% do total. As operações com prazo de até cinco anos correspondem a 37,9% do total. Os papéis de mais de dez anos de prazo representaram 16,4% das vendas. O balanço completo do Tesouro Direto está disponível na página do Tesouro Transparente . Captação de recursos O Tesouro Direto foi criado em janeiro de 2002 para popularizar esse tipo de aplicação e permitir que pessoas físicas pudessem adquirir títulos públicos diretamente do Tesouro Nacional, via internet, sem intermediação de agentes financeiros. O aplicador só precisa pagar uma taxa para a B3, a bolsa de valores brasileira, descontada nas movimentações dos títulos. Mais informações podem ser obtidas no site do Tesouro Direto . A venda de títulos é uma das formas que o governo tem de captar recursos para pagar dívidas e honrar compromissos. Em troca, o Tesouro Nacional se compromete a devolver o valor com um adicional que pode variar de acordo com a Selic, índices de inflação, câmbio ou uma taxa definida antecipadamente no caso dos papéis pré-fixados. Confira mais informações sobre o assunto no Repórter Brasil , da TV Brasil",
     "image_url": "https://agenciabrasil.ebc.com.br/ebc.png?id=1697919&amp;o=rss",
     "author": "Wellton Máximo – Repórter da Agência Brasil",
     "pub_date": "2026-07-28T20:05:00+00:00",
@@ -203,7 +558,7 @@
     "all_categories": [
       "Economia",
       "vendas do Tesouro Direto",
-      "Títulos Públicos",
+      "títulos públicos",
       "bancos digitais",
       "LFT"
     ],
@@ -211,11 +566,11 @@
     "canonical_category_l1": "Câmbio e Economia do Turismo",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf",
-    "category_mapping_confidence": 0.675,
+    "category_mapping_confidence": 0.6804,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.73,
-    "layout_tier": "manchete"
+    "destaque_score": 0.682,
+    "layout_tier": "grade"
   },
   {
     "source_id": "mercadoeeventos",
@@ -242,6 +597,75 @@
   },
   {
     "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/tecnologia/2026/07/travel-tech-hub-day-2026-garanta-20-de-desconto-com-cupom-exclusivo_230566.html",
+    "title": "Travel Tech Hub Day 2026: garanta 20% de desconto com cupom exclusivo",
+    "link": "https://www.panrotas.com.br/mercado/tecnologia/2026/07/travel-tech-hub-day-2026-garanta-20-de-desconto-com-cupom-exclusivo_230566.html",
+    "description": "Benefício para o evento em 24 de agosto, no Tivoli Mofarrej, é oferecido somente aos membros da comunidade",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/08/07/a59ec38ae25279749f8f24083a40f080-rem4343.jpg",
+    "author": "Beatrice Teizen",
+    "pub_date": "2026-07-28T19:58:00+00:00",
+    "source_category_raw": "Mercado - Tecnologia",
+    "all_categories": [
+      "Mercado - Tecnologia"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Tecnologia",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.642,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/entretenimento/2026/07/macuco-safari-suspende-operacoes-temporariamente-apos-morte-nas-cataratas-do-iguacu_230582.html",
+    "title": "Macuco Safari suspende operações temporariamente após morte nas Cataratas do Iguaçu",
+    "link": "https://www.panrotas.com.br/destinos/entretenimento/2026/07/macuco-safari-suspende-operacoes-temporariamente-apos-morte-nas-cataratas-do-iguacu_230582.html",
+    "description": "No momento da ocorrência, a vazão das Cataratas do Iguaçu estava em cerca de 4,3 milhões de litros de água",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2017/03/22/b854ef012d229e7e6fe85dc2b37da6f7-cataratasdoiguacuparquenacionaldoiguacupanoramio33.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-07-28T19:34:00+00:00",
+    "source_category_raw": "Destinos - Entretenimento",
+    "all_categories": [
+      "Destinos - Entretenimento"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Entretenimento",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.641,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/destinos/2026/07/espirito-santo-tera-voo-experimental-da-gol-para-buenos-aires-vendido-pela-cvc_230575.html",
+    "title": "Espírito Santo terá voo experimental da Gol para Buenos Aires vendido pela CVC",
+    "link": "https://www.panrotas.com.br/mercado/destinos/2026/07/espirito-santo-tera-voo-experimental-da-gol-para-buenos-aires-vendido-pela-cvc_230575.html",
+    "description": "Voo experimental é somente uma das partes do Projeto de Internacionalização, que prevê outras ações",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/28/84527627e02a754d6dd8e70705e262a5-unnamed55.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-07-28T19:33:00+00:00",
+    "source_category_raw": "Mercado - Destinos",
+    "all_categories": [
+      "Mercado - Destinos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Destinos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.641,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/viagens-corporativas/pesquisas-e-estatisticas/2026/07/gbta-aponta-para-alivio-nos-custos-das-viagens-corporativas-apenas-em-2027-veja-insights_230576.html",
     "title": "GBTA aponta para alívio nos custos das viagens corporativas apenas em 2027; veja insights",
     "link": "https://www.panrotas.com.br/viagens-corporativas/pesquisas-e-estatisticas/2026/07/gbta-aponta-para-alivio-nos-custos-das-viagens-corporativas-apenas-em-2027-veja-insights_230576.html",
@@ -260,7 +684,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.689,
+    "destaque_score": 0.64,
     "layout_tier": "grade"
   },
   {
@@ -284,6 +708,29 @@
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
     "destaque_score": 0.587,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/hotelaria/mercado/2026/07/blue-tree-preve-cinco-novos-hoteis-e-inicia-ciclo-de-expansao-por-sao-caetano-sp_230573.html",
+    "title": "Blue Tree prevê cinco novos hotéis e inicia ciclo de expansão por São Caetano (SP)",
+    "link": "https://www.panrotas.com.br/hotelaria/mercado/2026/07/blue-tree-preve-cinco-novos-hoteis-e-inicia-ciclo-de-expansao-por-sao-caetano-sp_230573.html",
+    "description": "Rede confirma nova unidade no ABC Paulista e diz priorizar crescimento sustentável e seletivo",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/28/4f871ab395964feca3eb610fd5b900af-dsc1503.jpg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-07-28T19:02:00+00:00",
+    "source_category_raw": "Hotelaria - Mercado",
+    "all_categories": [
+      "Hotelaria - Mercado"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": "Mercado",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.639,
     "layout_tier": "grade"
   },
   {
@@ -313,8 +760,8 @@
     "category_mapping_confidence": 0.3454,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.403,
-    "layout_tier": "grade"
+    "destaque_score": 0.355,
+    "layout_tier": "condensado"
   },
   {
     "source_id": "mercadoeeventos",
@@ -364,6 +811,52 @@
     "layout_tier": "grade"
   },
   {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/07/brasileiros-sao-os-turistas-que-mais-visitam-parques-tematicos-nos-eua_230564.html",
+    "title": "Brasileiros são os turistas que mais visitam parques temáticos nos EUA",
+    "link": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/07/brasileiros-sao-os-turistas-que-mais-visitam-parques-tematicos-nos-eua_230564.html",
+    "description": "País lidera ranking mundial: 61% dos viajantes incluem Disney, Universal e outros parques no roteiro",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/05/08/bacf2d256bc5d311ff27385ba7d757c7-parques1.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-07-28T18:04:00+00:00",
+    "source_category_raw": "Destinos - Parques temáticos",
+    "all_categories": [
+      "Destinos - Parques temáticos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": "Parques temáticos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.637,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/cruzeiros/2026/07/cruce-andino-ganha-representacao-comercial-no-mercado-brasileiro_230567.html",
+    "title": "Cruce Andino ganha representação comercial no mercado brasileiro",
+    "link": "https://www.panrotas.com.br/mercado/cruzeiros/2026/07/cruce-andino-ganha-representacao-comercial-no-mercado-brasileiro_230567.html",
+    "description": "Parceria prevê estratégias para ampliar o conhecimento da travessia entre Bariloche e Puerto Varas",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/28/c48ce718ae89075c23e1e4291d6214e3-equipedegestaodeturismodaagenciaguanabarataissantosanapaulamestieriediegosierra.divulgacao.jpeg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-07-28T17:35:00+00:00",
+    "source_category_raw": "Mercado - Cruzeiros",
+    "all_categories": [
+      "Mercado - Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": "Cruzeiros",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.636,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=719075",
     "title": "Anac reajusta teto das tarifas aeroportuárias do Aeroporto de Brasília; veja as 7 principais mudanças",
@@ -406,7 +899,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.68,
+    "destaque_score": 0.634,
     "layout_tier": "grade"
   },
   {
@@ -475,7 +968,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.678,
+    "destaque_score": 0.633,
     "layout_tier": "grade"
   },
   {
@@ -567,7 +1060,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.677,
+    "destaque_score": 0.632,
     "layout_tier": "grade"
   },
   {
@@ -590,7 +1083,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.676,
+    "destaque_score": 0.632,
     "layout_tier": "grade"
   },
   {
@@ -636,7 +1129,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.675,
+    "destaque_score": 0.631,
     "layout_tier": "grade"
   },
   {
@@ -663,8 +1156,8 @@
     "category_mapping_confidence": 0.2275,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.401,
-    "layout_tier": "grade"
+    "destaque_score": 0.358,
+    "layout_tier": "condensado"
   },
   {
     "source_id": "mercadoeeventos",
@@ -733,7 +1226,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.673,
+    "destaque_score": 0.63,
     "layout_tier": "grade"
   },
   {
@@ -756,7 +1249,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.672,
+    "destaque_score": 0.629,
     "layout_tier": "grade"
   },
   {
@@ -779,7 +1272,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.672,
+    "destaque_score": 0.629,
     "layout_tier": "grade"
   },
   {
@@ -807,6 +1300,29 @@
   },
   {
     "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/economia-politica/2026/07/gastos-de-estrangeiros-no-brasil-e-de-brasileiros-no-exterior-batem-recorde-no-1-semestre_230561.html",
+    "title": "Gastos de estrangeiros no Brasil e de brasileiros no Exterior batem recorde no 1° semestre",
+    "link": "https://www.panrotas.com.br/mercado/economia-politica/2026/07/gastos-de-estrangeiros-no-brasil-e-de-brasileiros-no-exterior-batem-recorde-no-1-semestre_230561.html",
+    "description": "Resultado de junho também foi positivo, alta de 17% em gastos de estrangeiros em relação a 2025",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/09/03/ec630d308a3fd62923acde4ca2f8c28f-1910114677311a9e485775k.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-07-28T14:52:00+00:00",
+    "source_category_raw": "Mercado - Economia e Política",
+    "all_categories": [
+      "Mercado - Economia e Política"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.6792,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.549,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/mercado/destinos/2026/07/unedestinos-abre-oficialmente-10o-unecongresso-em-florianopolis-veja-fotos_230558.html",
     "title": "Unedestinos abre oficialmente 10º UneCongresso, em Florianópolis; veja fotos",
     "link": "https://www.panrotas.com.br/mercado/destinos/2026/07/unedestinos-abre-oficialmente-10o-unecongresso-em-florianopolis-veja-fotos_230558.html",
@@ -825,7 +1341,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.672,
+    "destaque_score": 0.629,
     "layout_tier": "grade"
   },
   {
@@ -848,7 +1364,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.87,
+    "destaque_score": 0.828,
     "layout_tier": "manchete"
   },
   {
@@ -871,7 +1387,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.669,
+    "destaque_score": 0.627,
     "layout_tier": "grade"
   },
   {
@@ -894,7 +1410,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.668,
+    "destaque_score": 0.626,
     "layout_tier": "grade"
   },
   {
@@ -946,7 +1462,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.666,
+    "destaque_score": 0.625,
     "layout_tier": "grade"
   },
   {
@@ -969,7 +1485,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.665,
+    "destaque_score": 0.625,
     "layout_tier": "grade"
   },
   {
@@ -1039,7 +1555,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.664,
+    "destaque_score": 0.624,
     "layout_tier": "grade"
   },
   {
@@ -1108,7 +1624,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.661,
+    "destaque_score": 0.622,
     "layout_tier": "grade"
   },
   {
@@ -1135,7 +1651,30 @@
     "category_mapping_confidence": 0.5138,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.658,
+    "destaque_score": 0.62,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/comer-e-beber/2026/07/sao-paulo-ganhara-pizzaria-tematica-das-tartarugas-ninja-veja-quando-abre_230520.html",
+    "title": "São Paulo ganhará pizzaria temática das Tartarugas Ninja; veja quando abre",
+    "link": "https://www.panrotas.com.br/destinos/comer-e-beber/2026/07/sao-paulo-ganhara-pizzaria-tematica-das-tartarugas-ninja-veja-quando-abre_230520.html",
+    "description": "Local terá cenários instagramáveis, entretenimento imersivo e cardápio inspirado no desenho",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/27/b9537e85e4a60411873db488a56fa72e-unnamed47.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-07-28T11:02:00+00:00",
+    "source_category_raw": "Destinos - Comer e beber",
+    "all_categories": [
+      "Destinos - Comer e beber"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Comer e beber",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.621,
     "layout_tier": "grade"
   },
   {
@@ -1158,7 +1697,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.825,
+    "destaque_score": 0.799,
     "layout_tier": "manchete"
   },
   {
@@ -1281,7 +1820,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.822,
+    "destaque_score": 0.797,
     "layout_tier": "manchete"
   },
   {
@@ -1350,7 +1889,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.621,
+    "destaque_score": 0.596,
     "layout_tier": "grade"
   },
   {
@@ -1465,7 +2004,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.821,
+    "destaque_score": 0.796,
     "layout_tier": "manchete"
   },
   {
@@ -1488,7 +2027,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.62,
+    "destaque_score": 0.595,
     "layout_tier": "grade"
   },
   {
@@ -1512,6 +2051,29 @@
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
     "destaque_score": 0.619,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/07/disney-revela-detalhes-de-eventos-especiais-para-agentes-de-viagens-no-brasil-confira_230537.html",
+    "title": "Disney revela detalhes de eventos especiais para agentes de viagens no Brasil; confira",
+    "link": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/07/disney-revela-detalhes-de-eventos-especiais-para-agentes-de-viagens-no-brasil-confira_230537.html",
+    "description": "Entrevista exclusiva com Cinthia Douglas revela bastidores do formato que estreia nesta semana no País",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/02/02/3d24a91643e54c6e6b53798e4487492b-whatsappimage20260202at1.10.34pm.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-07-27T19:04:00+00:00",
+    "source_category_raw": "Destinos - Parques temáticos",
+    "all_categories": [
+      "Destinos - Parques temáticos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": "Parques temáticos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.595,
     "layout_tier": "grade"
   },
   {
@@ -1575,7 +2137,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.616,
+    "destaque_score": 0.593,
     "layout_tier": "grade"
   },
   {
@@ -1598,7 +2160,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.616,
+    "destaque_score": 0.593,
     "layout_tier": "grade"
   },
   {
@@ -1621,7 +2183,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.615,
+    "destaque_score": 0.593,
     "layout_tier": "grade"
   },
   {
@@ -1667,7 +2229,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.615,
+    "destaque_score": 0.592,
     "layout_tier": "grade"
   },
   {
@@ -1690,7 +2252,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.614,
+    "destaque_score": 0.591,
     "layout_tier": "grade"
   },
   {
@@ -1783,7 +2345,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.813,
+    "destaque_score": 0.791,
     "layout_tier": "manchete"
   },
   {
@@ -1853,7 +2415,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.612,
+    "destaque_score": 0.59,
     "layout_tier": "grade"
   },
   {
@@ -1901,7 +2463,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.811,
+    "destaque_score": 0.79,
     "layout_tier": "manchete"
   },
   {
@@ -1970,7 +2532,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.611,
+    "destaque_score": 0.589,
     "layout_tier": "grade"
   },
   {
@@ -2016,7 +2578,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.61,
+    "destaque_score": 0.589,
     "layout_tier": "grade"
   },
   {
@@ -2066,7 +2628,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.609,
+    "destaque_score": 0.588,
     "layout_tier": "grade"
   },
   {
@@ -2093,7 +2655,7 @@
     "category_mapping_confidence": 0.2523,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.341,
+    "destaque_score": 0.321,
     "layout_tier": "condensado"
   },
   {
@@ -2139,7 +2701,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.608,
+    "destaque_score": 0.587,
     "layout_tier": "grade"
   },
   {
@@ -2285,7 +2847,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.807,
+    "destaque_score": 0.787,
     "layout_tier": "manchete"
   },
   {
@@ -2331,7 +2893,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.606,
+    "destaque_score": 0.586,
     "layout_tier": "grade"
   },
   {
@@ -2360,7 +2922,7 @@
     "category_mapping_confidence": 0.3849,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.372,
+    "destaque_score": 0.352,
     "layout_tier": "condensado"
   },
   {
@@ -2383,7 +2945,7 @@
     "category_mapping_confidence": 0.4497,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.545,
+    "destaque_score": 0.527,
     "layout_tier": "grade"
   },
   {
@@ -2457,7 +3019,7 @@
     "category_mapping_confidence": 0.5371,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.385,
+    "destaque_score": 0.374,
     "layout_tier": "condensado"
   },
   {
@@ -2554,7 +3116,7 @@
     "category_mapping_confidence": 0.5392,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.327,
+    "destaque_score": 0.323,
     "layout_tier": "condensado"
   },
   {
@@ -2679,7 +3241,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.756,
     "layout_tier": "manchete"
   },
   {
@@ -2772,7 +3334,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.556,
     "layout_tier": "grade"
   },
   {
@@ -2870,7 +3432,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.756,
     "layout_tier": "manchete"
   },
   {
@@ -2916,7 +3478,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.556,
     "layout_tier": "grade"
   },
   {
@@ -2939,7 +3501,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.556,
     "layout_tier": "grade"
   },
   {
@@ -2985,7 +3547,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.558,
+    "destaque_score": 0.556,
     "layout_tier": "grade"
   },
   {
@@ -3031,7 +3593,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.558,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3054,7 +3616,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.558,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3385,7 +3947,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.757,
+    "destaque_score": 0.755,
     "layout_tier": "manchete"
   },
   {
@@ -3431,7 +3993,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.757,
+    "destaque_score": 0.755,
     "layout_tier": "manchete"
   },
   {
@@ -3454,7 +4016,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.557,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3477,7 +4039,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.757,
+    "destaque_score": 0.755,
     "layout_tier": "manchete"
   },
   {
@@ -3500,7 +4062,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.757,
+    "destaque_score": 0.755,
     "layout_tier": "manchete"
   },
   {
@@ -3523,7 +4085,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.557,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3569,7 +4131,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.557,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -3615,7 +4177,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.757,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -3686,7 +4248,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -3709,7 +4271,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.753,
     "layout_tier": "manchete"
   },
   {
@@ -3756,7 +4318,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -3853,7 +4415,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -3900,7 +4462,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -3998,7 +4560,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -4044,7 +4606,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -4185,7 +4747,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -4281,7 +4843,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.754,
+    "destaque_score": 0.753,
     "layout_tier": "manchete"
   },
   {
@@ -4304,7 +4866,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -4327,7 +4889,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.754,
+    "destaque_score": 0.753,
     "layout_tier": "manchete"
   },
   {
@@ -4350,7 +4912,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -4373,7 +4935,7 @@
     "category_mapping_confidence": 0.2284,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.361,
+    "destaque_score": 0.36,
     "layout_tier": "condensado"
   },
   {
@@ -4396,7 +4958,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.754,
+    "destaque_score": 0.753,
     "layout_tier": "manchete"
   },
   {
@@ -4474,7 +5036,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.754,
+    "destaque_score": 0.753,
     "layout_tier": "manchete"
   },
   {
@@ -4543,7 +5105,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -4641,7 +5203,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -4739,7 +5301,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.754,
+    "destaque_score": 0.753,
     "layout_tier": "manchete"
   },
   {
@@ -4762,7 +5324,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -4785,7 +5347,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.754,
+    "destaque_score": 0.753,
     "layout_tier": "manchete"
   },
   {
@@ -4808,7 +5370,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -4854,7 +5416,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4924,7 +5486,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -4947,7 +5509,7 @@
     "category_mapping_confidence": 0.446,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.415,
+    "destaque_score": 0.414,
     "layout_tier": "grade"
   },
   {
@@ -4993,7 +5555,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -5016,7 +5578,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -5039,7 +5601,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.754,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -5062,7 +5624,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -5085,7 +5647,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -5108,7 +5670,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -5159,7 +5721,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -5231,7 +5793,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -5283,7 +5845,7 @@
     "category_mapping_confidence": 0.5395,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.357,
+    "destaque_score": 0.356,
     "layout_tier": "condensado"
   },
   {
@@ -5330,7 +5892,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -5410,7 +5972,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -5456,7 +6018,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -5540,7 +6102,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -5563,7 +6125,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -5632,7 +6194,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -5725,7 +6287,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -5794,7 +6356,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -5823,7 +6385,7 @@
     "category_mapping_confidence": 0.2182,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.277,
+    "destaque_score": 0.276,
     "layout_tier": "condensado"
   },
   {
@@ -5846,7 +6408,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -5869,7 +6431,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.752,
+    "destaque_score": 0.751,
     "layout_tier": "manchete"
   },
   {
@@ -5915,7 +6477,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -5961,7 +6523,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -6101,7 +6663,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -6176,7 +6738,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -6275,7 +6837,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.752,
+    "destaque_score": 0.751,
     "layout_tier": "manchete"
   },
   {
@@ -6371,7 +6933,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -6394,7 +6956,7 @@
     "category_mapping_confidence": 0.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.302,
+    "destaque_score": 0.301,
     "layout_tier": "condensado"
   },
   {
@@ -6417,7 +6979,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -6440,7 +7002,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.752,
+    "destaque_score": 0.751,
     "layout_tier": "manchete"
   },
   {
@@ -6484,7 +7046,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -6530,7 +7092,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -6553,7 +7115,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.752,
+    "destaque_score": 0.751,
     "layout_tier": "manchete"
   },
   {
@@ -6576,7 +7138,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -7963,27 +8525,6 @@
   },
   {
     "source_id": "valor_economico",
-    "guid": "CBMivAFBVV95cUxNNEJzV3Fjb3ZNZDE2YU9UUXZ5VHY1akV1SDQ2UndUMmozVWFNSEsxckRZdFFiZUJZb2c3R3R6QVN1VjlyX3ZDN01rVEhwbENWQXhyOUZTMWl5RE84XzlZNUFrRGtfQmtISmpCZVl6ZGhGREpwdWR1S05NdjZhanNsQjAwQjBKUnJTNENiYzFqNjNYYWNJR24xYl9RR1Z6d3c0ZWhKbFFkckh1NmQ5a3pMZFpVMTI2TjFjUGxkbNIBywFBVV95cUxQNlNFajhGcWtwLUVISkEwajNjYTJwSEk5eHktUFZBaVVBTEZwUGJnN0JBZ2hlMzdFdk0yMEZ5ZXFzVlJQMFR6ejZUY2F2RmtjS2ZtNEpYXzE1ZlhGSzZ3S2RTNk1CRUI5dFVDdDlWUW5hSlItZEROeFpYSVN4a1RFODN1SEdaQ2lxbkVHNGt6RDdTMWJqTGx1SnE2MlFHLV9DWU5HdldGSVZpSTN0N3RfSk4yTWxJU1VDZ0xoa1YtWkU3R1laSkwxRTJVMA",
-    "title": "Wooba expande tecnologia integrada ao turismo global",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNEJzV3Fjb3ZNZDE2YU9UUXZ5VHY1akV1SDQ2UndUMmozVWFNSEsxckRZdFFiZUJZb2c3R3R6QVN1VjlyX3ZDN01rVEhwbENWQXhyOUZTMWl5RE84XzlZNUFrRGtfQmtISmpCZVl6ZGhGREpwdWR1S05NdjZhanNsQjAwQjBKUnJTNENiYzFqNjNYYWNJR24xYl9RR1Z6d3c0ZWhKbFFkckh1NmQ5a3pMZFpVMTI2TjFjUGxkbNIBywFBVV95cUxQNlNFajhGcWtwLUVISkEwajNjYTJwSEk5eHktUFZBaVVBTEZwUGJnN0JBZ2hlMzdFdk0yMEZ5ZXFzVlJQMFR6ejZUY2F2RmtjS2ZtNEpYXzE1ZlhGSzZ3S2RTNk1CRUI5dFVDdDlWUW5hSlItZEROeFpYSVN4a1RFODN1SEdaQ2lxbkVHNGt6RDdTMWJqTGx1SnE2MlFHLV9DWU5HdldGSVZpSTN0N3RfSk4yTWxJU1VDZ0xoa1YtWkU3R1laSkwxRTJVMA?oc=5",
-    "description": "Wooba expande tecnologia integrada ao turismo global Valor Econômico",
-    "image_url": null,
-    "author": "",
-    "pub_date": "2026-07-21T12:12:10+00:00",
-    "source_category_raw": null,
-    "all_categories": [],
-    "in_scope": true,
-    "canonical_category_l1": "Corporativo",
-    "canonical_category_l2": null,
-    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
-    "category_mapping_confidence": 0.4962,
-    "content_domain": "turismo_direto",
-    "content_domain_confidence": 0.9,
-    "destaque_score": 0.305,
-    "layout_tier": "condensado"
-  },
-  {
-    "source_id": "valor_economico",
     "guid": "CBMiywFBVV95cUxQNlNFajhGcWtwLUVISkEwajNjYTJwSEk5eHktUFZBaVVBTEZwUGJnN0JBZ2hlMzdFdk0yMEZ5ZXFzVlJQMFR6ejZUY2F2RmtjS2ZtNEpYXzE1ZlhGSzZ3S2RTNk1CRUI5dFVDdDlWUW5hSlItZEROeFpYSVN4a1RFODN1SEdaQ2lxbkVHNGt6RDdTMWJqTGx1SnE2MlFHLV9DWU5HdldGSVZpSTN0N3RfSk4yTWxJU1VDZ0xoa1YtWkU3R1laSkwxRTJVMNIBywFBVV95cUxQNlNFajhGcWtwLUVISkEwajNjYTJwSEk5eHktUFZBaVVBTEZwUGJnN0JBZ2hlMzdFdk0yMEZ5ZXFzVlJQMFR6ejZUY2F2RmtjS2ZtNEpYXzE1ZlhGSzZ3S2RTNk1CRUI5dFVDdDlWUW5hSlItZEROeFpYSVN4a1RFODN1SEdaQ2lxbkVHNGt6RDdTMWJqTGx1SnE2MlFHLV9DWU5HdldGSVZpSTN0N3RfSk4yTWxJU1VDZ0xoa1YtWkU3R1laSkwxRTJVMA",
     "title": "Wooba expande tecnologia integrada ao turismo global",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNlNFajhGcWtwLUVISkEwajNjYTJwSEk5eHktUFZBaVVBTEZwUGJnN0JBZ2hlMzdFdk0yMEZ5ZXFzVlJQMFR6ejZUY2F2RmtjS2ZtNEpYXzE1ZlhGSzZ3S2RTNk1CRUI5dFVDdDlWUW5hSlItZEROeFpYSVN4a1RFODN1SEdaQ2lxbkVHNGt6RDdTMWJqTGx1SnE2MlFHLV9DWU5HdldGSVZpSTN0N3RfSk4yTWxJU1VDZ0xoa1YtWkU3R1laSkwxRTJVMNIBywFBVV95cUxQNlNFajhGcWtwLUVISkEwajNjYTJwSEk5eHktUFZBaVVBTEZwUGJnN0JBZ2hlMzdFdk0yMEZ5ZXFzVlJQMFR6ejZUY2F2RmtjS2ZtNEpYXzE1ZlhGSzZ3S2RTNk1CRUI5dFVDdDlWUW5hSlItZEROeFpYSVN4a1RFODN1SEdaQ2lxbkVHNGt6RDdTMWJqTGx1SnE2MlFHLV9DWU5HdldGSVZpSTN0N3RfSk4yTWxJU1VDZ0xoa1YtWkU3R1laSkwxRTJVMA?oc=5",
@@ -8101,6 +8642,27 @@
     "layout_tier": "grade"
   },
   {
+    "source_id": "valor_economico",
+    "guid": "CBMivAFBVV95cUxNNEJzV3Fjb3ZNZDE2YU9UUXZ5VHY1akV1SDQ2UndUMmozVWFNSEsxckRZdFFiZUJZb2c3R3R6QVN1VjlyX3ZDN01rVEhwbENWQXhyOUZTMWl5RE84XzlZNUFrRGtfQmtISmpCZVl6ZGhGREpwdWR1S05NdjZhanNsQjAwQjBKUnJTNENiYzFqNjNYYWNJR24xYl9RR1Z6d3c0ZWhKbFFkckh1NmQ5a3pMZFpVMTI2TjFjUGxkbNIBywFBVV95cUxQNlNFajhGcWtwLUVISkEwajNjYTJwSEk5eHktUFZBaVVBTEZwUGJnN0JBZ2hlMzdFdk0yMEZ5ZXFzVlJQMFR6ejZUY2F2RmtjS2ZtNEpYXzE1ZlhGSzZ3S2RTNk1CRUI5dFVDdDlWUW5hSlItZEROeFpYSVN4a1RFODN1SEdaQ2lxbkVHNGt6RDdTMWJqTGx1SnE2MlFHLV9DWU5HdldGSVZpSTN0N3RfSk4yTWxJU1VDZ0xoa1YtWkU3R1laSkwxRTJVMA",
+    "title": "Wooba expande tecnologia integrada ao turismo global",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNEJzV3Fjb3ZNZDE2YU9UUXZ5VHY1akV1SDQ2UndUMmozVWFNSEsxckRZdFFiZUJZb2c3R3R6QVN1VjlyX3ZDN01rVEhwbENWQXhyOUZTMWl5RE84XzlZNUFrRGtfQmtISmpCZVl6ZGhGREpwdWR1S05NdjZhanNsQjAwQjBKUnJTNENiYzFqNjNYYWNJR24xYl9RR1Z6d3c0ZWhKbFFkckh1NmQ5a3pMZFpVMTI2TjFjUGxkbNIBywFBVV95cUxQNlNFajhGcWtwLUVISkEwajNjYTJwSEk5eHktUFZBaVVBTEZwUGJnN0JBZ2hlMzdFdk0yMEZ5ZXFzVlJQMFR6ejZUY2F2RmtjS2ZtNEpYXzE1ZlhGSzZ3S2RTNk1CRUI5dFVDdDlWUW5hSlItZEROeFpYSVN4a1RFODN1SEdaQ2lxbkVHNGt6RDdTMWJqTGx1SnE2MlFHLV9DWU5HdldGSVZpSTN0N3RfSk4yTWxJU1VDZ0xoa1YtWkU3R1laSkwxRTJVMA?oc=5",
+    "description": "Wooba expande tecnologia integrada ao turismo global Valor Econômico",
+    "image_url": null,
+    "author": "",
+    "pub_date": "2026-07-21T07:00:00+00:00",
+    "source_category_raw": null,
+    "all_categories": [],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4962,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.305,
+    "layout_tier": "condensado"
+  },
+  {
     "source_id": "agenciabrasil",
     "guid": "1697116 at https://agenciabrasil.ebc.com.br",
     "title": "Dólar cai para R$ 5,08, e bolsa recua pela quarta vez consecutiva",
@@ -8196,7 +8758,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8311,7 +8873,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8357,7 +8919,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8451,7 +9013,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8474,7 +9036,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8497,7 +9059,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8520,7 +9082,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8589,7 +9151,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8612,7 +9174,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8895,27 +9457,6 @@
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
     "destaque_score": 0.55,
-    "layout_tier": "grade"
-  },
-  {
-    "source_id": "valor_economico",
-    "guid": "CBMi3AFBVV95cUxOOG1SenRKeGtsUllfdzJjMVBnWE81dkIwTGtkN1hOaHdFSXZZSTFxWmEyU3RJWm5tMHlVRU1HNXpxZ29tVHZnQWRmWWJsMHJHbW5HM0w3N2YwaHpheFJfR0k4YS1YaU9jc2tVU2RKWHoweXZLQzR3NEwzMDF5QjRpQThLZkN0R0xYclYtWU1adGNEY1JBWDlURW9ISmhONUhlWVFDd2ZnXzZteGVyanFYU2ZBdzVFUHNicGd2el9SYS1NYUxDRS1SckItVzBZMjFLTG1ZWjhERXNicnBq0gHrAUFVX3lxTE81bFVlUHo4aWxCemxPTDlWRzVuYzU5LW1qMXdJNUlHTFhRR0FDaTN2OVNaVkY0cEVQR2dYTDJGYWVyZ1NERWZSSTBHTzJpeVUySDNNY0xJNk9oZ3lIUW9SdmFuellyRnZlNUdCOTlwYmtlY21seDVVUFlwVVJKS0EwbmVhZ3gtSVhoMjBUSG9hRFk3UUJuMkpxZjFxWTZ0THRWQmNQSTVyMGFpNXoydGRHQzVyM3IwaDB4dWVFS2F2a2VId2gxZmhaWnFpYnVDR2RwcEQ2QUoyTEk0dXJWSjlUZmRUZ3BkOU5GX0E",
-    "title": "BRT Lounges investe R$ 6 milhões para levar sala VIP de aeroporto à rodoviária do Tietê",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOG1SenRKeGtsUllfdzJjMVBnWE81dkIwTGtkN1hOaHdFSXZZSTFxWmEyU3RJWm5tMHlVRU1HNXpxZ29tVHZnQWRmWWJsMHJHbW5HM0w3N2YwaHpheFJfR0k4YS1YaU9jc2tVU2RKWHoweXZLQzR3NEwzMDF5QjRpQThLZkN0R0xYclYtWU1adGNEY1JBWDlURW9ISmhONUhlWVFDd2ZnXzZteGVyanFYU2ZBdzVFUHNicGd2el9SYS1NYUxDRS1SckItVzBZMjFLTG1ZWjhERXNicnBq0gHrAUFVX3lxTE81bFVlUHo4aWxCemxPTDlWRzVuYzU5LW1qMXdJNUlHTFhRR0FDaTN2OVNaVkY0cEVQR2dYTDJGYWVyZ1NERWZSSTBHTzJpeVUySDNNY0xJNk9oZ3lIUW9SdmFuellyRnZlNUdCOTlwYmtlY21seDVVUFlwVVJKS0EwbmVhZ3gtSVhoMjBUSG9hRFk3UUJuMkpxZjFxWTZ0THRWQmNQSTVyMGFpNXoydGRHQzVyM3IwaDB4dWVFS2F2a2VId2gxZmhaWnFpYnVDR2RwcEQ2QUoyTEk0dXJWSjlUZmRUZ3BkOU5GX0E?oc=5",
-    "description": "BRT Lounges investe R$ 6 milhões para levar sala VIP de aeroporto à rodoviária do Tietê Valor Econômico",
-    "image_url": null,
-    "author": "",
-    "pub_date": "2026-07-20T15:01:52+00:00",
-    "source_category_raw": null,
-    "all_categories": [],
-    "in_scope": true,
-    "canonical_category_l1": "Câmbio e Economia do Turismo",
-    "canonical_category_l2": null,
-    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
-    "category_mapping_confidence": 0.3679,
-    "content_domain": "turismo_direto",
-    "content_domain_confidence": 0.9,
-    "destaque_score": 0.472,
     "layout_tier": "grade"
   },
   {
@@ -9499,6 +10040,27 @@
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
     "destaque_score": 0.687,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "valor_economico",
+    "guid": "CBMi3AFBVV95cUxOOG1SenRKeGtsUllfdzJjMVBnWE81dkIwTGtkN1hOaHdFSXZZSTFxWmEyU3RJWm5tMHlVRU1HNXpxZ29tVHZnQWRmWWJsMHJHbW5HM0w3N2YwaHpheFJfR0k4YS1YaU9jc2tVU2RKWHoweXZLQzR3NEwzMDF5QjRpQThLZkN0R0xYclYtWU1adGNEY1JBWDlURW9ISmhONUhlWVFDd2ZnXzZteGVyanFYU2ZBdzVFUHNicGd2el9SYS1NYUxDRS1SckItVzBZMjFLTG1ZWjhERXNicnBq0gHrAUFVX3lxTE81bFVlUHo4aWxCemxPTDlWRzVuYzU5LW1qMXdJNUlHTFhRR0FDaTN2OVNaVkY0cEVQR2dYTDJGYWVyZ1NERWZSSTBHTzJpeVUySDNNY0xJNk9oZ3lIUW9SdmFuellyRnZlNUdCOTlwYmtlY21seDVVUFlwVVJKS0EwbmVhZ3gtSVhoMjBUSG9hRFk3UUJuMkpxZjFxWTZ0THRWQmNQSTVyMGFpNXoydGRHQzVyM3IwaDB4dWVFS2F2a2VId2gxZmhaWnFpYnVDR2RwcEQ2QUoyTEk0dXJWSjlUZmRUZ3BkOU5GX0E",
+    "title": "BRT Lounges investe R$ 6 milhões para levar sala VIP de aeroporto à rodoviária do Tietê",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOG1SenRKeGtsUllfdzJjMVBnWE81dkIwTGtkN1hOaHdFSXZZSTFxWmEyU3RJWm5tMHlVRU1HNXpxZ29tVHZnQWRmWWJsMHJHbW5HM0w3N2YwaHpheFJfR0k4YS1YaU9jc2tVU2RKWHoweXZLQzR3NEwzMDF5QjRpQThLZkN0R0xYclYtWU1adGNEY1JBWDlURW9ISmhONUhlWVFDd2ZnXzZteGVyanFYU2ZBdzVFUHNicGd2el9SYS1NYUxDRS1SckItVzBZMjFLTG1ZWjhERXNicnBq0gHrAUFVX3lxTE81bFVlUHo4aWxCemxPTDlWRzVuYzU5LW1qMXdJNUlHTFhRR0FDaTN2OVNaVkY0cEVQR2dYTDJGYWVyZ1NERWZSSTBHTzJpeVUySDNNY0xJNk9oZ3lIUW9SdmFuellyRnZlNUdCOTlwYmtlY21seDVVUFlwVVJKS0EwbmVhZ3gtSVhoMjBUSG9hRFk3UUJuMkpxZjFxWTZ0THRWQmNQSTVyMGFpNXoydGRHQzVyM3IwaDB4dWVFS2F2a2VId2gxZmhaWnFpYnVDR2RwcEQ2QUoyTEk0dXJWSjlUZmRUZ3BkOU5GX0E?oc=5",
+    "description": "BRT Lounges investe R$ 6 milhões para levar sala VIP de aeroporto à rodoviária do Tietê Valor Econômico",
+    "image_url": null,
+    "author": "",
+    "pub_date": "2026-07-20T07:00:00+00:00",
+    "source_category_raw": null,
+    "all_categories": [],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3679,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.472,
     "layout_tier": "grade"
   },
   {
