@@ -26,13 +26,13 @@
     header { background:var(--accent); color:#fff; padding:0 28px; display:flex; align-items:center; gap:16px; min-height:80px; position:sticky; top:0; z-index:300; box-shadow:0 2px 12px rgba(0,63,150,0.28); }
     .logo { display:flex; align-items:center; gap:12px; }
     .logo-icon { width:34px; height:34px; background:#fff; border-radius:8px; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
-    .logo-supertitle { font-size:9px; font-weight:600; text-transform:uppercase; letter-spacing:0.15em; opacity:0.75; margin-bottom:4px; }
+    .logo-supertitle { font-size:9px; font-weight:400; text-transform:uppercase; letter-spacing:0.15em; opacity:0.75; margin-bottom:4px; }
     .logo h1 { font-size:16px; font-weight:700; line-height:1.25; }
     .logo p  { font-size:11px; opacity:0.70; margin-top:4px; }
     .hsp { flex:1; }
     #status-bar { font-size:11px; opacity:0.8; white-space:nowrap; }
     .toolbar { background:var(--white); border-bottom:1px solid var(--border); height:52px; padding:0 28px; display:flex; align-items:center; gap:10px; flex-wrap:nowrap; position:sticky; top:80px; z-index:200; overflow:hidden; }
-    .flabel { font-size:10px; font-weight:700; color:var(--text3); text-transform:uppercase; letter-spacing:0.08em; }
+    .flabel { font-size:10px; font-weight:400; color:var(--text3); text-transform:uppercase; letter-spacing:0.08em; }
     select { background:var(--bg); border:1px solid var(--border); border-radius:8px; color:var(--text); font-size:13px; font-family:inherit; padding:6px 10px; cursor:pointer; outline:none; }
     select:focus { border-color:var(--accent); }
     .search-wrap { display:flex; align-items:center; background:var(--bg); border:1px solid var(--border); border-radius:8px; padding:0 10px; gap:7px; flex:1; max-width:320px; }
@@ -49,10 +49,10 @@
     .tabs-bar { flex:1; overflow-x:auto; scroll-behavior:smooth; scrollbar-width:none; height:100%; }
     .tabs-bar::-webkit-scrollbar { display:none; }
     .tabs { display:flex; height:100%; }
-    .tab { display:flex; align-items:center; gap:5px; padding:0 15px; height:48px; font-size:13px; font-weight:500; color:var(--text3); cursor:pointer; white-space:nowrap; user-select:none; border-bottom:3px solid transparent; transition:color 0.15s,border-color 0.15s; flex-shrink:0; }
+    .tab { display:flex; align-items:center; gap:5px; padding:0 15px; height:48px; font-size:13px; font-weight:400; color:var(--text3); cursor:pointer; white-space:nowrap; user-select:none; border-bottom:3px solid transparent; transition:color 0.15s,border-color 0.15s; flex-shrink:0; }
     .tab:hover { color:var(--text); }
-    .tab.active { color:var(--accent); border-bottom-color:var(--accent); font-weight:600; }
-    .tab-count { background:#edf2ff; color:var(--accent); font-size:10px; font-weight:700; padding:1px 6px; border-radius:20px; min-width:20px; text-align:center; }
+    .tab.active { color:var(--accent); border-bottom-color:var(--accent); font-weight:400; }
+    .tab-count { background:#edf2ff; color:var(--accent); font-size:10px; font-weight:500; padding:1px 6px; border-radius:20px; min-width:20px; text-align:center; }
     .tab.active .tab-count { background:var(--accent); color:#fff; }
     main { max-width:1280px; margin:0 auto; padding:24px 28px; }
     .cards-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:20px; }
@@ -62,7 +62,7 @@
     .card-image { position:relative; height:185px; overflow:hidden; background:var(--border); flex-shrink:0; }
     .card-image img { width:100%; height:100%; object-fit:cover; display:block; transition:transform 0.3s; }
     .card:hover .card-image img { transform:scale(1.04); }
-    .no-image { width:100%; height:100%; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:8px; color:rgba(255,255,255,0.9); font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:0.06em; }
+    .no-image { width:100%; height:100%; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:8px; color:rgba(255,255,255,0.9); font-size:11px; font-weight:400; text-transform:uppercase; letter-spacing:0.06em; }
     .no-image .ni-icon { font-size:30px; }
     .cat-aviacao{background:linear-gradient(135deg,#0ea5e9,#0057b8);}
     .cat-hotelaria{background:linear-gradient(135deg,#f59e0b,#d97706);}
@@ -75,13 +75,13 @@
     .cat-cambio{background:linear-gradient(135deg,#eab308,#ca8a04);}
     .cat-politica{background:linear-gradient(135deg,#64748b,#475569);}
     .cat-default{background:linear-gradient(135deg,#94a3b8,#64748b);}
-    .img-cat-badge { position:absolute; bottom:8px; left:8px; background:rgba(0,0,0,0.52); color:#fff; font-size:9px; font-weight:700; text-transform:uppercase; letter-spacing:0.07em; padding:2px 8px; border-radius:20px; max-width:calc(100% - 16px); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .img-cat-badge { position:absolute; bottom:8px; left:8px; background:rgba(0,0,0,0.52); color:#fff; font-size:9px; font-weight:400; text-transform:uppercase; letter-spacing:0.07em; padding:2px 8px; border-radius:20px; max-width:calc(100% - 16px); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .card-body { padding:14px 16px 10px; display:flex; flex-direction:column; gap:7px; flex:1; }
     .card-date { font-size:11px; color:var(--text3); font-weight:500; }
     .card-title { font-size:14px; font-weight:700; color:var(--text); line-height:1.4; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
     .card-desc { font-size:12px; color:var(--text2); line-height:1.55; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; flex:1; }
     .card-footer { padding:0 16px 14px; display:flex; align-items:center; justify-content:space-between; gap:8px; }
-    .source-label { font-size:11px; font-weight:600; color:var(--text3); display:flex; align-items:center; gap:4px; }
+    .source-label { font-size:11px; font-weight:400; color:var(--text3); display:flex; align-items:center; gap:4px; }
     .source-dot { width:6px; height:6px; border-radius:50%; flex-shrink:0; }
     .dot-panrotas{background:#1d4ed8;} .dot-mercadoeeventos{background:#7c3aed;} .dot-embratur{background:#0891b2;} .dot-g1_turismo{background:#dc2626;} .dot-agenciabrasil{background:#16a34a;} .dot-valor_economico{background:#b45309;} .dot-abcmais_hortensias{background:#0e7490;} .dot-default{background:#64748b;}
     .btn-ver-mais { display:inline-flex; align-items:center; gap:5px; background:var(--accent); color:#fff; font-size:12px; font-weight:600; padding:7px 15px; border-radius:8px; text-decoration:none; border:none; cursor:pointer; transition:background 0.15s; white-space:nowrap; flex-shrink:0; }
@@ -97,6 +97,10 @@
     .btn-limpar { background:#fff; border:1.5px solid #fca5a5; color:#dc2626; font-size:12px; font-weight:600; padding:5px 14px; border-radius:8px; cursor:pointer; font-family:inherit; transition:background 0.15s; }
     .btn-limpar:hover { background:#fee2e2; }
     .cat-curadoria { background:linear-gradient(135deg,#f59e0b,#d97706); }
+    .curadoria-header-btn { background:rgba(255,255,255,0.12); border:1.5px solid rgba(255,255,255,0.35); color:#fff; font-size:12px; font-weight:400; padding:6px 14px; border-radius:20px; cursor:pointer; font-family:inherit; display:flex; align-items:center; gap:7px; transition:background 0.15s,border-color 0.15s; white-space:nowrap; flex-shrink:0; }
+    .curadoria-header-btn:hover { background:rgba(255,255,255,0.22); border-color:rgba(255,255,255,0.60); }
+    .curadoria-header-btn.active { background:rgba(255,255,255,0.25); border-color:#fff; }
+    .curadoria-header-btn .cur-badge { background:#f59e0b; color:#fff; font-size:10px; font-weight:500; padding:1px 6px; border-radius:20px; min-width:18px; text-align:center; }
     .state-msg { text-align:center; padding:80px 20px; color:var(--text3); grid-column:1/-1; }
     .state-msg .icon { font-size:44px; display:block; margin-bottom:14px; }
     .state-msg p { font-size:15px; }
@@ -120,6 +124,7 @@
       select { font-size:12px; padding:5px 8px; }
       .search-wrap { max-width:160px; }
       .fonte-label,.sel-fonte { display:none; }
+      .curadoria-header-btn { display:none; }
       .tsep { display:none; }
       #result-count { display:none; }
       .tabs-outer { top:104px; height:40px; }
@@ -141,6 +146,7 @@
     </div>
   </div>
   <div class="hsp"></div>
+  <button id="btn-curadoria-header" class="curadoria-header-btn">⭐ Minha Curadoria <span class="cur-badge" id="cnt-curadoria-header">0</span></button>
   <div id="status-bar">Carregando...</div>
 </header>
 <div class="toolbar">
@@ -195,8 +201,7 @@ var CATEGORIES = [
   {key:'Corporativo',label:'Corporativo',icon:'💼',css:'corporativo'},
   {key:'Eventos e Feiras',label:'Eventos e Feiras',icon:'🎪',css:'eventos'},
   {key:'Cambio e Economia do Turismo',label:'Câmbio e Economia',icon:'💰',css:'cambio'},
-  {key:'Politica e Regulacao Setorial',label:'Política e Regulação',icon:'⚖️',css:'politica'},
-  {key:'Curadoria',label:'Minha Curadoria',icon:'⭐',css:'curadoria'}
+  {key:'Politica e Regulacao Setorial',label:'Política e Regulação',icon:'⚖️',css:'politica'}
 ];
 var CAT_MAP = {
   'Aviação':'Aviacao','Hotelaria':'Hotelaria','Destinos':'Destinos',
@@ -309,10 +314,14 @@ function buildTabs(){
       activeTab=cat.key;
       document.querySelectorAll('.tab').forEach(function(t){t.classList.remove('active');});
       tab.classList.add('active');
+      var hBtn=document.getElementById('btn-curadoria-header');
+      if(hBtn)hBtn.classList.remove('active');
       applyAndRender();
     });
     c.appendChild(tab);
   });
+  var hBadge=document.getElementById('cnt-curadoria-header');
+  if(hBadge)hBadge.textContent=getCuradoria().length;
   updateScrollBtns();
 }
 document.getElementById('tabs-bar').addEventListener('scroll',updateScrollBtns);
@@ -390,7 +399,11 @@ function applyAndRender(){
       counts['Politica e Regulacao Setorial']++;
     counts['Todos']++;
   });
-  counts['Curadoria']=getCuradoria().length;
+  var curN=getCuradoria().length;
+  var hBadge=document.getElementById('cnt-curadoria-header');
+  if(hBadge)hBadge.textContent=curN;
+  var hBtn=document.getElementById('btn-curadoria-header');
+  if(hBtn)hBtn.classList.toggle('active',activeTab==='Curadoria');
   CATEGORIES.forEach(function(cat){
     var el=document.getElementById('cnt-'+cat.key.replace(/\s+/g,'_'));
     if(el)el.textContent=counts[cat.key]||0;
@@ -478,6 +491,13 @@ function renderPage(){
   content.innerHTML=html;
 }
 function loadMore(){currentPage++;renderPage();}
+// Botão Minha Curadoria no header
+document.getElementById('btn-curadoria-header').addEventListener('click',function(){
+  activeTab='Curadoria';
+  document.querySelectorAll('.tab').forEach(function(t){t.classList.remove('active');});
+  this.classList.add('active');
+  applyAndRender();
+});
 // Star button — event delegation no #content
 document.getElementById('content').addEventListener('click',function(e){
   var btn=e.target.closest('.star-btn');
@@ -488,7 +508,7 @@ document.getElementById('content').addEventListener('click',function(e){
   var saved=toggleStar(guid);
   btn.classList.toggle('saved',saved);
   btn.title=saved?'Remover da curadoria':'Salvar na curadoria';
-  var cnt=document.getElementById('cnt-Curadoria');
+  var cnt=document.getElementById('cnt-curadoria-header');
   if(cnt)cnt.textContent=getCuradoria().length;
   if(activeTab==='Curadoria')applyAndRender();
 });
@@ -526,7 +546,8 @@ function refreshTabCounts(){
       counts['Politica e Regulacao Setorial']++;
     counts['Todos']++;
   });
-  counts['Curadoria']=getCuradoria().length;
+  var hBadge2=document.getElementById('cnt-curadoria-header');
+  if(hBadge2)hBadge2.textContent=getCuradoria().length;
   CATEGORIES.forEach(function(cat){
     var el=document.getElementById('cnt-'+cat.key.replace(/\s+/g,'_'));
     if(el)el.textContent=counts[cat.key]||0;
