@@ -83,11 +83,20 @@
     .card-footer { padding:0 16px 14px; display:flex; align-items:center; justify-content:space-between; gap:8px; }
     .source-label { font-size:11px; font-weight:600; color:var(--text3); display:flex; align-items:center; gap:4px; }
     .source-dot { width:6px; height:6px; border-radius:50%; flex-shrink:0; }
-    .dot-panrotas{background:#1d4ed8;} .dot-mercadoeeventos{background:#7c3aed;} .dot-embratur{background:#0891b2;} .dot-g1_turismo{background:#dc2626;} .dot-agenciabrasil{background:#16a34a;} .dot-valor_economico{background:#b45309;} .dot-default{background:#64748b;}
+    .dot-panrotas{background:#1d4ed8;} .dot-mercadoeeventos{background:#7c3aed;} .dot-embratur{background:#0891b2;} .dot-g1_turismo{background:#dc2626;} .dot-agenciabrasil{background:#16a34a;} .dot-valor_economico{background:#b45309;} .dot-abcmais_hortensias{background:#0e7490;} .dot-default{background:#64748b;}
     .btn-ver-mais { display:inline-flex; align-items:center; gap:5px; background:var(--accent); color:#fff; font-size:12px; font-weight:600; padding:7px 15px; border-radius:8px; text-decoration:none; border:none; cursor:pointer; transition:background 0.15s; white-space:nowrap; flex-shrink:0; }
     .btn-ver-mais:hover { background:#004099; }
     .geo-flag { font-size:10px; color:#92400e; background:#fef3c7; padding:2px 7px; border-radius:20px; font-weight:600; }
     .novo-badge { position:absolute; top:10px; right:10px; background:#f59e0b; color:#fff; font-size:9px; font-weight:800; text-transform:uppercase; letter-spacing:0.08em; padding:3px 9px; border-radius:20px; box-shadow:0 2px 6px rgba(245,158,11,0.45); z-index:2; }
+    .star-btn { position:absolute; top:10px; left:10px; z-index:3; background:rgba(0,0,0,0.40); border:none; border-radius:50%; width:28px; height:28px; display:flex; align-items:center; justify-content:center; cursor:pointer; font-size:14px; color:rgba(255,255,255,0.65); transition:background 0.15s,color 0.15s; line-height:1; padding:0; font-family:inherit; }
+    .star-btn:hover { background:rgba(0,0,0,0.62); color:#fbbf24; }
+    .star-btn.saved { color:#f59e0b; background:rgba(0,0,0,0.52); }
+    .curadoria-bar { display:none; background:#fffbeb; border-bottom:1px solid #fde68a; padding:8px 28px; align-items:center; gap:12px; }
+    .curadoria-bar.visible { display:flex; }
+    .curadoria-bar-info { font-size:12px; color:#92400e; flex:1; }
+    .btn-limpar { background:#fff; border:1.5px solid #fca5a5; color:#dc2626; font-size:12px; font-weight:600; padding:5px 14px; border-radius:8px; cursor:pointer; font-family:inherit; transition:background 0.15s; }
+    .btn-limpar:hover { background:#fee2e2; }
+    .cat-curadoria { background:linear-gradient(135deg,#f59e0b,#d97706); }
     .state-msg { text-align:center; padding:80px 20px; color:var(--text3); grid-column:1/-1; }
     .state-msg .icon { font-size:44px; display:block; margin-bottom:14px; }
     .state-msg p { font-size:15px; }
@@ -163,6 +172,10 @@
   <div class="tabs-bar" id="tabs-bar"><div class="tabs" id="tabs-container"></div></div>
   <button class="tabs-scroll-btn hidden" id="tabs-right">&#8250;</button>
 </div>
+<div class="curadoria-bar" id="curadoria-bar">
+  <span class="curadoria-bar-info" id="curadoria-bar-info"></span>
+  <button class="btn-limpar" id="btn-limpar-tudo">Limpar curadoria</button>
+</div>
 <main>
   <div class="cards-grid" id="content">
     <div class="state-msg"><div class="spinner"></div><p>Carregando noticias...</p></div>
@@ -182,7 +195,8 @@ var CATEGORIES = [
   {key:'Corporativo',label:'Corporativo',icon:'💼',css:'corporativo'},
   {key:'Eventos e Feiras',label:'Eventos e Feiras',icon:'🎪',css:'eventos'},
   {key:'Cambio e Economia do Turismo',label:'Câmbio e Economia',icon:'💰',css:'cambio'},
-  {key:'Politica e Regulacao Setorial',label:'Política e Regulação',icon:'⚖️',css:'politica'}
+  {key:'Politica e Regulacao Setorial',label:'Política e Regulação',icon:'⚖️',css:'politica'},
+  {key:'Curadoria',label:'Minha Curadoria',icon:'⭐',css:'curadoria'}
 ];
 var CAT_MAP = {
   'Aviação':'Aviacao','Hotelaria':'Hotelaria','Destinos':'Destinos',
@@ -199,6 +213,11 @@ var SOURCE_LABEL = {
 var MES_NOME = ['','Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'];
 var allItems=[],availableMonths=[],loadedMonths={},guidSet={},activeTab='Todos';
 var currentVisible=[],currentPage=0,currentWords=[],currentPhrases=[],currentSource='';
+var CURADORIA_KEY='anm_curadoria_v1';
+function getCuradoria(){try{return JSON.parse(localStorage.getItem(CURADORIA_KEY)||'[]');}catch(e){return[];}}
+function saveCuradoria(guids){try{localStorage.setItem(CURADORIA_KEY,JSON.stringify(guids));}catch(e){}}
+function toggleStar(guid){var list=getCuradoria();var idx=list.indexOf(guid);if(idx>=0)list.splice(idx,1);else list.push(guid);saveCuradoria(list);return idx<0;}
+function clearCuradoria(){saveCuradoria([]);}
 
 function norm(s){return(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().trim();}
 function esc(s){return(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
@@ -337,6 +356,16 @@ function applyAndRender(){
   var parsed=parseQuery(query);
   currentPhrases=parsed.phrases;
   currentWords=parsed.words;
+  // Curadoria bar visibility
+  var curBar=document.getElementById('curadoria-bar');
+  var curList=getCuradoria();
+  if(activeTab==='Curadoria'){
+    curBar.classList.add('visible');
+    document.getElementById('curadoria-bar-info').textContent=
+      curList.length+(curList.length===1?' noticia selecionada':' noticias selecionadas')+' na curadoria';
+  }else{
+    curBar.classList.remove('visible');
+  }
   var items=allItems.filter(function(item){
     var pub=(item.pub_date||'').slice(0,7);
     if(mes&&pub!==mes)return false;
@@ -361,6 +390,7 @@ function applyAndRender(){
       counts['Politica e Regulacao Setorial']++;
     counts['Todos']++;
   });
+  counts['Curadoria']=getCuradoria().length;
   CATEGORIES.forEach(function(cat){
     var el=document.getElementById('cnt-'+cat.key.replace(/\s+/g,'_'));
     if(el)el.textContent=counts[cat.key]||0;
@@ -368,6 +398,9 @@ function applyAndRender(){
   var visible;
   if(activeTab==='Todos'){
     visible=items;
+  }else if(activeTab==='Curadoria'){
+    var savedGuids=getCuradoria();
+    visible=allItems.filter(function(i){return savedGuids.indexOf(i.guid||'')>=0;});
   }else{
     visible=items.filter(function(i){
       if(catKey(i.canonical_category_l1||'')===activeTab)return true;
@@ -403,10 +436,12 @@ function imageBlock(item){
   var cat=esc(catLabel(item.canonical_category_l1));
   var badge='<span class="img-cat-badge">'+cat+'</span>';
   var novo=pubDateBRT(item.pub_date)===TODAY?'<span class="novo-badge">Novo</span>':'';
+  var saved=getCuradoria().indexOf(item.guid||'')>=0;
+  var star='<button class="star-btn'+(saved?' saved':'')+'" data-guid="'+esc(item.guid||'')+'" title="'+(saved?'Remover da curadoria':'Salvar na curadoria')+'">&#9733;</button>';
   if(item.image_url){
-    return '<div class="card-image">'+novo+'<img src="'+esc(item.image_url)+'" alt="" loading="lazy" onerror="imgFallback(this,\''+css+'\',\''+icon+'\',\''+cat+'\')">'+badge+'</div>';
+    return '<div class="card-image">'+star+novo+'<img src="'+esc(item.image_url)+'" alt="" loading="lazy" onerror="imgFallback(this,\''+css+'\',\''+icon+'\',\''+cat+'\')">'+badge+'</div>';
   }
-  return '<div class="card-image">'+novo+'<div class="no-image cat-'+css+'"><span class="ni-icon">'+icon+'</span><span>'+cat+'</span></div>'+badge+'</div>';
+  return '<div class="card-image">'+star+novo+'<div class="no-image cat-'+css+'"><span class="ni-icon">'+icon+'</span><span>'+cat+'</span></div>'+badge+'</div>';
 }
 function cardHTML(item){
   var src=item.source_id||'';
@@ -443,6 +478,28 @@ function renderPage(){
   content.innerHTML=html;
 }
 function loadMore(){currentPage++;renderPage();}
+// Star button — event delegation no #content
+document.getElementById('content').addEventListener('click',function(e){
+  var btn=e.target.closest('.star-btn');
+  if(!btn)return;
+  e.preventDefault();e.stopPropagation();
+  var guid=btn.getAttribute('data-guid');
+  if(!guid)return;
+  var saved=toggleStar(guid);
+  btn.classList.toggle('saved',saved);
+  btn.title=saved?'Remover da curadoria':'Salvar na curadoria';
+  var cnt=document.getElementById('cnt-Curadoria');
+  if(cnt)cnt.textContent=getCuradoria().length;
+  if(activeTab==='Curadoria')applyAndRender();
+});
+// Limpar curadoria
+document.getElementById('btn-limpar-tudo').addEventListener('click',function(){
+  var n=getCuradoria().length;
+  if(!n)return;
+  if(!confirm('Remover '+n+' noticia'+(n===1?'':'s')+' da sua curadoria?\n\nIsso não as exclui do monitor de noticias.'))return;
+  clearCuradoria();
+  applyAndRender();
+});
 document.getElementById('sel-ano').addEventListener('change',function(){updateMes();loadForSelection();});
 document.getElementById('sel-mes').addEventListener('change',function(){loadForSelection();});
 document.getElementById('sel-fonte').addEventListener('change',function(){applyAndRender();});
@@ -469,6 +526,7 @@ function refreshTabCounts(){
       counts['Politica e Regulacao Setorial']++;
     counts['Todos']++;
   });
+  counts['Curadoria']=getCuradoria().length;
   CATEGORIES.forEach(function(cat){
     var el=document.getElementById('cnt-'+cat.key.replace(/\s+/g,'_'));
     if(el)el.textContent=counts[cat.key]||0;
