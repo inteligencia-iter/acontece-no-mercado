@@ -1,5 +1,316 @@
 [
   {
+    "source_id": "agenciabrasil",
+    "guid": "1698165 at https://agenciabrasil.ebc.com.br",
+    "title": "Após fala de Lula, governo paraguaio convoca embaixador do Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/apos-fala-de-lula-governo-paraguaio-convoca-embaixador-do-brasil",
+    "description": "O ministro das Relações Exteriores do Paraguai, Rubén Ramírez Lezcano, informou, nesta quinta-feira (30), que convocou o embaixador do Brasil no país , José Antonio Marcondes, para uma conversa nesta sexta-feira (31). O motivo são as declarações do presidente Luiz Inácio Lula da Silva sobre a Guerra do Paraguai, em um evento na semana passada. No Paraguai, o conflito é conhecido como Guerra da Tríplice Aliança, por ter colocado Brasil, Argentina e Uruguai de um lado, e Paraguai de outro. Notícias relacionadas: Embaixador da Argentina no Brasil é convocado por Mauro Vieira. Em nota, o ministério afirmou que, além da convocação de Marcondes, os ministros das Relações Exteriores do Paraguai e do Brasil, Mauro Vieira, conversaram sobre o assunto quando estiveram em Lima, no Peru. O governo paraguaio também informou que o presidente Santiago Peña e Lula conversaram por telefone sobre o mesmo tema, considerado como “delicado”. Declaração A fala de Lula ocorreu em Jacareí, São Paulo, durante um evento da empresa Avibras Aeroco. Para ilustrar a importância de investimento em defesa , lembrou da Guerra do Paraguai, ocorrida entre 1864 e 1870. “A gente tem fronteira com todos os países da América do Sul, menos Chile e Equador. A gente tem a África na nossa frente e tem uns loucos no mundo querendo fazer guerra. E a gente não pode esquecer que, embora a gente só goste de paz, seja de paz, um belo dia o Paraguai resolveu invadir o Brasil. E invadiu Uruguai e Argentina. E aquela guerra que não parecia nada durou cinco anos”, declarou o presidente no evento. A Guerra do Paraguai é descrita pelo governo do país vizinho como “um episódio sensível da história nacional”. “A dignidade do Paraguai não se negocia. Quero que saibam que, sob a liderança do presidente Santiago Peña, desde o começo temos abordado o tema no mais alto nível. A diplomacia tem seus tempos, suas formas e, acredite, a moderação do presidente da República tem sido fundamental na gestão desses prazos e formas”, disse o ministro das Relações Exteriores do Paraguai, Rebén Lezcano.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Marcelo Brandão - Repórter da Agência Brasil",
+    "pub_date": "2026-07-30T21:32:00+00:00",
+    "source_category_raw": "Internacional",
+    "all_categories": [
+      "Internacional",
+      "Lula",
+      "Paraguai",
+      "Guerra do Paraguai",
+      "embaixador",
+      "Ministério das Relações Exteriores",
+      "governo do Paraguai"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3435,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.6,
+    "destaque_score": 0.453,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719435",
+    "title": "Como aumentar a receita com seguro viagem? Affinity apresenta oportunidades de negócios em live no HUB ME; inscreva-se",
+    "link": "https://www.mercadoeeventos.com.br/noticias/institucional/como-aumentar-a-receita-com-seguro-viagem-affinity-apresenta-oportunidades-de-negocios-em-live-no-hub-me-inscreva-se/",
+    "description": "90% dos viajantes deixaram de contratar seguro viagem em 2026; live da Affinity reforça o papel do agente nas vendas e aponta como mudar o cenário",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Alexandre-Lanca-da-Affinity-Seguro.JPG-edited-scaled-1.jpeg",
+    "author": "Ana Azevedo",
+    "pub_date": "2026-07-30T21:07:50+00:00",
+    "source_category_raw": "Institucional",
+    "all_categories": [
+      "Institucional",
+      "HUB ME"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.6841,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.617,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719438",
+    "title": "Anac avança na repactuação do Aeroporto de Brasília e apresenta projeto a investidores",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/anac-avanca-na-repactuacao-do-aeroporto-de-brasilia-e-apresenta-projeto-a-investidores/",
+    "description": "Anac reuniu representantes do mercado e reforçou o envio de contribuições até 7 de agosto",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/472689106_8693436750765469_618540313557645842_n-1-edited.jpg",
+    "author": "Giulia Jardim",
+    "pub_date": "2026-07-30T21:02:06+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação",
+      "Julho 2026"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.895,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1698160 at https://agenciabrasil.ebc.com.br",
+    "title": "Rede elétrica mais resiliente requer investimento de concessionárias",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/rede-eletrica-mais-resiliente-requer-investimento-de-concessionarias",
+    "description": "Tornar a rede elétrica mais resiliente a fortes ventos como os que atingiram São Paulo e Rio de Janeiro nessa quarta-feira (29) é possível, mas tem um custo bastante elevado e que precisa ser arcado pelas concessionárias de energia. A avaliação é do professor Edson Watanabe, do Programa de Engenharia Elétrica do Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa de Engenharia da Universidade Federal do Rio de Janeiro (Coppe/UFRJ). Fiação subterrânea e poda das árvores na época certa estão entre as medidas necessárias para que o fornecimento de energia seja menos vulnerável . Notícias relacionadas: Polícia investiga morte de três eletrocutados após ventania no Rio. Saiba como pedir ressarcimento por prejuízos com a falta de energia. Meteorologistas dizem que não é possível associar ventanias ao El Niño. “Tem que ter manutenção. Ou enterra ou faz manutenção. No geral, não se faz nem um, nem outro. Ou se faz pouco”, aponta o professor da Coppe/UFRJ. Watanabe mora no Grajaú, na Zona Norte do Rio, e continuava sem energia até a tarde desta quinta-feira (30). Em sua rua, a rede elétrica é aérea, sustentada por postes, o que a deixa mais vulnerável a quedas de árvores e intempéries. Quem tem instalações subterrâneas, como os bairros mais nobres do Rio e o centro da cidade, enfrenta menos contratempos , avalia. “Quem recebe (energia) por linha aérea tem mais problemas”, resume ele, que acrescenta que, além de os custos de instalação serem maiores para a fiação subterrânea, também é mais custosa a manutenção. O professor do programa de pós-graduação em engenharia elétrica estima que o custo de cabos subterrâneos equivale a sete ou dez vezes o da linha aérea , com a vantagem de ter maior qualidade. E a responsabilidade por esses custos é das concessionárias de energia, afirma ele. \"Seria bom se houvesse um pouco mais de atividade do lado das concessionárias. Se ficar parado, como a gente anda, vai ser ainda pior”. Árvore caída bloqueia passagem em Botafogo. Foto: Tânia Rêgo/Agência Brasil Planos de contingência Na avaliação de Leandro Torres, especialista em desastres e professor da Escola Politécnica da UFRJ, o risco de falta de energia, por si só, não é motivo para substituir toda a rede aérea por subterrânea. “É uma decisão estética, urbanística. Mas não pesa muito no caso de falta de luz”. Torres destaca que fazer uma estrutura subterrânea requer um investimento elevado que pode ser, inclusive, economicamente inviável . Além disso, ele avalia que os cabos subterrâneos, apesar de terem proteção contra o vento, constituem problema no caso de inundações e furtos. Segundo Leandro Torres, o que ocorreu ontem no Rio foi um evento de emergência, para o qual as instituições precisam estar preparadas com planos de contingência , que evidenciem tudo que possa afetar suas operações e serviços de alguma maneira. “Ou seja, fazer uma listagem dessas ameaças. Isso abrange eventos de diferentes naturezas, como vendaval, inundação, ataque cibernético, que podem afetar a operação de uma organização qualquer\". Estragos provocados pelos fortes ventos que atingiram a cidade na tarde desta quarta-feira (30). Foto: Tânia Rêgo/Agência Brasil O segundo passo desse plano de contingência é entender quais são as eventuais causas que poderiam dar origem a essas ameaças. Ou seja, os pontos fracos na operação, que poderiam ser uma brecha para que esses problemas ocorram. Uma análise de risco prioriza os pontos que demandam mais atenção. Em seguida, o que se busca são medidas que possam evitar, dentro do possível, essas falhas, ou reduzir muito a probabilidade de elas acontecerem. Torres deixou claro que instituições de diferentes naturezas, desde uma escola até empresas de telecomunicações e concessionárias de energia elétrica, precisam se organizar para fazer frente a esse tipo de cenário climático . Para ele, as concessionárias de energia elétrica devem direcionar atenção e esforços para um possível aumento drástico de eventos relacionados ao clima, principalmente este ano, com a previsão de um El Niño especialmente forte. “Elas devem analisar, por hipótese, se acontecer um tornado aqui, o que eu faria? Se acontecer uma inundação até um metro ou dois metros de lâmina, o que deveria ser feito? E se for uma onda de calor extremo?”. Leandro Torres insistiu que a empresa não pode esperar que aconteça um evento negativo para agir, e isso demanda recursos previamente alocados e pessoal treinado para os procedimentos emergenciais. Depende de uma estrutura de planejamento de comunicação interno e externo com clientes, inclusive para a preservação dos serviços que eles estão recebendo. Estragos provocados pelos fortes ventos que atingiram a cidade na tarde desta quarta-feira (30). Árvore caí em frente ao Hospital Pró-Cardíaco, em Botafogo, destruindo portão e fiação Foto: Tânia Rêgo/Agência Brasil Sem previsão de retorno A empresária Ana Paula Brito mora em Vila Isabel, Zona Norte da capital fluminense, e, desde ontem, às 17h, está sem luz em seu imóvel. Ela afirma que já abriu vários protocolos na Light e a resposta é que os técnicos estão trabalhando no local e não há previsão de quando a luz voltará. “Estamos preocupados, porque a geladeira já está descongelando, os alimentos estão vencendo [a validade] e não tem nenhuma previsão. É um transtorno muito grande ficar sem energia”. >> Saiba como pedir ressarcimento por prejuízos com a falta de energia Rico Vilarouca é designer e trabalha em casa, bem como sua esposa. Moradores de Santa Teresa, na região central do Rio de Janeiro, ele espera até agora o retorno da energia elétrica e da internet residencial, situação que se repete quando chove forte e venta no bairro. Os ventos fortes que assolaram o estado nessa quarta-feira deixaram uma coisa bem clara para a família de Rico Vilarouca: “A gente não está preparado para esse volume de vento na cidade”, lamentou. A Light e a Enel, concessionárias que atuam no Rio de Janeiro, na região metropolitana e no interior do estado, têm divulgado desde o vendaval que estão com equipes mobilizadas para normalizar o fornecimento de energia. Apesar disso, milhares de residências e estabelecimentos de diversos tipos continuavam sem energia nesta quinta-feira .",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Alana Gandra - repórter da Agência Brasil",
+    "pub_date": "2026-07-30T21:01:00+00:00",
+    "source_category_raw": "Geral",
+    "all_categories": [
+      "Geral",
+      "Rio de Janeiro",
+      "Falta de Energia",
+      "Concessionária de Energia",
+      "Energia Elétrica"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.2461,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.627,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719424",
+    "title": "MSC World Asia terá área de compras com grifes de luxo, experiências exclusivas e lojas inéditas para famílias",
+    "link": "https://www.mercadoeeventos.com.br/noticias/cruzeiros/msc-world-asia-tera-area-de-compras-com-grifes-de-luxo-experiencias-exclusivas-e-lojas-ineditas-para-familias/",
+    "description": "MSC World Asia aposta em luxo, souvenirs e experiências inéditas de compras em alto-mar",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-2026-07-30T172254.486-edited.jpg",
+    "author": "Giulia Jardim",
+    "pub_date": "2026-07-30T21:00:00+00:00",
+    "source_category_raw": "Cruzeiros",
+    "all_categories": [
+      "Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.695,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719425",
+    "title": "Produtores audiovisuais ganham portal que reúne film commissions e facilita filmagens no Brasil, veja como funciona",
+    "link": "https://www.mercadoeeventos.com.br/tecnologia-e-inovacao/produtores-audiovisuais-ganham-portal-que-reune-film-commissions-e-facilita-filmagens-no-brasil-veja-como-funciona/",
+    "description": "Site centraliza contatos, locações e informações para facilitar gravações em todo o Brasil",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-14-2.jpg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-30T20:38:59+00:00",
+    "source_category_raw": "Tecnologia e Inovação",
+    "all_categories": [
+      "Tecnologia e Inovação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.694,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719401",
+    "title": "Kontik e Dragonpass firmam parceria para ampliar benefícios em viagens corporativas",
+    "link": "https://www.mercadoeeventos.com.br/noticias/agencias-e-operadoras/kontik-e-dragonpass-firmam-parceria-para-ampliar-beneficios-em-viagens-corporativas/",
+    "description": "Kontik integra benefícios da Dragonpass à jornada de viagens corporativas",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/6F9A2393-scaled.jpg",
+    "author": "Yuri Ricci",
+    "pub_date": "2026-07-30T19:45:00+00:00",
+    "source_category_raw": "Agências e Operadoras",
+    "all_categories": [
+      "Agências e Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.69,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719421",
+    "title": "Sheraton São Paulo cria desconto para hóspedes com ingressos de shows, teatros e exposições",
+    "link": "https://www.mercadoeeventos.com.br/uncategorized/sheraton-sao-paulo-cria-desconto-para-hospedes-com-ingressos-de-shows-teatros-e-exposicoes/",
+    "description": "Nova promoção busca atrair turistas interessados em shows, teatros e exposições na capital",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-11-6.jpg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-07-30T19:37:20+00:00",
+    "source_category_raw": "Uncategorized",
+    "all_categories": [
+      "Uncategorized"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.6304,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.597,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719418",
+    "title": "Abav-RN reforça compromisso com turismo potiguar durante 96ª Reunião Ordinária do Conetur",
+    "link": "https://www.mercadoeeventos.com.br/noticias/agencias-e-operadoras/abav-rn-reforca-compromisso-com-turismo-potiguar-durante-96a-reuniao-ordinaria-do-conetur/",
+    "description": "Abav-RN segue contribuindo para a construção de políticas públicas e ações que fortaleçam a atividade turística no estado",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/251769.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-30T19:09:48+00:00",
+    "source_category_raw": "Agências e Operadoras",
+    "all_categories": [
+      "Agências e Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.688,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719397",
+    "title": "Corte de Cassação da Itália reafirma cidadania por descendência como direito permanente",
+    "link": "https://www.mercadoeeventos.com.br/noticias/politica/corte-de-cassacao-da-italia-reafirma-cidadania-por-descendencia-como-direito-permanente/",
+    "description": "Corte italiana reforça que cidadania por descendência nasce com a pessoa e é permanente",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/Divulgacao-Nostrali-Cidadania-Italiana-foto-03.jpg",
+    "author": "Yuri Ricci",
+    "pub_date": "2026-07-30T19:00:00+00:00",
+    "source_category_raw": "Política",
+    "all_categories": [
+      "Política"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.2344,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.496,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719416",
+    "title": "Travel Next Minas comercializa 100% do Espaço Inovação",
+    "link": "https://www.mercadoeeventos.com.br/feiras-e-eventos/travel-next-minas-comercializa-100-do-espaco-inovacao/",
+    "description": "Com expectativa de superar 7 mil visitantes, Travel Next Minas confirma ampliação de mais de 10% de marcas expositoras",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/link-4-scaled.jpeg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-30T18:42:49+00:00",
+    "source_category_raw": "Feiras e Eventos",
+    "all_categories": [
+      "Feiras e Eventos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.686,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719414",
+    "title": "Grupo Air France-KLM atualiza política para compra de passagem com Tarifa Jovem e Estudante",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/grupo-air-france-klm-atualiza-politica-para-compra-de-passagem-com-tarifa-jovem-e-estudante/",
+    "description": "Jovens matriculados em instituições de ensino superior têm acesso a benefícios exclusivos da Air France e KLM",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/iStock-1558165614-scaled.jpg",
+    "author": "Beatriz do Vale",
+    "pub_date": "2026-07-30T18:31:41+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.885,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/agencias-de-viagens/eventos/2026/07/disney-reune-mais-de-400-agentes-dos-sonhos-em-evento-cheio-de-novidades-em-sao-paulo-fotos_230625.html",
+    "title": "Disney reúne mais de 400 agentes dos sonhos em evento cheio de novidades em São Paulo; fotos",
+    "link": "https://www.panrotas.com.br/agencias-de-viagens/eventos/2026/07/disney-reune-mais-de-400-agentes-dos-sonhos-em-evento-cheio-de-novidades-em-sao-paulo-fotos_230625.html",
+    "description": "Ação ficou marcada por atividades que reuniram entretenimento, storytelling e momentos especiais",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/30/c043186f3b4d8f435a9da9a7320d01f9-rem2886.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-07-30T17:51:00+00:00",
+    "source_category_raw": "Agências de Viagens - Eventos",
+    "all_categories": [
+      "Agências de Viagens - Eventos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": "Eventos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.683,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=719407",
     "title": "“Quem nunca foi à Disney precisa de um agente expert”, diz diretora sobre capacitações da Disney Destinations",
@@ -42,7 +353,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.699,
+    "destaque_score": 0.68,
     "layout_tier": "grade"
   },
   {
@@ -111,7 +422,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.695,
+    "destaque_score": 0.677,
     "layout_tier": "grade"
   },
   {
@@ -238,7 +549,7 @@
     "guid": "1698092 at https://agenciabrasil.ebc.com.br",
     "title": "Meteorologistas dizem que não é possível associar ventanias ao El Niño",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/meteorologistas-dizem-que-nao-e-possivel-associar-ventanias-ao-el-nino",
-    "description": "Fortes ventos provocaram estragos e mortes nos estados do Rio de Janeiro e São Paulo na tarde desta quarta-feira (30). Uma estação meteorológica da capital fluminense chegou a registrar ventos de 105 km/h. Segundo Suellen Araujo, do Instituto Nacional de Meteorologia (Inmet), o evento foi provocado pela formação de uma zona de baixa pressão atmosférica na região, associada ao deslocamento do ar nas camadas superiores da atmosfera, chamado de “escoamento”. Notícias relacionadas: Mais de 510 mil imóveis ainda estão sem luz no Rio . Vento chega a 125 km/h e provoca ao menos duas mortes em São Paulo. Bombeiros encontram corpo em barco que afundou com ventania em Paraty . “A conjunção desses fatores auxiliou realmente na formação dessa instabilidade, que trouxe essas rajadas bem intensas. Inclusive, tivemos rajadas em torno de 100 km/h em ambos os estados”, explicou a meteorologista. O coordenador geral de Operações e Modelagem do Centro Nacional de Monitoramento e Alerta de Desastres Naturais (Cemaden), Marcelo Seluchi, destaca que as rajadas de vento se formaram a partir de uma linha de estabilidade. “É uma linha de tempestades alinhadas, como o nome indica, uma ao lado da outra, que se formaram sobre uma frente fria que estava na Região Sul do Brasil. Essa linha de tempestades formou o que se chama uma frente de rajada, que foi a ventania que nós sentimos ontem à tarde”, esclareceu. Ele explica que a frente de rajada avança mais rápido que a linha de nuvens da tempestade e que a tempestade, em si, nem ocorreu. “Aqui onde nós estamos, no Vale do Paraíba [em São José dos Campos-SP], choveu mais no final da tarde e início da noite. Choveu um pouco, que foi o que restou daquela linha de tempestades que foi dissipando conforme elas foram avançando para o norte. Elas começaram lá no Paraná, Santa Catarina, mas, avançando para o norte, elas foram dissipando”, disse Seluchi. Fortes chuvas e ventania derrubaram árvore em São Paulo - Foto: Paulo Pinto/Agência Brasil El Niño Tanto a meteorologista do Inmet quanto o coordenador do Cemaden avaliam que não é possível, ainda, associar o evento de quarta-feira ao El Niño, um fenômeno recorrente que consiste no aquecimento das águas do Oceano Pacífico, de tempos em tempos, e que provoca alterações no clima global . Neste ano, espera-se um El Niño mais intenso. Segundo a Administração Atmosférica e Oceânica Nacional dos Estados Unidos (Noaa), há uma probabilidade grande de que nesta temporada o El Niño seja o mais forte dos últimos 76 anos. “Teria que fazer uma avaliação um pouco mais minuciosa para poder verificar se [os ventos fortes de Rio e São Paulo] tem alguma coisa relacionada a esse fenômeno”, afirma Suellen Araujo. Segundo Seluchi, é difícil estabelecer uma relação direta dos ventos fortes com o El Niño. Ele esclarece, entretanto, que a linha de tempestades que provocou a ventania se formou a partir de uma frente estacionária que estava sobre o sul do Brasil. “A frequência com que essas frentes estacionárias estão atuando na Região Sul já tem a ver com o fenômeno do El Niño. As frentes estão se tornando estacionárias com mais frequência, está chovendo com mais frequência e mais volume na Região Sul. E a linha de instabilidade é um efeito secundário, digamos, da presença dessas frentes na região sul”, disse. Seluchi ressalta, no entanto, que a linha de instabilidade e as rajadas de vento são fenômenos que podem acontecer em qualquer época do ano. “Acontece também em anos que não são do El Niño. A relação [das rajadas de vento] com o El Niño é mais difícil de estabelecer. Eu acho [que tem], mas é difícil provar que essa uma relação indireta”. O meteorologista Thiago Sousa, doutorando da Universidade do Estado do Rio de Janeiro (Uerj), entende que é preciso ter estudos mais profundos para encontrar uma possível vinculação entre a ventania e o El Niño . “Não tem como afirmar e nem contrariar essa correlação, que precisa ser estudada para depois, mais a frente, para se relacionar com o Super El Niño”, disse.",
+    "description": "Fortes ventos provocaram estragos e mortes nos estados do Rio de Janeiro e São Paulo na tarde desta quarta-feira (29). Uma estação meteorológica da capital fluminense chegou a registrar ventos de 105 km/h. Segundo Suellen Araujo, do Instituto Nacional de Meteorologia (Inmet), o evento foi provocado pela formação de uma zona de baixa pressão atmosférica na região, associada ao deslocamento do ar nas camadas superiores da atmosfera, chamado de “escoamento”. Notícias relacionadas: Mais de 510 mil imóveis ainda estão sem luz no Rio . Vento chega a 125 km/h e provoca ao menos duas mortes em São Paulo. Bombeiros encontram corpo em barco que afundou com ventania em Paraty . “A conjunção desses fatores auxiliou realmente na formação dessa instabilidade, que trouxe essas rajadas bem intensas. Inclusive, tivemos rajadas em torno de 100 km/h em ambos os estados”, explicou a meteorologista. O coordenador geral de Operações e Modelagem do Centro Nacional de Monitoramento e Alerta de Desastres Naturais (Cemaden), Marcelo Seluchi, destaca que as rajadas de vento se formaram a partir de uma linha de estabilidade. “É uma linha de tempestades alinhadas, como o nome indica, uma ao lado da outra, que se formaram sobre uma frente fria que estava na Região Sul do Brasil. Essa linha de tempestades formou o que se chama uma frente de rajada, que foi a ventania que nós sentimos ontem à tarde”, esclareceu. Ele explica que a frente de rajada avança mais rápido que a linha de nuvens da tempestade e que a tempestade, em si, nem ocorreu. “Aqui onde nós estamos, no Vale do Paraíba [em São José dos Campos-SP], choveu mais no final da tarde e início da noite. Choveu um pouco, que foi o que restou daquela linha de tempestades que foi dissipando conforme elas foram avançando para o norte. Elas começaram lá no Paraná, Santa Catarina, mas, avançando para o norte, elas foram dissipando”, disse Seluchi. Fortes chuvas e ventania derrubaram árvore em São Paulo - Foto: Paulo Pinto/Agência Brasil El Niño Tanto a meteorologista do Inmet quanto o coordenador do Cemaden avaliam que não é possível, ainda, associar o evento de quarta-feira ao El Niño, um fenômeno recorrente que consiste no aquecimento das águas do Oceano Pacífico, de tempos em tempos, e que provoca alterações no clima global . Neste ano, espera-se um El Niño mais intenso. Segundo a Administração Atmosférica e Oceânica Nacional dos Estados Unidos (Noaa), há uma probabilidade grande de que nesta temporada o El Niño seja o mais forte dos últimos 76 anos. “Teria que fazer uma avaliação um pouco mais minuciosa para poder verificar se [os ventos fortes de Rio e São Paulo] tem alguma coisa relacionada a esse fenômeno”, afirma Suellen Araujo. Segundo Seluchi, é difícil estabelecer uma relação direta dos ventos fortes com o El Niño. Ele esclarece, entretanto, que a linha de tempestades que provocou a ventania se formou a partir de uma frente estacionária que estava sobre o sul do Brasil. “A frequência com que essas frentes estacionárias estão atuando na Região Sul já tem a ver com o fenômeno do El Niño. As frentes estão se tornando estacionárias com mais frequência, está chovendo com mais frequência e mais volume na Região Sul. E a linha de instabilidade é um efeito secundário, digamos, da presença dessas frentes na região sul”, disse. Seluchi ressalta, no entanto, que a linha de instabilidade e as rajadas de vento são fenômenos que podem acontecer em qualquer época do ano. “Acontece também em anos que não são do El Niño. A relação [das rajadas de vento] com o El Niño é mais difícil de estabelecer. Eu acho [que tem], mas é difícil provar que essa uma relação indireta”. O meteorologista Thiago Sousa, doutorando da Universidade do Estado do Rio de Janeiro (Uerj), entende que é preciso ter estudos mais profundos para encontrar uma possível vinculação entre a ventania e o El Niño . “Não tem como afirmar e nem contrariar essa correlação, que precisa ser estudada para depois, mais a frente, para se relacionar com o Super El Niño”, disse. Saiba mais sobre o fenômeno na reportagem do Repórter Brasil Tarde, da TV Brasil",
     "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Vitor Abdala - Repórter da Agência Brasil",
     "pub_date": "2026-07-30T15:22:00+00:00",
@@ -250,16 +561,17 @@
       "Ventania",
       "El Niño",
       "Chuvas",
-      "Tempestade"
+      "Tempestade",
+      "multimídia"
     ],
     "in_scope": true,
-    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l1": "Destinos",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf_low_confidence",
-    "category_mapping_confidence": 0.3468,
+    "category_mapping_confidence": 0.3609,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.448,
+    "destaque_score": 0.434,
     "layout_tier": "grade"
   },
   {
@@ -328,7 +640,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.685,
+    "destaque_score": 0.668,
     "layout_tier": "grade"
   },
   {
@@ -351,7 +663,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.684,
+    "destaque_score": 0.667,
     "layout_tier": "grade"
   },
   {
@@ -359,7 +671,7 @@
     "guid": "1698079 at https://agenciabrasil.ebc.com.br",
     "title": "Desemprego no 2º trimestre é 5,4%, o menor já registrado no período",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/desemprego-no-2o-trimestre-e-54-o-menor-ja-registrado-no-periodo",
-    "description": "A taxa de desemprego no segundo trimestre ficou em 5,4%, atingindo o menor nível já registrado desde 2012, quando começa a série histórica da Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua. O resultado representa queda em relação ao primeiro trimestre do ano (6,1%) e na comparação com o mesmo período de 2025, quando estava em 5,8%. Os dados foram divulgados nesta quinta-feira (30) o Instituto Brasileiro de Geografia e Estatística (IBGE). No segundo trimestre, o Brasil atingiu o número de 103,1 milhões de pessoas ocupadas, cerca de 1,081 milhão a mais que no primeiro trimestre. Já o número de desocupados era de 5,9 milhões, o que representa 10% (718 mil pessoas) a menos que no primeiro trimestre. Na comparação entre o primeiro e o segundo trimestres, os grupamentos que se destacaram na criação de vagas foram: - Transporte, armazenagem e correio: +3,9% (mais 235 mil pessoas) - Administração pública, defesa, seguridade social, educação, saúde humana e serviços sociais: +2,6% (mais 489 mil pessoas) A Pnad mostra que no período de três meses de abril a junho, o país tinha 39,4 milhões de trabalhadores com carteira assinada e 13,6 milhões sem carteira. A taxa de informalidade - proporção de trabalhadores informais na população ocupada - foi de 37,4% no segundo trimestre. O rendimento médio do trabalhador brasileiro ficou em R$ 3.738, o maior já registrado para um segundo trimestre. No entanto, fica abaixo do apurado no primeiro trimestre de 2026. (R$ 3.765). Pnad A pesquisa do IBGE apura o comportamento no mercado de trabalho para pessoas com 14 anos ou mais e leva em conta todas as formas de ocupação, seja com ou sem carteira assinada, temporário e por conta própria, por exemplo. Pelos critérios do instituto, só é considerada desocupada a pessoa que efetivamente procurou uma vaga 30 dias antes da pesquisa. São visitados 211 mil domicílios em todos os estados e no Distrito Federal. O IBGE considera informais os empregados sem carteira assinada e autônomos sem CNPJ, por exemplo. Essas pessoas não têm garantidas coberturas como seguro-desemprego, férias e 13º salário. O menor desemprego já registrado pela Pnad foi 5,1%, no último trimestre de 2025. A maior taxa já constatada foi 14,9%, atingida em dois períodos: nos trimestres móveis encerrados em setembro de 2020 e em março de 2021, ambos durante a pandemia de covid-19. Mercado formal A Pnad é divulgada no dia seguinte a outro indicador de comportamento do mercado de trabalho, o Cadastro Geral de Empregados e Desempregados (Caged), elaborado pelo Ministério do Trabalho e Emprego (MTE) e que acompanha apenas o cenário de empregados com carteira assinada. De acordo com o Caged , junho apresentou saldo positivo de quase 145,2 mil vagas formais. No acumulado de 2026, o balanço é de 921,7 mil de postos com carteira assinada criados.",
+    "description": "A taxa de desemprego no segundo trimestre ficou em 5,4%, atingindo o menor nível já registrado desde 2012, quando começa a série histórica da Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua. O resultado representa queda em relação ao primeiro trimestre do ano (6,1%) e na comparação com o mesmo período de 2025, quando estava em 5,8%. Os dados foram divulgados nesta quinta-feira (30) o Instituto Brasileiro de Geografia e Estatística (IBGE). No segundo trimestre, o Brasil atingiu o número de 103,1 milhões de pessoas ocupadas, cerca de 1,081 milhão a mais que no primeiro trimestre. Esse patamar é o maior já registrado em qualquer período da Pnad. Já o número de desocupados era de 5,9 milhões, o que representa 10% (718 mil pessoas) a menos que no primeiro trimestre. Na comparação entre o primeiro e o segundo trimestres, os grupamentos que se destacaram na criação de vagas foram: - Transporte, armazenagem e correio: +3,9% (mais 235 mil pessoas) - Administração pública, defesa, seguridade social, educação, saúde humana e serviços sociais: +2,6% (mais 489 mil pessoas) A Pnad mostra que no período de três meses de abril a junho, o país tinha 39,4 milhões de trabalhadores com carteira assinada – o maior de toda a pesquisa do IBGE - e 13,6 milhões sem carteira. A taxa de informalidade - proporção de trabalhadores informais na população ocupada - foi de 37,4% no segundo trimestre. O rendimento médio do trabalhador brasileiro ficou em R$ 3.738, o maior já registrado para um segundo trimestre. No entanto, fica abaixo do apurado no primeiro trimestre de 2026. (R$ 3.765). Apesar de recorde histórico de baixa no desemprego no período, o rendimento fica no campo da estabilidade, segundo o analista da pesquisa William Kratochwill, porque as novas contratações costumam pagar na média ou abaixo dos demais salários. Aquecido mesmo com juro alto Os dados que revelam um mercado de trabalho aquecido coincidem com um período em que o Brasil vivencia alta taxa básica de juros, a chamada Selic, determinada pelo Banco Central (BC), atualmente em 14,25%. A Selic alta é uma das formas de o BC combater a inflação, uma vez que o juro alto desestimula consumo e investimentos, esfriando a demanda por produtos e serviços. O analista do IBGE William Kratochwill ressalta que o próprio mercado de trabalho se retroalimenta, suavizando o impacto do juro alto no emprego. \"Quando tem mais gente ocupada, o consumo aumenta, aumentam encomendas, produção... O próprio mercado de trabalho pode estar dando essa contribuição para que as pessoas continuem contratando\", avalia. Ele aponta que um dos efeitos do aquecimento pode ser percebido no número de desalentados, ou seja, de pessoas que sequer procuravam trabalho, por acreditarem que não encontrariam vagas, que ficou em 2,3 milhões, caindo 14,7% (menos 365 mil pessoas) na comparação com o primeiro trimestre. Pnad A pesquisa do IBGE apura o comportamento no mercado de trabalho para pessoas com 14 anos ou mais e leva em conta todas as formas de ocupação, seja com ou sem carteira assinada, temporário e por conta própria, por exemplo. Pelos critérios do instituto, só é considerada desocupada a pessoa que efetivamente procurou uma vaga 30 dias antes da pesquisa. São visitados 211 mil domicílios em todos os estados e no Distrito Federal. O IBGE considera informais os empregados sem carteira assinada e autônomos sem CNPJ, por exemplo. Essas pessoas não têm garantidas coberturas como seguro-desemprego, férias e 13º salário. O menor desemprego já registrado pela Pnad foi 5,1%, no último trimestre de 2025. A maior taxa já constatada foi 14,9%, atingida em dois períodos: nos trimestres móveis encerrados em setembro de 2020 e em março de 2021, ambos durante a pandemia de covid-19. Mercado formal A Pnad é divulgada no dia seguinte a outro indicador de comportamento do mercado de trabalho, o Cadastro Geral de Empregados e Desempregados (Caged), elaborado pelo Ministério do Trabalho e Emprego (MTE) e que acompanha apenas o cenário de empregados com carteira assinada. De acordo com o Caged , junho apresentou saldo positivo de quase 145,2 mil vagas formais. No acumulado de 2026, o balanço é de 921,7 mil de postos com carteira assinada criados. * Matéria alterada para acréscimo de informações.",
     "image_url": "https://agenciabrasil.ebc.com.br/ebc.png?id=1698079&amp;o=rss",
     "author": "Bruno de Freitas Moura - Repórter da Agência Brasil",
     "pub_date": "2026-07-30T13:16:00+00:00",
@@ -369,16 +681,17 @@
       "Pnad",
       "mercado formal",
       "Pnad contínua",
-      "IBGE"
+      "IBGE",
+      "multimídia"
     ],
     "in_scope": true,
     "canonical_category_l1": "Câmbio e Economia do Turismo",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf",
-    "category_mapping_confidence": 0.7235,
-    "content_domain": "turismo_direto",
-    "content_domain_confidence": 0.9,
-    "destaque_score": 0.734,
+    "category_mapping_confidence": 0.732,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.719,
     "layout_tier": "manchete"
   },
   {
@@ -401,7 +714,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.68,
+    "destaque_score": 0.664,
     "layout_tier": "grade"
   },
   {
@@ -539,7 +852,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.877,
+    "destaque_score": 0.861,
     "layout_tier": "manchete"
   },
   {
@@ -562,7 +875,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.675,
+    "destaque_score": 0.659,
     "layout_tier": "grade"
   },
   {
@@ -591,7 +904,7 @@
     "category_mapping_confidence": 0.2013,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.593,
+    "destaque_score": 0.578,
     "layout_tier": "grade"
   },
   {
@@ -614,7 +927,7 @@
     "category_mapping_confidence": 0.2613,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.362,
+    "destaque_score": 0.347,
     "layout_tier": "condensado"
   },
   {
@@ -635,7 +948,7 @@
     "category_mapping_confidence": 0.3397,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.379,
+    "destaque_score": 0.365,
     "layout_tier": "condensado"
   },
   {
@@ -658,7 +971,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.647,
+    "destaque_score": 0.635,
     "layout_tier": "grade"
   },
   {
@@ -686,7 +999,7 @@
     "category_mapping_confidence": 0.6834,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.483,
+    "destaque_score": 0.471,
     "layout_tier": "grade"
   },
   {
@@ -712,7 +1025,7 @@
     "category_mapping_confidence": 0.4797,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.63,
+    "destaque_score": 0.618,
     "layout_tier": "grade"
   },
   {
@@ -735,7 +1048,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.636,
+    "destaque_score": 0.625,
     "layout_tier": "grade"
   },
   {
@@ -758,7 +1071,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.636,
+    "destaque_score": 0.625,
     "layout_tier": "grade"
   },
   {
@@ -895,7 +1208,7 @@
     "category_mapping_confidence": 0.7277,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.446,
+    "destaque_score": 0.435,
     "layout_tier": "grade"
   },
   {
@@ -942,7 +1255,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.634,
+    "destaque_score": 0.623,
     "layout_tier": "grade"
   },
   {
@@ -1016,7 +1329,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.833,
+    "destaque_score": 0.822,
     "layout_tier": "manchete"
   },
   {
@@ -1090,7 +1403,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.632,
+    "destaque_score": 0.622,
     "layout_tier": "grade"
   },
   {
@@ -1184,7 +1497,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.631,
+    "destaque_score": 0.62,
     "layout_tier": "grade"
   },
   {
@@ -1276,7 +1589,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.63,
+    "destaque_score": 0.619,
     "layout_tier": "grade"
   },
   {
@@ -1299,7 +1612,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.829,
+    "destaque_score": 0.819,
     "layout_tier": "manchete"
   },
   {
@@ -1322,7 +1635,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.629,
+    "destaque_score": 0.619,
     "layout_tier": "grade"
   },
   {
@@ -1345,7 +1658,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.628,
+    "destaque_score": 0.619,
     "layout_tier": "grade"
   },
   {
@@ -1368,7 +1681,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.628,
+    "destaque_score": 0.618,
     "layout_tier": "grade"
   },
   {
@@ -1391,7 +1704,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.626,
+    "destaque_score": 0.617,
     "layout_tier": "grade"
   },
   {
@@ -1414,7 +1727,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.625,
+    "destaque_score": 0.616,
     "layout_tier": "grade"
   },
   {
@@ -1437,7 +1750,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.824,
+    "destaque_score": 0.815,
     "layout_tier": "manchete"
   },
   {
@@ -1483,7 +1796,7 @@
     "category_mapping_confidence": 0.5717,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.597,
+    "destaque_score": 0.588,
     "layout_tier": "grade"
   },
   {
@@ -1575,7 +1888,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.623,
+    "destaque_score": 0.614,
     "layout_tier": "grade"
   },
   {
@@ -1667,7 +1980,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.622,
+    "destaque_score": 0.613,
     "layout_tier": "grade"
   },
   {
@@ -1786,7 +2099,7 @@
     "category_mapping_confidence": 0.3842,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.667,
+    "destaque_score": 0.658,
     "layout_tier": "grade"
   },
   {
@@ -1809,7 +2122,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.62,
+    "destaque_score": 0.611,
     "layout_tier": "grade"
   },
   {
@@ -1832,7 +2145,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.819,
+    "destaque_score": 0.81,
     "layout_tier": "manchete"
   },
   {
@@ -1909,7 +2222,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.618,
+    "destaque_score": 0.609,
     "layout_tier": "grade"
   },
   {
@@ -1932,7 +2245,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.818,
+    "destaque_score": 0.809,
     "layout_tier": "manchete"
   },
   {
@@ -1955,7 +2268,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.617,
+    "destaque_score": 0.609,
     "layout_tier": "grade"
   },
   {
@@ -1978,7 +2291,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.816,
+    "destaque_score": 0.808,
     "layout_tier": "manchete"
   },
   {
@@ -2001,7 +2314,7 @@
     "category_mapping_confidence": 0.7439,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.752,
+    "destaque_score": 0.743,
     "layout_tier": "manchete"
   },
   {
@@ -2117,7 +2430,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.815,
+    "destaque_score": 0.807,
     "layout_tier": "manchete"
   },
   {
@@ -2173,7 +2486,7 @@
     "category_mapping_confidence": 0.6804,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.454,
+    "destaque_score": 0.446,
     "layout_tier": "grade"
   },
   {
@@ -2196,7 +2509,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.613,
+    "destaque_score": 0.605,
     "layout_tier": "grade"
   },
   {
@@ -2217,7 +2530,7 @@
     "category_mapping_confidence": 0.7807,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.432,
+    "destaque_score": 0.425,
     "layout_tier": "grade"
   },
   {
@@ -2240,7 +2553,7 @@
     "category_mapping_confidence": 0.4788,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.354,
+    "destaque_score": 0.347,
     "layout_tier": "condensado"
   },
   {
@@ -2267,7 +2580,7 @@
     "category_mapping_confidence": 0.5033,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.592,
+    "destaque_score": 0.586,
     "layout_tier": "grade"
   },
   {
@@ -2366,7 +2679,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.592,
+    "destaque_score": 0.587,
     "layout_tier": "grade"
   },
   {
@@ -2389,7 +2702,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.592,
+    "destaque_score": 0.587,
     "layout_tier": "grade"
   },
   {
@@ -2488,7 +2801,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.792,
+    "destaque_score": 0.786,
     "layout_tier": "manchete"
   },
   {
@@ -2511,7 +2824,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.591,
+    "destaque_score": 0.586,
     "layout_tier": "grade"
   },
   {
@@ -2603,7 +2916,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.791,
+    "destaque_score": 0.786,
     "layout_tier": "manchete"
   },
   {
@@ -2626,7 +2939,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.591,
+    "destaque_score": 0.586,
     "layout_tier": "grade"
   },
   {
@@ -2699,7 +3012,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.59,
+    "destaque_score": 0.585,
     "layout_tier": "grade"
   },
   {
@@ -2722,7 +3035,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.59,
+    "destaque_score": 0.585,
     "layout_tier": "grade"
   },
   {
@@ -2745,7 +3058,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.59,
+    "destaque_score": 0.585,
     "layout_tier": "grade"
   },
   {
@@ -2791,7 +3104,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.589,
+    "destaque_score": 0.584,
     "layout_tier": "grade"
   },
   {
@@ -2891,7 +3204,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.588,
+    "destaque_score": 0.583,
     "layout_tier": "grade"
   },
   {
@@ -2914,7 +3227,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.588,
+    "destaque_score": 0.583,
     "layout_tier": "grade"
   },
   {
@@ -2960,7 +3273,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.587,
+    "destaque_score": 0.582,
     "layout_tier": "grade"
   },
   {
@@ -3029,7 +3342,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.587,
+    "destaque_score": 0.582,
     "layout_tier": "grade"
   },
   {
@@ -3121,7 +3434,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.586,
+    "destaque_score": 0.582,
     "layout_tier": "grade"
   },
   {
@@ -3144,7 +3457,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.586,
+    "destaque_score": 0.582,
     "layout_tier": "grade"
   },
   {
@@ -3190,7 +3503,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.586,
+    "destaque_score": 0.581,
     "layout_tier": "grade"
   },
   {
@@ -3287,7 +3600,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.585,
+    "destaque_score": 0.581,
     "layout_tier": "grade"
   },
   {
@@ -3310,7 +3623,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.585,
+    "destaque_score": 0.581,
     "layout_tier": "grade"
   },
   {
@@ -3333,7 +3646,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.585,
+    "destaque_score": 0.58,
     "layout_tier": "grade"
   },
   {
@@ -3379,7 +3692,7 @@
     "category_mapping_confidence": 0.6792,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.505,
+    "destaque_score": 0.5,
     "layout_tier": "grade"
   },
   {
@@ -3402,7 +3715,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.585,
+    "destaque_score": 0.58,
     "layout_tier": "grade"
   },
   {
@@ -3425,7 +3738,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.784,
+    "destaque_score": 0.78,
     "layout_tier": "manchete"
   },
   {
@@ -3448,7 +3761,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.584,
+    "destaque_score": 0.58,
     "layout_tier": "grade"
   },
   {
@@ -3471,7 +3784,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.584,
+    "destaque_score": 0.579,
     "layout_tier": "grade"
   },
   {
@@ -3523,7 +3836,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.583,
+    "destaque_score": 0.579,
     "layout_tier": "grade"
   },
   {
@@ -3546,7 +3859,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.583,
+    "destaque_score": 0.579,
     "layout_tier": "grade"
   },
   {
@@ -3616,7 +3929,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.582,
+    "destaque_score": 0.578,
     "layout_tier": "grade"
   },
   {
@@ -3685,7 +3998,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.582,
+    "destaque_score": 0.578,
     "layout_tier": "grade"
   },
   {
@@ -3712,7 +4025,7 @@
     "category_mapping_confidence": 0.5138,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.58,
+    "destaque_score": 0.576,
     "layout_tier": "grade"
   },
   {
@@ -3735,7 +4048,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.581,
+    "destaque_score": 0.577,
     "layout_tier": "grade"
   },
   {
@@ -3758,7 +4071,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.772,
+    "destaque_score": 0.769,
     "layout_tier": "manchete"
   },
   {
@@ -3881,7 +4194,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.771,
+    "destaque_score": 0.768,
     "layout_tier": "manchete"
   },
   {
@@ -3950,7 +4263,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.57,
+    "destaque_score": 0.568,
     "layout_tier": "grade"
   },
   {
@@ -4065,7 +4378,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.77,
+    "destaque_score": 0.768,
     "layout_tier": "manchete"
   },
   {
@@ -4088,7 +4401,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.57,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -4134,7 +4447,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.57,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -4198,7 +4511,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -4221,7 +4534,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -4244,7 +4557,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.566,
     "layout_tier": "grade"
   },
   {
@@ -4290,7 +4603,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.568,
+    "destaque_score": 0.566,
     "layout_tier": "grade"
   },
   {
@@ -4313,7 +4626,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.568,
+    "destaque_score": 0.566,
     "layout_tier": "grade"
   },
   {
@@ -4406,7 +4719,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.768,
+    "destaque_score": 0.766,
     "layout_tier": "manchete"
   },
   {
@@ -4476,7 +4789,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.568,
+    "destaque_score": 0.566,
     "layout_tier": "grade"
   },
   {
@@ -4524,7 +4837,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.768,
+    "destaque_score": 0.765,
     "layout_tier": "manchete"
   },
   {
@@ -4593,7 +4906,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.567,
+    "destaque_score": 0.565,
     "layout_tier": "grade"
   },
   {
@@ -4639,7 +4952,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.567,
+    "destaque_score": 0.565,
     "layout_tier": "grade"
   },
   {
@@ -4689,7 +5002,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.567,
+    "destaque_score": 0.565,
     "layout_tier": "grade"
   },
   {
@@ -4716,7 +5029,7 @@
     "category_mapping_confidence": 0.2523,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.3,
+    "destaque_score": 0.298,
     "layout_tier": "condensado"
   },
   {
@@ -4762,7 +5075,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.566,
+    "destaque_score": 0.564,
     "layout_tier": "grade"
   },
   {
@@ -4908,7 +5221,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.766,
+    "destaque_score": 0.764,
     "layout_tier": "manchete"
   },
   {
@@ -4954,7 +5267,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.566,
+    "destaque_score": 0.564,
     "layout_tier": "grade"
   },
   {
@@ -4983,7 +5296,7 @@
     "category_mapping_confidence": 0.3849,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.332,
+    "destaque_score": 0.33,
     "layout_tier": "condensado"
   },
   {
@@ -5006,7 +5319,7 @@
     "category_mapping_confidence": 0.4497,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.507,
+    "destaque_score": 0.506,
     "layout_tier": "grade"
   },
   {
@@ -5302,7 +5615,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -5395,7 +5708,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -6309,7 +6622,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -6332,7 +6645,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.752,
+    "destaque_score": 0.751,
     "layout_tier": "manchete"
   },
   {
@@ -7570,7 +7883,7 @@
     "category_mapping_confidence": 0.446,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.413,
+    "destaque_score": 0.412,
     "layout_tier": "grade"
   },
   {
@@ -7906,7 +8219,7 @@
     "category_mapping_confidence": 0.5395,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.356,
+    "destaque_score": 0.355,
     "layout_tier": "condensado"
   },
   {
@@ -8724,7 +9037,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8799,7 +9112,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -8898,7 +9211,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -8994,7 +9307,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -9017,7 +9330,7 @@
     "category_mapping_confidence": 0.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.301,
+    "destaque_score": 0.3,
     "layout_tier": "condensado"
   },
   {
@@ -9040,7 +9353,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -9063,7 +9376,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -9107,7 +9420,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -9153,7 +9466,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
