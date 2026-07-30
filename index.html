@@ -94,6 +94,9 @@
     .curadoria-bar { display:none; background:#fffbeb; border-bottom:1px solid #fde68a; padding:8px 28px; align-items:center; gap:12px; }
     .curadoria-bar.visible { display:flex; }
     .curadoria-bar-info { font-size:12px; color:#92400e; flex:1; }
+    .cur-cat-label { font-size:11px; color:#92400e; font-weight:400; white-space:nowrap; }
+    #sel-cur-cat { background:#fff7ed; border:1px solid #fcd34d; border-radius:8px; color:#92400e; font-size:12px; font-family:inherit; padding:4px 8px; cursor:pointer; outline:none; }
+    #sel-cur-cat:focus { border-color:#f59e0b; }
     .btn-limpar { background:#fff; border:1.5px solid #fca5a5; color:#dc2626; font-size:12px; font-weight:600; padding:5px 14px; border-radius:8px; cursor:pointer; font-family:inherit; transition:background 0.15s; }
     .btn-limpar:hover { background:#fee2e2; }
     .cat-curadoria { background:linear-gradient(135deg,#f59e0b,#d97706); }
@@ -180,6 +183,8 @@
 </div>
 <div class="curadoria-bar" id="curadoria-bar">
   <span class="curadoria-bar-info" id="curadoria-bar-info"></span>
+  <span class="cur-cat-label">Categoria</span>
+  <select id="sel-cur-cat"><option value="">Todas</option></select>
   <button class="btn-limpar" id="btn-limpar-tudo">Limpar curadoria</button>
 </div>
 <main>
@@ -219,10 +224,27 @@ var MES_NOME = ['','Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','
 var allItems=[],availableMonths=[],loadedMonths={},guidSet={},activeTab='Todos';
 var currentVisible=[],currentPage=0,currentWords=[],currentPhrases=[],currentSource='';
 var CURADORIA_KEY='anm_curadoria_v1';
+var currentCuradoriaCategory='';
 function getCuradoria(){try{return JSON.parse(localStorage.getItem(CURADORIA_KEY)||'[]');}catch(e){return[];}}
 function saveCuradoria(guids){try{localStorage.setItem(CURADORIA_KEY,JSON.stringify(guids));}catch(e){}}
 function toggleStar(guid){var list=getCuradoria();var idx=list.indexOf(guid);if(idx>=0)list.splice(idx,1);else list.push(guid);saveCuradoria(list);return idx<0;}
 function clearCuradoria(){saveCuradoria([]);}
+function populateCuradoriaCategories(items){
+  var sel=document.getElementById('sel-cur-cat');
+  if(!sel)return;
+  var prev=sel.value;
+  var cats={};
+  items.forEach(function(i){
+    var k=catKey(i.canonical_category_l1||'');
+    if(k)cats[k]=catLabel(i.canonical_category_l1||'');
+  });
+  sel.innerHTML='<option value="">Todas</option>';
+  Object.keys(cats).sort().forEach(function(k){
+    sel.innerHTML+='<option value="'+k+'">'+esc(cats[k])+'</option>';
+  });
+  if(prev&&cats[prev]){sel.value=prev;}
+  else{currentCuradoriaCategory='';}
+}
 
 function norm(s){return(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().trim();}
 function esc(s){return(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
@@ -316,6 +338,7 @@ function buildTabs(){
       tab.classList.add('active');
       var hBtn=document.getElementById('btn-curadoria-header');
       if(hBtn)hBtn.classList.remove('active');
+      currentCuradoriaCategory='';
       applyAndRender();
     });
     c.appendChild(tab);
@@ -413,7 +436,11 @@ function applyAndRender(){
     visible=items;
   }else if(activeTab==='Curadoria'){
     var savedGuids=getCuradoria();
-    visible=allItems.filter(function(i){return savedGuids.indexOf(i.guid||'')>=0;});
+    var curItems=allItems.filter(function(i){return savedGuids.indexOf(i.guid||'')>=0;});
+    populateCuradoriaCategories(curItems);
+    visible=currentCuradoriaCategory
+      ?curItems.filter(function(i){return catKey(i.canonical_category_l1||'')===currentCuradoriaCategory;})
+      :curItems;
   }else{
     visible=items.filter(function(i){
       if(catKey(i.canonical_category_l1||'')===activeTab)return true;
@@ -512,12 +539,18 @@ document.getElementById('content').addEventListener('click',function(e){
   if(cnt)cnt.textContent=getCuradoria().length;
   if(activeTab==='Curadoria')applyAndRender();
 });
+// Filtro de categoria dentro da curadoria
+document.getElementById('sel-cur-cat').addEventListener('change',function(){
+  currentCuradoriaCategory=this.value;
+  applyAndRender();
+});
 // Limpar curadoria
 document.getElementById('btn-limpar-tudo').addEventListener('click',function(){
   var n=getCuradoria().length;
   if(!n)return;
   if(!confirm('Remover '+n+' noticia'+(n===1?'':'s')+' da sua curadoria?\n\nIsso não as exclui do monitor de noticias.'))return;
   clearCuradoria();
+  currentCuradoriaCategory='';
   applyAndRender();
 });
 document.getElementById('sel-ano').addEventListener('change',function(){updateMes();loadForSelection();});
