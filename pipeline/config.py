@@ -220,6 +220,7 @@ SOURCES: dict[str, SourceConfig] = {
         rss_status="confirmado",
         category_field=None,   # retorna apenas "G1" — inútil
         feed_encoding="gzip",
+        min_classify_confidence=0.55,   # sem taxonomia nativa — depende 100% do classificador
         feed_urls=["https://g1.globo.com/rss/g1/turismo-e-viagem/"],
     ),
 
@@ -230,6 +231,7 @@ SOURCES: dict[str, SourceConfig] = {
         needs_full_text_scrape=True,
         rss_status="confirmado",
         category_field=None,
+        min_classify_confidence=0.55,   # sem taxonomia nativa — depende 100% do classificador
         feed_urls=[
             "https://agenciabrasil.ebc.com.br/rss/economia/feed.xml",
             "https://agenciabrasil.ebc.com.br/rss/geral/feed.xml",
@@ -246,7 +248,10 @@ SOURCES: dict[str, SourceConfig] = {
         rss_status="confirmado",
         category_field=None,
         max_age_days=30,
-        min_classify_confidence=0.0,   # keyword do Google News já filtra; score não aplicado
+        min_classify_confidence=0.0,   # EXCEÇÃO INTENCIONAL: busca do Google News já restringe por
+                                        # turismo/turistas antes do fetch — o score do classificador
+                                        # não deve descartar itens só por dúvida de subcategoria.
+                                        # NÃO propagar esse 0.0 para outras fontes sem consentimento explícito.
         title_cleanup_regex=r"\s*[-–]\s*Valor Econ[oô]mico\.?\s*$",
         feed_urls=[
             "https://news.google.com/rss/search?q=turismo+OR+turistas+site:valor.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
@@ -261,6 +266,7 @@ SOURCES: dict[str, SourceConfig] = {
         rss_status="confirmado",
         category_field=None,   # taxonomia geográfica, não temática — usa classificador
         scrape_og_image=True,  # WordPress com og:image consistente
+        min_classify_confidence=0.55,   # sem taxonomia nativa — depende 100% do classificador
         feed_urls=["https://www.abcmais.com/brasil/rio-grande-do-sul/hortensias/feed/"],
         keyword_filter=[
             "turismo", "turista", "turistas",
