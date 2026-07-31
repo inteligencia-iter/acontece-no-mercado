@@ -34,6 +34,17 @@ _OG_RE_2 = re.compile(
     re.IGNORECASE,
 )
 
+_SAFE_SCHEME_RE = re.compile(r'^https?://', re.IGNORECASE)
+
+
+def _safe_link(url: str) -> str:
+    """
+    Aceita apenas URLs http(s). Descarta esquemas perigosos (javascript:, data:, vbscript: etc.)
+    que um feed RSS malicioso ou comprometido poderia injetar no campo <link>.
+    """
+    url = (url or "").strip()
+    return url if _SAFE_SCHEME_RE.match(url) else ""
+
 
 def _scrape_og_image(url: str, timeout: int = 8) -> str | None:
     """
@@ -175,7 +186,7 @@ def fetch_source(cfg: SourceConfig) -> Iterator[dict]:
             # Remove sufixo de fonte no título (ex: Google News appende "- Valor Econômico")
             if cfg.title_cleanup_regex and title:
                 title = re.sub(cfg.title_cleanup_regex, "", title, flags=re.IGNORECASE).strip()
-            link    = getattr(entry, "link", "") or ""
+            link    = _safe_link(getattr(entry, "link", "") or "")
             author  = getattr(entry, "author", "") or ""
             pub_raw = getattr(entry, "published", "") or ""
             pub_date = _parse_date(pub_raw)
