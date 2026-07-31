@@ -66,15 +66,14 @@
     #content .card[draggable="true"]:active { cursor:grabbing; }
     .card.dragging { opacity:0.30; transform:scale(0.97) !important; box-shadow:none !important; transition:opacity 0.1s,transform 0.1s; }
     .drag-zone-bar { display:none; } /* substituída por ícones inline */
-    .folder-row { grid-column:1/-1; display:flex; flex-wrap:wrap; align-items:flex-start; gap:10px; padding:4px 0 20px; }
-    .folder-icon { display:flex; flex-direction:column; align-items:center; gap:3px; padding:10px 16px 8px; border-radius:12px; cursor:pointer; border:2px solid transparent; background:rgba(245,158,11,0.08); transition:background 0.15s,border-color 0.15s,transform 0.12s,box-shadow 0.12s; user-select:none; min-width:80px; }
+    .folder-icon { display:flex; flex-direction:column; align-items:center; gap:2px; padding:7px 12px 6px; border-radius:10px; cursor:pointer; border:2px solid transparent; background:rgba(245,158,11,0.08); transition:background 0.15s,border-color 0.15s,transform 0.12s,box-shadow 0.12s; user-select:none; min-width:64px; flex-shrink:0; }
     .folder-icon:hover { background:rgba(245,158,11,0.15); border-color:rgba(245,158,11,0.35); }
     .folder-icon.active { background:rgba(245,158,11,0.20); border-color:#f59e0b; }
     .folder-icon.droppable { border-color:rgba(245,158,11,0.50); }
     .folder-icon.drag-over { background:rgba(245,158,11,0.30); border-color:#f59e0b; transform:scale(1.08); box-shadow:0 0 0 4px rgba(245,158,11,0.20); }
-    .folder-icon-emoji { font-size:26px; line-height:1; pointer-events:none; }
-    .folder-icon-name { font-size:11px; color:#92400e; font-weight:500; text-align:center; max-width:90px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; pointer-events:none; }
-    .folder-icon-count { font-size:10px; color:#b45309; pointer-events:none; }
+    .folder-icon-emoji { font-size:22px; line-height:1; pointer-events:none; }
+    .folder-icon-name { font-size:10px; color:#92400e; font-weight:500; text-align:center; max-width:82px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; pointer-events:none; }
+    .folder-icon-count { font-size:9px; color:#b45309; pointer-events:none; }
     .no-image { width:100%; height:100%; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:8px; color:rgba(255,255,255,0.9); font-size:11px; font-weight:400; text-transform:uppercase; letter-spacing:0.06em; }
     .no-image .ni-icon { font-size:30px; }
     .cat-aviacao{background:linear-gradient(135deg,#0ea5e9,#0057b8);}
@@ -104,12 +103,16 @@
     .star-btn { position:absolute; top:10px; left:10px; z-index:3; background:rgba(0,0,0,0.40); border:none; border-radius:50%; width:28px; height:28px; display:flex; align-items:center; justify-content:center; cursor:pointer; font-size:14px; color:rgba(255,255,255,0.65); transition:background 0.15s,color 0.15s; line-height:1; padding:0; font-family:inherit; }
     .star-btn:hover { background:rgba(0,0,0,0.62); color:#fbbf24; }
     .star-btn.saved { color:#f59e0b; background:rgba(0,0,0,0.52); }
-    .curadoria-bar { display:none; background:#fffbeb; border-bottom:1px solid #fde68a; padding:8px 28px; align-items:center; gap:12px; }
+    .curadoria-bar { display:none; flex-direction:column; background:#fffbeb; border-bottom:1px solid #fde68a; position:sticky; top:180px; z-index:90; }
     .curadoria-bar.visible { display:flex; }
+    .folder-icons-row { display:flex; align-items:flex-start; gap:8px; padding:10px 28px; overflow-x:auto; border-bottom:1px solid rgba(252,211,77,0.55); scrollbar-width:thin; }
+    .folder-icons-row::-webkit-scrollbar { height:6px; }
+    .folder-icons-row::-webkit-scrollbar-thumb { background:rgba(146,64,14,0.25); border-radius:4px; }
+    .curadoria-controls-row { padding:8px 28px; display:flex; align-items:center; gap:12px; flex-wrap:wrap; }
     .curadoria-bar-info { font-size:12px; color:#92400e; flex:1; }
     .cur-cat-label { font-size:11px; color:#92400e; font-weight:400; white-space:nowrap; }
-    #sel-cur-pasta,#sel-cur-cat { background:#fff7ed; border:1px solid #fcd34d; border-radius:8px; color:#92400e; font-size:12px; font-family:inherit; padding:4px 8px; cursor:pointer; outline:none; }
-    #sel-cur-pasta:focus,#sel-cur-cat:focus { border-color:#f59e0b; }
+    #sel-cur-cat { background:#fff7ed; border:1px solid #fcd34d; border-radius:8px; color:#92400e; font-size:12px; font-family:inherit; padding:4px 8px; cursor:pointer; outline:none; }
+    #sel-cur-cat:focus { border-color:#f59e0b; }
     .btn-folder-action { background:rgba(146,64,14,0.08); border:1px solid #fcd34d; color:#92400e; font-size:13px; line-height:1; width:26px; height:26px; display:inline-flex; align-items:center; justify-content:center; border-radius:6px; cursor:pointer; font-family:inherit; transition:background 0.15s; padding:0; flex-shrink:0; }
     .btn-folder-action:hover { background:rgba(146,64,14,0.18); }
     .btn-limpar { background:#fff; border:1.5px solid #fca5a5; color:#dc2626; font-size:12px; font-weight:600; padding:5px 14px; border-radius:8px; cursor:pointer; font-family:inherit; transition:background 0.15s; }
@@ -148,6 +151,9 @@
       .tabs-outer { top:104px; height:40px; }
       .tabs-scroll-btn { width:28px; height:40px; }
       .tab { padding:0 10px; font-size:12px; height:40px; }
+      .curadoria-bar { top:144px; }
+      .folder-icons-row { padding:8px 12px; }
+      .curadoria-controls-row { padding:8px 12px; }
       main { padding:12px; }
       .cards-grid { grid-template-columns:1fr; gap:14px; }
     }
@@ -197,15 +203,16 @@
   <button class="tabs-scroll-btn hidden" id="tabs-right">&#8250;</button>
 </div>
 <div class="curadoria-bar" id="curadoria-bar">
-  <span class="curadoria-bar-info" id="curadoria-bar-info"></span>
-  <span class="cur-cat-label">Pasta</span>
-  <select id="sel-cur-pasta"><option value="Geral">Geral</option></select>
-  <button class="btn-folder-action" id="btn-nova-pasta" title="Nova pasta">+</button>
-  <button class="btn-folder-action" id="btn-rename-pasta" title="Renomear pasta">✎</button>
-  <button class="btn-folder-action" id="btn-del-pasta" title="Excluir pasta">✕</button>
-  <span class="cur-cat-label">Categoria</span>
-  <select id="sel-cur-cat"><option value="">Todas</option></select>
-  <button class="btn-limpar" id="btn-limpar-tudo">Limpar pasta</button>
+  <div class="folder-icons-row" id="folder-icons-row"></div>
+  <div class="curadoria-controls-row">
+    <span class="curadoria-bar-info" id="curadoria-bar-info"></span>
+    <button class="btn-folder-action" id="btn-nova-pasta" title="Nova pasta">+</button>
+    <button class="btn-folder-action" id="btn-rename-pasta" title="Renomear pasta">✎</button>
+    <button class="btn-folder-action" id="btn-del-pasta" title="Excluir pasta">✕</button>
+    <span class="cur-cat-label">Categoria</span>
+    <select id="sel-cur-cat"><option value="">Todas</option></select>
+    <button class="btn-limpar" id="btn-limpar-tudo">Limpar pasta</button>
+  </div>
 </div>
 <main>
   <div class="cards-grid" id="content">
@@ -295,16 +302,6 @@ function toggleStar(guid){
   addToFolder(guid,'Geral');
   return true;
 }
-function populateFolderSelect(data){
-  var sel=document.getElementById('sel-cur-pasta');
-  if(!sel)return;
-  sel.innerHTML=Object.keys(data).map(function(f){
-    var n=data[f].length;
-    return'<option value="'+esc(f)+'">'+esc(f)+(n?' ('+n+')':'')+'</option>';
-  }).join('');
-  if(data[currentFolder]!==undefined)sel.value=currentFolder;
-  else{currentFolder=Object.keys(data)[0]||'Geral';sel.value=currentFolder;}
-}
 function populateCuradoriaCategories(items){
   var sel=document.getElementById('sel-cur-cat');
   if(!sel)return;
@@ -322,9 +319,8 @@ function showDropZones(){
 function hideDropZones(){
   document.querySelectorAll('.folder-icon').forEach(function(el){el.classList.remove('drag-over','droppable');});
 }
-function buildFolderRowHtml(){
-  var data=getCuradoria();
-  var html='<div class="folder-row" id="folder-row">';
+function buildFolderIconsHtml(data){
+  var html='';
   Object.keys(data).forEach(function(f){
     var count=data[f].length;
     var active=f===currentFolder?' active':'';
@@ -334,7 +330,7 @@ function buildFolderRowHtml(){
       '<span class="folder-icon-count">'+count+(count===1?' artigo':' artigos')+'</span>'+
     '</div>';
   });
-  return html+'</div>';
+  return html;
 }
 function attachFolderEvents(){
   document.querySelectorAll('.folder-icon').forEach(function(icon){
@@ -505,7 +501,9 @@ function applyAndRender(){
   var curData=getCuradoria();
   if(activeTab==='Curadoria'){
     curBar.classList.add('visible');
-    populateFolderSelect(curData);
+    if(curData[currentFolder]===undefined)currentFolder=(curData['Geral']!==undefined)?'Geral':(Object.keys(curData)[0]||'Geral');
+    var folderIconsRow=document.getElementById('folder-icons-row');
+    if(folderIconsRow){folderIconsRow.innerHTML=buildFolderIconsHtml(curData);attachFolderEvents();}
     var folderN=(curData[currentFolder]||[]).length;
     document.getElementById('curadoria-bar-info').textContent=
       '“'+currentFolder+'” · '+folderN+' noticia'+(folderN===1?'':'s');
@@ -619,23 +617,19 @@ function cardHTML(item){
 }
 function renderPage(){
   var content=document.getElementById('content');
-  var isCuradoria=activeTab==='Curadoria';
-  var folderHtml=isCuradoria?buildFolderRowHtml():'';
   if(!currentVisible.length){
     var q=document.getElementById('search-box').value;
-    var emptyMsg=isCuradoria?'Nenhuma noticia nesta pasta.':(q?'Nenhuma noticia para "'+esc(q)+'".':"Nenhuma noticia para este periodo.");
-    content.innerHTML=folderHtml+'<div class="state-msg"><span class="icon">🔍</span><p>'+emptyMsg+'</p></div>';
-    if(isCuradoria)attachFolderEvents();
+    var emptyMsg=activeTab==='Curadoria'?'Nenhuma noticia nesta pasta.':(q?'Nenhuma noticia para "'+esc(q)+'".':"Nenhuma noticia para este periodo.");
+    content.innerHTML='<div class="state-msg"><span class="icon">🔍</span><p>'+emptyMsg+'</p></div>';
     return;
   }
   var end=(currentPage+1)*PAGE_SIZE;
   var slice=currentVisible.slice(0,end);
   var remaining=currentVisible.length-slice.length;
-  var html=folderHtml+slice.map(cardHTML).join('');
+  var html=slice.map(cardHTML).join('');
   if(remaining>0)
     html+='<div class="load-more-wrap"><button class="btn-load-more" onclick="loadMore()">Carregar mais '+Math.min(remaining,PAGE_SIZE)+' noticias ('+remaining+' restantes)</button></div>';
   content.innerHTML=html;
-  if(isCuradoria)attachFolderEvents();
 }
 function loadMore(){currentPage++;renderPage();}
 // Botão Minha Curadoria no header
@@ -674,10 +668,6 @@ document.getElementById('content').addEventListener('click',function(e){
   var cnt=document.getElementById('cnt-curadoria-header');
   if(cnt)cnt.textContent=getAllGuids().length;
   if(activeTab==='Curadoria')applyAndRender();
-});
-// Pasta selector
-document.getElementById('sel-cur-pasta').addEventListener('change',function(){
-  currentFolder=this.value;currentCuradoriaCategory='';applyAndRender();
 });
 // Nova pasta
 document.getElementById('btn-nova-pasta').addEventListener('click',function(){
