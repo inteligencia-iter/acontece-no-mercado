@@ -65,11 +65,16 @@
     #content .card[draggable="true"] { cursor:grab; }
     #content .card[draggable="true"]:active { cursor:grabbing; }
     .card.dragging { opacity:0.30; transform:scale(0.97) !important; box-shadow:none !important; transition:opacity 0.1s,transform 0.1s; }
-    .drag-zone-bar { display:none; position:fixed; bottom:0; left:0; right:0; background:rgba(10,18,36,0.95); backdrop-filter:blur(8px); padding:14px 28px; z-index:500; align-items:center; gap:10px; flex-wrap:wrap; border-top:1px solid rgba(255,255,255,0.10); }
-    .drag-zone-bar.visible { display:flex; }
-    .drag-zone-bar-label { color:rgba(255,255,255,0.50); font-size:11px; white-space:nowrap; margin-right:4px; }
-    .folder-dropzone { background:rgba(255,255,255,0.08); border:2px dashed rgba(255,255,255,0.28); color:rgba(255,255,255,0.80); font-size:12px; padding:8px 20px; border-radius:10px; transition:background 0.12s,border-color 0.12s,color 0.12s; user-select:none; }
-    .folder-dropzone.drag-over { background:rgba(245,158,11,0.28); border-color:#f59e0b; color:#fbbf24; }
+    .drag-zone-bar { display:none; } /* substituída por ícones inline */
+    .folder-row { grid-column:1/-1; display:flex; flex-wrap:wrap; align-items:flex-start; gap:10px; padding:4px 0 20px; }
+    .folder-icon { display:flex; flex-direction:column; align-items:center; gap:3px; padding:10px 16px 8px; border-radius:12px; cursor:pointer; border:2px solid transparent; background:rgba(245,158,11,0.08); transition:background 0.15s,border-color 0.15s,transform 0.12s,box-shadow 0.12s; user-select:none; min-width:80px; }
+    .folder-icon:hover { background:rgba(245,158,11,0.15); border-color:rgba(245,158,11,0.35); }
+    .folder-icon.active { background:rgba(245,158,11,0.20); border-color:#f59e0b; }
+    .folder-icon.droppable { border-color:rgba(245,158,11,0.50); }
+    .folder-icon.drag-over { background:rgba(245,158,11,0.30); border-color:#f59e0b; transform:scale(1.08); box-shadow:0 0 0 4px rgba(245,158,11,0.20); }
+    .folder-icon-emoji { font-size:26px; line-height:1; pointer-events:none; }
+    .folder-icon-name { font-size:11px; color:#92400e; font-weight:500; text-align:center; max-width:90px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; pointer-events:none; }
+    .folder-icon-count { font-size:10px; color:#b45309; pointer-events:none; }
     .no-image { width:100%; height:100%; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:8px; color:rgba(255,255,255,0.9); font-size:11px; font-weight:400; text-transform:uppercase; letter-spacing:0.06em; }
     .no-image .ni-icon { font-size:30px; }
     .cat-aviacao{background:linear-gradient(135deg,#0ea5e9,#0057b8);}
@@ -312,36 +317,46 @@ function populateCuradoriaCategories(items){
 }
 
 function showDropZones(){
-  var bar=document.getElementById('drag-zone-bar');
-  if(!bar)return;
-  var data=getCuradoria();
-  var folders=Object.keys(data);
-  bar.innerHTML='<span class="drag-zone-bar-label">Mover para pasta:</span>';
-  folders.forEach(function(f){
-    var dz=document.createElement('div');
-    dz.className='folder-dropzone';
-    dz.textContent=f;
-    dz.dataset.folder=f;
-    dz.addEventListener('dragover',function(e){e.preventDefault();dz.classList.add('drag-over');});
-    dz.addEventListener('dragleave',function(){dz.classList.remove('drag-over');});
-    dz.addEventListener('drop',function(e){
-      e.preventDefault();
-      dz.classList.remove('drag-over');
-      if(draggedGuid){
-        addToFolder(draggedGuid,f);
-        draggedGuid=null;
-      }
-      hideDropZones();
-      applyAndRender();
-      refreshCuradoriaBar();
-    });
-    bar.appendChild(dz);
-  });
-  bar.classList.add('visible');
+  document.querySelectorAll('.folder-icon').forEach(function(el){el.classList.add('droppable');});
 }
 function hideDropZones(){
-  var bar=document.getElementById('drag-zone-bar');
-  if(bar){bar.classList.remove('visible');bar.innerHTML='<span class="drag-zone-bar-label">Mover para pasta:</span>';}
+  document.querySelectorAll('.folder-icon').forEach(function(el){el.classList.remove('drag-over','droppable');});
+}
+function buildFolderRowHtml(){
+  var data=getCuradoria();
+  var html='<div class="folder-row" id="folder-row">';
+  Object.keys(data).forEach(function(f){
+    var count=data[f].length;
+    var active=f===currentFolder?' active':'';
+    html+='<div class="folder-icon'+active+'" data-folder="'+esc(f)+'">'+
+      '<span class="folder-icon-emoji">📁</span>'+
+      '<span class="folder-icon-name">'+esc(f)+'</span>'+
+      '<span class="folder-icon-count">'+count+(count===1?' artigo':' artigos')+'</span>'+
+    '</div>';
+  });
+  return html+'</div>';
+}
+function attachFolderEvents(){
+  document.querySelectorAll('.folder-icon').forEach(function(icon){
+    var folder=icon.getAttribute('data-folder');
+    icon.addEventListener('click',function(){
+      currentFolder=folder;currentCuradoriaCategory='';applyAndRender();
+    });
+    icon.addEventListener('dragover',function(e){
+      if(!draggedGuid)return;
+      e.preventDefault();
+      icon.classList.add('drag-over');
+    });
+    icon.addEventListener('dragleave',function(e){
+      if(!icon.contains(e.relatedTarget))icon.classList.remove('drag-over');
+    });
+    icon.addEventListener('drop',function(e){
+      e.preventDefault();
+      icon.classList.remove('drag-over');
+      if(draggedGuid){addToFolder(draggedGuid,folder);draggedGuid=null;}
+      applyAndRender();
+    });
+  });
 }
 function norm(s){return(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().trim();}
 function esc(s){return(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
@@ -604,18 +619,23 @@ function cardHTML(item){
 }
 function renderPage(){
   var content=document.getElementById('content');
+  var isCuradoria=activeTab==='Curadoria';
+  var folderHtml=isCuradoria?buildFolderRowHtml():'';
   if(!currentVisible.length){
     var q=document.getElementById('search-box').value;
-    content.innerHTML='<div class="state-msg"><span class="icon">🔍</span><p>'+(q?'Nenhuma noticia para "'+esc(q)+'".':"Nenhuma noticia para este periodo.")+'</p></div>';
+    var emptyMsg=isCuradoria?'Nenhuma noticia nesta pasta.':(q?'Nenhuma noticia para "'+esc(q)+'".':"Nenhuma noticia para este periodo.");
+    content.innerHTML=folderHtml+'<div class="state-msg"><span class="icon">🔍</span><p>'+emptyMsg+'</p></div>';
+    if(isCuradoria)attachFolderEvents();
     return;
   }
   var end=(currentPage+1)*PAGE_SIZE;
   var slice=currentVisible.slice(0,end);
   var remaining=currentVisible.length-slice.length;
-  var html=slice.map(cardHTML).join('');
+  var html=folderHtml+slice.map(cardHTML).join('');
   if(remaining>0)
     html+='<div class="load-more-wrap"><button class="btn-load-more" onclick="loadMore()">Carregar mais '+Math.min(remaining,PAGE_SIZE)+' noticias ('+remaining+' restantes)</button></div>';
   content.innerHTML=html;
+  if(isCuradoria)attachFolderEvents();
 }
 function loadMore(){currentPage++;renderPage();}
 // Botão Minha Curadoria no header
@@ -776,8 +796,5 @@ function init(){
 }
 init();
 </script>
-<div class="drag-zone-bar" id="drag-zone-bar">
-  <span class="drag-zone-bar-label">Mover para pasta:</span>
-</div>
 </body>
 </html>
