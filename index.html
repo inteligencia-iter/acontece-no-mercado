@@ -95,8 +95,10 @@
     .curadoria-bar.visible { display:flex; }
     .curadoria-bar-info { font-size:12px; color:#92400e; flex:1; }
     .cur-cat-label { font-size:11px; color:#92400e; font-weight:400; white-space:nowrap; }
-    #sel-cur-cat { background:#fff7ed; border:1px solid #fcd34d; border-radius:8px; color:#92400e; font-size:12px; font-family:inherit; padding:4px 8px; cursor:pointer; outline:none; }
-    #sel-cur-cat:focus { border-color:#f59e0b; }
+    #sel-cur-pasta,#sel-cur-cat { background:#fff7ed; border:1px solid #fcd34d; border-radius:8px; color:#92400e; font-size:12px; font-family:inherit; padding:4px 8px; cursor:pointer; outline:none; }
+    #sel-cur-pasta:focus,#sel-cur-cat:focus { border-color:#f59e0b; }
+    .btn-folder-action { background:rgba(146,64,14,0.08); border:1px solid #fcd34d; color:#92400e; font-size:13px; line-height:1; width:26px; height:26px; display:inline-flex; align-items:center; justify-content:center; border-radius:6px; cursor:pointer; font-family:inherit; transition:background 0.15s; padding:0; flex-shrink:0; }
+    .btn-folder-action:hover { background:rgba(146,64,14,0.18); }
     .btn-limpar { background:#fff; border:1.5px solid #fca5a5; color:#dc2626; font-size:12px; font-weight:600; padding:5px 14px; border-radius:8px; cursor:pointer; font-family:inherit; transition:background 0.15s; }
     .btn-limpar:hover { background:#fee2e2; }
     .cat-curadoria { background:linear-gradient(135deg,#f59e0b,#d97706); }
@@ -183,9 +185,14 @@
 </div>
 <div class="curadoria-bar" id="curadoria-bar">
   <span class="curadoria-bar-info" id="curadoria-bar-info"></span>
+  <span class="cur-cat-label">Pasta</span>
+  <select id="sel-cur-pasta"><option value="Geral">Geral</option></select>
+  <button class="btn-folder-action" id="btn-nova-pasta" title="Nova pasta">+</button>
+  <button class="btn-folder-action" id="btn-rename-pasta" title="Renomear pasta">✎</button>
+  <button class="btn-folder-action" id="btn-del-pasta" title="Excluir pasta">✕</button>
   <span class="cur-cat-label">Categoria</span>
   <select id="sel-cur-cat"><option value="">Todas</option></select>
-  <button class="btn-limpar" id="btn-limpar-tudo">Limpar curadoria</button>
+  <button class="btn-limpar" id="btn-limpar-tudo">Limpar pasta</button>
 </div>
 <main>
   <div class="cards-grid" id="content">
@@ -223,27 +230,76 @@ var SOURCE_LABEL = {
 var MES_NOME = ['','Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'];
 var allItems=[],availableMonths=[],loadedMonths={},guidSet={},activeTab='Todos';
 var currentVisible=[],currentPage=0,currentWords=[],currentPhrases=[],currentSource='';
-var CURADORIA_KEY='anm_curadoria_v1';
+var CURADORIA_KEY='anm_curadoria_v2';
 var currentCuradoriaCategory='';
-function getCuradoria(){try{return JSON.parse(localStorage.getItem(CURADORIA_KEY)||'[]');}catch(e){return[];}}
-function saveCuradoria(guids){try{localStorage.setItem(CURADORIA_KEY,JSON.stringify(guids));}catch(e){}}
-function toggleStar(guid){var list=getCuradoria();var idx=list.indexOf(guid);if(idx>=0)list.splice(idx,1);else list.push(guid);saveCuradoria(list);return idx<0;}
-function clearCuradoria(){saveCuradoria([]);}
+var currentFolder='Geral';
+// ── Curadoria helpers (pastas) ─────────────────────────────────────────────────
+function getCuradoria(){
+  try{
+    var raw=localStorage.getItem(CURADORIA_KEY);
+    if(!raw){
+      // Migração automática de v1 → v2
+      var v1=localStorage.getItem('anm_curadoria_v1');
+      if(v1){var arr=JSON.parse(v1)||[];var d={'Geral':arr};localStorage.setItem(CURADORIA_KEY,JSON.stringify(d));localStorage.removeItem('anm_curadoria_v1');return d;}
+      return{'Geral':[]};
+    }
+    var data=JSON.parse(raw);
+    // Compatibilidade: se ainda for array plano, converte
+    if(Array.isArray(data)){var d2={'Geral':data};localStorage.setItem(CURADORIA_KEY,JSON.stringify(d2));return d2;}
+    if(!data['Geral'])data['Geral']=[];
+    return data;
+  }catch(e){return{'Geral':[]};}
+}
+function saveCuradoria(data){try{localStorage.setItem(CURADORIA_KEY,JSON.stringify(data));}catch(e){}}
+function getAllGuids(){
+  var data=getCuradoria(),guids=[];
+  Object.keys(data).forEach(function(f){data[f].forEach(function(g){if(guids.indexOf(g)<0)guids.push(g);});});
+  return guids;
+}
+function getArticleFolder(guid){var data=getCuradoria();for(var f in data){if(data[f].indexOf(guid)>=0)return f;}return null;}
+function addToFolder(guid,folder){
+  var data=getCuradoria();
+  Object.keys(data).forEach(function(f){var i=data[f].indexOf(guid);if(i>=0)data[f].splice(i,1);});
+  if(!data[folder])data[folder]=[];
+  data[folder].push(guid);saveCuradoria(data);
+}
+function removeFromCuradoria(guid){
+  var data=getCuradoria();
+  Object.keys(data).forEach(function(f){var i=data[f].indexOf(guid);if(i>=0)data[f].splice(i,1);});
+  saveCuradoria(data);
+}
+function createFolder(name){var data=getCuradoria();if(!data[name])data[name]=[];saveCuradoria(data);}
+function deleteFolder(name){if(name==='Geral')return false;var data=getCuradoria();delete data[name];saveCuradoria(data);return true;}
+function renameFolder(oldName,newName){
+  if(oldName==='Geral')return false;
+  var data=getCuradoria();if(data[newName]!==undefined)return false;
+  data[newName]=data[oldName];delete data[oldName];saveCuradoria(data);return true;
+}
+function toggleStar(guid){
+  var folder=getArticleFolder(guid);
+  if(folder!==null){removeFromCuradoria(guid);return false;}
+  addToFolder(guid,(activeTab==='Curadoria'&&currentFolder)?currentFolder:'Geral');
+  return true;
+}
+function populateFolderSelect(data){
+  var sel=document.getElementById('sel-cur-pasta');
+  if(!sel)return;
+  sel.innerHTML=Object.keys(data).map(function(f){
+    var n=data[f].length;
+    return'<option value="'+esc(f)+'">'+esc(f)+(n?' ('+n+')':'')+'</option>';
+  }).join('');
+  if(data[currentFolder]!==undefined)sel.value=currentFolder;
+  else{currentFolder=Object.keys(data)[0]||'Geral';sel.value=currentFolder;}
+}
 function populateCuradoriaCategories(items){
   var sel=document.getElementById('sel-cur-cat');
   if(!sel)return;
   var prev=sel.value;
   var cats={};
-  items.forEach(function(i){
-    var k=catKey(i.canonical_category_l1||'');
-    if(k)cats[k]=catLabel(i.canonical_category_l1||'');
-  });
+  items.forEach(function(i){var k=catKey(i.canonical_category_l1||'');if(k)cats[k]=catLabel(i.canonical_category_l1||'');});
   sel.innerHTML='<option value="">Todas</option>';
-  Object.keys(cats).sort().forEach(function(k){
-    sel.innerHTML+='<option value="'+k+'">'+esc(cats[k])+'</option>';
-  });
-  if(prev&&cats[prev]){sel.value=prev;}
-  else{currentCuradoriaCategory='';}
+  Object.keys(cats).sort().forEach(function(k){sel.innerHTML+='<option value="'+k+'">'+esc(cats[k])+'</option>';});
+  if(prev&&cats[prev]){sel.value=prev;}else{currentCuradoriaCategory='';}
 }
 
 function norm(s){return(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().trim();}
@@ -390,11 +446,13 @@ function applyAndRender(){
   currentWords=parsed.words;
   // Curadoria bar visibility
   var curBar=document.getElementById('curadoria-bar');
-  var curList=getCuradoria();
+  var curData=getCuradoria();
   if(activeTab==='Curadoria'){
     curBar.classList.add('visible');
+    populateFolderSelect(curData);
+    var folderN=(curData[currentFolder]||[]).length;
     document.getElementById('curadoria-bar-info').textContent=
-      curList.length+(curList.length===1?' noticia selecionada':' noticias selecionadas')+' na curadoria';
+      '“'+currentFolder+'” · '+folderN+' noticia'+(folderN===1?'':'s');
   }else{
     curBar.classList.remove('visible');
   }
@@ -422,7 +480,7 @@ function applyAndRender(){
       counts['Politica e Regulacao Setorial']++;
     counts['Todos']++;
   });
-  var curN=getCuradoria().length;
+  var curN=getAllGuids().length;
   var hBadge=document.getElementById('cnt-curadoria-header');
   if(hBadge)hBadge.textContent=curN;
   var hBtn=document.getElementById('btn-curadoria-header');
@@ -435,8 +493,8 @@ function applyAndRender(){
   if(activeTab==='Todos'){
     visible=items;
   }else if(activeTab==='Curadoria'){
-    var savedGuids=getCuradoria();
-    var curItems=allItems.filter(function(i){return savedGuids.indexOf(i.guid||'')>=0;});
+    var folderGuids=(curData[currentFolder]||[]);
+    var curItems=allItems.filter(function(i){return folderGuids.indexOf(i.guid||'')>=0;});
     populateCuradoriaCategories(curItems);
     visible=currentCuradoriaCategory
       ?curItems.filter(function(i){return catKey(i.canonical_category_l1||'')===currentCuradoriaCategory;})
@@ -476,7 +534,7 @@ function imageBlock(item){
   var cat=esc(catLabel(item.canonical_category_l1));
   var badge='<span class="img-cat-badge">'+cat+'</span>';
   var novo=pubDateBRT(item.pub_date)===TODAY?'<span class="novo-badge">Novo</span>':'';
-  var saved=getCuradoria().indexOf(item.guid||'')>=0;
+  var saved=getArticleFolder(item.guid||'')!==null;
   var star='<button class="star-btn'+(saved?' saved':'')+'" data-guid="'+esc(item.guid||'')+'" title="'+(saved?'Remover da curadoria':'Salvar na curadoria')+'">&#9733;</button>';
   if(item.image_url){
     return '<div class="card-image">'+star+novo+'<img src="'+esc(item.image_url)+'" alt="" loading="lazy" onerror="imgFallback(this,\''+css+'\',\''+icon+'\',\''+cat+'\')">'+badge+'</div>';
@@ -536,22 +594,47 @@ document.getElementById('content').addEventListener('click',function(e){
   btn.classList.toggle('saved',saved);
   btn.title=saved?'Remover da curadoria':'Salvar na curadoria';
   var cnt=document.getElementById('cnt-curadoria-header');
-  if(cnt)cnt.textContent=getCuradoria().length;
+  if(cnt)cnt.textContent=getAllGuids().length;
   if(activeTab==='Curadoria')applyAndRender();
+});
+// Pasta selector
+document.getElementById('sel-cur-pasta').addEventListener('change',function(){
+  currentFolder=this.value;currentCuradoriaCategory='';applyAndRender();
+});
+// Nova pasta
+document.getElementById('btn-nova-pasta').addEventListener('click',function(){
+  var name=(prompt('Nome da nova pasta:')||'').trim();
+  if(!name)return;
+  var data=getCuradoria();
+  if(data[name]!==undefined){alert('Já existe uma pasta com esse nome.');return;}
+  createFolder(name);currentFolder=name;currentCuradoriaCategory='';applyAndRender();
+});
+// Renomear pasta
+document.getElementById('btn-rename-pasta').addEventListener('click',function(){
+  if(currentFolder==='Geral'){alert('A pasta "Geral" não pode ser renomeada.');return;}
+  var newName=(prompt('Novo nome para "'+currentFolder+'":', currentFolder)||'').trim();
+  if(!newName||newName===currentFolder)return;
+  var data=getCuradoria();
+  if(data[newName]!==undefined){alert('Já existe uma pasta com esse nome.');return;}
+  renameFolder(currentFolder,newName);currentFolder=newName;applyAndRender();
+});
+// Excluir pasta
+document.getElementById('btn-del-pasta').addEventListener('click',function(){
+  if(currentFolder==='Geral'){alert('A pasta "Geral" não pode ser excluída.');return;}
+  var data=getCuradoria();var n=(data[currentFolder]||[]).length;
+  if(!confirm('Excluir a pasta "'+currentFolder+'"?'+(n?'\n\n'+n+' noticia'+(n===1?'':'s')+' será removida da curadoria (não do monitor).':'')))return;
+  deleteFolder(currentFolder);currentFolder='Geral';currentCuradoriaCategory='';applyAndRender();
 });
 // Filtro de categoria dentro da curadoria
 document.getElementById('sel-cur-cat').addEventListener('change',function(){
-  currentCuradoriaCategory=this.value;
-  applyAndRender();
+  currentCuradoriaCategory=this.value;applyAndRender();
 });
-// Limpar curadoria
+// Limpar pasta atual
 document.getElementById('btn-limpar-tudo').addEventListener('click',function(){
-  var n=getCuradoria().length;
+  var data=getCuradoria();var n=(data[currentFolder]||[]).length;
   if(!n)return;
-  if(!confirm('Remover '+n+' noticia'+(n===1?'':'s')+' da sua curadoria?\n\nIsso não as exclui do monitor de noticias.'))return;
-  clearCuradoria();
-  currentCuradoriaCategory='';
-  applyAndRender();
+  if(!confirm('Remover '+n+' noticia'+(n===1?'':'s')+' da pasta "'+currentFolder+'"?\n\nIsso não as exclui do monitor.'))return;
+  data[currentFolder]=[];saveCuradoria(data);currentCuradoriaCategory='';applyAndRender();
 });
 document.getElementById('sel-ano').addEventListener('change',function(){updateMes();loadForSelection();});
 document.getElementById('sel-mes').addEventListener('change',function(){loadForSelection();});
@@ -580,7 +663,7 @@ function refreshTabCounts(){
     counts['Todos']++;
   });
   var hBadge2=document.getElementById('cnt-curadoria-header');
-  if(hBadge2)hBadge2.textContent=getCuradoria().length;
+  if(hBadge2)hBadge2.textContent=getAllGuids().length;
   CATEGORIES.forEach(function(cat){
     var el=document.getElementById('cnt-'+cat.key.replace(/\s+/g,'_'));
     if(el)el.textContent=counts[cat.key]||0;
