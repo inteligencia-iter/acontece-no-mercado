@@ -356,6 +356,7 @@ function attachFolderEvents(){
 }
 function norm(s){return(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().trim();}
 function esc(s){return(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+function safeLink(url){return(url&&/^https?:\/\//i.test(url))?url:'#';}
 function escRe(s){return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');}
 function decodeHtml(s){if(!s)return'';var t=document.createElement('textarea');t.innerHTML=s;return t.value;}
 
@@ -452,7 +453,7 @@ function buildTabs(){
     c.appendChild(tab);
   });
   var hBadge=document.getElementById('cnt-curadoria-header');
-  if(hBadge)hBadge.textContent=getCuradoria().length;
+  if(hBadge)hBadge.textContent=getAllGuids().length;
   updateScrollBtns();
 }
 document.getElementById('tabs-bar').addEventListener('scroll',updateScrollBtns);
@@ -572,8 +573,13 @@ function applyAndRender(){
   renderPage();
   setTimeout(updateScrollBtns,50);
 }
-function imgFallback(img,css,icon,cat){
+function handleImageError(img){
   var p=img.parentElement;
+  if(!p)return;
+  // dataset retorna valores já decodificados do HTML — reescapamos antes de reinserir via innerHTML
+  var css=esc(img.dataset.catCss||'default');
+  var icon=esc(img.dataset.catIcon||'📰');
+  var cat=esc(img.dataset.catLabel||'');
   p.innerHTML='<div class="no-image cat-'+css+'"><span class="ni-icon">'+icon+'</span><span>'+cat+'</span></div><span class="img-cat-badge">'+cat+'</span>';
 }
 var TODAY=new Date(Date.now()-3*60*60*1000).toISOString().slice(0,10); // BRT (UTC-3)
@@ -591,7 +597,7 @@ function imageBlock(item){
   var saved=getArticleFolder(item.guid||'')!==null;
   var star='<button class="star-btn'+(saved?' saved':'')+'" data-guid="'+esc(item.guid||'')+'" title="'+(saved?'Remover da curadoria':'Salvar na curadoria')+'">&#9733;</button>';
   if(item.image_url){
-    return '<div class="card-image">'+star+novo+'<img src="'+esc(item.image_url)+'" alt="" loading="lazy" onerror="imgFallback(this,\''+css+'\',\''+icon+'\',\''+cat+'\')">'+badge+'</div>';
+    return '<div class="card-image">'+star+novo+'<img src="'+esc(item.image_url)+'" alt="" loading="lazy" data-cat-css="'+esc(css)+'" data-cat-icon="'+esc(icon)+'" data-cat-label="'+cat+'">'+badge+'</div>';
   }
   return '<div class="card-image">'+star+novo+'<div class="no-image cat-'+css+'"><span class="ni-icon">'+icon+'</span><span>'+cat+'</span></div>'+badge+'</div>';
 }
@@ -609,7 +615,7 @@ function cardHTML(item){
     '</div>'+
     '<div class="card-footer">'+
       '<span class="source-label"><span class="source-dot dot-'+src+'"></span>'+srcLb+'</span>'+
-      '<a class="btn-ver-mais" href="'+esc(item.link||'#')+'" target="_blank" rel="noopener">'+
+      '<a class="btn-ver-mais" href="'+esc(safeLink(item.link))+'" target="_blank" rel="noopener">'+
         'Ver mais <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>'+
       '</a>'+
     '</div>'+
@@ -639,6 +645,10 @@ document.getElementById('btn-curadoria-header').addEventListener('click',functio
   this.classList.add('active');
   applyAndRender();
 });
+// Fallback de imagem — 'error' não faz bubble, precisa de capture na delegação
+document.getElementById('content').addEventListener('error',function(e){
+  if(e.target&&e.target.tagName==='IMG'&&e.target.closest('.card-image'))handleImageError(e.target);
+},true);
 // Drag-and-drop — event delegation no #content
 document.getElementById('content').addEventListener('dragstart',function(e){
   var card=e.target.closest('.card[draggable="true"]');
