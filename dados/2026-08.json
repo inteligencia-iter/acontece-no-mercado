@@ -1,5 +1,28 @@
 [
   {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/08/cade-da-sinal-verde-para-american-airlines-adquirir-fatia-de-8-da-azul_230686.html",
+    "title": "Cade dá sinal verde para American Airlines adquirir fatia de 8% da Azul",
+    "link": "https://www.panrotas.com.br/aviacao/empresas/2026/08/cade-da-sinal-verde-para-american-airlines-adquirir-fatia-de-8-da-azul_230686.html",
+    "description": "Operação não apresenta riscos concorrenciais capazes de prejudicar consumidores, segundo o Cade",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/03/07/9640ab93b4b94cc33fb49bebf717e239-aeronavea330neoquefaraanovarotafotoguilhermemion3.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-08-01T13:01:00+00:00",
+    "source_category_raw": "Aviação - Empresas",
+    "all_categories": [
+      "Aviação - Empresas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Empresas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.884,
+    "layout_tier": "manchete"
+  },
+  {
     "source_id": "g1_turismo",
     "guid": "https://g1.globo.com/mundo/noticia/2026/08/01/eua-tornam-permanente-exigencia-de-caucao-de-ate-us-20-mil-para-vistos-de-cidadaos-de-50-paises.ghtml",
     "title": "EUA tornam permanente exigência de caução de até US$ 20 mil para vistos de cidadãos de 50 países",
@@ -19,7 +42,7 @@
     "category_mapping_confidence": 0.7481,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.507,
+    "destaque_score": 0.489,
     "layout_tier": "grade"
   }
 ]
