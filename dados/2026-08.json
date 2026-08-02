@@ -1,5 +1,31 @@
 [
   {
+    "source_id": "agenciabrasil",
+    "guid": "1698302 at https://agenciabrasil.ebc.com.br",
+    "title": "Brasil é quarto país que mais ampliou turismo internacional, diz OCDE",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/brasil-e-quarto-pais-que-mais-ampliou-turismo-internacional-diz-ocde",
+    "description": "O Brasil foi o quarto país que mais aumentou o número de turistas internacionais de 2019 a 2025, segundo o relatório Tendências e Políticas do Turismo 2026, da Organização para a Cooperação e Desenvolvimento Econômico (OCDE). No período, o fluxo de visitantes estrangeiros cresceu 46%, passando de 6,3 milhões para 9,3 milhões de turistas. O levantamento compara o desempenho dos países em 2019, antes da pandemia de covid-19, aos resultados registrados em 2025, mostrando o ritmo de recuperação e expansão do turismo internacional. Brasil em destaque Notícias relacionadas: Cristo Redentor terá novas escadas e elevadores de acesso. Com crescimento de 46% no número de visitantes estrangeiros, o Brasil ficou entre os países com melhor desempenho no período analisado. O resultado coloca o país à frente de importantes destinos turísticos internacionais, como: Japão: 34% de crescimento; Portugal: 20%; Espanha: 16%; França: 12%. Na América do Sul, o Brasil também se destacou. Enquanto o fluxo de turistas aumentou no país, outras nações registraram retração no período: Argentina: -23%; Peru: -22%. Primeiro semestre Segundo a Agência Brasileira de Promoção Internacional do Turismo (Embratur), o desempenho acompanha os resultados registrados em 2026. Nos seis primeiros meses deste ano, o Brasil recebeu 5,2 milhões de turistas internacionais, o segundo maior volume para um primeiro semestre da série histórica . Os visitantes deixaram US$ 5,6 bilhões na economia brasileira, valor 12% superior ao registrado no mesmo período de 2025. Promoção internacional De acordo com a Embratur, o crescimento também reflete a ampliação das ações de promoção do Brasil no exterior. Entre as iniciativas estão: participação em feiras internacionais; realização de viagens de imprensa ( press trips ); organização de viagens de familiarização para operadores e agentes de turismo ( famtours ); campanhas de divulgação em mercados estratégicos. Recuperação global O relatório da OCDE destaca que o turismo internacional segue em trajetória de recuperação após a pandemia , impulsionado pelo aumento da demanda por viagens, pela retomada da conectividade entre os países e pela expansão dos investimentos no setor. Segundo a organização, além de movimentar a economia, o turismo continua desempenhando papel importante na geração de empregos e no desenvolvimento regional das economias analisadas.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Wellton Máximo - Repórter da Agência Brasil",
+    "pub_date": "2026-08-02T15:34:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "OCDE",
+      "turismo",
+      "turismo internacional"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.7005,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.539,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "valor_economico",
     "guid": "CBMipgFBVV95cUxNQjZEWjRhX3NDblgtQzhLZlFFOFJIWkxfcEV0c1ZSZ1lNNWNBbUpnWDRuRThOT1dKa1pFbHlhTXFiYXFOSmZZckJoOTBoOXBYdmtpNUswRFpfaWhiblBMb2ppZVhrN1dDNjhTVi1oN1B6dm5VMGlpNXhNTXFEeG5KMzJrTHNMbThRNXo4eDlWekNYdFF0ak0yUTVUZUFGNHRvd1lsZ1pn0gG0AUFVX3lxTFBSRjJJT2FsNzE5TGQ3VndYZEhGYXkyU0l2SW0wQ3BGSk9KNnNYSW5iUGNwbzNvbEQ3UmVpY0FueTVJVmFhVVd3a1ZreFhIMkpsT0Rtc0U5Rk95VF9sTFJVUV94OENsbFRXX2Z0RGs0eTJKR2d2VTBvSXdPQ1RFNFVINnhvek9ISGtEOVFyQjB1ZlU5akw5Q2tmR3laSlVycXZWR25jU29mNWtWeW8tTkR0Znp1Yw",
     "title": "Avião com turistas cai no Peru e mata 13 pessoas",
@@ -17,7 +43,7 @@
     "category_mapping_confidence": 0.5715,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.42,
+    "destaque_score": 0.407,
     "layout_tier": "grade"
   },
   {
@@ -40,7 +66,7 @@
     "category_mapping_confidence": 0.7004,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.446,
+    "destaque_score": 0.434,
     "layout_tier": "grade"
   },
   {
@@ -63,7 +89,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.827,
+    "destaque_score": 0.817,
     "layout_tier": "manchete"
   },
   {
@@ -84,7 +110,7 @@
     "category_mapping_confidence": 0.583,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.599,
+    "destaque_score": 0.589,
     "layout_tier": "grade"
   },
   {
@@ -107,7 +133,7 @@
     "category_mapping_confidence": 0.7481,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.437,
+    "destaque_score": 0.428,
     "layout_tier": "grade"
   }
 ]
