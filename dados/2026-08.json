@@ -17,7 +17,7 @@
     "category_mapping_confidence": 0.5715,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.469,
+    "destaque_score": 0.42,
     "layout_tier": "grade"
   },
   {
@@ -40,7 +40,7 @@
     "category_mapping_confidence": 0.7004,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.492,
+    "destaque_score": 0.446,
     "layout_tier": "grade"
   },
   {
@@ -63,8 +63,29 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.866,
+    "destaque_score": 0.827,
     "layout_tier": "manchete"
+  },
+  {
+    "source_id": "valor_economico",
+    "guid": "CBMi5wFBVV95cUxNaE5qaFBxdW82YkpxVUJxNm5ScC1GaUgtbG1aZEFfbXIydDJ4Y0hkR3ZsQ0lCeWZvYXN1dnFrS3VTNjFwSDlRY3VfM1JFeGQ5X1E2M1F2Umt2a2VLcTlqaEhCZEpPLVNWV1docW9BR19fLUZNajVOOWtKeUpMZEp1MnNmM01WaVYyM2pyd2VxNmh3ODFTdUViQzNBbGlsdVpCOElyVVg0aGNYT090cGljWHhrS05DdXFvOE85MWszSUlpdTJWbHF4U3ZBdDc5ekJJWlRZd1prN2R5VVZOOUozNHRHYzFwSjDSAfYBQVVfeXFMUFYzR0pRaVRtNW92QXJHZDhJcnAzTHo1N18yRzg2TkRaNDRkRlFVUjczcm5EaFZ0Q0JwSmQ3R1VfY0w3NUVsYTFFR01pc2RodHhrVlEyN0Z6MWxXOHJUV0ZocGNERlhXa2lDd0NjNXN6TlQ5RXUwMUI5bC1JNkY3U05wT1VEeGlpeGVGamR3WUNsbnVEYmxYd2VMR1ZQdFhVV3l6OVU1MDF5R0FGbTVDZkpBRVlQMVo1Y2wyakVVaFI4WElFODNpZHRLa21ibmVrMm0zVk9BS2daaEd2ekswV1BMdGpJRXdwenl3aEpDSXEwZ2VaNzV3",
+    "title": "Livros: A primeira mulher negra no comando do maior avião de passageiros do mundo; o que é ser homem?",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaE5qaFBxdW82YkpxVUJxNm5ScC1GaUgtbG1aZEFfbXIydDJ4Y0hkR3ZsQ0lCeWZvYXN1dnFrS3VTNjFwSDlRY3VfM1JFeGQ5X1E2M1F2Umt2a2VLcTlqaEhCZEpPLVNWV1docW9BR19fLUZNajVOOWtKeUpMZEp1MnNmM01WaVYyM2pyd2VxNmh3ODFTdUViQzNBbGlsdVpCOElyVVg0aGNYT090cGljWHhrS05DdXFvOE85MWszSUlpdTJWbHF4U3ZBdDc5ekJJWlRZd1prN2R5VVZOOUozNHRHYzFwSjDSAfYBQVVfeXFMUFYzR0pRaVRtNW92QXJHZDhJcnAzTHo1N18yRzg2TkRaNDRkRlFVUjczcm5EaFZ0Q0JwSmQ3R1VfY0w3NUVsYTFFR01pc2RodHhrVlEyN0Z6MWxXOHJUV0ZocGNERlhXa2lDd0NjNXN6TlQ5RXUwMUI5bC1JNkY3U05wT1VEeGlpeGVGamR3WUNsbnVEYmxYd2VMR1ZQdFhVV3l6OVU1MDF5R0FGbTVDZkpBRVlQMVo1Y2wyakVVaFI4WElFODNpZHRLa21ibmVrMm0zVk9BS2daaEd2ekswV1BMdGpJRXdwenl3aEpDSXEwZ2VaNzV3?oc=5",
+    "description": "Livros: A primeira mulher negra no comando do maior avião de passageiros do mundo; o que é ser homem? Valor Econômico",
+    "image_url": null,
+    "author": "",
+    "pub_date": "2026-08-01T11:00:41+00:00",
+    "source_category_raw": null,
+    "all_categories": [],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.583,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.599,
+    "layout_tier": "grade"
   },
   {
     "source_id": "g1_turismo",
@@ -86,7 +107,7 @@
     "category_mapping_confidence": 0.7481,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.472,
+    "destaque_score": 0.437,
     "layout_tier": "grade"
   }
 ]
