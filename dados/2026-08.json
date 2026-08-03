@@ -1,6 +1,305 @@
 [
   {
     "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719712",
+    "title": "Kennedy Space Center lança promoção com ingresso de adulto pelo preço de criança",
+    "link": "https://www.mercadoeeventos.com.br/noticias/parques-e-atracoes/kennedy-space-center-lanca-promocao-com-ingresso-de-adulto-pelo-preco-de-crianca/",
+    "description": "Kennedy Space Center: oferta é válida para reservas feitas até outubro e visitas realizadas até dezembro de 2026",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/unnamed-16.jpg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-08-03T21:45:37+00:00",
+    "source_category_raw": "Parques e Atrações",
+    "all_categories": [
+      "Parques e Atrações"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3226,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.529,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719710",
+    "title": "Ancoradouro anuncia retorno de Marcos Boarati após 15 anos e reforça operação comercial",
+    "link": "https://www.mercadoeeventos.com.br/noticias/agencias-e-operadoras/ancoradouro-anuncia-retorno-de-marcos-boarati-apos-15-anos-e-reforca-operacao-comercial/",
+    "description": "Executivo assume supervisão de vendas e reforça estratégia da empresa junto às agências de viagens do interior paulista",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/LVM06708.jpg-scaled.jpeg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-08-03T21:34:38+00:00",
+    "source_category_raw": "Agências e Operadoras",
+    "all_categories": [
+      "Agências e Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.697,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719709",
+    "title": "Royal Caribbean libera crianças e adolescentes de graça em cruzeiros do verão de 2027",
+    "link": "https://www.mercadoeeventos.com.br/noticias/cruzeiros/royal-caribbean-libera-criancas-e-adolescentes-de-graca-em-cruzeiros-do-verao-de-2027/",
+    "description": "Promoção da Royal inclui roteiros pelo Caribe, Europa e Alasca em diferentes categorias de navios",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/06/Classe-Icon-da-Royal-Cribbean-DivulgacaoRoyal-Cribbean-1-1-scaled.jpeg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-08-03T21:29:20+00:00",
+    "source_category_raw": "Cruzeiros",
+    "all_categories": [
+      "Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.697,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719706",
+    "title": "RCA Turismo reforça operação no Sul e anuncia Luis Inacio Gomes como representante no Rio Grande do Sul",
+    "link": "https://www.mercadoeeventos.com.br/uncategorized/rca-turismo-reforca-operacao-no-sul-e-anuncia-luis-inacio-gomes-como-representante-no-rio-grande-do-sul/",
+    "description": "Executivo passa a responder também pelo mercado do Rio Grande do Sul a partir de agosto",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/Foto-Divulgacao-edited.jpeg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-08-03T21:09:29+00:00",
+    "source_category_raw": "Uncategorized",
+    "all_categories": [
+      "Uncategorized"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.1941,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.494,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719678",
+    "title": "Howl-O-Scream 2026 ganha casa assombrada inspirada em “Eu Sei o Que Vocês Fizeram no Verão Passado”",
+    "link": "https://www.mercadoeeventos.com.br/noticias/parques-e-atracoes/howl-o-scream-2026-ganha-casa-assombrada-inspirada-em-eu-sei-o-que-voces-fizeram-no-verao-passado/",
+    "description": "Howl-O-Scream 2026 terá atração inédita baseada na franquia de terror da Sony Pictures",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/unnamed-32.png",
+    "author": "Giulia Jardim",
+    "pub_date": "2026-08-03T21:00:00+00:00",
+    "source_category_raw": "Parques e Atrações",
+    "all_categories": [
+      "Parques e Atrações"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3914,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.543,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719701",
+    "title": "Rio amplia presença global com 2 iniciativas voltadas ao turismo, saúde e grandes eventos",
+    "link": "https://www.mercadoeeventos.com.br/feiras-e-eventos/rio-amplia-presenca-global-com-2-iniciativas-voltadas-ao-turismo-saude-e-grandes-eventos/",
+    "description": "Entidade participou de agenda na ONU e confirmou apoio ao Life Global Rio 2027",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-07-23-at-17.25.34.jpeg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-08-03T20:48:16+00:00",
+    "source_category_raw": "Feiras e Eventos",
+    "all_categories": [
+      "Feiras e Eventos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.694,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719675",
+    "title": "Flytour promove live para apresentar FlyGuru e ampliar oportunidades para agentes de viagens ainda em 2026",
+    "link": "https://www.mercadoeeventos.com.br/tecnologia-e-inovacao/flytour-promove-live-para-apresentar-flyguru-e-ampliar-oportunidades-para-agentes-de-viagens/",
+    "description": "Evento da Flytour traz demonstrações, networking e sorteio de passagem aérea para participantes",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/img-conheca-copiar-e1785778942993.webp",
+    "author": "Giulia Jardim",
+    "pub_date": "2026-08-03T20:31:00+00:00",
+    "source_category_raw": "Tecnologia e Inovação",
+    "all_categories": [
+      "Tecnologia e Inovação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.693,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719698",
+    "title": "BestBuy reúne hotéis de negócios em campanha nacional com ofertas por tempo limitado",
+    "link": "https://www.mercadoeeventos.com.br/noticias/hotelaria/bestbuy-reune-hoteis-de-negocios-em-campanha-nacional-com-ofertas-por-tempo-limitado/",
+    "description": "Ação da BestBuy destaca opções para executivos, convenções e a tendência do bleisure",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/Esequiel.png",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-08-03T20:29:50+00:00",
+    "source_category_raw": "Hotelaria",
+    "all_categories": [
+      "Hotelaria"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.693,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719696",
+    "title": "Latam Pass e Shopee lançam parceria que permite acumular 1 milha a cada R$ 2 em compras",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/latam-pass-e-shopee-lancam-parceria-que-permite-acumular-1-milha-a-cada-r-2-em-compras/",
+    "description": "Programa de fidelidade da Latam amplia benefícios e passa a converter compras em milhas",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/ChatGPT-Image-3-de-ago.-de-2026-17_01_41.png",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-08-03T20:07:07+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.891,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719483",
+    "title": "Muito além da hospedagem: como o Tivoli Mofarrej fez da personalização e flexibilidade sua principal estratégia",
+    "link": "https://www.mercadoeeventos.com.br/hotelaria-2/muito-alem-da-hospedagem-como-o-tivoli-mofarrej-fez-da-personalizacao-e-flexibilidade-sua-principal-estrategia/",
+    "description": "Entenda como o Tivoli Mofarrej está reinventando a experiência de eventos com personalização como palavra de ordem",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-31-at-11.05.54-2-1.jpeg",
+    "author": "Janaina Brito",
+    "pub_date": "2026-08-03T20:00:00+00:00",
+    "source_category_raw": "Hotelaria",
+    "all_categories": [
+      "Hotelaria"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.691,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/eventos/2026/08/brasil-e-o-quinto-maior-emissor-internacional-de-turistas-para-nova-york-veja-novidades-do-destino_230718.html",
+    "title": "Brasil é o quinto maior emissor internacional de turistas para Nova York; veja novidades do destino",
+    "link": "https://www.panrotas.com.br/destinos/eventos/2026/08/brasil-e-o-quinto-maior-emissor-internacional-de-turistas-para-nova-york-veja-novidades-do-destino_230718.html",
+    "description": "684 mil brasileiros estiveram na Big Apple em 2025, segundo a New York City Tourism + Conventions",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/03/198ce7dcd591e00806dd1e72eee403f9-dscn9996.jpg",
+    "author": "Karina Cede&#241;o",
+    "pub_date": "2026-08-03T19:18:00+00:00",
+    "source_category_raw": "Destinos - Eventos",
+    "all_categories": [
+      "Destinos - Eventos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": "Eventos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.688,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/08/disney-confirma-datas-e-mais-atracoes-do-mickeys-not-so-scary-halloween-party_230712.html",
+    "title": "Disney confirma datas e mais atrações do Mickey's Not-So-Scary Halloween Party",
+    "link": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/08/disney-confirma-datas-e-mais-atracoes-do-mickeys-not-so-scary-halloween-party_230712.html",
+    "description": "Visitantes terão a chance de encontrar os personagens com fantasias de Halloween e ganhar doces",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/04/28/dd1d2d31004ade5026c172aa04c394d4-wdw2024mnsshpmickeyandminniecostumes767x431.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-08-03T19:08:00+00:00",
+    "source_category_raw": "Destinos - Parques temáticos",
+    "all_categories": [
+      "Destinos - Parques temáticos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": "Parques temáticos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.687,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/08/seaworld-anuncia-franquia-eu-sei-o-que-voces-fizeram-no-verao-passado-para-o-halloween_230706.html",
+    "title": "SeaWorld anuncia franquia \"Eu Sei o Que Vocês Fizeram no Verão Passado\" para o Halloween",
+    "link": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/08/seaworld-anuncia-franquia-eu-sei-o-que-voces-fizeram-no-verao-passado-para-o-halloween_230706.html",
+    "description": "Novas casas assombradas estreiam em 11 de setembro nos três parques",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/03/bff0c1809cf5da679fe5544a3acdffb9-unnamed.png",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-08-03T17:22:00+00:00",
+    "source_category_raw": "Destinos - Parques temáticos",
+    "all_categories": [
+      "Destinos - Parques temáticos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": "Parques temáticos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.681,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=719673",
     "title": "Azul estreia voos para 2 cidades históricas de Minas e amplia conexões pelo país",
     "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/azul-estreia-voos-para-2-cidades-historicas-de-minas-e-amplia-conexoes-pelo-pais/",
@@ -184,6 +483,29 @@
     "layout_tier": "grade"
   },
   {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/hotelaria/mercado/2026/08/hotel-praia-ipanema-muda-de-controlador-apos-venda-de-ativos-da-gafisa_230701.html",
+    "title": "Hotel Praia Ipanema muda de controlador após venda de ativos da Gafisa",
+    "link": "https://www.panrotas.com.br/hotelaria/mercado/2026/08/hotel-praia-ipanema-muda-de-controlador-apos-venda-de-ativos-da-gafisa_230701.html",
+    "description": "Segundo o Metro Quadrado, Glória Participações adquiriu o hotel e outros dois ativos no Rio",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/02/18/e28a28a2f596e789bb49ef6cf8674a20-28998686131976f895fcak.jpg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-08-03T15:09:00+00:00",
+    "source_category_raw": "Hotelaria - Mercado",
+    "all_categories": [
+      "Hotelaria - Mercado"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": "Mercado",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.672,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=719555",
     "title": "Como é e quanto custa se hospedar na maior suíte presidencial da América Latina?",
@@ -227,7 +549,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.887,
+    "destaque_score": 0.871,
     "layout_tier": "manchete"
   },
   {
@@ -252,6 +574,29 @@
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
     "destaque_score": 0.604,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/hotelaria/mercado/2026/08/tivoli-mofarrej-amplia-estrategia-para-eventos-com-experiencia-integrada-veja-detalhes_230688.html",
+    "title": "Tivoli Mofarrej amplia estratégia para eventos com experiência integrada; veja detalhes",
+    "link": "https://www.panrotas.com.br/hotelaria/mercado/2026/08/tivoli-mofarrej-amplia-estrategia-para-eventos-com-experiencia-integrada-veja-detalhes_230688.html",
+    "description": "Estratégia amplia oferta para eventos ao incorporar gastronomia, wellness e espaços exclusivos",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/03/7e8a519e35d0d1ce8b52ce574bebe4fb-dsc1894.jpg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-08-03T14:15:00+00:00",
+    "source_category_raw": "Hotelaria - Mercado",
+    "all_categories": [
+      "Hotelaria - Mercado"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": "Mercado",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.669,
     "layout_tier": "grade"
   },
   {
@@ -327,7 +672,7 @@
     "category_mapping_confidence": 0.77,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.745,
+    "destaque_score": 0.729,
     "layout_tier": "manchete"
   },
   {
@@ -352,6 +697,29 @@
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
     "destaque_score": 0.699,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/hotelaria/mercado/2026/08/dreams-vista-cancun-sera-rebatizado-como-hyatt-vivid-cancun_230689.html",
+    "title": "Dreams Vista Cancun será rebatizado como Hyatt Vivid Cancun",
+    "link": "https://www.panrotas.com.br/hotelaria/mercado/2026/08/dreams-vista-cancun-sera-rebatizado-como-hyatt-vivid-cancun_230689.html",
+    "description": "Com a mudança, o resort passará a operar exclusivamente no segmento Adults Only",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/03/0cb07d5fbd72b3bbe64b3c293f41f1d2-hyattvividcancunextaerial085onm.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-08-03T13:21:00+00:00",
+    "source_category_raw": "Hotelaria - Mercado",
+    "all_categories": [
+      "Hotelaria - Mercado"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": "Mercado",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.666,
     "layout_tier": "grade"
   },
   {
@@ -444,7 +812,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.68,
+    "destaque_score": 0.665,
     "layout_tier": "grade"
   },
   {
@@ -495,6 +863,52 @@
   },
   {
     "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/hotelaria/mercado/2026/08/family-selection-o-upgrade-que-toda-familia-deseja-e-todo-agente-gosta-de-vender_230696.html",
+    "title": "Family Selection: o upgrade que toda família deseja e todo agente gosta de vender",
+    "link": "https://www.panrotas.com.br/hotelaria/mercado/2026/08/family-selection-o-upgrade-que-toda-familia-deseja-e-todo-agente-gosta-de-vender_230696.html",
+    "description": "Linha premium do Grand Palladium oferece hospedagem gratuita para adolescentes e experiências exclusivas",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/03/9ea337772ea5c9d4c6d773b6560e1e3d-fsbavaropoolaerialview3.jpg",
+    "author": "Luiz Felipe Sim&#245;es",
+    "pub_date": "2026-08-03T12:41:00+00:00",
+    "source_category_raw": "Hotelaria - Mercado",
+    "all_categories": [
+      "Hotelaria - Mercado"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": "Mercado",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.664,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/entretenimento/2026/08/macuco-safari-retoma-passeios-nas-cataratas-do-iguacu-quatro-dias-apos-acidente_230691.html",
+    "title": "Macuco Safari retoma passeios nas Cataratas do Iguaçu quatro dias após acidente",
+    "link": "https://www.panrotas.com.br/destinos/entretenimento/2026/08/macuco-safari-retoma-passeios-nas-cataratas-do-iguacu-quatro-dias-apos-acidente_230691.html",
+    "description": "Passeios voltaram a ser realizados a partir das 8h após inspeções de ICMBio e Marinha",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2021/09/26/71bcbb4a3f741d0ecc5eb5fc98d49d0f-20210925165716.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-08-03T12:29:00+00:00",
+    "source_category_raw": "Destinos - Entretenimento",
+    "all_categories": [
+      "Destinos - Entretenimento"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Entretenimento",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.663,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/viagens-corporativas/eventos/2026/08/kontik-insights-2026-leva-tendencias-globais-de-viagens-corporativas-em-roadshow_230695.html",
     "title": "Kontik Insights 2026 leva tendências globais de viagens corporativas em roadshow",
     "link": "https://www.panrotas.com.br/viagens-corporativas/eventos/2026/08/kontik-insights-2026-leva-tendencias-globais-de-viagens-corporativas-em-roadshow_230695.html",
@@ -513,7 +927,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.678,
+    "destaque_score": 0.663,
     "layout_tier": "grade"
   },
   {
@@ -611,7 +1025,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.677,
+    "destaque_score": 0.662,
     "layout_tier": "grade"
   },
   {
@@ -634,7 +1048,30 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.677,
+    "destaque_score": 0.662,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/eventos/2026/08/nova-york-concentrou-mais-da-metade-dos-gastos-de-brasileiros-na-copa-do-mundo-diz-wise_230652.html",
+    "title": "Nova York concentrou mais da metade dos gastos de brasileiros na Copa do Mundo, diz Wise",
+    "link": "https://www.panrotas.com.br/destinos/eventos/2026/08/nova-york-concentrou-mais-da-metade-dos-gastos-de-brasileiros-na-copa-do-mundo-diz-wise_230652.html",
+    "description": "Cidades-sede como Houston e Cidade do México registraram forte aumento em relação ao mesmo período de 2025",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/04/24/290b0acb4424e23f47191ace120e88ab-novayork.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-08-03T11:37:00+00:00",
+    "source_category_raw": "Destinos - Eventos",
+    "all_categories": [
+      "Destinos - Eventos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": "Eventos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.661,
     "layout_tier": "grade"
   },
   {
@@ -657,7 +1094,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.674,
+    "destaque_score": 0.66,
     "layout_tier": "grade"
   },
   {
@@ -680,7 +1117,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.873,
+    "destaque_score": 0.859,
     "layout_tier": "manchete"
   },
   {
@@ -706,7 +1143,7 @@
     "category_mapping_confidence": 0.7005,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.465,
+    "destaque_score": 0.457,
     "layout_tier": "grade"
   },
   {
@@ -727,7 +1164,7 @@
     "category_mapping_confidence": 0.5715,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.364,
+    "destaque_score": 0.359,
     "layout_tier": "condensado"
   },
   {
@@ -750,7 +1187,7 @@
     "category_mapping_confidence": 0.7004,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.394,
+    "destaque_score": 0.389,
     "layout_tier": "condensado"
   },
   {
@@ -773,7 +1210,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.783,
+    "destaque_score": 0.779,
     "layout_tier": "manchete"
   },
   {
@@ -817,7 +1254,7 @@
     "category_mapping_confidence": 0.7481,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.397,
+    "destaque_score": 0.393,
     "layout_tier": "condensado"
   }
 ]
