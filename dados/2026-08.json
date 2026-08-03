@@ -1,5 +1,265 @@
 [
   {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719566",
+    "title": "Despressurização em voo da Tap para Curitiba obriga Airbus a retornar para Lisboa após 45 minutos",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/despressurizacao-em-voo-da-tap-para-curitiba-obriga-airbus-a-retornar-para-lisboa/",
+    "description": "A330 da Tap declara emergência durante voo",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/06/TAP-A321neo-A321LR-21040101.jpg",
+    "author": "Beatriz Waehneldt",
+    "pub_date": "2026-08-03T13:03:00+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação",
+      "agosto 2026"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.9,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/destinos/2026/08/eua-tornam-permanente-exigencia-de-caucao-para-visto-de-turismo-em-50-paises_230694.html",
+    "title": "EUA tornam permanente exigência de caução para visto de Turismo em 50 países",
+    "link": "https://www.panrotas.com.br/mercado/destinos/2026/08/eua-tornam-permanente-exigencia-de-caucao-para-visto-de-turismo-em-50-paises_230694.html",
+    "description": "Iniciativa de Trump é parte das medidas para combater a permanência irregular de estrangeiros no país",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2023/07/05/86198929e5f6918da8b434e88e738a0b-vistoeua.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-08-03T12:56:00+00:00",
+    "source_category_raw": "Mercado - Destinos",
+    "all_categories": [
+      "Mercado - Destinos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Destinos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.699,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719601",
+    "title": "Embraer cresce 10 vezes na Bolsa e chama atenção da The Economist",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/embraer-cresce-10-vezes-na-bolsa-e-chama-atencao-da-the-economist/",
+    "description": "Revista britânica destaca avanço da Embraer e aponta cenário favorável para nova expansão global",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2024/06/DivulgacaoEmbraer.jpg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-08-03T12:55:51+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.899,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719574",
+    "title": "Brand USA lança campanha para transformar legado da Copa do Mundo em novas viagens aos Estados Unidos",
+    "link": "https://www.mercadoeeventos.com.br/internacional/america-do-norte-e-caribe/brand-usa-lanca-campanha-para-transformar-legado-da-copa-do-mundo-em-novas-viagens-aos-estados-unidos/",
+    "description": "Brand USA aposta no legado da Copa do Mundo para impulsionar o turismo internacional aos EUA",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/unnamed-8.png",
+    "author": "Yuri Ricci",
+    "pub_date": "2026-08-03T12:51:12+00:00",
+    "source_category_raw": "América do Norte e Caribe",
+    "all_categories": [
+      "América do Norte e Caribe"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.5704,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.591,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/eventos/2026/08/kontik-insights-2026-leva-tendencias-globais-de-viagens-corporativas-em-roadshow_230695.html",
+    "title": "Kontik Insights 2026 leva tendências globais de viagens corporativas em roadshow",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/eventos/2026/08/kontik-insights-2026-leva-tendencias-globais-de-viagens-corporativas-em-roadshow_230695.html",
+    "description": "Iniciativa percorrerá cinco capitais a partir de setembro com curadoria do maior evento mundial do setor",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/03/0dca2262a8b7a90f252b0f74294ade3f-imagem11.jpg",
+    "author": "Luiz Felipe Sim&#245;es",
+    "pub_date": "2026-08-03T12:27:00+00:00",
+    "source_category_raw": "Corporativo - Eventos",
+    "all_categories": [
+      "Corporativo - Eventos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Eventos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.697,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719557",
+    "title": "El Niño 2026: Cataratas do Iguaçu confirma fechamento do acesso à Garganta do Diabo",
+    "link": "https://www.mercadoeeventos.com.br/brasil/el-nino-2026-cataratas-do-iguacu-confirma-fechamento-do-acesso-a-garganta-do-diabo/",
+    "description": "Argentina desmonta passarela por aumento da vazão do Rio Iguaçu",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/52720216489_e05c0622b6_b.jpg",
+    "author": "Beatriz Waehneldt",
+    "pub_date": "2026-08-03T12:21:37+00:00",
+    "source_category_raw": "Brasil",
+    "all_categories": [
+      "Brasil",
+      "Sul",
+      "agosto 2026"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.2807,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.517,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719562",
+    "title": "Aporte de US$ 100 milhões da American Airlines na Azul avança com aval do Cade",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/aporte-de-us-100-milhoes-da-american-airlines-na-azul-avanca-com-aval-do-cade/",
+    "description": "Área técnica conclui que aporte da American Airlines na Azul não ameaça a concorrência",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/Airbus-A320neo-17-edited-scaled.jpg",
+    "author": "Giulia Jardim",
+    "pub_date": "2026-08-03T12:19:57+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação",
+      "agosto 2026"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.897,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719556",
+    "title": "Governo dos EUA torna definitivo programa de caução para vistos B1 e B2 em 50 países; veja a lista",
+    "link": "https://www.mercadoeeventos.com.br/internacional/america-do-norte-e-caribe/governo-dos-eua-torna-definitivo-programa-de-caucao-para-vistos-b1-e-b2-em-50-paises-veja-a-lista/",
+    "description": "Programa para vistos B1 e B2 poderá ser ampliado para novos países no futuro",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/Washington-Casa-Branca-Pixabay-James-De-Mers-edited.jpg",
+    "author": "Giulia Jardim",
+    "pub_date": "2026-08-03T12:13:16+00:00",
+    "source_category_raw": "América do Norte e Caribe",
+    "all_categories": [
+      "América do Norte e Caribe",
+      "Exterior",
+      "Internacional",
+      "agosto 2026"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.6312,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.604,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/operadoras/2026/08/outono-das-cidades-imperiais-a-elegancia-classica-da-europa-central-sob-uma-nova-luz_230690.html",
+    "title": "Outono das Cidades Imperiais: a elegância clássica da Europa Central sob uma nova luz",
+    "link": "https://www.panrotas.com.br/mercado/operadoras/2026/08/outono-das-cidades-imperiais-a-elegancia-classica-da-europa-central-sob-uma-nova-luz_230690.html",
+    "description": "Surland lança tarifas preferenciais para roteiros pela Europa Central com Tour Leader em português",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/03/c140f5fb8d29321d039460a1498cc603-belvederepalaceatsunsetinviennaaustria20260309054736utc.jpg",
+    "author": "Luiz Felipe Sim&#245;es",
+    "pub_date": "2026-08-03T12:06:00+00:00",
+    "source_category_raw": "Mercado - Operadoras",
+    "all_categories": [
+      "Mercado - Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Operadoras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.696,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/cruzeiros/2026/08/costa-cruzeiros-tera-sea-destination-em-cruzeiros-pelo-brasil-na-temporada-2026-2027_230685.html",
+    "title": "Costa Cruzeiros terá Sea Destination em cruzeiros pelo Brasil na temporada 2026/2027",
+    "link": "https://www.panrotas.com.br/mercado/cruzeiros/2026/08/costa-cruzeiros-tera-sea-destination-em-cruzeiros-pelo-brasil-na-temporada-2026-2027_230685.html",
+    "description": "Passageiros poderão aproveitar vivências específicas das localidades pelas quais estão passando.",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/11/27/e146170603d3ab9b46cae883763742ad-unnamed20251127t103523.165.jpg",
+    "author": "Karina Cede&#241;o",
+    "pub_date": "2026-08-03T12:06:00+00:00",
+    "source_category_raw": "Mercado - Cruzeiros",
+    "all_categories": [
+      "Mercado - Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": "Cruzeiros",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.696,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/transporte/2026/08/buscas-por-passagens-de-onibus-disparam-61-para-dia-dos-pais-diz-pesquisa_230653.html",
+    "title": "Buscas por passagens de ônibus disparam 61% para Dia dos Pais, diz pesquisa",
+    "link": "https://www.panrotas.com.br/mercado/transporte/2026/08/buscas-por-passagens-de-onibus-disparam-61-para-dia-dos-pais-diz-pesquisa_230653.html",
+    "description": "Fortaleza lidera alta de interesse com crescimento de 40% entre as principais praças do País",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/07/15/2326d0fd4758805ac1745d0a1b6e60f8-unnamed1.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-08-03T11:22:00+00:00",
+    "source_category_raw": "Mercado - Transporte",
+    "all_categories": [
+      "Mercado - Transporte"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Transporte",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.692,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "agenciabrasil",
     "guid": "1698302 at https://agenciabrasil.ebc.com.br",
     "title": "Brasil é quarto país que mais ampliou turismo internacional, diz OCDE",
@@ -22,7 +282,7 @@
     "category_mapping_confidence": 0.7005,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.52,
+    "destaque_score": 0.476,
     "layout_tier": "grade"
   },
   {
@@ -43,7 +303,7 @@
     "category_mapping_confidence": 0.5715,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.396,
+    "destaque_score": 0.37,
     "layout_tier": "condensado"
   },
   {
@@ -66,8 +326,8 @@
     "category_mapping_confidence": 0.7004,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.423,
-    "layout_tier": "grade"
+    "destaque_score": 0.399,
+    "layout_tier": "condensado"
   },
   {
     "source_id": "panrotas",
@@ -89,7 +349,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.808,
+    "destaque_score": 0.787,
     "layout_tier": "manchete"
   },
   {
@@ -133,7 +393,7 @@
     "category_mapping_confidence": 0.7481,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.42,
+    "destaque_score": 0.401,
     "layout_tier": "grade"
   }
 ]
