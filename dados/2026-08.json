@@ -1,6 +1,152 @@
 [
   {
     "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719619",
+    "title": "Macuco Safari retoma operações com público reduzido após paralisação por acidente",
+    "link": "https://www.mercadoeeventos.com.br/brasil/macuco-safari-retoma-operacoes-com-publico-reduzido-apos-paralisacao-por-acidente/",
+    "description": "Macuco Safari retoma passeios em Foz do Iguaçu com movimento reduzido após paralisação",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/niagara-falls-closeup-dusk-edited-scaled.jpg",
+    "author": "Yuri Ricci",
+    "pub_date": "2026-08-03T13:38:19+00:00",
+    "source_category_raw": "Brasil",
+    "all_categories": [
+      "Brasil",
+      "Sul"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.253,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.513,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719573",
+    "title": "Trajédia nas Linhas de Nazca: Queda de avião mata 13 pessoas",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/trajedia-nas-linhas-de-nazca-queda-de-aviao-mata-13-pessoas/",
+    "description": "Peru investiga acidente e suspende operações da Aerodiana, responsável pelo voo",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/aviao-peru-nazca.webp",
+    "author": "Beatriz Waehneldt",
+    "pub_date": "2026-08-03T13:34:00+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.899,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1698420 at https://agenciabrasil.ebc.com.br",
+    "title": "Pela 1ª vez desde março, mercado reduz expectativa para Selic em 2026",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/pela-1a-vez-desde-marco-mercado-reduz-expectativa-para-selic-em-2026",
+    "description": "O mercado financeiro reduziu as expectativas para os índices de inflação e, pela primeira vez desde março, da taxa básica de juros. Segundo o Boletim Focus, divulgado nesta segunda-feira (3) pelo Banco Central (BC), a Selic deve fechar 2026 em 13,75%. As projeções para a economia (PIB, Produto Interno Bruto) e o câmbio (dólar) neste ano vêm se mantendo estáveis há pelo menos cinco semanas, em 1,99% e R$ 5,20, respectivamente. Notícias relacionadas: Entidades do setor produtivo cobram cortes maiores da Selic. Prévia da inflação oficial fica em 0,06% em julho, diz IBGE. Nos dois índices, houve alteração das expectativas projetadas para 2027. Ambas para baixo, com as projeções de crescimento econômico, ao final do ano, tendo variado de 1,60% para 1,57% nesta semana; e da cotação da moeda dos Estados Unidos cotada a R$ 5,28, ante os R$ 5,29 projetados na semana passada. Taxa Selic Na semana passada, as expectativas do mercado eram de que a Selic terminaria o ano em 14%, projeção 0,25 ponto percentual acima da apresentada hoje pela autoridade monetária. A última vez em que as projeções do boletim indicaram queda foi em março de 2026, quando a mediana caiu de 12,13% para 12%. A taxa atual, estabelecida pelo Comitê de Política Monetária (Copom) do BC em 17 de junho, é 14,25%. Com isso, há expectativa de, pelo menos, uma redução na atual taxa até o final de 2026. A próxima reunião do Copom está prevista para os dias 4 e 5 de agosto. As previsões da Selic para 2027 e 2028 se mantiveram estáveis, em 12% e 10,5%, respectivamente. Meta Para alcançar a meta de inflação, o Banco Central usa a Selic como principal instrumento. Quando o Copom aumenta a Selic, a finalidade é conter a demanda aquecida, o que causa reflexos nos preços, porque os juros mais altos encarecem o crédito e estimulam a poupança. Assim, taxas mais altas também podem dificultar a expansão da economia. Os bancos ainda consideram outros fatores na hora de definir os juros cobrados dos consumidores, como risco de inadimplência, lucro e despesas administrativas. Quando a Taxa Selic é reduzida, a tendência é que o crédito fique mais barato, com incentivo à produção e ao consumo, diminuindo o controle sobre a inflação e estimulando a atividade econômica. Inflação Pela quinta semana consecutiva, o mercado financeiro reduziu as expectativas de inflação para 2026. De acordo com o documento divulgado pelo BC, o Índice Nacional de Preços ao Consumidor Amplo (IPCA, a inflação oficial do país, deve fechar o ano em 5,03%. Na semana passada, o mercado trabalhava com um horizonte inflacionário de 5,12% em 2026. Há quatro semanas, as expectativas eram de 5,30%. Para os anos subsequentes, as projeções para a inflação permanecem estáveis, com o IPCA em 4,22% em 2027; e em 3,80% em 2028.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Pedro Peduzzi - Repórter da Agência Brasil",
+    "pub_date": "2026-08-03T13:31:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "Boletim Focus",
+      "Projeções",
+      "Juros",
+      "Selic",
+      "Inflação",
+      "banco central"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.77,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.762,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719609",
+    "title": "CLIA reúne mais de 400 profissionais em série de reuniões pós-temporada 2025/2026",
+    "link": "https://www.mercadoeeventos.com.br/noticias/cruzeiros/clia-reune-mais-de-400-profissionais-em-serie-de-reunioes-pos-temporada-2025-2026/",
+    "description": "Agenda percorreu dez cidades de cinco estados para avaliar as operações, identificar oportunidades de melhoria e preparar os próximos ciclos da indústria",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/image.jpeg",
+    "author": "Beatriz Waehneldt",
+    "pub_date": "2026-08-03T13:25:53+00:00",
+    "source_category_raw": "Cruzeiros",
+    "all_categories": [
+      "Cruzeiros",
+      "agosto 2026"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.699,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719610",
+    "title": "Onfly lança ferramenta gratuita para prever custos de viagens corporativas com base em dados reais",
+    "link": "https://www.mercadoeeventos.com.br/tecnologia-e-inovacao/onfly-lanca-ferramenta-gratuita-para-prever-custos-de-viagens-corporativas-com-base-em-dados-reais/",
+    "description": "Plataforma da Onfly reúne passagens, hospedagem e despesas operacionais em uma única estimativa",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/SmartCost-da-Onfly.jpg",
+    "author": "Giulia Jardim",
+    "pub_date": "2026-08-03T13:17:19+00:00",
+    "source_category_raw": "Tecnologia e Inovação",
+    "all_categories": [
+      "Tecnologia e Inovação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.698,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719604",
+    "title": "Cativa dobra oferta e coloca mais de 100 mil bloqueios aéreos à venda para 2026 e 2027",
+    "link": "https://www.mercadoeeventos.com.br/noticias/agencias-e-operadoras/cativa-dobra-oferta-e-coloca-mais-de-100-mil-bloqueios-aereos-a-venda-para-2026-e-2027/",
+    "description": "Operadora amplia oferta de assentos garantidos para viagens nacionais e internacionais em dois anos",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/Marcelo-Adams-Suelen-Silveia-e-Mateus-Eidt-scaled.jpg",
+    "author": "Beatriz Waehneldt",
+    "pub_date": "2026-08-03T13:09:51+00:00",
+    "source_category_raw": "Agências e Operadoras",
+    "all_categories": [
+      "Agências e Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.698,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=719566",
     "title": "Despressurização em voo da Tap para Curitiba obriga Airbus a retornar para Lisboa após 45 minutos",
     "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/despressurizacao-em-voo-da-tap-para-curitiba-obriga-airbus-a-retornar-para-lisboa/",
@@ -20,7 +166,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.9,
+    "destaque_score": 0.897,
     "layout_tier": "manchete"
   },
   {
@@ -66,7 +212,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.899,
+    "destaque_score": 0.897,
     "layout_tier": "manchete"
   },
   {
@@ -89,7 +235,7 @@
     "category_mapping_confidence": 0.5704,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.591,
+    "destaque_score": 0.589,
     "layout_tier": "grade"
   },
   {
@@ -137,7 +283,7 @@
     "category_mapping_confidence": 0.2807,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.517,
+    "destaque_score": 0.515,
     "layout_tier": "grade"
   },
   {
@@ -161,7 +307,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.897,
+    "destaque_score": 0.894,
     "layout_tier": "manchete"
   },
   {
@@ -282,7 +428,7 @@
     "category_mapping_confidence": 0.7005,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.476,
+    "destaque_score": 0.474,
     "layout_tier": "grade"
   },
   {
@@ -303,7 +449,7 @@
     "category_mapping_confidence": 0.5715,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.37,
+    "destaque_score": 0.369,
     "layout_tier": "condensado"
   },
   {
@@ -326,7 +472,7 @@
     "category_mapping_confidence": 0.7004,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.399,
+    "destaque_score": 0.398,
     "layout_tier": "condensado"
   },
   {
@@ -393,7 +539,7 @@
     "category_mapping_confidence": 0.7481,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.401,
+    "destaque_score": 0.4,
     "layout_tier": "grade"
   }
 ]
