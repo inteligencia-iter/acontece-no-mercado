@@ -1,6 +1,401 @@
 [
   {
     "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719996",
+    "title": "Latam lucra US$ 125 milhões no 2º trimestre e reforça investimentos apesar da alta de 93% no combustível",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/latam-lucra-us-125-milhoes-no-2o-trimestre-e-reforca-investimentos-apesar-da-alta-de-93-no-combustivel/",
+    "description": "Receita cresce 29%, Latam transporta 21 milhões de passageiros e melhora projeções para 2026",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/07/E195-E2_LATAM-1-scaled.jpg",
+    "author": "Janaina Brito",
+    "pub_date": "2026-08-04T22:01:49+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação",
+      "agosto 2026"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.899,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719988",
+    "title": "CEO da Latam destaca investimentos da companhia no Brasil e cobra estabilidade regulatória para a aviação",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/ceo-da-latam-destaca-investimentos-da-companhia-no-brasil-e-cobra-estabilidade-regulatoria-para-a-aviacao/",
+    "description": "CEO da Latam, Jerome Cadier, defende plano de longo prazo para dobrar o mercado aéreo brasileiro em dez anos",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/06/Jerome-Cadier-CEO-da-Latam-Brasil-durante-o-evento-scaled.jpg",
+    "author": "Janaina Brito",
+    "pub_date": "2026-08-04T21:47:22+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação",
+      "agosto 2026"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.898,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719907",
+    "title": "Arena Abreu promove dia de capacitação na Bahia, veja fotos",
+    "link": "https://www.mercadoeeventos.com.br/feiras-e-eventos/arena-abreu-promove-dia-de-capacitacao-na-bahia-veja-fotos/",
+    "description": "Programação do Arena Abreu reúne 50 fornecedores capacitando 300 agentes de viagens",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/Delegacao-da-Bahia-e-Porto-Seguro-com-a-equipe-da-Abreu--scaled.jpg",
+    "author": "Ana Azevedo",
+    "pub_date": "2026-08-04T21:46:11+00:00",
+    "source_category_raw": "Feiras e Eventos",
+    "all_categories": [
+      "Feiras e Eventos",
+      "Arena Abreu 2026"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.698,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719991",
+    "title": "Busch Gardens aposta em Anaconda e revela 2 novas casas assombradas para o Halloween",
+    "link": "https://www.mercadoeeventos.com.br/noticias/parques-e-atracoes/busch-gardens-aposta-em-anaconda-e-revela-2-novas-casas-assombradas-para-o-halloween/",
+    "description": "Pela primeira vez, a franquia Anaconda ganha uma adaptação oficial em um evento de Halloween",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/ChatGPT-Image-4-de-ago.-de-2026-18_21_40.png",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-08-04T21:24:21+00:00",
+    "source_category_raw": "Parques e Atrações",
+    "all_categories": [
+      "Parques e Atrações"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4998,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.571,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719987",
+    "title": "Latam confirma estreia dos jatos Embraer E195-E2 e anuncia oito novas rotas domésticas na 1ª fase",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/latam-confirma-estreia-dos-jatos-embraer-e195-e2-e-anuncia-oito-novas-rotas-domesticas-na-1-fase/",
+    "description": "Vendas começam nesta quarta-feira (5) e voos estreiam no fim de novembro",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/06/20260609_EMBRAER_CCS07715-edited-scaled.jpg",
+    "author": "Janaina Brito",
+    "pub_date": "2026-08-04T21:24:10+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação",
+      "agosto 2026"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.896,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719986",
+    "title": "Air Europa abre vendas de nova rota entre Madri e El Salvador com 3 voos por semana",
+    "link": "https://www.mercadoeeventos.com.br/uncategorized/air-europa-abre-vendas-de-nova-rota-entre-madri-e-el-salvador-com-3-voos-por-semana/",
+    "description": "Expansão fortalece presença da Air Europa na América Central e amplia conexões na Europa",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/unnamed-19-edited.jpg",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-08-04T21:16:10+00:00",
+    "source_category_raw": "Uncategorized",
+    "all_categories": [
+      "Uncategorized"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.8053,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.847,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719980",
+    "title": "Cativa fecha parceria com especialista em cruzeiros para ampliar suporte às agências",
+    "link": "https://www.mercadoeeventos.com.br/noticias/cruzeiros/cativa-fecha-parceria-com-especialista-em-cruzeiros-para-ampliar-suporte-as-agencias/",
+    "description": "Plataforma exclusiva busca agilizar reservas e atendimento ao mercado de cruzeiros",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/Captura-de-Tela-2026-08-04-as-18.09.07.png",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-08-04T21:11:13+00:00",
+    "source_category_raw": "Cruzeiros",
+    "all_categories": [
+      "Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.696,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719977",
+    "title": "Miami Beach ganha impulso com hotel Grand Hyatt de 800 quartos conectado ao centro de convenções",
+    "link": "https://www.mercadoeeventos.com.br/noticias/hotelaria/miami-beach-ganha-impulso-com-hotel-grand-hyatt-de-800-quartos-conectado-ao-centro-de-convencoes/",
+    "description": "Empreendimento contará com mais de 10 mil m² para eventos e vista para Miami Beach",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/unnamed-6-edited.png",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-08-04T21:01:01+00:00",
+    "source_category_raw": "Hotelaria",
+    "all_categories": [
+      "Hotelaria"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.695,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719918",
+    "title": "BNDES aprova financiamento de até R$ 3,7 bilhões para exportação de aviões da Embraer ao Canadá",
+    "link": "https://www.mercadoeeventos.com.br/noticias/aviacao/bndes-aprova-financiamento-de-ate-r-37-bilhoes-para-exportacao-de-avioes-da-embraer-ao-canada/",
+    "description": "Financiamento cobre parte da encomenda de 75 aeronaves da Porter Airlines à Embraer",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/e195e2-edited.webp",
+    "author": "Giulia Jardim",
+    "pub_date": "2026-08-04T21:01:00+00:00",
+    "source_category_raw": "Aviação",
+    "all_categories": [
+      "Aviação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.895,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/destinos/2026/08/arena-abreu-salvador-destaca-requalificacao-e-novos-pontos-turisticos-da-cidade_230775.html",
+    "title": "Arena Abreu: Salvador destaca requalificação e novos pontos turísticos da cidade",
+    "link": "https://www.panrotas.com.br/mercado/destinos/2026/08/arena-abreu-salvador-destaca-requalificacao-e-novos-pontos-turisticos-da-cidade_230775.html",
+    "description": "Secretaria de Cultura e Turismo de Salvador investe em novos atrativos e qualificação do trade",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/04/7e2721b20243e69cfd2321b95216f258-img8850.jpg",
+    "author": "Marcos Martins",
+    "pub_date": "2026-08-04T20:46:00+00:00",
+    "source_category_raw": "Mercado - Destinos",
+    "all_categories": [
+      "Mercado - Destinos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Destinos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.694,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "mercadoeeventos",
+    "guid": "https://www.mercadoeeventos.com.br/?p=719928",
+    "title": "Empresas brasileiras usam IA para pagar menos nas passagens aéreas; veja 5 estratégias",
+    "link": "https://www.mercadoeeventos.com.br/tecnologia-e-inovacao/empresas-brasileiras-usam-ia-para-pagar-menos-nas-passagens-aereas-veja-5-estrategias/",
+    "description": "IA acompanha tarifas em tempo real e identifica oportunidades para reduzir despesas",
+    "image_url": "https://www.mercadoeeventos.com.br/wp-content/uploads/2026/08/ChatGPT-Image-4-de-ago.-de-2026-17_20_30.png",
+    "author": "Felipe Abílio",
+    "pub_date": "2026-08-04T20:38:24+00:00",
+    "source_category_raw": "Tecnologia e Inovação",
+    "all_categories": [
+      "Tecnologia e Inovação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.693,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/operadoras/2026/08/cativa-firma-parceria-com-cruises-academy-para-impulsionar-segmento-de-cruzeiros_230751.html",
+    "title": "Cativa firma parceria com Cruises Academy para impulsionar segmento de cruzeiros",
+    "link": "https://www.panrotas.com.br/mercado/operadoras/2026/08/cativa-firma-parceria-com-cruises-academy-para-impulsionar-segmento-de-cruzeiros_230751.html",
+    "description": "Operadora deseja ampliar o conhecimento sobre o mercado de cruzeiros e as vendas de agentes de viagens",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/04/34fdb8194201d1f0145ebfab71a73299-cativadivulgacao.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-08-04T20:34:00+00:00",
+    "source_category_raw": "Mercado - Operadoras",
+    "all_categories": [
+      "Mercado - Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Operadoras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.693,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/cartoes-de-assistencia/2026/08/assist-card-lanca-campanha-2x1-para-planos-anuais-de-seguro-viagem_230771.html",
+    "title": "Assist Card lança campanha 2x1 para planos anuais de seguro-viagem",
+    "link": "https://www.panrotas.com.br/mercado/cartoes-de-assistencia/2026/08/assist-card-lanca-campanha-2x1-para-planos-anuais-de-seguro-viagem_230771.html",
+    "description": "Promoção vai até 14 de agosto e inclui planos anuais para viagens internacionais",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/10/10/f790639750278dddd5ab5df41648839c-rem4307.jpg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-08-04T19:41:00+00:00",
+    "source_category_raw": "Mercado - Cartões de assistência",
+    "all_categories": [
+      "Mercado - Cartões de assistência"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Cartões de assistência",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.689,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/hotelaria/parcerias/2026/08/accor-estreia-na-las-vegas-strip-com-maior-hotel-da-rede-no-mundo_230770.html",
+    "title": "Accor estreia na Las Vegas Strip com maior hotel da rede no mundo",
+    "link": "https://www.panrotas.com.br/hotelaria/parcerias/2026/08/accor-estreia-na-las-vegas-strip-com-maior-hotel-da-rede-no-mundo_230770.html",
+    "description": "Hotel conta com mais de 2 mil quartos, espetáculo do Cirque du Soleil e cassino 24 horas",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/07/23/cb2dbd7062fd7affbb86a88b40d3e6ff-treasureislandtilasvegashotelcasinohandwrittencollection.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-08-04T18:58:00+00:00",
+    "source_category_raw": "Hotelaria - Parcerias",
+    "all_categories": [
+      "Hotelaria - Parcerias"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": "Parcerias",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.687,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/destinos/2026/08/catalunha-incentiva-viagens-alem-de-barcelona-e-investe-no-turismo-de-luxo_230763.html",
+    "title": "Catalunha incentiva viagens além de Barcelona e investe no Turismo de luxo",
+    "link": "https://www.panrotas.com.br/mercado/destinos/2026/08/catalunha-incentiva-viagens-alem-de-barcelona-e-investe-no-turismo-de-luxo_230763.html",
+    "description": "Número de turistas em Barcelona diminuiu, mas gasto médio aumentou, segundo Agência Catalana de Turismo",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/04/80164fdde8492733e3529e567cb55bcc-rem3549.jpg",
+    "author": "Karina Cede&#241;o",
+    "pub_date": "2026-08-04T18:42:00+00:00",
+    "source_category_raw": "Mercado - Destinos",
+    "all_categories": [
+      "Mercado - Destinos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Destinos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.685,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/cruzeiros/2026/08/trade-conhece-novo-roteiro-da-msc-em-evento-com-destinos-e-parceiros-veja-fotos_230764.html",
+    "title": "Trade conhece novo roteiro da MSC em evento com destinos e parceiros; veja fotos",
+    "link": "https://www.panrotas.com.br/mercado/cruzeiros/2026/08/trade-conhece-novo-roteiro-da-msc-em-evento-com-destinos-e-parceiros-veja-fotos_230764.html",
+    "description": "Companhia reuniu agentes de viagens, operadoras e fornecedores para apresentar a nova operação pelo Caribe",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/04/f64d8b437acac666954784a412cd5933-dsc6879.jpg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-08-04T18:04:00+00:00",
+    "source_category_raw": "Mercado - Cruzeiros",
+    "all_categories": [
+      "Mercado - Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": "Cruzeiros",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.55,
+    "destaque_score": 0.683,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/08/grupo-lufthansa-lucra-mais-de-100-milhoes-de-euros-no-segundo-trimestre_230759.html",
+    "title": "Grupo Lufthansa lucra mais de 100 milhões de euros no segundo trimestre",
+    "link": "https://www.panrotas.com.br/aviacao/empresas/2026/08/grupo-lufthansa-lucra-mais-de-100-milhoes-de-euros-no-segundo-trimestre_230759.html",
+    "description": "Receita do grupo, por sua vez, cresceu 8%, alcançando 11,1 bilhões de euros entre abril e junho de 2026",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2018/07/31/a7301239645884114685b4bd663ba5fb-516669.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-08-04T17:33:00+00:00",
+    "source_category_raw": "Aviação - Empresas",
+    "all_categories": [
+      "Aviação - Empresas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Empresas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.881,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=719833",
     "title": "Brasileiros lideram intenção de viajar para Portugal e impulsionam crescimento da Azul",
     "link": "https://www.mercadoeeventos.com.br/aviacao-2/brasileiros-lideram-intencao-de-viajar-para-portugal-e-impulsionam-crescimento-da-azul/",
@@ -161,6 +556,52 @@
     "layout_tier": "grade"
   },
   {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/cruzeiros/2026/08/msc-lanca-roteiro-pelo-caribe-sul-sem-visto-e-aposta-em-embarques-na-republica-dominicana_230760.html",
+    "title": "MSC lança roteiro pelo Caribe Sul sem visto e aposta em embarques na República Dominicana",
+    "link": "https://www.panrotas.com.br/mercado/cruzeiros/2026/08/msc-lanca-roteiro-pelo-caribe-sul-sem-visto-e-aposta-em-embarques-na-republica-dominicana_230760.html",
+    "description": "Nova operação estreia em novembro com pacote completo e amplia oportunidades de vendas para o trade",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/04/75462c527c45ba26b349c93caa4a6009-dsc7006.jpg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-08-04T16:13:00+00:00",
+    "source_category_raw": "Mercado - Cruzeiros",
+    "all_categories": [
+      "Mercado - Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": "Cruzeiros",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.676,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/08/primeiro-e195-e2-da-latam-recebe-motores-e-avanca-para-fase-de-certificacao_230758.html",
+    "title": "Primeiro E195-E2 da Latam recebe motores e avança para fase de certificação",
+    "link": "https://www.panrotas.com.br/aviacao/empresas/2026/08/primeiro-e195-e2-da-latam-recebe-motores-e-avanca-para-fase-de-certificacao_230758.html",
+    "description": "Nessa fase, o jato passa a gerar sua própria energia, deixando de depender dos cabos e geradores",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/04/6d33fca96f9c96eaa3684c08c859547f-1785756340868.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-08-04T16:01:00+00:00",
+    "source_category_raw": "Aviação - Empresas",
+    "all_categories": [
+      "Aviação - Empresas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Empresas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.875,
+    "layout_tier": "manchete"
+  },
+  {
     "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=719728",
     "title": "Festivais em Minas Gerais unem música, natureza e turismo entre agosto e setembro",
@@ -182,6 +623,52 @@
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
     "destaque_score": 0.596,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/hotelaria/2026/08/gbta-convention-2026-mais-conteudo-de-hoteis-nao-significa-mais-compliance-entenda_230756.html",
+    "title": "GBTA Convention 2026: mais conteúdo de hotéis não significa mais compliance; entenda",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/hotelaria/2026/08/gbta-convention-2026-mais-conteudo-de-hoteis-nao-significa-mais-compliance-entenda_230756.html",
+    "description": "Sessão educacional desta terça-feira (4) debateu a fragmentação hoteleira e como isso afeta o viajante",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/04/af3f8854a6f3ea53523f8f9074f53293-img1845.jpg",
+    "author": "Beatrice Teizen",
+    "pub_date": "2026-08-04T15:47:00+00:00",
+    "source_category_raw": "Corporativo - Hotelaria",
+    "all_categories": [
+      "Corporativo - Hotelaria"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Hotelaria",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.675,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/tecnologia/2026/08/civitatis-e-wooba-anunciam-parceria-para-ampliar-distribuicao-no-mercado-b2b_230757.html",
+    "title": "Civitatis e Wooba anunciam parceria para ampliar distribuição no mercado B2B",
+    "link": "https://www.panrotas.com.br/mercado/tecnologia/2026/08/civitatis-e-wooba-anunciam-parceria-para-ampliar-distribuicao-no-mercado-b2b_230757.html",
+    "description": "Integração permitirá que agências e operadoras conectadas à Wooba tenham acesso ao portfólio da Civitatis",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/06/a8759fd3bcef0c505318c591f7f4953f-unnamed20260706t144154.864.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-08-04T15:36:00+00:00",
+    "source_category_raw": "Mercado - Tecnologia",
+    "all_categories": [
+      "Mercado - Tecnologia"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Tecnologia",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.674,
     "layout_tier": "grade"
   },
   {
@@ -208,6 +695,29 @@
     "layout_tier": "grade"
   },
   {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/aviacao/2026/08/copa-airlines-vai-atingir-recorde-de-117-voos-semanais-no-brasil-em-2027_230754.html",
+    "title": "Copa Airlines vai atingir recorde de 117 voos semanais no Brasil em 2027",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/aviacao/2026/08/copa-airlines-vai-atingir-recorde-de-117-voos-semanais-no-brasil-em-2027_230754.html",
+    "description": "Companhia panamenha reforça ofensiva nas viagens corporativas com expansão da malha e mais tecnologia",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/04/aa5daac209293a8cbb3200725a242880-whatsappimage20260804at9.17.09am.jpeg",
+    "author": "Artur Luiz Andrade",
+    "pub_date": "2026-08-04T15:10:00+00:00",
+    "source_category_raw": "Corporativo - Aviação",
+    "all_categories": [
+      "Corporativo - Aviação"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Aviação",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.672,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=719803",
     "title": "Unav 360 alcança 100 inscritos e confirma Kassio Seefeld entre os palestrantes",
@@ -229,6 +739,167 @@
     "content_domain_confidence": 0.9,
     "destaque_score": 0.688,
     "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/hotelaria/inauguracoes/2026/08/wyndham-anuncia-novo-hotel-em-sao-paulo-proximo-a-avenida-paulista_230746.html",
+    "title": "Wyndham anuncia novo hotel em São Paulo próximo à Avenida Paulista",
+    "link": "https://www.panrotas.com.br/hotelaria/inauguracoes/2026/08/wyndham-anuncia-novo-hotel-em-sao-paulo-proximo-a-avenida-paulista_230746.html",
+    "description": "Empreendimento na região central da cidade conta com estrutura para eventos e fitness center",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/04/7479b5d3dc8d40659d429992d0d27f65-whatsappimage20260803at14.16.471.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-08-04T14:42:00+00:00",
+    "source_category_raw": "Hotelaria - Inaugurações",
+    "all_categories": [
+      "Hotelaria - Inaugurações"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": "Inaugurações",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.55,
+    "destaque_score": 0.671,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/operadoras/2026/08/coquetel-encerra-primeiro-dia-do-arena-abreu-2026-na-bahia-veja-fotos_230747.html",
+    "title": "Coquetel encerra primeiro dia do Arena Abreu 2026 na Bahia; veja fotos",
+    "link": "https://www.panrotas.com.br/mercado/operadoras/2026/08/coquetel-encerra-primeiro-dia-do-arena-abreu-2026-na-bahia-veja-fotos_230747.html",
+    "description": "Operadora reúne mais de 300 agentes de viagens para capacitações e rodadas de negócios",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/04/195b20c04de2456f001a9ad2e2ec7312-executivosabreu.jpg",
+    "author": "Marcos Martins",
+    "pub_date": "2026-08-04T14:15:00+00:00",
+    "source_category_raw": "Mercado - Operadoras",
+    "all_categories": [
+      "Mercado - Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Operadoras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.669,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/tmcs/2026/08/com-apoio-da-avipam-altour-assume-gestao-global-das-viagens-corporativas-da-embraer_230735.html",
+    "title": "Com apoio da AVIPAM, Altour assume gestão global das viagens corporativas da Embraer",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/tmcs/2026/08/com-apoio-da-avipam-altour-assume-gestao-global-das-viagens-corporativas-da-embraer_230735.html",
+    "description": "Acordo abrange as operações da fabricante de aeronaves no Brasil, Estados Unidos, Europa e Singapura",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/03/5b67566d6b80a8d7b1af13761ac7f07c-img1693.jpg",
+    "author": "Beatrice Teizen",
+    "pub_date": "2026-08-04T14:02:00+00:00",
+    "source_category_raw": "Corporativo - TMCs",
+    "all_categories": [
+      "Corporativo - TMCs"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "TMCs",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.668,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/destinos/2026/08/eua-planejam-fechar-consulados-em-japao-canada-e-outros-tres-paises-diz-reuters_230752.html",
+    "title": "EUA planejam fechar consulados em Japão, Canadá e outros três países, diz Reuters",
+    "link": "https://www.panrotas.com.br/mercado/destinos/2026/08/eua-planejam-fechar-consulados-em-japao-canada-e-outros-tres-paises-diz-reuters_230752.html",
+    "description": "Administração de Donald Trump já chegou a avaliar o fim de quase uma dúzia de postos diplomáticos",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2017/06/19/f6c6cbace3548e383cc01403804aae77-imagemrelease970121.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-08-04T14:01:00+00:00",
+    "source_category_raw": "Mercado - Destinos",
+    "all_categories": [
+      "Mercado - Destinos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Destinos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.668,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/operadoras/2026/08/rca-turismo-lanca-campanha-de-aniversario-com-parcelamento-em-12-vezes-sem-juros_230748.html",
+    "title": "RCA Turismo lança campanha de aniversário com parcelamento em 12 vezes sem juros",
+    "link": "https://www.panrotas.com.br/mercado/operadoras/2026/08/rca-turismo-lanca-campanha-de-aniversario-com-parcelamento-em-12-vezes-sem-juros_230748.html",
+    "description": "Ao longo do mês, agentes de viagens terão acesso a promoções em destinos, hotéis e cruzeiros e mais",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2023/08/23/9f4fc124ae70cce4c93333859e7d86f5-dsc0782.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-08-04T13:48:00+00:00",
+    "source_category_raw": "Mercado - Operadoras",
+    "all_categories": [
+      "Mercado - Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Operadoras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.668,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/operadoras/2026/08/diversa-turismo-lanca-campanha-caribe-premiado-para-impulsionar-vendas-da-regiao_230745.html",
+    "title": "Diversa Turismo lança campanha Caribe Premiado para impulsionar vendas da região",
+    "link": "https://www.panrotas.com.br/mercado/operadoras/2026/08/diversa-turismo-lanca-campanha-caribe-premiado-para-impulsionar-vendas-da-regiao_230745.html",
+    "description": "Agentes de viagens podem potencializar os resultados ao utilizar os conectores DivWeek e DivPix",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/04/75d59590b03ab0a11fc04c7511d09c39-caribepremiado.png",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-08-04T13:21:00+00:00",
+    "source_category_raw": "Mercado - Operadoras",
+    "all_categories": [
+      "Mercado - Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Operadoras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.666,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/pesquisas-e-estatisticas/2026/08/turismo-fecha-1o-semestre-com-recorde-historico-de-empregos-e-criacao-de-100-mil-vagas_230692.html",
+    "title": "Turismo fecha 1º semestre com recorde histórico de empregos e criação de 100 mil vagas",
+    "link": "https://www.panrotas.com.br/mercado/pesquisas-e-estatisticas/2026/08/turismo-fecha-1o-semestre-com-recorde-historico-de-empregos-e-criacao-de-100-mil-vagas_230692.html",
+    "description": "Setor atingiu, em junho de 2026, o maior número de trabalhadores da história",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/09/09/92ee5db4abb81371bd9094656de910e7-whatsappimage20240907at10.56.02.jpeg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-08-04T12:56:00+00:00",
+    "source_category_raw": "Mercado - Pesquisas e Estatísticas",
+    "all_categories": [
+      "Mercado - Pesquisas e Estatísticas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": "Pesquisas e Estatísticas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.865,
+    "layout_tier": "manchete"
   },
   {
     "source_id": "mercadoeeventos",
@@ -303,6 +974,29 @@
     "layout_tier": "grade"
   },
   {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/destinos/2026/08/chegadas-internacionais-aos-eua-crescem-23-em-maio-brasil-segue-no-top-5_230664.html",
+    "title": "Chegadas internacionais aos EUA crescem 2,3% em maio; Brasil segue no top 5",
+    "link": "https://www.panrotas.com.br/mercado/destinos/2026/08/chegadas-internacionais-aos-eua-crescem-23-em-maio-brasil-segue-no-top-5_230664.html",
+    "description": "Mercado brasileiro enviou mais de 162 mil visitantes aos Estados Unidos durante o quinto mês do ano",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/31/31898f6c50b02526743622ff15a7149d-pexelsfelixrottmann3846227.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-08-04T12:29:00+00:00",
+    "source_category_raw": "Mercado - Destinos",
+    "all_categories": [
+      "Mercado - Destinos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Destinos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.663,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "mercadoeeventos",
     "guid": "https://www.mercadoeeventos.com.br/?p=719806",
     "title": "EUA ampliarão emissão do “Passaporte Patriota” após alta procura",
@@ -326,6 +1020,29 @@
     "content_domain_confidence": 0.75,
     "destaque_score": 0.59,
     "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/aeroportos/2026/08/eua-anunciam-investimento-de-mais-de-us-20-bi-para-transformar-aeroporto-de-washington_230666.html",
+    "title": "EUA anunciam investimento de mais de US$ 20 bi para transformar aeroporto de Washington",
+    "link": "https://www.panrotas.com.br/aviacao/aeroportos/2026/08/eua-anunciam-investimento-de-mais-de-us-20-bi-para-transformar-aeroporto-de-washington_230666.html",
+    "description": "Plano prevê mais de 464,5 mil metros quadrados de áreas novas ou completamente renovadas",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/31/103da0349e4692d51c54a75a28091239-unnamed.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-08-04T12:02:00+00:00",
+    "source_category_raw": "Aviação - Aeroportos",
+    "all_categories": [
+      "Aviação - Aeroportos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Aeroportos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.862,
+    "layout_tier": "manchete"
   },
   {
     "source_id": "mercadoeeventos",
@@ -394,8 +1111,54 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.676,
+    "destaque_score": 0.66,
     "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/receptivos/2026/08/ottila-transforma-brasil-em-hub-regional-para-expansao-da-hotelrack-na-america-latina_230693.html",
+    "title": "Ottila transforma Brasil em hub regional para expansão da Hotelrack na América Latina",
+    "link": "https://www.panrotas.com.br/mercado/receptivos/2026/08/ottila-transforma-brasil-em-hub-regional-para-expansao-da-hotelrack-na-america-latina_230693.html",
+    "description": "País passa a liderar operação latino-americana da empresa de distribuição hoteleira",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/03/40e43be2d0f9fa38c0df8121f2a2b275-diegosouza1.jpeg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-08-04T11:22:00+00:00",
+    "source_category_raw": "Mercado - Receptivos",
+    "all_categories": [
+      "Mercado - Receptivos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Receptivos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.66,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/parcerias/2026/08/delta-e-starbucks-retomam-parceria-para-acumulo-de-milhas_230700.html",
+    "title": "Delta e Starbucks retomam parceria para acúmulo de milhas",
+    "link": "https://www.panrotas.com.br/aviacao/parcerias/2026/08/delta-e-starbucks-retomam-parceria-para-acumulo-de-milhas_230700.html",
+    "description": "Clientes devem vincular as contas Delta SkyMiles e Starbucks Rewards para acumular pontos",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/03/e478ead9a47d45e640a39c79fb5ee223-unnamed59.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-08-04T11:05:00+00:00",
+    "source_category_raw": "Aviação - Parcerias",
+    "all_categories": [
+      "Aviação - Parcerias"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Parcerias",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.859,
+    "layout_tier": "manchete"
   },
   {
     "source_id": "panrotas",
@@ -417,7 +1180,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.656,
+    "destaque_score": 0.643,
     "layout_tier": "grade"
   },
   {
@@ -429,9 +1192,9 @@
     "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/04/0868c42e6fc0bd385150cd68a8b43b7c-tvlport.png",
     "author": "Artur Luiz Andrade",
     "pub_date": "2026-08-04T05:28:00+00:00",
-    "source_category_raw": "Mercado - Tecnologia",
+    "source_category_raw": "Corporativo - Tecnologia",
     "all_categories": [
-      "Mercado - Tecnologia"
+      "Corporativo - Tecnologia"
     ],
     "in_scope": true,
     "canonical_category_l1": "Corporativo",
@@ -440,7 +1203,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.655,
+    "destaque_score": 0.642,
     "layout_tier": "grade"
   },
   {
@@ -452,19 +1215,19 @@
     "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/04/5a09cf99a2510ca991269d02fc40e18a-whatsappimage20260804at01.42.00.jpeg",
     "author": "Artur Luiz Andrade",
     "pub_date": "2026-08-04T05:04:00+00:00",
-    "source_category_raw": "Aviação - Empresas",
+    "source_category_raw": "Corporativo - Aviação",
     "all_categories": [
-      "Aviação - Empresas"
+      "Corporativo - Aviação"
     ],
     "in_scope": true,
-    "canonical_category_l1": "Aviação",
-    "canonical_category_l2": "Empresas",
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Aviação",
     "category_mapping_method": "lookup_nativo",
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.854,
-    "layout_tier": "manchete"
+    "destaque_score": 0.641,
+    "layout_tier": "grade"
   },
   {
     "source_id": "panrotas",
@@ -486,7 +1249,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.651,
+    "destaque_score": 0.638,
     "layout_tier": "grade"
   },
   {
@@ -509,7 +1272,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.649,
+    "destaque_score": 0.637,
     "layout_tier": "grade"
   },
   {
@@ -556,7 +1319,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.644,
+    "destaque_score": 0.632,
     "layout_tier": "grade"
   },
   {
@@ -602,7 +1365,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.642,
+    "destaque_score": 0.631,
     "layout_tier": "grade"
   },
   {
@@ -625,30 +1388,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.636,
-    "layout_tier": "grade"
-  },
-  {
-    "source_id": "panrotas",
-    "guid": "https://www.panrotas.com.br/viagens-corporativas/tmcs/2026/08/com-apoio-da-avipam-altour-assume-gestao-global-das-viagens-corporativas-da-embraer_230735.html",
-    "title": "Com apoio da AVIPAM, Altour assume gestão global das viagens corporativas da Embraer",
-    "link": "https://www.panrotas.com.br/viagens-corporativas/tmcs/2026/08/com-apoio-da-avipam-altour-assume-gestao-global-das-viagens-corporativas-da-embraer_230735.html",
-    "description": "Acordo abrange as operações da fabricante de aeronaves no Brasil, Estados Unidos, Europa e Singapura",
-    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/03/5b67566d6b80a8d7b1af13761ac7f07c-img1693.jpg",
-    "author": "Beatrice Teizen",
-    "pub_date": "2026-08-03T22:21:00+00:00",
-    "source_category_raw": "Corporativo - TMCs",
-    "all_categories": [
-      "Corporativo - TMCs"
-    ],
-    "in_scope": true,
-    "canonical_category_l1": "Corporativo",
-    "canonical_category_l2": "TMCs",
-    "category_mapping_method": "lookup_nativo",
-    "category_mapping_confidence": 1.0,
-    "content_domain": "turismo_direto",
-    "content_domain_confidence": 0.9,
-    "destaque_score": 0.636,
+    "destaque_score": 0.626,
     "layout_tier": "grade"
   },
   {
@@ -717,7 +1457,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.633,
+    "destaque_score": 0.623,
     "layout_tier": "grade"
   },
   {
@@ -763,7 +1503,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.633,
+    "destaque_score": 0.623,
     "layout_tier": "grade"
   },
   {
@@ -786,7 +1526,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.633,
+    "destaque_score": 0.623,
     "layout_tier": "grade"
   },
   {
@@ -855,7 +1595,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.632,
+    "destaque_score": 0.622,
     "layout_tier": "grade"
   },
   {
@@ -878,7 +1618,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.832,
+    "destaque_score": 0.822,
     "layout_tier": "manchete"
   },
   {
@@ -924,7 +1664,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.632,
+    "destaque_score": 0.622,
     "layout_tier": "grade"
   },
   {
@@ -947,7 +1687,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.631,
+    "destaque_score": 0.621,
     "layout_tier": "grade"
   },
   {
@@ -1016,7 +1756,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.631,
+    "destaque_score": 0.621,
     "layout_tier": "grade"
   },
   {
@@ -1062,7 +1802,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.63,
+    "destaque_score": 0.621,
     "layout_tier": "grade"
   },
   {
@@ -1085,7 +1825,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.63,
+    "destaque_score": 0.62,
     "layout_tier": "grade"
   },
   {
@@ -1131,7 +1871,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.628,
+    "destaque_score": 0.619,
     "layout_tier": "grade"
   },
   {
@@ -1154,7 +1894,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.628,
+    "destaque_score": 0.619,
     "layout_tier": "grade"
   },
   {
@@ -1177,7 +1917,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.627,
+    "destaque_score": 0.618,
     "layout_tier": "grade"
   },
   {
@@ -1214,7 +1954,7 @@
     "category_mapping_confidence": 0.6056,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.448,
+    "destaque_score": 0.439,
     "layout_tier": "grade"
   },
   {
@@ -1237,7 +1977,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.826,
+    "destaque_score": 0.817,
     "layout_tier": "manchete"
   },
   {
@@ -1260,7 +2000,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.625,
+    "destaque_score": 0.616,
     "layout_tier": "grade"
   },
   {
@@ -1283,7 +2023,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.825,
+    "destaque_score": 0.816,
     "layout_tier": "manchete"
   },
   {
@@ -1306,7 +2046,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.624,
+    "destaque_score": 0.615,
     "layout_tier": "grade"
   },
   {
@@ -1467,7 +2207,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.62,
+    "destaque_score": 0.612,
     "layout_tier": "grade"
   },
   {
@@ -1536,7 +2276,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.619,
+    "destaque_score": 0.611,
     "layout_tier": "grade"
   },
   {
@@ -1606,7 +2346,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.819,
+    "destaque_score": 0.81,
     "layout_tier": "manchete"
   },
   {
@@ -1653,7 +2393,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.618,
+    "destaque_score": 0.61,
     "layout_tier": "grade"
   },
   {
@@ -1676,7 +2416,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.617,
+    "destaque_score": 0.609,
     "layout_tier": "grade"
   },
   {
@@ -1753,7 +2493,7 @@
     "category_mapping_confidence": 0.7669,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.678,
+    "destaque_score": 0.67,
     "layout_tier": "grade"
   },
   {
@@ -1800,7 +2540,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.616,
+    "destaque_score": 0.608,
     "layout_tier": "grade"
   },
   {
@@ -1893,7 +2633,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.615,
+    "destaque_score": 0.607,
     "layout_tier": "grade"
   },
   {
@@ -1962,7 +2702,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.615,
+    "destaque_score": 0.607,
     "layout_tier": "grade"
   },
   {
@@ -1985,7 +2725,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.614,
+    "destaque_score": 0.607,
     "layout_tier": "grade"
   },
   {
@@ -2008,7 +2748,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.614,
+    "destaque_score": 0.607,
     "layout_tier": "grade"
   },
   {
@@ -2106,7 +2846,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.614,
+    "destaque_score": 0.606,
     "layout_tier": "grade"
   },
   {
@@ -2129,7 +2869,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.614,
+    "destaque_score": 0.606,
     "layout_tier": "grade"
   },
   {
@@ -2152,7 +2892,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.613,
+    "destaque_score": 0.605,
     "layout_tier": "grade"
   },
   {
@@ -2175,7 +2915,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.612,
+    "destaque_score": 0.605,
     "layout_tier": "grade"
   },
   {
@@ -2198,7 +2938,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.812,
+    "destaque_score": 0.804,
     "layout_tier": "manchete"
   },
   {
@@ -2245,7 +2985,7 @@
     "category_mapping_confidence": 0.5715,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.343,
+    "destaque_score": 0.341,
     "layout_tier": "condensado"
   },
   {
@@ -2268,7 +3008,7 @@
     "category_mapping_confidence": 0.7004,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.374,
+    "destaque_score": 0.372,
     "layout_tier": "condensado"
   },
   {
@@ -2291,7 +3031,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.766,
+    "destaque_score": 0.764,
     "layout_tier": "manchete"
   },
   {
@@ -2335,7 +3075,7 @@
     "category_mapping_confidence": 0.7481,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.382,
+    "destaque_score": 0.38,
     "layout_tier": "condensado"
   }
 ]
