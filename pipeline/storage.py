@@ -15,6 +15,7 @@ Política de upsert:
 
 import json
 import logging
+import re
 from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
@@ -24,15 +25,23 @@ logger = logging.getLogger(__name__)
 
 _DADOS_DIR = Path(__file__).parent.parent / "dados"
 
+# Formato estrito AAAA-MM. Usado para validar month_key antes de usá-lo como
+# nome de arquivo — pub_date pode conter texto bruto e não confiável do feed
+# original quando o parsing de data falha (ver fetcher._parse_date), então
+# nunca deve ser usado diretamente num caminho de arquivo sem essa checagem.
+_MONTH_KEY_RE = re.compile(r"^\d{4}-(0[1-9]|1[0-2])$")
+
 
 def _month_key(pub_date_iso: Optional[str]) -> str:
     """
     Extrai AAAA-MM de um timestamp ISO 8601.
-    Se ausente ou inválido, usa o mês corrente.
+    Se ausente, inválido ou fora do formato esperado, usa o mês corrente.
     """
     if pub_date_iso:
         try:
-            return pub_date_iso[:7]   # "2026-07"
+            candidate = pub_date_iso[:7]
+            if _MONTH_KEY_RE.match(candidate):
+                return candidate
         except Exception:
             pass
     return datetime.now(tz=timezone.utc).strftime("%Y-%m")
