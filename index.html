@@ -779,12 +779,11 @@ function init(){
     var label;
     if(lastUpdate){
       var d=new Date(lastUpdate);
-      // Converte para BRT (UTC-3)
-      var dBRT=new Date(d.getTime()-3*60*60*1000);
-      label=dBRT.toLocaleDateString('pt-BR',{day:'2-digit',month:'short',year:'numeric'})+
-            ', '+dBRT.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'})+' (BRT)';
+      // Formata direto no fuso de Brasília via Intl — não depende do fuso do navegador de quem acessa
+      label=d.toLocaleDateString('pt-BR',{day:'2-digit',month:'short',year:'numeric',timeZone:'America/Sao_Paulo'})+
+            ', '+d.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit',timeZone:'America/Sao_Paulo'})+' (BRT)';
     }else{
-      label=new Date().toLocaleDateString('pt-BR',{day:'2-digit',month:'short',year:'numeric'});
+      label=new Date().toLocaleDateString('pt-BR',{day:'2-digit',month:'short',year:'numeric',timeZone:'America/Sao_Paulo'});
     }
     setStatus('Dados atualizados em '+label);
     if(availableMonths.length>3)loadBackground(availableMonths.slice(3));
