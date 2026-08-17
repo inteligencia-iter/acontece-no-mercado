@@ -1,5 +1,28 @@
 [
   {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/operadoras/2026/08/itaparica-homenageia-parceiros-e-da-inicio-a-programacao-do-4o-connect4you-fotos_231120.html",
+    "title": "Itaparica homenageia parceiros e dá início a programação do 4º Connect4You; fotos",
+    "link": "https://www.panrotas.com.br/mercado/operadoras/2026/08/itaparica-homenageia-parceiros-e-da-inicio-a-programacao-do-4o-connect4you-fotos_231120.html",
+    "description": "Evento promove capacitações para 680 agentes de viagens presentes em Porto Seguro (BA)",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/17/68b7d54f37f46541aeecbebab1199f38-img4496.jpg",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-08-17T15:29:00+00:00",
+    "source_category_raw": "Mercado - Operadoras",
+    "all_categories": [
+      "Mercado - Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Operadoras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.695,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "abcmais_hortensias",
     "guid": "https://www.abcmais.com/brasil/tendencias-e-novos-caminhos-do-turismo-confira-a-programacao-do-palco-de-conteudo-do-meeting-festuris-em-gramado/",
     "title": "Tendências e novos caminhos do turismo: Confira a programação do palco de conteúdo do Meeting Festuris em Gramado",
@@ -36,7 +59,53 @@
     "category_mapping_confidence": 0.6095,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.481,
+    "destaque_score": 0.476,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/transporte/2026/08/metrorio-tera-esquema-especial-nos-dias-de-rock-in-rio-2026-veja-o-que-muda_231115.html",
+    "title": "MetrôRio terá esquema especial nos dias de Rock in Rio 2026; veja o que muda",
+    "link": "https://www.panrotas.com.br/mercado/transporte/2026/08/metrorio-tera-esquema-especial-nos-dias-de-rock-in-rio-2026-veja-o-que-muda_231115.html",
+    "description": "Estação Jardim Oceânico ficará aberta 24 horas para embarque de passageiros durante o festival",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/17/d259b080f1c15eddaebe1eb07998bb61-unnamed5.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-08-17T15:02:00+00:00",
+    "source_category_raw": "Mercado - Transporte",
+    "all_categories": [
+      "Mercado - Transporte"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Transporte",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.693,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/consolidadoras/2026/08/grupo-brt-abre-unidade-em-campinas-e-prepara-lancamento-de-plataforma-propria_231114.html",
+    "title": "Grupo BRT abre unidade em Campinas e prepara lançamento de plataforma própria",
+    "link": "https://www.panrotas.com.br/mercado/consolidadoras/2026/08/grupo-brt-abre-unidade-em-campinas-e-prepara-lancamento-de-plataforma-propria_231114.html",
+    "description": "Nova filial amplia presença no interior de São Paulo, incluindo atendimento fora do horário comercial",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/17/f9eba22e99bae7ec62508ef05b27c1c0-whatsappimage20260817at9.38.14am.jpeg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-08-17T14:08:00+00:00",
+    "source_category_raw": "Mercado - Consolidadoras",
+    "all_categories": [
+      "Mercado - Consolidadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Consolidadoras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.689,
     "layout_tier": "grade"
   },
   {
@@ -66,7 +135,7 @@
     "category_mapping_confidence": 0.7994,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.76,
+    "destaque_score": 0.756,
     "layout_tier": "manchete"
   },
   {
@@ -89,7 +158,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.69,
+    "destaque_score": 0.686,
     "layout_tier": "grade"
   },
   {
@@ -112,7 +181,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.69,
+    "destaque_score": 0.682,
     "layout_tier": "grade"
   },
   {
@@ -135,7 +204,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.885,
+    "destaque_score": 0.881,
     "layout_tier": "manchete"
   },
   {
@@ -158,7 +227,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.883,
+    "destaque_score": 0.879,
     "layout_tier": "manchete"
   },
   {
@@ -181,7 +250,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.882,
+    "destaque_score": 0.878,
     "layout_tier": "manchete"
   },
   {
@@ -204,7 +273,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.655,
+    "destaque_score": 0.652,
     "layout_tier": "grade"
   },
   {
@@ -227,7 +296,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.652,
+    "destaque_score": 0.649,
     "layout_tier": "grade"
   },
   {
@@ -250,7 +319,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.645,
+    "destaque_score": 0.642,
     "layout_tier": "grade"
   },
   {
@@ -273,7 +342,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.639,
+    "destaque_score": 0.636,
     "layout_tier": "grade"
   },
   {
@@ -296,7 +365,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.636,
+    "destaque_score": 0.633,
     "layout_tier": "grade"
   },
   {
@@ -319,7 +388,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.632,
+    "destaque_score": 0.629,
     "layout_tier": "grade"
   },
   {
@@ -342,7 +411,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.63,
+    "destaque_score": 0.628,
     "layout_tier": "grade"
   },
   {
@@ -384,7 +453,7 @@
     "category_mapping_confidence": 0.3302,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.541,
+    "destaque_score": 0.539,
     "layout_tier": "grade"
   },
   {
@@ -422,7 +491,7 @@
     "category_mapping_confidence": 0.7149,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.474,
+    "destaque_score": 0.471,
     "layout_tier": "grade"
   },
   {
@@ -445,7 +514,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.605,
+    "destaque_score": 0.603,
     "layout_tier": "grade"
   },
   {
@@ -468,7 +537,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.605,
+    "destaque_score": 0.603,
     "layout_tier": "grade"
   },
   {
@@ -491,7 +560,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.604,
+    "destaque_score": 0.602,
     "layout_tier": "grade"
   },
   {
@@ -514,7 +583,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.604,
+    "destaque_score": 0.602,
     "layout_tier": "grade"
   },
   {
@@ -537,7 +606,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.604,
+    "destaque_score": 0.602,
     "layout_tier": "grade"
   },
   {
@@ -600,7 +669,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.585,
+    "destaque_score": 0.584,
     "layout_tier": "grade"
   },
   {
@@ -669,7 +738,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.572,
+    "destaque_score": 0.571,
     "layout_tier": "grade"
   },
   {
@@ -705,7 +774,7 @@
     "category_mapping_confidence": 0.462,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.358,
+    "destaque_score": 0.357,
     "layout_tier": "condensado"
   },
   {
@@ -728,7 +797,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.772,
+    "destaque_score": 0.771,
     "layout_tier": "manchete"
   },
   {
@@ -751,7 +820,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.572,
+    "destaque_score": 0.571,
     "layout_tier": "grade"
   },
   {
@@ -774,7 +843,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.572,
+    "destaque_score": 0.571,
     "layout_tier": "grade"
   },
   {
@@ -797,7 +866,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.572,
+    "destaque_score": 0.571,
     "layout_tier": "grade"
   },
   {
@@ -820,7 +889,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.572,
+    "destaque_score": 0.571,
     "layout_tier": "grade"
   },
   {
@@ -843,7 +912,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.572,
+    "destaque_score": 0.571,
     "layout_tier": "grade"
   },
   {
@@ -912,7 +981,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.571,
+    "destaque_score": 0.57,
     "layout_tier": "grade"
   },
   {
@@ -971,7 +1040,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.77,
+    "destaque_score": 0.769,
     "layout_tier": "manchete"
   },
   {
@@ -994,7 +1063,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.57,
+    "destaque_score": 0.569,
     "layout_tier": "grade"
   },
   {
@@ -1040,7 +1109,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.569,
+    "destaque_score": 0.568,
     "layout_tier": "grade"
   },
   {
@@ -1063,7 +1132,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.568,
     "layout_tier": "grade"
   },
   {
@@ -1086,7 +1155,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.769,
+    "destaque_score": 0.768,
     "layout_tier": "manchete"
   },
   {
@@ -1109,7 +1178,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.569,
+    "destaque_score": 0.568,
     "layout_tier": "grade"
   },
   {
@@ -1178,7 +1247,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.568,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -1207,7 +1276,7 @@
     "category_mapping_confidence": 0.7553,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.627,
+    "destaque_score": 0.626,
     "layout_tier": "grade"
   },
   {
@@ -1230,7 +1299,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.768,
+    "destaque_score": 0.767,
     "layout_tier": "manchete"
   },
   {
@@ -1253,7 +1322,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.768,
+    "destaque_score": 0.767,
     "layout_tier": "manchete"
   },
   {
@@ -1276,7 +1345,7 @@
     "category_mapping_confidence": 0.2864,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.389,
+    "destaque_score": 0.388,
     "layout_tier": "condensado"
   },
   {
@@ -1322,7 +1391,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.767,
+    "destaque_score": 0.766,
     "layout_tier": "manchete"
   },
   {
@@ -1345,7 +1414,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.567,
+    "destaque_score": 0.566,
     "layout_tier": "grade"
   },
   {
@@ -1391,7 +1460,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.563,
+    "destaque_score": 0.562,
     "layout_tier": "grade"
   },
   {
@@ -1529,7 +1598,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -1552,7 +1621,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -1575,7 +1644,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -1598,7 +1667,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.761,
+    "destaque_score": 0.76,
     "layout_tier": "manchete"
   },
   {
@@ -1621,7 +1690,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -1644,7 +1713,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -1889,7 +1958,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -1912,7 +1981,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -1935,7 +2004,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2168,7 +2237,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -2191,7 +2260,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -2214,7 +2283,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -2310,7 +2379,7 @@
     "category_mapping_confidence": 0.5944,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.377,
+    "destaque_score": 0.376,
     "layout_tier": "condensado"
   },
   {
@@ -2448,7 +2517,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -2471,7 +2540,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -2494,7 +2563,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -2517,7 +2586,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.756,
+    "destaque_score": 0.755,
     "layout_tier": "manchete"
   },
   {
@@ -3042,7 +3111,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -3065,7 +3134,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -3449,7 +3518,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -3472,7 +3541,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
