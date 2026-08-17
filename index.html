@@ -64,8 +64,7 @@
     .card:hover .card-image img { transform:scale(1.04); }
     #content .card[draggable="true"] { cursor:grab; }
     #content .card[draggable="true"]:active { cursor:grabbing; }
-    .card.dragging { opacity:0.30; transform:scale(0.97) !important; box-shadow:none !important; transition:opacity 0.1s,transform 0.1s; }
-    .drag-zone-bar { display:none; } /* substituída por ícones inline */
+    .card.dragging { opacity:0.30; transform:scale(0.97) !important; box-shadow:none !important; transition:opacity 0.1s,transform 0.1s; } .drag-ghost { position:fixed; top:-1000px; left:-1000px; display:flex; align-items:center; gap:8px; background:#0f172a; color:#fff; font-family:inherit; font-size:13px; font-weight:500; line-height:1.3; padding:9px 16px 9px 12px; border-radius:10px; box-shadow:0 10px 28px rgba(0,0,0,0.35); max-width:260px; pointer-events:none; } .drag-ghost-icon { font-size:17px; flex-shrink:0; } .drag-ghost-title { overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }    .drag-zone-bar { display:none; } /* substituída por ícones inline */
     .folder-icon { display:flex; flex-direction:column; align-items:center; gap:2px; padding:7px 12px 6px; border-radius:10px; cursor:pointer; border:2px solid transparent; background:rgba(245,158,11,0.08); transition:background 0.15s,border-color 0.15s,transform 0.12s,box-shadow 0.12s; user-select:none; min-width:64px; flex-shrink:0; }
     .folder-icon:hover { background:rgba(245,158,11,0.15); border-color:rgba(245,158,11,0.35); }
     .folder-icon.active { background:rgba(245,158,11,0.20); border-color:#f59e0b; }
@@ -399,7 +398,7 @@ function catLabel(l1){
   for(var i=0;i<CATEGORIES.length;i++){if(CATEGORIES[i].key===k)return CATEGORIES[i].label;}
   return l1||'Turismo';
 }
-function fetchJSON(url){
+function buildDragGhost(item){ var ghost=document.createElement('div'); ghost.className='drag-ghost'; var icon=catIcon(item.canonical_category_l1||''); var rawTitle=(item.title||'').trim(); var truncated=rawTitle.length>42?rawTitle.slice(0,42)+'…':rawTitle; ghost.innerHTML='<span class="drag-ghost-icon">'+icon+'</span><span class="drag-ghost-title">'+esc(truncated)+'</span>'; return ghost; } function fetchJSON(url){
   return fetch(url+'?v='+Date.now()).then(function(r){if(!r.ok)throw new Error(r.status);return r.json();});
 }
 function setStatus(msg){document.getElementById('status-bar').textContent=msg;}
@@ -655,7 +654,7 @@ document.getElementById('content').addEventListener('dragstart',function(e){
   if(!card)return;
   draggedGuid=card.getAttribute('data-guid')||null;
   if(!draggedGuid){e.preventDefault();return;}
-  e.dataTransfer.effectAllowed='move';
+  e.dataTransfer.effectAllowed='move'; var draggedItem=allItems.find(function(i){return i.guid===draggedGuid;}); if(draggedItem){ var ghost=buildDragGhost(draggedItem); document.body.appendChild(ghost); e.dataTransfer.setDragImage(ghost,16,22); setTimeout(function(){document.body.removeChild(ghost);},0); }
   setTimeout(function(){card.classList.add('dragging');},0);
   showDropZones();
 });
