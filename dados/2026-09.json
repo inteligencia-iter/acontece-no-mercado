@@ -1,5 +1,33 @@
 [
   {
+    "source_id": "agenciabrasil",
+    "guid": "1701259 at https://agenciabrasil.ebc.com.br",
+    "title": "PIB brasileiro tem 5º maior crescimento no segundo trimestre",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pib-brasileiro-tem-5o-maior-crescimento-no-segundo-trimestre",
+    "description": "O crescimento de 0,5% da economia brasileira na passagem do primeiro para o segundo trimestre de 2026 coloca o país como dono da quinta maior alta do Produto Interno Bruto (PIB, conjunto de bens e serviços produzidos no país) nessa comparação entre trimestres imediatamente seguidos, à frente de países como Estados Unidos e China. O ranqueamento foi divulgado pela agência classificadora de risco de crédito Austin Rating, com dados do Fundo Monetário Internacional (FMI), órgão ligado às Nações Unidas. Notícias relacionadas: PIB do Brasil cresce 0,5% no segundo trimestre, mostra IBGE. Boletim Focus: mercado prevê redução da inflação e do PIB de 2026 . O ranking leva em consideração 50 países que já divulgaram o resultado do PIB do segundo trimestre. O topo é ocupado pela Irlanda, com expansão de 1%. Além de figurar na quinta posição, o Brasil apresenta desempenho superior à média dos países (0,2%), dos países da Zona do Euro (0,1%) e do G7 (Alemanha, Canadá, Estados Unidos, França, Itália, Japão e Reino Unido). De acordo com boletim da Secretaria de Política Econômica (SPE) do Ministério da Fazenda, a variação positiva do PIB no segundo trimestre veio acima das expectativas de mercado, que acreditava em alta de 0,4%. Confira os 20 países mais bem colocados no ranking de crescimento de PIB no segundo trimestre: Irlanda: 1% Indonésia: 0,9% Angola: 0,7% Malásia: 0,6% Brasil: 0,5% Eslovênia: 0,4% Lituânia: 0,4% Suécia: 0,4% Estados Unidos: 0,4% Sérvia: 0,4% Suíça: 0,4% Singapura: 0,3% México: 0,3% Tunísia: 0,3% Taiwan: 0,3% Colômbia: 0,3% Turquia: 0,3% Polônia: 0,2% China: 0,2% Canadá: 0,2% Maiores economias O PIB ajuda a compreender a realidade de um país, mas não expressa fatores como distribuição de renda e condição de vida . É possível, por exemplo, um país ter PIB alto e padrão de vida relativamente baixo, assim como pode haver nação com PIB baixo e altíssima qualidade de vida. A Austin Rating compara também os países por tamanho do PIB. O Brasil era a 11ª maior economia em 2025. Em 2026, subiu para a décima posição. A projeção é que ultrapasse a Rússia e alcance o nono lugar em 2027. Veja o tamanho das 15 maiores economias do mundo 1º Estados Unidos: US$ 32,38 tri 2º China: US$ 20,85 tri 3º Alemanha: US$ 5,45 tri 4º Japão: US$ 4,38 tri 5º Reino Unido: US$ 4,26 tri 6º Índia: US$ 4,15 tri 7º França: US$ 3,60 tri 8º Itália: US$ 2,74 tri 9º Rússia: US$ 2,66 tri 10º Brasil: US$ 2,64 tri 11º Canadá: US$ 2,51 tri 12º Austrália: US$ 2,12 tri 13º México: US$ 2,12 tri 14º Espanha: US$ 2,09 tri 15º Coreia: US$ 1,93 tri A melhor posição já alcançada pelo Brasil foi sétima maior economia, de 2011 a 2014. Saiba mais no Repórter Brasil Tarde, da TV Brasil",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Bruno de Freitas Moura - Repórter da Agência Brasil",
+    "pub_date": "2026-09-01T16:01:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "PIB do Brasil",
+      "resultado",
+      "segundo trimestre",
+      "IBGE",
+      "Multimídia"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.5842,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.706,
+    "layout_tier": "manchete"
+  },
+  {
     "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/09/gol-tera-voos-diretos-entre-assuncao-e-florianopolis-no-verao_231602.html",
     "title": "Gol terá voos diretos entre Assunção e Florianópolis no verão",
@@ -42,7 +70,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.694,
+    "destaque_score": 0.68,
     "layout_tier": "grade"
   },
   {
@@ -65,7 +93,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.694,
+    "destaque_score": 0.68,
     "layout_tier": "grade"
   },
   {
@@ -88,7 +116,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.694,
+    "destaque_score": 0.679,
     "layout_tier": "grade"
   },
   {
@@ -111,7 +139,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.693,
+    "destaque_score": 0.678,
     "layout_tier": "grade"
   },
   {
@@ -134,7 +162,7 @@
     "category_mapping_confidence": 0.3283,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.724,
+    "destaque_score": 0.71,
     "layout_tier": "manchete"
   },
   {
@@ -161,7 +189,7 @@
     "category_mapping_confidence": 0.6923,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.732,
+    "destaque_score": 0.718,
     "layout_tier": "manchete"
   },
   {
@@ -184,7 +212,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.888,
+    "destaque_score": 0.875,
     "layout_tier": "manchete"
   },
   {
@@ -207,7 +235,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.687,
+    "destaque_score": 0.673,
     "layout_tier": "grade"
   },
   {
@@ -230,7 +258,7 @@
     "category_mapping_confidence": 0.3881,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.532,
+    "destaque_score": 0.519,
     "layout_tier": "grade"
   },
   {
@@ -253,7 +281,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.884,
+    "destaque_score": 0.871,
     "layout_tier": "manchete"
   }
 ]
