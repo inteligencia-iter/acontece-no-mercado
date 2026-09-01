@@ -1,6 +1,32 @@
 [
   {
     "source_id": "agenciabrasil",
+    "guid": "1701269 at https://agenciabrasil.ebc.com.br",
+    "title": "Petrobras reajusta preço médio do querosene de aviação em 13,9%",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/petrobras-reajusta-preco-medio-do-querosene-de-aviacao-em-139",
+    "description": "A Petrobras reajustou o preço do querosene de aviação (QAV) em 13,9%, em média. O novo valor está em vigor a partir desta terça-feira (1º). A empresa atribuiu o aumento a reflexos da guerra no Oriente Médio, que causa problemas na logística da indústria do petróleo. De acordo com a estatal, o combustível passa a custar, na média, R$ 0,68 a mais por litro. Nas refinarias da companhia espalhadas pelo país, o novo preço do QAV varia de R$ 5,44 a R$ 5,70 por litro . Notícias relacionadas: Com alívio da guerra, Petrobras reduz preço do querosene de aviação . Campo de Búzios, da Petrobras, bate recordes de exportação de gás. Governo sanciona lei que permite reduzir tributos sobre combustíveis. A variação na comparação com o mês passado chega a 14,34% em São Luís. O menor aumento é de 13,51% em Canoas, no Rio Grande do Sul. Por contrato, o preço do combustível vendido às distribuidoras é reajustado sempre no dia 1º de cada mês. O QAV é utilizado por aviões e helicópteros. O combustível responde por cerca de 30% das despesas operacionais das companhias aéreas brasileiras, segundo a Agência Nacional de Aviação Civil (Anac), órgão regulador do setor. Efeito a guerra Desde o início do ano, o QAV subiu 53,3%, o que representa R$ 1,94 a mais por litro. De acordo com a Petrobras, o reajuste “reflete a elevação das cotações internacionais do Querosene de Aviação, impulsionada pelas tensões geopolíticas no Oriente Médio”. Com o desencadeamento da guerra dos Estados Unidos e Israel contra o Irã, em 28 de fevereiro, a cadeia logística da indústria do petróleo sofreu perturbações, o que levou à disparada de preços. O motivo principal é a instabilidade do Estreito de Ormuz , passagem marítima ao sul do Irã. Antes da guerra, 20% da produção internacional de óleo e gás passavam pela região. Com menos oferta de petróleo nos mercados, o preço subiu. Apesar de o Brasil ser produtor de petróleo, o produto e seus derivados, por serem commodities (matéria-prima negociada em grandes quantidades), têm o preço definido no mercado internacional. Parcelamento Em abril, a Petrobras reajustou o QAV em 55%. Em maio houve alta de 18%. Na ocasião, para suavizar o efeito do encarecimento nos caixas das companhias aéreas, a estatal permitiu que as distribuidoras parcelassem o reajuste . Como houve momentos em que os EUA e o Irã se aproximaram de um acordo, a Petrobras chegou a reduzir o QAV em junho e julho. Mas em agosto, voltou a subir 1,9%, assim como agora em setembro. A empresa explica que o preço do QAV no Brasil segue “fórmula paramétrica contratual que atua como amortecedor de curto prazo, resultando em ajustes mais moderados do que os observados nos mercados internacionais”. A Petrobras informou que retomou, em setembro, o programa de parcelamento dos reajustes. “A iniciativa permitirá que as distribuidoras parcelem o aumento em três parcelas mensais, reduzindo o impacto financeiro”, declarou. A estatal confirmou também que todo volume solicitado pelas distribuidoras está garantido. Cadeia de venda A Petrobras comercializa para as distribuidoras o QAV produzido nas refinarias da empresa ou importado. Uma vez comprado pelas distribuidoras, as empresas transportam o combustível e vendem para companhias de transporte e outros consumidores finais nos aeroportos ou ainda para revendedores. A estatal tem participação de cerca de 85% da produção do QAV, mas o mercado é aberto à livre concorrência , sem restrições para outras empresas atuarem como produtoras ou importadoras.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Bruno de Freitas Moura - Repórter da Agência Brasil",
+    "pub_date": "2026-09-01T19:06:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "Petrobras",
+      "Querosene de aviação",
+      "Combustível"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.7505,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.6,
+    "destaque_score": 0.747,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "agenciabrasil",
     "guid": "1701259 at https://agenciabrasil.ebc.com.br",
     "title": "PIB brasileiro tem 5º maior crescimento no segundo trimestre",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/pib-brasileiro-tem-5o-maior-crescimento-no-segundo-trimestre",
@@ -24,8 +50,31 @@
     "category_mapping_confidence": 0.5842,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.706,
-    "layout_tier": "manchete"
+    "destaque_score": 0.693,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/operadoras/2026/09/diversa-turismo-abre-nova-etapa-da-campanha-caribe-premiado-confira-regulamento_231601.html",
+    "title": "Diversa Turismo abre nova etapa da campanha Caribe Premiado; confira regulamento",
+    "link": "https://www.panrotas.com.br/mercado/operadoras/2026/09/diversa-turismo-abre-nova-etapa-da-campanha-caribe-premiado-confira-regulamento_231601.html",
+    "description": "Agentes podem potencializar ainda mais seus resultados ao utilizar DivWeek ou DivPix",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/01/c2a16691268479a2d57dd5ec3b85e851-dsc1459.jpg.jpeg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-09-01T15:07:00+00:00",
+    "source_category_raw": "Mercado - Operadoras",
+    "all_categories": [
+      "Mercado - Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Operadoras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.674,
+    "layout_tier": "grade"
   },
   {
     "source_id": "panrotas",
@@ -47,7 +96,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.899,
+    "destaque_score": 0.872,
     "layout_tier": "manchete"
   },
   {
@@ -70,7 +119,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.68,
+    "destaque_score": 0.668,
     "layout_tier": "grade"
   },
   {
@@ -93,7 +142,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.68,
+    "destaque_score": 0.668,
     "layout_tier": "grade"
   },
   {
@@ -116,7 +165,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.679,
+    "destaque_score": 0.668,
     "layout_tier": "grade"
   },
   {
@@ -139,7 +188,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.678,
+    "destaque_score": 0.667,
     "layout_tier": "grade"
   },
   {
@@ -162,8 +211,8 @@
     "category_mapping_confidence": 0.3283,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.71,
-    "layout_tier": "manchete"
+    "destaque_score": 0.698,
+    "layout_tier": "grade"
   },
   {
     "source_id": "agenciabrasil",
@@ -189,7 +238,7 @@
     "category_mapping_confidence": 0.6923,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.718,
+    "destaque_score": 0.707,
     "layout_tier": "manchete"
   },
   {
@@ -212,7 +261,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.875,
+    "destaque_score": 0.863,
     "layout_tier": "manchete"
   },
   {
@@ -235,7 +284,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.673,
+    "destaque_score": 0.662,
     "layout_tier": "grade"
   },
   {
@@ -258,7 +307,7 @@
     "category_mapping_confidence": 0.3881,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.519,
+    "destaque_score": 0.508,
     "layout_tier": "grade"
   },
   {
@@ -281,7 +330,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.871,
+    "destaque_score": 0.86,
     "layout_tier": "manchete"
   }
 ]
