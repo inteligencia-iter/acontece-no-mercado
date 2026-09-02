@@ -1,5 +1,31 @@
 [
   {
+    "source_id": "agenciabrasil",
+    "guid": "1701322 at https://agenciabrasil.ebc.com.br",
+    "title": "Produção industrial interrompe 2 meses de queda e sobe 0,2% em julho",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/producao-industrial-interrompe-2-meses-de-queda-e-sobe-02-em-julho",
+    "description": "A produção da indústria brasileira cresceu 0,2% na passagem de junho para julho. O resultado interrompe dois meses seguidos de queda. Dessa forma, o setor acumula alta de 1,1% ao longo de 2026 e soma expansão de 0,6% nos últimos 12 meses. Na comparação com julho de 2025, a indústria recuou 0,5%. A média móvel trimestral, que ajuda a identificar a trajetória recente do setor, encolheu 0,8%. Notícias relacionadas: PIB brasileiro tem 5º maior crescimento no segundo trimestre. PIB do Brasil cresce 0,5% no segundo trimestre, mostra IBGE. Boletim Focus: mercado prevê redução da inflação e do PIB de 2026 . Os dados fazem parte da Pesquisa Industrial Mensal (PIM), divulgada nesta quarta-feira (2) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). De acordo com o IBGE, a variação positiva acumulada em 12 meses (0,6%) representa “ligeira perda de ritmo” em comparação ao acumulado até junho de 2026 (0,7%). Veja o comportamento da indústria brasileira ao longo do ano, na comparação entre meses imediatamente seguidos: Janeiro: 2,1% Fevereiro: 1,0% Março: 0,1% Abril: 1,2% Maio: -1,0% Junho: -1,6% Julho: 0,2% O desempenho de julho deixa a indústria 2,1% acima do patamar pré-pandemia de covid-19 (fevereiro de 2020) e 15% abaixo do nível mais alto já registrado, alcançado em maio de 2001. Influências A pesquisa revela que três das quatro grandes categorias econômicas apresentaram avanço de junho para julho: bens de consumo duráveis: 3,2% bens de capital: 2,4% bens de consumo semi e não duráveis: 0,5% bens intermediários: -0,2% Das atividades monitoradas pelo IBGE, 13 das 25 tiveram alta entre os meses: equipamentos de informática, produtos eletrônicos e ópticos: 12,2% produtos alimentícios: 1% coque, produtos derivados do petróleo e biocombustíveis: 1,1% outros equipamentos de transporte: 11,2% produtos do fumo: 11,1% máquinas, aparelhos e materiais elétricos: 2,3% confecção de artigos do vestuário e acessórios: 2,6% Pelo lado negativo, a maior pressão de baixa veio da indústria extrativa, que recuou 1%. O IBGE acrescenta que outras contribuições negativas relevantes ficaram como impressão e reprodução de gravações (-17,2%), produtos diversos (-9,0%), metalurgia (-1,4%), produtos químicos (-0,8%) e celulose, papel e produtos de papel (-1,3%). O índice de difusão mostrou que 69,6% dos 789 produtos pesquisados pelo IBGE apresentaram desempenho positivo na passagem de junho para julho . Esse é o segundo maior indicador do ano, perdendo apenas para março (80,6%).",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Bruno de Freitas Moura - Repórter da Agência Brasil",
+    "pub_date": "2026-09-02T13:19:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "Pesquisa Industrial Mensal",
+      "IBGE",
+      "Julho"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.5656,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.707,
+    "layout_tier": "manchete"
+  },
+  {
     "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/mercado/encontros/2026/09/veja-fotos-da-primeira-edicao-do-roadmap-sessions-realizado-pela-mobility-em-sp_231640.html",
     "title": "Veja fotos da primeira edição do Roadmap Sessions, realizado pela Mobility em SP",
@@ -19,7 +45,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.671,
+    "destaque_score": 0.655,
     "layout_tier": "grade"
   },
   {
@@ -42,7 +68,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.658,
+    "destaque_score": 0.644,
     "layout_tier": "grade"
   },
   {
@@ -65,7 +91,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.856,
+    "destaque_score": 0.842,
     "layout_tier": "manchete"
   },
   {
@@ -88,7 +114,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.856,
+    "destaque_score": 0.842,
     "layout_tier": "manchete"
   },
   {
@@ -111,7 +137,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.856,
+    "destaque_score": 0.842,
     "layout_tier": "manchete"
   },
   {
@@ -134,7 +160,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.856,
+    "destaque_score": 0.842,
     "layout_tier": "manchete"
   },
   {
@@ -157,7 +183,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.653,
+    "destaque_score": 0.64,
     "layout_tier": "grade"
   },
   {
@@ -180,7 +206,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.653,
+    "destaque_score": 0.64,
     "layout_tier": "grade"
   },
   {
@@ -203,7 +229,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.853,
+    "destaque_score": 0.84,
     "layout_tier": "manchete"
   },
   {
@@ -226,7 +252,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.853,
+    "destaque_score": 0.839,
     "layout_tier": "manchete"
   },
   {
@@ -249,7 +275,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.653,
+    "destaque_score": 0.639,
     "layout_tier": "grade"
   },
   {
@@ -272,7 +298,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.652,
+    "destaque_score": 0.639,
     "layout_tier": "grade"
   },
   {
@@ -295,7 +321,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.652,
+    "destaque_score": 0.639,
     "layout_tier": "grade"
   },
   {
@@ -318,7 +344,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.652,
+    "destaque_score": 0.638,
     "layout_tier": "grade"
   },
   {
@@ -341,7 +367,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.85,
+    "destaque_score": 0.837,
     "layout_tier": "manchete"
   },
   {
@@ -367,8 +393,8 @@
     "category_mapping_confidence": 0.7505,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.706,
-    "layout_tier": "manchete"
+    "destaque_score": 0.693,
+    "layout_tier": "grade"
   },
   {
     "source_id": "panrotas",
@@ -390,7 +416,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.647,
+    "destaque_score": 0.635,
     "layout_tier": "grade"
   },
   {
@@ -413,7 +439,7 @@
     "category_mapping_confidence": 0.255,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.46,
+    "destaque_score": 0.448,
     "layout_tier": "grade"
   },
   {
@@ -436,7 +462,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.646,
+    "destaque_score": 0.634,
     "layout_tier": "grade"
   },
   {
@@ -459,7 +485,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.845,
+    "destaque_score": 0.833,
     "layout_tier": "manchete"
   },
   {
@@ -482,7 +508,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.644,
+    "destaque_score": 0.632,
     "layout_tier": "grade"
   },
   {
@@ -505,7 +531,7 @@
     "category_mapping_confidence": 0.5792,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.738,
+    "destaque_score": 0.725,
     "layout_tier": "manchete"
   },
   {
@@ -528,7 +554,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.641,
+    "destaque_score": 0.629,
     "layout_tier": "grade"
   },
   {
@@ -556,7 +582,7 @@
     "category_mapping_confidence": 0.5842,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.656,
+    "destaque_score": 0.645,
     "layout_tier": "grade"
   },
   {
@@ -579,7 +605,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.64,
+    "destaque_score": 0.628,
     "layout_tier": "grade"
   },
   {
@@ -602,7 +628,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.839,
+    "destaque_score": 0.828,
     "layout_tier": "manchete"
   },
   {
@@ -625,7 +651,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.638,
+    "destaque_score": 0.626,
     "layout_tier": "grade"
   },
   {
@@ -648,7 +674,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.837,
+    "destaque_score": 0.825,
     "layout_tier": "manchete"
   },
   {
@@ -694,7 +720,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.634,
+    "destaque_score": 0.623,
     "layout_tier": "grade"
   },
   {
@@ -717,7 +743,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.634,
+    "destaque_score": 0.623,
     "layout_tier": "grade"
   },
   {
@@ -740,7 +766,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.634,
+    "destaque_score": 0.623,
     "layout_tier": "grade"
   },
   {
@@ -763,7 +789,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.633,
+    "destaque_score": 0.622,
     "layout_tier": "grade"
   },
   {
@@ -786,7 +812,7 @@
     "category_mapping_confidence": 0.3283,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.665,
+    "destaque_score": 0.654,
     "layout_tier": "grade"
   },
   {
@@ -813,7 +839,7 @@
     "category_mapping_confidence": 0.6923,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.674,
+    "destaque_score": 0.663,
     "layout_tier": "grade"
   },
   {
@@ -836,7 +862,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.831,
+    "destaque_score": 0.82,
     "layout_tier": "manchete"
   },
   {
@@ -859,7 +885,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.63,
+    "destaque_score": 0.619,
     "layout_tier": "grade"
   },
   {
@@ -882,7 +908,7 @@
     "category_mapping_confidence": 0.3881,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.476,
+    "destaque_score": 0.466,
     "layout_tier": "grade"
   },
   {
@@ -905,7 +931,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.828,
+    "destaque_score": 0.818,
     "layout_tier": "manchete"
   }
 ]
