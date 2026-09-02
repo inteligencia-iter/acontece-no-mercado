@@ -1,5 +1,80 @@
 [
   {
+    "source_id": "agenciabrasil",
+    "guid": "1701384 at https://agenciabrasil.ebc.com.br",
+    "title": "BB passa a usar tecnologia de origem verificada em ligações",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bb-passa-usar-tecnologia-de-origem-verificada-em-ligacoes",
+    "description": "Os clientes do Banco do Brasil (BB) contam com um novo recurso de segurança para evitar falsas ligações telefônicas. O banco passou a utilizar a tecnologia de origem verificada para identificar chamadas telefônicas feitas pela instituição. O recurso, com validação da Agência Nacional de Telecomunicações (Anatel) e das operadoras, permite que clientes reconheçam, na tela do celular, que determinada ligação foi realmente originada pelo banco. Notícias relacionadas: Plataforma do BB amplia digitalização na gestão pública. Nova regra do Pix amplia prazo para contestar golpe. Quase um terço dos usuários de internet relatam tentativas de golpe. A solução é aplicada às chamadas pelo número 4003-3001, usado por agências, escritórios de negócios, Serviço de Atendimento ao Consumidor (SAC), centrais de relacionamento e outras áreas de atendimento do BB. Segurança Desenvolvida pela Agência Nacional de Telecomunicações (Anatel), a tecnologia valida, em tempo real, a autenticidade dos números usados em ligações telefônicas. O sistema usa uma assinatura digital associada ao número do banco. Antes de a chamada chegar ao cliente, a operadora verifica essa assinatura. Quando a autenticação é concluída, o celular pode exibir uma identificação indicando que a ligação foi feita pelo Banco do Brasil. A iniciativa busca contribuir para o combate a fraudes telefônicas e às chamadas automatizadas indevidas, conhecidas como robocalls . Atendimentos O telefone continua sendo um dos principais canais de relacionamento entre o banco e seus clientes. Segundo o BB, em 2025 foram registradas, em média, 2,3 milhões de chamadas receptivas por mês , feitas por clientes ao banco. Além disso, o BB fez 1,5 milhão de chamadas ativas mensais a clientes. Durante os testes da tecnologia de origem verificada, a identificação das chamadas contribuiu para um aumento de aproximadamente 30% na taxa de atendimento. Funcionamento O recurso é gratuito e não exige a instalação de aplicativos. Para o funcionamento completo da tecnologia, o BB recomenda que o celular esteja conectado a uma rede 4G ou 5G . A forma como as informações aparecem na tela pode variar conforme o modelo do aparelho e a operadora utilizada pelo cliente. Golpes Apesar da identificação das chamadas, o banco reforça que os clientes devem permanecer atentos a possíveis tentativas de fraude. Durante ligações telefônicas, o Banco do Brasil não solicita: instalação de aplicativos; acesso a sites externos; senhas; códigos de autenticação; dados pessoais; acesso remoto ao celular. Em caso de dúvida sobre a autenticidade de uma ligação, a orientação é encerrar o contato e procurar os canais oficiais da instituição. Canais oficiais O BB orienta os clientes a utilizarem os seguintes números para atendimento: 4004-0001 — capitais e regiões metropolitanas; 0800 729 0001 — demais localidades. O banco destaca ainda que o 4004-0001 é usado apenas para receber chamadas . Portanto, se esse número aparecer como originador de uma ligação, a recomendação é desconfiar e encerrar o contato.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Wellton Máximo - Repórter da Agência Brasil",
+    "pub_date": "2026-09-02T20:20:00+00:00",
+    "source_category_raw": "Geral",
+    "all_categories": [
+      "Geral",
+      "banco do brasil",
+      "segurança",
+      "falsas ligações",
+      "golpes",
+      "tecnologia de origem verificada",
+      "Anatel"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.7551,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.55,
+    "destaque_score": 0.553,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/tmcs/2026/09/bcd-investira-us-1-milhao-em-tecnologia-em-2026-veja-pilares-de-atuacao_231666.html",
+    "title": "BCD investirá US$ 1 milhão em tecnologia em 2026; veja pilares de atuação",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/tmcs/2026/09/bcd-investira-us-1-milhao-em-tecnologia-em-2026-veja-pilares-de-atuacao_231666.html",
+    "description": "aa",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/02/e84e1069f2f1a3c930f6cdfcd1271783-rem7999.jpg",
+    "author": "Beatrice Teizen",
+    "pub_date": "2026-09-02T19:54:00+00:00",
+    "source_category_raw": "Corporativo - TMCs",
+    "all_categories": [
+      "Corporativo - TMCs"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "TMCs",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.692,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/cruzeiros/2026/09/msc-lanca-cruzeiros-de-apenas-uma-noite-na-temporada-20262027_231658.html",
+    "title": "MSC lança cruzeiros de apenas uma noite na temporada 2026/2027",
+    "link": "https://www.panrotas.com.br/mercado/cruzeiros/2026/09/msc-lanca-cruzeiros-de-apenas-uma-noite-na-temporada-20262027_231658.html",
+    "description": "Nova opção reduz duração de minicruzeiros tradicionais e aparece com tarifas a partir de R$ 890 por pessoa",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/02/0b52c45e878686bd62ebdc64d5eaa5b8-1756986748mscvirtuosa.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-09-02T18:04:00+00:00",
+    "source_category_raw": "Mercado - Cruzeiros",
+    "all_categories": [
+      "Mercado - Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": "Cruzeiros",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.685,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/hotelaria/mercado/2026/09/accor-destaca-bom-momento-nas-americas-na-1a-edicao-do-accor-business-connect-fotos_231656.html",
     "title": "Accor destaca bom momento nas Américas na 1ª edição do Accor Business Connect; fotos",
@@ -111,7 +186,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.688,
+    "destaque_score": 0.676,
     "layout_tier": "grade"
   },
   {
@@ -157,7 +232,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.686,
+    "destaque_score": 0.674,
     "layout_tier": "grade"
   },
   {
@@ -180,7 +255,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.682,
+    "destaque_score": 0.671,
     "layout_tier": "grade"
   },
   {
@@ -203,7 +278,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.68,
+    "destaque_score": 0.669,
     "layout_tier": "grade"
   },
   {
@@ -230,6 +305,29 @@
     "layout_tier": "grade"
   },
   {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/cruzeiros/2026/09/ncl-leva-convidados-e-inaugura-parque-aquatico-na-great-stirrup-cay-fotos_231642.html",
+    "title": "NCL leva convidados e inaugura parque aquático na Great Stirrup Cay; fotos",
+    "link": "https://www.panrotas.com.br/mercado/cruzeiros/2026/09/ncl-leva-convidados-e-inaugura-parque-aquatico-na-great-stirrup-cay-fotos_231642.html",
+    "description": "Inauguração oficial para os hóspedes acontecerá nesta sexta-feira (4)",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/02/98071562528b32032b9a589aaba9b960-31.jpeg",
+    "author": "Da Reda&#231;&#227;o",
+    "pub_date": "2026-09-02T13:36:00+00:00",
+    "source_category_raw": "Mercado - Cruzeiros",
+    "all_categories": [
+      "Mercado - Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": "Cruzeiros",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.668,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "agenciabrasil",
     "guid": "1701322 at https://agenciabrasil.ebc.com.br",
     "title": "Produção industrial interrompe 2 meses de queda e sobe 0,2% em julho",
@@ -252,7 +350,7 @@
     "category_mapping_confidence": 0.5656,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.69,
+    "destaque_score": 0.679,
     "layout_tier": "grade"
   },
   {
@@ -275,7 +373,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.877,
+    "destaque_score": 0.866,
     "layout_tier": "manchete"
   },
   {
@@ -298,7 +396,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.676,
+    "destaque_score": 0.665,
     "layout_tier": "grade"
   },
   {
@@ -321,7 +419,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.874,
+    "destaque_score": 0.863,
     "layout_tier": "manchete"
   },
   {
@@ -344,7 +442,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.872,
+    "destaque_score": 0.862,
     "layout_tier": "manchete"
   },
   {
@@ -367,7 +465,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.672,
+    "destaque_score": 0.661,
     "layout_tier": "grade"
   },
   {
@@ -390,7 +488,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.67,
+    "destaque_score": 0.66,
     "layout_tier": "grade"
   },
   {
@@ -413,7 +511,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.643,
+    "destaque_score": 0.635,
     "layout_tier": "grade"
   },
   {
@@ -436,7 +534,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.633,
+    "destaque_score": 0.626,
     "layout_tier": "grade"
   },
   {
@@ -459,7 +557,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.832,
+    "destaque_score": 0.825,
     "layout_tier": "manchete"
   },
   {
@@ -482,7 +580,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.832,
+    "destaque_score": 0.825,
     "layout_tier": "manchete"
   },
   {
@@ -505,7 +603,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.831,
+    "destaque_score": 0.824,
     "layout_tier": "manchete"
   },
   {
@@ -528,7 +626,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.831,
+    "destaque_score": 0.824,
     "layout_tier": "manchete"
   },
   {
@@ -551,7 +649,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.63,
+    "destaque_score": 0.623,
     "layout_tier": "grade"
   },
   {
@@ -574,7 +672,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.63,
+    "destaque_score": 0.623,
     "layout_tier": "grade"
   },
   {
@@ -597,7 +695,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.829,
+    "destaque_score": 0.822,
     "layout_tier": "manchete"
   },
   {
@@ -620,7 +718,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.829,
+    "destaque_score": 0.822,
     "layout_tier": "manchete"
   },
   {
@@ -643,7 +741,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.629,
+    "destaque_score": 0.622,
     "layout_tier": "grade"
   },
   {
@@ -666,7 +764,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.629,
+    "destaque_score": 0.622,
     "layout_tier": "grade"
   },
   {
@@ -689,7 +787,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.629,
+    "destaque_score": 0.622,
     "layout_tier": "grade"
   },
   {
@@ -712,7 +810,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.628,
+    "destaque_score": 0.621,
     "layout_tier": "grade"
   },
   {
@@ -735,7 +833,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.827,
+    "destaque_score": 0.82,
     "layout_tier": "manchete"
   },
   {
@@ -761,7 +859,7 @@
     "category_mapping_confidence": 0.7505,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.684,
+    "destaque_score": 0.677,
     "layout_tier": "grade"
   },
   {
@@ -784,7 +882,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.625,
+    "destaque_score": 0.618,
     "layout_tier": "grade"
   },
   {
@@ -807,7 +905,7 @@
     "category_mapping_confidence": 0.255,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.438,
+    "destaque_score": 0.432,
     "layout_tier": "grade"
   },
   {
@@ -815,7 +913,7 @@
     "guid": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/09/corridas-disney-terao-2347-corredores-brasileiros-na-temporada-2026-27-veja-detalhes_231618.html",
     "title": "Corridas Disney terão 2.347 brasileiros na temporada 2026-27; veja detalhes",
     "link": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/09/corridas-disney-terao-2347-corredores-brasileiros-na-temporada-2026-27-veja-detalhes_231618.html",
-    "description": "Gerente Heidi Pickert aponta como a runDisney vai muito além do universo esportivo em Orlando",
+    "description": "Executiva Heidi Pickert aponta como a runDisney vai muito além do universo esportivo em Orlando",
     "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/01/09/32fcfa684d78b0b8966341fbfaac4219-maratonadisney2.jpg",
     "author": "Rodrigo Vieira",
     "pub_date": "2026-09-01T18:12:00+00:00",
@@ -830,7 +928,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.624,
+    "destaque_score": 0.618,
     "layout_tier": "grade"
   },
   {
@@ -853,7 +951,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.823,
+    "destaque_score": 0.817,
     "layout_tier": "manchete"
   },
   {
@@ -876,7 +974,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.622,
+    "destaque_score": 0.616,
     "layout_tier": "grade"
   },
   {
@@ -899,7 +997,7 @@
     "category_mapping_confidence": 0.5792,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.716,
+    "destaque_score": 0.71,
     "layout_tier": "manchete"
   },
   {
@@ -922,7 +1020,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.62,
+    "destaque_score": 0.614,
     "layout_tier": "grade"
   },
   {
@@ -950,7 +1048,7 @@
     "category_mapping_confidence": 0.5842,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.636,
+    "destaque_score": 0.63,
     "layout_tier": "grade"
   },
   {
@@ -973,7 +1071,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.619,
+    "destaque_score": 0.613,
     "layout_tier": "grade"
   },
   {
@@ -996,7 +1094,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.819,
+    "destaque_score": 0.813,
     "layout_tier": "manchete"
   },
   {
@@ -1019,7 +1117,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.618,
+    "destaque_score": 0.612,
     "layout_tier": "grade"
   },
   {
@@ -1042,7 +1140,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.817,
+    "destaque_score": 0.811,
     "layout_tier": "manchete"
   },
   {
@@ -1088,7 +1186,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.615,
+    "destaque_score": 0.609,
     "layout_tier": "grade"
   },
   {
@@ -1111,7 +1209,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.615,
+    "destaque_score": 0.609,
     "layout_tier": "grade"
   },
   {
@@ -1134,7 +1232,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.614,
+    "destaque_score": 0.609,
     "layout_tier": "grade"
   },
   {
@@ -1157,7 +1255,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.614,
+    "destaque_score": 0.608,
     "layout_tier": "grade"
   },
   {
@@ -1180,7 +1278,7 @@
     "category_mapping_confidence": 0.3283,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.646,
+    "destaque_score": 0.64,
     "layout_tier": "grade"
   },
   {
@@ -1207,7 +1305,7 @@
     "category_mapping_confidence": 0.6923,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.655,
+    "destaque_score": 0.65,
     "layout_tier": "grade"
   },
   {
@@ -1230,7 +1328,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.812,
+    "destaque_score": 0.807,
     "layout_tier": "manchete"
   },
   {
@@ -1253,7 +1351,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.611,
+    "destaque_score": 0.606,
     "layout_tier": "grade"
   },
   {
@@ -1276,7 +1374,7 @@
     "category_mapping_confidence": 0.3881,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.458,
+    "destaque_score": 0.452,
     "layout_tier": "grade"
   },
   {
@@ -1299,7 +1397,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.81,
+    "destaque_score": 0.805,
     "layout_tier": "manchete"
   }
 ]
