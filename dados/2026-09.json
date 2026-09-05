@@ -1,5 +1,31 @@
 [
   {
+    "source_id": "agenciabrasil",
+    "guid": "1701615 at https://agenciabrasil.ebc.com.br",
+    "title": "Veja alterações no trânsito de Brasília para desfile do 7 de Setembro",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/veja-alteracoes-no-transito-de-brasilia-para-desfile-do-7-de-setembro",
+    "description": "Em razão do Desfile Cívico de 7 de Setembro , na próxima segunda-feira (7), em Brasília, o trânsito na capital federal já passa por alterações. Neste sábado (5), na Esplanada dos Ministérios , a partir das 16h, a ligação das vias S1/N1, próximo ao Museu da República , será fechada para demarcação dos locais destinados aos ambulantes. A partir das 23h, serão instaladas barreiras de concreto para fechamento das vias e demais sinalizações de desvios. Nessa sexta-feira (4), dois painéis de mensagens foram instalados no Eixo Monumental, perto da Torre de TV, para orientar os condutores sobre a suspensão do tráfego no fim de semana. Outro aviso foi colocado próximo à Rodoviária do Plano Piloto para informar que, neste domingo, o acesso será liberado apenas para ônibus. No domingo (6), o tráfego de veículos na Esplanada dos Ministérios será bloqueado a partir das 16h. A circulação de veículos nas vias S2, S3 será controlada, até o término do desfile e a total evacuação do local. Pedestres Durante toda a segunda-feira, agentes de trânsito vão auxiliar nas travessias de pedestres que vão participar do desfile. O acesso de veículos e pedestres não autorizados à área do desfile pela via S2 será impedido, assim como o estacionamento em locais proibidos ou que prejudiquem a fluidez nas vias. De acordo com o governo do Distrito Federal, haverá patrulhamento nas vias S2, S3 e proximidades, com guincho e empilhadeira na chamada Cidade da Segurança, montada no Complexo do República e em outros pontos estratégicos da Esplanada, com equipe pronta a atender à necessidade de remoção de veículos. Brasília Air Show Ainda no domingo, das 9h às 17h, a Força Aérea Brasileira (FAB) promoverá o evento Brasília Air Show , na Base Aérea de Brasília. A expectativa é que 80 mil pessoas passem pelo local. Haverá demonstrações aéreas, exposição de aeronaves e atrações interativas, com foco em tecnologia e inovação. A finalidade é aproximar o o público do universo da aviação civil e militar. Ver essa foto no Instagram Um post compartilhado por Agência Brasil (@agencia.brasil) Com isso, a rotatória na quadra 14, conjunto 1, do Park Way, no sentido marginal da Estrada Parque Aeroporto, DF-047, será fechada. Também será fechada a alça de ligação da DF-025, que dá acesso à marginal da Estrada Parque Aeroporto. O local será sinalizado com cones, destinando duas faixas para o acesso à Base Aérea e duas para seguir em direção ao aeroporto.",
+    "image_url": "https://agenciabrasil.ebc.com.br/ebc.png?id=1701615&amp;o=rss",
+    "author": "Paula Laboissière – Repórter da Agência Brasil",
+    "pub_date": "2026-09-05T14:19:00+00:00",
+    "source_category_raw": "Geral",
+    "all_categories": [
+      "Geral",
+      "7 de Setembro",
+      "Esplanada dos Ministérios",
+      "trânsito"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.5631,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.704,
+    "layout_tier": "manchete"
+  },
+  {
     "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/mercado/operadoras/2026/09/cvc-corp-anuncia-renegociacao-de-dividas-e-reducao-de-custo-financeiro_231748.html",
     "title": "CVC Corp anuncia renegociação de dívidas e redução de custo financeiro",
@@ -19,7 +45,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.658,
+    "destaque_score": 0.648,
     "layout_tier": "grade"
   },
   {
@@ -42,7 +68,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.654,
+    "destaque_score": 0.645,
     "layout_tier": "grade"
   },
   {
@@ -65,7 +91,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.846,
+    "destaque_score": 0.837,
     "layout_tier": "manchete"
   },
   {
@@ -88,7 +114,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.644,
+    "destaque_score": 0.636,
     "layout_tier": "grade"
   },
   {
@@ -111,7 +137,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.843,
+    "destaque_score": 0.834,
     "layout_tier": "manchete"
   },
   {
@@ -134,7 +160,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.642,
+    "destaque_score": 0.633,
     "layout_tier": "grade"
   },
   {
@@ -157,7 +183,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.841,
+    "destaque_score": 0.832,
     "layout_tier": "manchete"
   },
   {
@@ -183,7 +209,7 @@
     "category_mapping_confidence": 0.5701,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.653,
+    "destaque_score": 0.645,
     "layout_tier": "grade"
   },
   {
@@ -206,7 +232,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.64,
+    "destaque_score": 0.632,
     "layout_tier": "grade"
   },
   {
@@ -229,7 +255,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.838,
+    "destaque_score": 0.83,
     "layout_tier": "manchete"
   },
   {
@@ -252,7 +278,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.837,
+    "destaque_score": 0.829,
     "layout_tier": "manchete"
   },
   {
@@ -275,7 +301,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.835,
+    "destaque_score": 0.827,
     "layout_tier": "manchete"
   },
   {
@@ -321,7 +347,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.634,
+    "destaque_score": 0.626,
     "layout_tier": "grade"
   },
   {
@@ -344,7 +370,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.633,
+    "destaque_score": 0.625,
     "layout_tier": "grade"
   },
   {
@@ -367,7 +393,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.632,
+    "destaque_score": 0.624,
     "layout_tier": "grade"
   },
   {
@@ -390,7 +416,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.83,
+    "destaque_score": 0.822,
     "layout_tier": "manchete"
   },
   {
@@ -413,7 +439,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.829,
+    "destaque_score": 0.821,
     "layout_tier": "manchete"
   },
   {
@@ -436,7 +462,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.627,
+    "destaque_score": 0.62,
     "layout_tier": "grade"
   },
   {
@@ -444,7 +470,7 @@
     "guid": "1701478 at https://agenciabrasil.ebc.com.br",
     "title": "Brasil tem 2 milhões de pessoas que trabalham por meio de aplicativos",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/brasil-tem-2-milhoes-de-pessoas-que-trabalham-por-meio-de-aplicativos",
-    "description": "Cerca de 2 milhões de pessoas trabalharam por meio de aplicativos (apps) no país em 2025. A imensa maioria deles por conta própria, com jornadas semanais mais longas que os demais ocupados no setor privado e ganhando menos por hora trabalhada. A constatação faz parte de uma edição sobre trabalho por meio de plataformas digitais da Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua, divulgada nesta sexta-feira (4) pelo Instituto Brasileiro de Geografia e Estatística ( IBGE ). Notícias relacionadas: Teto de crédito para taxistas e motoristas de app sobe para R$ 200 mil. Desemprego cai para 5,3%, o menor para o trimestre terminado em julho. O IBGE buscou informações de pessoas com 14 anos ou mais que utilizam os aplicativos para realizar serviços de transporte e entregas. O instituto classifica esses trabalhadores como “plataformizados”. A pesquisa revela que o contingente de 1,959 milhão de trabalhadores por apps representavam 1,9% do total de ocupados no país. Cerca de 1,2 milhão de trabalhadores plataformizados utilizam apps de transporte de passageiros. Isso representa praticamente seis em cada dez plataformizados (58,9%). Desses, 1,1 milhão utilizam as plataformas como Uber e 99, enquanto 232 mil utilizam apps de táxi exclusivamente. Um em cada cinco (19,2%) dos plataformizados tinha ocupação como entregadores de apps de comida, produtos, etc. Eram 376 mil pessoas que faziam entregas para plataformas como Rappi, iFood, Zé Delivery, entre outros. O IBGE mapeou ainda a categoria apps de prestação de serviços gerais ou profissionais, que inclui profissões como designers, tradutores e até telemedicina, quando o médico usa a plataforma digital para captar pacientes e realizar consultas, por exemplo. Em 2025 eram 313 mil pessoas nessa categoria (16% dos plataformizados). A Pnad revela que a atividade econômica classificada como transporte, armazenagem e correios é a que tem maior participação de plataformizados, 75%. Ou seja, de cada quatro trabalhadores desse setor, três utilizam os apps. Aumento ao longo dos anos O IBGE detalha que a Pnad sobre trabalho por plataforma ainda é experimental, ou seja, em fase de teste e sob avaliação. O levantamento já foi realizado em 2022 e 2024. Diferentemente de 2025, as edições anteriores buscaram informação apenas dos trabalhadores que tinham os apps como ocupação principal, ou seja, a pesquisa deixou de fora aquelas que usavam os aplicativos como renda complementar. Por isso, o número de 2 milhões de plataformizados em 2025 não pode ser comparado com anos anteriores. Ao se levar em consideração apenas os trabalhadores que tinham nos apps a ocupação principal, o número de 2025 chega a 1,8 milhão. Esse dado pode ser comparado com as Pnad anteriores. Trabalhadores que tinham os apps como ocupação principal: 2022: 1,3 milhão 2024: 1,7 milhão 2025: 1,8 milhão Dessa forma, o número representa um crescimento de 9,1% em um ano e 36,8% em três anos. Comparando apenas 2024 e 2025, o número de entregadores de app cresceu 18,6%. Foi a única ocupação que teve variação na casa de dois dígitos. Motivação Em 2025, de cada 100 pessoas que tinham nos apps a ocupação principal, 84,4 eram do sexo masculino. Em relação à idade, 47% tinham de 25 a 39 anos. Ao realizar as entrevistas, o IBGE procurou saber o motivo principal que levou as pessoas a trabalharem por meio das plataformas. Especificamente entre os que atuam com apps de transporte (exceto táxi) e entregadores, o motivo principal foi não conseguir encontrar outro trabalho. As outra motivações apontadas foram flexibilidade e rendimento maior do que em outros trabalhos disponíveis. Jornadas mais longas Em 2025, o rendimento médio mensal do trabalho principal do plataformizados foi de R$ 3.147, mesmo patamar dos não plataformizados (R$ 3,148). Esses valores representaram aumento real (já descontada a inflação) de 4,1% para os não plataformizados e estabilidade para os plataformizados, que ganhavam R$ 3.151 em 2024. O IBGE explica que os valores são exatamente o que é “retirado” pelos plataformizados, ou seja, o saldo após o motorista pagar custos com gasolina para o carro, por exemplo. Os trabalhadores por aplicativo tinham em 2025 jornada semanal de 44,7 horas, superior à dos não plataformizados (39,3 horas). São 5,4 horas de diferença. O fato de as duas classes terem rendimentos no mesmo patamar e diferença na jornada faz com que o rendimento-hora médio do trabalhador de app seja menor. Eles recebiam R$ 16,2 por hora, 12% menos que os não plataformizados (R$ 18,4/hora). Informalidade A pesquisa mostra que os trabalhadores por app vivenciavam mais a informalidade e tinham menos cobertura previdenciária. Plataformizados: 72,1% na informalidade 34% com cobertura previdenciária Não plataformizados: 42,7% na informalidade 63% com cobertura previdenciária O IBGE considera informais os empregados sem carteira assinada e autônomos sem CNPJ, por exemplo. São pessoas sem a garantia de direitos trabalhistas, como férias e 13º salário. Já ao contribuir para institutos de previdência, o trabalhador adquire garantias, como aposentadoria, benefício por incapacidade e pensão por morte. >> Leia também: Apenas 1 em cada 5 motociclista de app tem cobertura previdenciária Conta própria, mas dependente Motoristas de aplicativos e motoboys de delivery - Paulo Pinto/Agência Brasil Aproximadamente 1,6 mil de pessoas ocupadas por aplicativos se declararam trabalhadores por conta própria. Essa marca representa 86,8% do total de plataformizados. Na economia como um todo, os conta própria são 28,9% dos ocupados no setor privado. Apesar de trabalharem por iniciativa própria, o IBGE ressalta que “há evidências de certo grau de dependência da maior parte desses trabalhadores em relação às plataformas”. Entre os que trabalham com apps de transporte de passageiros (exceto táxis), 80,2% afirmam que o valor a ser recebido por cada tarefa depende totalmente das plataformas digitais. Entre os entregadores, 78,3% disseram que dependem totalmente. Já 65,9% responderam que o prazo para realização da tarefa depende dos apps, e 71,3% afirmaram que a forma de recebimento do pagamento é decidida pela plataforma. O analista da pesquisa, Gustavo Geaquinto Fontes, aponta que esses trabalhadores têm uma situação “diferente de um conta própria tradicional”. “Apesar de essa pessoa não ter um vínculo formal com a plataforma, ele, na verdade, tem uma dependência em vários aspectos em relação à empresa que controla a plataforma digital”. Uberização A divulgação do IBGE acontece cerca de uma semana depois de o Supremo Tribunal Federal (STF) adiar a retomada do julgamento sobre a chamada “uberização”. Representante de categorias que trabalham para aplicativos, como motoristas, buscam o reconhecimento de vínculo empregatício com as plataformas digitais para evitar o que consideram precarização do trabalho, alegação que as principais empresas do setor discordam . Um parecer da Procuradoria-Geral da República (PGR) defende que o STF não reconheça o vínculo . Plataformas contestam IBGE Após a publicação da pesquisa, a Associação Brasileira de Mobilidade e Tecnologia (Amobitec), instituição que reúne empresas de tecnologia prestadoras de serviços, divulgou uma nota na qual reconhece a \"importância do avanço em pesquisas sobre o trabalho intermediado por plataformas\". No entanto, a associação considera que o estudo do IBGE, classificado pelo próprio instituto com experimental, \"tem limitações\". \"Os resultados indicam que a pesquisa apresenta deficiências metodológicas para retratar fielmente esse universo\", afirma a nota. \"A pesquisa aponta que os trabalhadores plataformizados que têm essa atividade como secundária seriam inferiores a 10%, porém a própria pesquisa diz que 17% dos identificados como tendo nos aplicativos sua ocupação principal apontam que o maior motivo para escolherem este trabalho é 'complementar a renda', o que sugere uma inconsistência nos resultados\", cita a Amobitec. A entidade representativa utiliza pesquisas do Instituto Datafolha e do Centro Brasileiro de de Análise e Planejamento (Cebrap) , realizadas em períodos diferentes da do IBGE, para apontar dados divergentes dos do órgão oficial. Segundo a Amobitec, a metodologia empregada pelo IBGE para analisar os ganhos com aplicativos \"parece não ser suficiente para um retrato preciso dos rendimentos desses profissionais\". A Amobitec se coloca à disposição para colaborar com o IBGE no aprimoramento da pesquisa e afirma defender \"uma regulamentação equilibrada\" para o trabalho intermediado por aplicativos, \"que permita uma efetiva proteção para motoristas e entregadores ao mesmo tempo que contemple a flexibilidade neste tipo de trabalho e a diversidade dos modelos de negócios\". São associadas da Amobitec a 99, Alibaba, Amazon, Buser, iFood, Flixbus, Lalamove, Shein, Uber e Zé Delivery. *Matéria ampliada às 18h17 para inclusão do posicionamento da associação de aplicativos",
+    "description": "Cerca de 2 milhões de pessoas trabalharam por meio de aplicativos (apps) no país em 2025. A imensa maioria deles por conta própria, com jornadas semanais mais longas que os demais ocupados no setor privado e ganhando menos por hora trabalhada. A constatação faz parte de uma edição sobre trabalho por meio de plataformas digitais da Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua, divulgada nesta sexta-feira (4) pelo Instituto Brasileiro de Geografia e Estatística ( IBGE ). Notícias relacionadas: Teto de crédito para taxistas e motoristas de app sobe para R$ 200 mil. Desemprego cai para 5,3%, o menor para o trimestre terminado em julho. O IBGE buscou informações de pessoas com 14 anos ou mais que utilizam os aplicativos para realizar serviços de transporte e entregas. O instituto classifica esses trabalhadores como “plataformizados”. A pesquisa revela que o contingente de 1,959 milhão de trabalhadores por apps representavam 1,9% do total de ocupados no país. Cerca de 1,2 milhão de trabalhadores plataformizados utilizam apps de transporte de passageiros. Isso representa praticamente seis em cada dez plataformizados (58,9%). Desses, 1,1 milhão utilizam as plataformas como Uber e 99, enquanto 232 mil utilizam apps de táxi exclusivamente. Um em cada cinco (19,2%) dos plataformizados tinha ocupação como entregadores de apps de comida, produtos, etc. Eram 376 mil pessoas que faziam entregas para plataformas como Rappi, iFood, Zé Delivery, entre outros. O IBGE mapeou ainda a categoria apps de prestação de serviços gerais ou profissionais, que inclui profissões como designers, tradutores e até telemedicina, quando o médico usa a plataforma digital para captar pacientes e realizar consultas, por exemplo. Em 2025 eram 313 mil pessoas nessa categoria (16% dos plataformizados). A Pnad revela que a atividade econômica classificada como transporte, armazenagem e correios é a que atrai maior participação de plataformizados, 75%. Ou seja, de cada quatro trabalhadores de app, três atuam para essas plataformas. Aumento ao longo dos anos O IBGE detalha que a Pnad sobre trabalho por plataforma ainda é experimental, ou seja, em fase de teste e sob avaliação. O levantamento já foi realizado em 2022 e 2024. Diferentemente de 2025, as edições anteriores buscaram informação apenas dos trabalhadores que tinham os apps como ocupação principal, ou seja, a pesquisa deixou de fora aquelas que usavam os aplicativos como renda complementar. Por isso, o número de 2 milhões de plataformizados em 2025 não pode ser comparado com anos anteriores. Ao se levar em consideração apenas os trabalhadores que tinham nos apps a ocupação principal, o número de 2025 chega a 1,8 milhão. Esse dado pode ser comparado com as Pnad anteriores. Trabalhadores que tinham os apps como ocupação principal: 2022: 1,3 milhão 2024: 1,7 milhão 2025: 1,8 milhão Dessa forma, o número representa um crescimento de 9,1% em um ano e 36,8% em três anos. Comparando apenas 2024 e 2025, o número de entregadores de app cresceu 18,6%. Foi a única ocupação que teve variação na casa de dois dígitos. Motivação Em 2025, de cada 100 pessoas que tinham nos apps a ocupação principal, 84,4 eram do sexo masculino. Em relação à idade, 47% tinham de 25 a 39 anos. Ao realizar as entrevistas, o IBGE procurou saber o motivo principal que levou as pessoas a trabalharem por meio das plataformas. Especificamente entre os que atuam com apps de transporte (exceto táxi) e entregadores, o motivo principal foi não conseguir encontrar outro trabalho. As outra motivações apontadas foram flexibilidade e rendimento maior do que em outros trabalhos disponíveis. Jornadas mais longas Em 2025, o rendimento médio mensal do trabalho principal do plataformizados foi de R$ 3.147, mesmo patamar dos não plataformizados (R$ 3,148). Esses valores representaram aumento real (já descontada a inflação) de 4,1% para os não plataformizados e estabilidade para os plataformizados, que ganhavam R$ 3.151 em 2024. O IBGE explica que os valores são exatamente o que é “retirado” pelos plataformizados, ou seja, o saldo após o motorista pagar custos com gasolina para o carro, por exemplo. Os trabalhadores por aplicativo tinham em 2025 jornada semanal de 44,7 horas, superior à dos não plataformizados (39,3 horas). São 5,4 horas de diferença. O fato de as duas classes terem rendimentos no mesmo patamar e diferença na jornada faz com que o rendimento-hora médio do trabalhador de app seja menor. Eles recebiam R$ 16,2 por hora, 12% menos que os não plataformizados (R$ 18,4/hora). Informalidade A pesquisa mostra que os trabalhadores por app vivenciavam mais a informalidade e tinham menos cobertura previdenciária. Plataformizados: 72,1% na informalidade 34% com cobertura previdenciária Não plataformizados: 42,7% na informalidade 63% com cobertura previdenciária O IBGE considera informais os empregados sem carteira assinada e autônomos sem CNPJ, por exemplo. São pessoas sem a garantia de direitos trabalhistas, como férias e 13º salário. Já ao contribuir para institutos de previdência, o trabalhador adquire garantias, como aposentadoria, benefício por incapacidade e pensão por morte. >> Leia também: Apenas 1 em cada 5 motociclista de app tem cobertura previdenciária Conta própria, mas dependente Motoristas de aplicativos e motoboys de delivery - Paulo Pinto/Agência Brasil Aproximadamente 1,6 mil de pessoas ocupadas por aplicativos se declararam trabalhadores por conta própria. Essa marca representa 86,8% do total de plataformizados. Na economia como um todo, os conta própria são 28,9% dos ocupados no setor privado. Apesar de trabalharem por iniciativa própria, o IBGE ressalta que “há evidências de certo grau de dependência da maior parte desses trabalhadores em relação às plataformas”. Entre os que trabalham com apps de transporte de passageiros (exceto táxis), 80,2% afirmam que o valor a ser recebido por cada tarefa depende totalmente das plataformas digitais. Entre os entregadores, 78,3% disseram que dependem totalmente. Já 65,9% responderam que o prazo para realização da tarefa depende dos apps, e 71,3% afirmaram que a forma de recebimento do pagamento é decidida pela plataforma. O analista da pesquisa, Gustavo Geaquinto Fontes, aponta que esses trabalhadores têm uma situação “diferente de um conta própria tradicional”. “Apesar de essa pessoa não ter um vínculo formal com a plataforma, ele, na verdade, tem uma dependência em vários aspectos em relação à empresa que controla a plataforma digital”. Uberização A divulgação do IBGE acontece cerca de uma semana depois de o Supremo Tribunal Federal (STF) adiar a retomada do julgamento sobre a chamada “uberização”. Representante de categorias que trabalham para aplicativos, como motoristas, buscam o reconhecimento de vínculo empregatício com as plataformas digitais para evitar o que consideram precarização do trabalho, alegação que as principais empresas do setor discordam . Um parecer da Procuradoria-Geral da República (PGR) defende que o STF não reconheça o vínculo . Plataformas contestam IBGE Após a publicação da pesquisa, a Associação Brasileira de Mobilidade e Tecnologia (Amobitec), instituição que reúne empresas de tecnologia prestadoras de serviços, divulgou uma nota na qual reconhece a \"importância do avanço em pesquisas sobre o trabalho intermediado por plataformas\". No entanto, a associação considera que o estudo do IBGE, classificado pelo próprio instituto com experimental, \"tem limitações\". \"Os resultados indicam que a pesquisa apresenta deficiências metodológicas para retratar fielmente esse universo\", afirma a nota. \"A pesquisa aponta que os trabalhadores plataformizados que têm essa atividade como secundária seriam inferiores a 10%, porém a própria pesquisa diz que 17% dos identificados como tendo nos aplicativos sua ocupação principal apontam que o maior motivo para escolherem este trabalho é 'complementar a renda', o que sugere uma inconsistência nos resultados\", cita a Amobitec. A entidade representativa utiliza pesquisas do Instituto Datafolha e do Centro Brasileiro de de Análise e Planejamento (Cebrap) , realizadas em períodos diferentes da do IBGE, para apontar dados divergentes dos do órgão oficial. Segundo a Amobitec, a metodologia empregada pelo IBGE para analisar os ganhos com aplicativos \"parece não ser suficiente para um retrato preciso dos rendimentos desses profissionais\". A Amobitec se coloca à disposição para colaborar com o IBGE no aprimoramento da pesquisa e afirma defender \"uma regulamentação equilibrada\" para o trabalho intermediado por aplicativos, \"que permita uma efetiva proteção para motoristas e entregadores ao mesmo tempo que contemple a flexibilidade neste tipo de trabalho e a diversidade dos modelos de negócios\". São associadas da Amobitec a 99, Alibaba, Amazon, Buser, iFood, Flixbus, Lalamove, Shein, Uber e Zé Delivery. *Matéria ampliada às 18h17 para inclusão do posicionamento da associação de aplicativos. Texto alterado às 12h03 de 5/9 para esclarecer informação.",
     "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Bruno de Freitas Moura - Repórter da Agência Brasil",
     "pub_date": "2026-09-04T13:01:00+00:00",
@@ -461,10 +487,10 @@
     "canonical_category_l1": "Câmbio e Economia do Turismo",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf",
-    "category_mapping_confidence": 0.6157,
+    "category_mapping_confidence": 0.6154,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.65,
+    "destaque_score": 0.643,
     "layout_tier": "grade"
   },
   {
@@ -487,7 +513,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.626,
+    "destaque_score": 0.619,
     "layout_tier": "grade"
   },
   {
@@ -510,7 +536,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.625,
+    "destaque_score": 0.618,
     "layout_tier": "grade"
   },
   {
@@ -533,7 +559,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.624,
+    "destaque_score": 0.617,
     "layout_tier": "grade"
   },
   {
@@ -556,7 +582,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.623,
+    "destaque_score": 0.616,
     "layout_tier": "grade"
   },
   {
@@ -584,7 +610,7 @@
     "category_mapping_confidence": 0.578,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.437,
+    "destaque_score": 0.43,
     "layout_tier": "grade"
   },
   {
@@ -607,7 +633,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.622,
+    "destaque_score": 0.616,
     "layout_tier": "grade"
   },
   {
@@ -630,7 +656,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.622,
+    "destaque_score": 0.615,
     "layout_tier": "grade"
   },
   {
@@ -653,7 +679,7 @@
     "category_mapping_confidence": 0.5392,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.684,
+    "destaque_score": 0.68,
     "layout_tier": "grade"
   },
   {
@@ -676,7 +702,7 @@
     "category_mapping_confidence": 0.7096,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.526,
+    "destaque_score": 0.522,
     "layout_tier": "grade"
   },
   {
@@ -699,7 +725,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.599,
+    "destaque_score": 0.594,
     "layout_tier": "grade"
   },
   {
@@ -722,7 +748,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.599,
+    "destaque_score": 0.594,
     "layout_tier": "grade"
   },
   {
@@ -745,7 +771,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.798,
+    "destaque_score": 0.794,
     "layout_tier": "manchete"
   },
   {
@@ -768,7 +794,7 @@
     "category_mapping_confidence": 0.5606,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.488,
+    "destaque_score": 0.484,
     "layout_tier": "grade"
   },
   {
@@ -791,7 +817,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.597,
+    "destaque_score": 0.593,
     "layout_tier": "grade"
   },
   {
@@ -814,7 +840,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.597,
+    "destaque_score": 0.593,
     "layout_tier": "grade"
   },
   {
@@ -837,7 +863,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.597,
+    "destaque_score": 0.593,
     "layout_tier": "grade"
   },
   {
@@ -860,7 +886,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.596,
+    "destaque_score": 0.592,
     "layout_tier": "grade"
   },
   {
@@ -883,7 +909,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.794,
+    "destaque_score": 0.79,
     "layout_tier": "manchete"
   },
   {
@@ -906,7 +932,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.594,
+    "destaque_score": 0.589,
     "layout_tier": "grade"
   },
   {
@@ -929,7 +955,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.593,
+    "destaque_score": 0.589,
     "layout_tier": "grade"
   },
   {
@@ -952,7 +978,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.592,
+    "destaque_score": 0.588,
     "layout_tier": "grade"
   },
   {
@@ -975,7 +1001,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.792,
+    "destaque_score": 0.788,
     "layout_tier": "manchete"
   },
   {
@@ -998,7 +1024,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.592,
+    "destaque_score": 0.588,
     "layout_tier": "grade"
   },
   {
@@ -1021,7 +1047,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.591,
+    "destaque_score": 0.587,
     "layout_tier": "grade"
   },
   {
@@ -1044,7 +1070,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.791,
+    "destaque_score": 0.787,
     "layout_tier": "manchete"
   },
   {
@@ -1067,7 +1093,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.791,
+    "destaque_score": 0.787,
     "layout_tier": "manchete"
   },
   {
@@ -1090,7 +1116,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.59,
+    "destaque_score": 0.587,
     "layout_tier": "grade"
   },
   {
@@ -1113,7 +1139,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.79,
+    "destaque_score": 0.787,
     "layout_tier": "manchete"
   },
   {
@@ -1155,7 +1181,7 @@
     "category_mapping_confidence": 0.4432,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.331,
+    "destaque_score": 0.327,
     "layout_tier": "condensado"
   },
   {
@@ -1178,7 +1204,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.59,
+    "destaque_score": 0.586,
     "layout_tier": "grade"
   },
   {
@@ -1201,7 +1227,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.59,
+    "destaque_score": 0.586,
     "layout_tier": "grade"
   },
   {
@@ -1224,7 +1250,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.589,
+    "destaque_score": 0.586,
     "layout_tier": "grade"
   },
   {
@@ -1247,7 +1273,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.589,
+    "destaque_score": 0.585,
     "layout_tier": "grade"
   },
   {
@@ -1270,7 +1296,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.788,
+    "destaque_score": 0.784,
     "layout_tier": "manchete"
   },
   {
@@ -1293,7 +1319,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.587,
+    "destaque_score": 0.584,
     "layout_tier": "grade"
   },
   {
@@ -1316,7 +1342,7 @@
     "category_mapping_confidence": 0.2867,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.409,
+    "destaque_score": 0.405,
     "layout_tier": "grade"
   },
   {
@@ -1339,7 +1365,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.586,
+    "destaque_score": 0.583,
     "layout_tier": "grade"
   },
   {
@@ -1362,7 +1388,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.586,
+    "destaque_score": 0.583,
     "layout_tier": "grade"
   },
   {
@@ -1385,7 +1411,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.586,
+    "destaque_score": 0.583,
     "layout_tier": "grade"
   },
   {
@@ -1408,7 +1434,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.577,
+    "destaque_score": 0.574,
     "layout_tier": "grade"
   },
   {
@@ -1431,7 +1457,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.575,
+    "destaque_score": 0.573,
     "layout_tier": "grade"
   },
   {
@@ -1454,7 +1480,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.575,
+    "destaque_score": 0.572,
     "layout_tier": "grade"
   },
   {
@@ -1477,7 +1503,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.775,
+    "destaque_score": 0.772,
     "layout_tier": "manchete"
   },
   {
@@ -1500,7 +1526,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.574,
+    "destaque_score": 0.572,
     "layout_tier": "grade"
   },
   {
@@ -1523,7 +1549,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.774,
+    "destaque_score": 0.772,
     "layout_tier": "manchete"
   },
   {
@@ -1546,7 +1572,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.574,
+    "destaque_score": 0.572,
     "layout_tier": "grade"
   },
   {
@@ -1569,7 +1595,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.574,
+    "destaque_score": 0.572,
     "layout_tier": "grade"
   },
   {
@@ -1592,7 +1618,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.574,
+    "destaque_score": 0.572,
     "layout_tier": "grade"
   },
   {
@@ -1615,7 +1641,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.574,
+    "destaque_score": 0.572,
     "layout_tier": "grade"
   },
   {
@@ -1667,7 +1693,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.573,
+    "destaque_score": 0.571,
     "layout_tier": "grade"
   },
   {
@@ -1690,7 +1716,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.573,
+    "destaque_score": 0.571,
     "layout_tier": "grade"
   },
   {
@@ -1713,7 +1739,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.573,
+    "destaque_score": 0.571,
     "layout_tier": "grade"
   },
   {
@@ -1736,7 +1762,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.573,
+    "destaque_score": 0.571,
     "layout_tier": "grade"
   },
   {
@@ -1759,7 +1785,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.773,
+    "destaque_score": 0.77,
     "layout_tier": "manchete"
   },
   {
@@ -1782,7 +1808,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.772,
+    "destaque_score": 0.77,
     "layout_tier": "manchete"
   },
   {
@@ -1805,7 +1831,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.572,
+    "destaque_score": 0.57,
     "layout_tier": "grade"
   },
   {
@@ -1828,7 +1854,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.572,
+    "destaque_score": 0.57,
     "layout_tier": "grade"
   },
   {
@@ -1851,7 +1877,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.771,
+    "destaque_score": 0.769,
     "layout_tier": "manchete"
   },
   {
@@ -1874,7 +1900,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.771,
+    "destaque_score": 0.769,
     "layout_tier": "manchete"
   },
   {
@@ -1897,7 +1923,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.771,
+    "destaque_score": 0.769,
     "layout_tier": "manchete"
   },
   {
@@ -1920,7 +1946,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.571,
+    "destaque_score": 0.569,
     "layout_tier": "grade"
   },
   {
@@ -1943,7 +1969,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.571,
+    "destaque_score": 0.569,
     "layout_tier": "grade"
   },
   {
@@ -1966,7 +1992,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.57,
+    "destaque_score": 0.568,
     "layout_tier": "grade"
   },
   {
@@ -1989,7 +2015,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.57,
+    "destaque_score": 0.568,
     "layout_tier": "grade"
   },
   {
@@ -2012,7 +2038,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.568,
     "layout_tier": "grade"
   },
   {
@@ -2058,7 +2084,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -2107,7 +2133,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.769,
+    "destaque_score": 0.767,
     "layout_tier": "manchete"
   },
   {
@@ -2130,7 +2156,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.567,
     "layout_tier": "grade"
   },
   {
@@ -2153,7 +2179,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.768,
+    "destaque_score": 0.767,
     "layout_tier": "manchete"
   },
   {
@@ -2176,7 +2202,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.768,
+    "destaque_score": 0.766,
     "layout_tier": "manchete"
   },
   {
@@ -2199,7 +2225,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.568,
+    "destaque_score": 0.566,
     "layout_tier": "grade"
   },
   {
@@ -2222,7 +2248,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.568,
+    "destaque_score": 0.566,
     "layout_tier": "grade"
   },
   {
@@ -2245,7 +2271,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.564,
+    "destaque_score": 0.563,
     "layout_tier": "grade"
   },
   {
@@ -2268,7 +2294,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.561,
     "layout_tier": "grade"
   },
   {
@@ -2291,7 +2317,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.762,
+    "destaque_score": 0.761,
     "layout_tier": "manchete"
   },
   {
@@ -2314,7 +2340,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.762,
+    "destaque_score": 0.761,
     "layout_tier": "manchete"
   },
   {
@@ -2337,7 +2363,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.762,
+    "destaque_score": 0.761,
     "layout_tier": "manchete"
   },
   {
@@ -2360,7 +2386,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.762,
+    "destaque_score": 0.761,
     "layout_tier": "manchete"
   },
   {
@@ -2383,7 +2409,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.561,
     "layout_tier": "grade"
   },
   {
@@ -2406,7 +2432,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.561,
     "layout_tier": "grade"
   },
   {
@@ -2429,7 +2455,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.762,
+    "destaque_score": 0.761,
     "layout_tier": "manchete"
   },
   {
@@ -2452,7 +2478,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.762,
+    "destaque_score": 0.761,
     "layout_tier": "manchete"
   },
   {
@@ -2475,7 +2501,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.561,
     "layout_tier": "grade"
   },
   {
@@ -2498,7 +2524,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.561,
     "layout_tier": "grade"
   },
   {
@@ -2521,7 +2547,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.562,
+    "destaque_score": 0.561,
     "layout_tier": "grade"
   },
   {
@@ -2544,7 +2570,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.761,
+    "destaque_score": 0.76,
     "layout_tier": "manchete"
   },
   {
@@ -2593,7 +2619,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2616,7 +2642,7 @@
     "category_mapping_confidence": 0.255,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.375,
+    "destaque_score": 0.374,
     "layout_tier": "condensado"
   },
   {
@@ -2639,7 +2665,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2662,7 +2688,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.761,
+    "destaque_score": 0.76,
     "layout_tier": "manchete"
   },
   {
@@ -2685,7 +2711,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.561,
+    "destaque_score": 0.56,
     "layout_tier": "grade"
   },
   {
@@ -2708,7 +2734,7 @@
     "category_mapping_confidence": 0.5792,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.655,
+    "destaque_score": 0.654,
     "layout_tier": "grade"
   },
   {
@@ -2731,7 +2757,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2782,7 +2808,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2805,7 +2831,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.76,
+    "destaque_score": 0.759,
     "layout_tier": "manchete"
   },
   {
@@ -2828,7 +2854,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2851,7 +2877,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.76,
+    "destaque_score": 0.759,
     "layout_tier": "manchete"
   },
   {
@@ -2897,7 +2923,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2920,7 +2946,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2943,7 +2969,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -2989,7 +3015,7 @@
     "category_mapping_confidence": 0.3283,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.592,
+    "destaque_score": 0.591,
     "layout_tier": "grade"
   },
   {
@@ -3039,7 +3065,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -3062,7 +3088,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -3085,7 +3111,7 @@
     "category_mapping_confidence": 0.3881,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.406,
+    "destaque_score": 0.405,
     "layout_tier": "grade"
   },
   {
@@ -3108,7 +3134,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   }
 ]
