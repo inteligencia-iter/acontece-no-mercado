@@ -1,5 +1,78 @@
 [
   {
+    "source_id": "agenciabrasil",
+    "guid": "1701878 at https://agenciabrasil.ebc.com.br",
+    "title": "CVM multa Vorcaro em R$ 20 milhões por fraude em fundo imobiliário",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/cvm-multa-vorcaro-em-r-20-milhoes-por-fraude-em-fundo-imobiliario",
+    "description": "Por unanimidade, a Comissão de Valores Mobiliários (CVM) condenou nesta terça-feira (8) o ex-banqueiro Daniel Vorcaro a pagar R$ 20 milhões por uma operação do fundo imobiliário Brazil Realty considerada fraudulenta. O Banco Master foi multado em R$ 12,5 milhões. Ao todo, sete pessoas e nove empresas foram punidas. No total, as multas aplicadas por causa da fraude chegam a R$ 201 milhões. O processo investigou a utilização de ativos sobreavaliados e operações no mercado secundário (quando papéis emitidos anteriormente trocam de donos). Notícias relacionadas: Dólar cai a R$ 5,08 e atinge menor valor em um mês. Dinheiro esquecido nos bancos sobe para R$ 5,65 bilhões. Mercado financeiro reduz previsão da inflação para 5% este ano. Principais números R$ 20 milhões: multa aplicada a Daniel Vorcaro; R$ 12,5 milhões: penalidade aplicada ao Banco Master; R$ 201 milhões: total das multas por fraude, segundo a CVM; R$ 5,8 milhões: prejuízo realizado identificado para investidores; 16 acusados: todos condenados no processo, segundo a CVM. Processo desde 2020 O processo foi instaurado em 2020 pela área técnica da CVM para apurar irregularidades na emissão e na distribuição de cotas do Brazil Realty, fundo de investimento imobiliário. O julgamento ocorreu nesta terça-feira (8), na sede da autarquia, no Rio de Janeiro. O diretor João Accioly, relator do caso, votou pela condenação dos acusados. Os demais integrantes do colegiado acompanharam o entendimento, tornando a decisão unânime. O processo chegou a ser suspenso duas vezes por pedidos de vista. Também houve tentativas de acordo para encerrar o caso, mas as propostas foram rejeitadas pela CVM. As defesas de alguns acusados pediram o adiamento da sessão, mas a requisição não foi acolhida. Como funcionava Segundo a acusação analisada pela CVM, o esquema envolvia a sobreavaliação de imóveis e de outros ativos usados na composição do fundo. A investigação apontou problemas em laudos usados para determinar o valor dos bens e operações destinadas a criar liquidez artificial para as cotas no mercado secundário. Na terceira emissão de cotas, iniciada em 2018, o fundo recebeu R$ 139,1 milhões, grande parte em ativos físicos. De acordo com a CVM, alguns desses bens, principalmente imóveis, apresentavam valores superiores aos considerados adequados pela autarquia. A CVM também apontou problemas na documentação relacionada a parte das integralizações realizadas na emissão. Liquidez artificial Depois da colocação das cotas, empresas ligadas aos envolvidos teriam participado de operações no mercado secundário para criar liquidez para os papéis. Segundo a acusação, a Entre Investimentos fez 177 operações, envolvendo aproximadamente R$ 351 milhões em compras e R$ 358 milhões em vendas. A empresa afirmou no processo que as operações tinham como objetivo proporcionar liquidez aos investidores. Para a área técnica da CVM, porém, a dinâmica permitia que investidores comprassem as cotas com base em valores considerados artificialmente elevados. A autarquia identificou R$ 5,8 milhões em prejuízos realizados por fundos que negociaram os ativos, entre eles fundos que tinham regimes próprios de previdência de servidores entre seus cotistas. Outros condenados Além de Daniel Vorcaro e do Banco Master, o processo alcançou pessoas e empresas relacionadas às operações investigadas. Entre os condenados estão o pai do ex-banqueiro, Henrique Moura Vorcaro, e o primo, Felipe Cançado Vorcaro. Também foram punidos a Viking Participações, ligada a Daniel Vorcaro, a Entre Investimentos e seu responsável, além de outros envolvidos e empresas. As multas individuais ficaram entre R$ 5 milhões e R$ 24 milhões, conforme as penalidades estabelecidas no julgamento. Três ex-diretores da Sefer Investimentos foram absolvidos. Defesa contesta A defesa de Daniel Vorcaro negou que existam provas individualizadas de uma conduta irregular atribuível ao ex-banqueiro. Durante o julgamento, a advogada Ana Paula Casagrande questionou a existência de elementos concretos que demonstrassem que Vorcaro teria utilizado meios fraudulentos para induzir investidores ao erro. Os acusados também contestaram as irregularidades apontadas no processo e sustentaram que as operações seguiram as regras do mercado. A CVM, por sua vez, considerou que os documentos reunidos no processo eram suficientes para caracterizar a operação fraudulenta e responsabilizar os envolvidos. Banco Master O Banco Master, que foi posteriormente liquidado pelo Banco Central, recebeu multa de R$ 12,5 milhões no processo. A CVM apontou que a instituição participou da terceira emissão do fundo e colocou aproximadamente R$ 16,8 milhões em dinheiro no Brazil Realty. Nas operações posteriores com as cotas, a autarquia calculou resultado positivo de aproximadamente R$ 10,8 milhões para o banco. A Viking Participações teve resultado positivo estimado em R$ 837 mil, enquanto as operações atribuídas diretamente a Daniel Vorcaro apresentaram resultado negativo de aproximadamente R$ 6,8 milhões. Próximos passos Os condenados podem recorrer da decisão ao Conselho de Recursos do Sistema Financeiro Nacional (CRSFN). O processo da CVM é independente das investigações criminais conduzidas pela Polícia Federal sobre o Banco Master e Daniel Vorcaro. O ex-banqueiro foi preso pela primeira vez em novembro de 2025, na Operação Compliance Zero da Polícia Federal. Na ocasião, o Banco Central liquidou o Banco Master. Vorcaro a ser preso em março de 2026, em outra investigação.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Wellton Máximo - Repórter da Agência Brasil",
+    "pub_date": "2026-09-08T23:50:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "CVM",
+      "Banco Master",
+      "Daniel Vorcaro",
+      "fraude financeira"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.6776,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.738,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/agencias-de-viagens/mercado/2026/09/elo-anuncia-nova-fase-da-parceria-com-a-decolar-para-oferecer-descontos-em-viagens_231793.html",
+    "title": "Elo anuncia nova fase da parceria com a Decolar para oferecer descontos em viagens",
+    "link": "https://www.panrotas.com.br/agencias-de-viagens/mercado/2026/09/elo-anuncia-nova-fase-da-parceria-com-a-decolar-para-oferecer-descontos-em-viagens_231793.html",
+    "description": "Benefício é exclusivo para clientes com cartões Elo Diners Club, Elo Nanquim e Elo Empresarial Grafite",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/08/54759777473d66d29e412c46fdf31650-imagem9.jpeg",
+    "author": "Karina Cede&#241;o",
+    "pub_date": "2026-09-08T21:01:00+00:00",
+    "source_category_raw": "Agências de Viagens - Mercado",
+    "all_categories": [
+      "Agências de Viagens - Mercado"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Mercado",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.687,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/hotelaria/mercado/2026/09/aquilla-collection-na-africa-do-sul-ganha-representacao-da-ti-comunicacoes_231790.html",
+    "title": "Aquilla Collection, na África do Sul, ganha representação da TI Comunicações",
+    "link": "https://www.panrotas.com.br/hotelaria/mercado/2026/09/aquilla-collection-na-africa-do-sul-ganha-representacao-da-ti-comunicacoes_231790.html",
+    "description": "Aquila Private Game Reserve & Spa, Kuganha e Inverdoorn passam a ser representados no mercado brasileiro",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/08/52d3e89f5b9c0eff49c31853a5c41e1d-kug.jpg",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-09-08T19:37:00+00:00",
+    "source_category_raw": "Hotelaria - Mercado",
+    "all_categories": [
+      "Hotelaria - Mercado"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": "Mercado",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.681,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/viagens-corporativas/eventos/2026/09/neurociencia-e-gestao-sob-pressao-serao-temas-do-move-em-0510-inscreva-se_231772.html",
     "title": "Neurociência e gestão sob pressão serão temas do MOVE, em 05/10; inscreva-se",
@@ -19,7 +92,76 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.689,
+    "destaque_score": 0.68,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/destinos/2026/09/exposki-brand-usa-reforca-ferramentas-para-agentes-e-campanha-de-vendas-com-united_231781.html",
+    "title": "ExpoSKI: Brand USA reforça ferramentas para agentes e campanha de vendas com United",
+    "link": "https://www.panrotas.com.br/mercado/destinos/2026/09/exposki-brand-usa-reforca-ferramentas-para-agentes-e-campanha-de-vendas-com-united_231781.html",
+    "description": "Entidade incentivou os agentes presentes na feira a participarem da Destination Immersion Latin America",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/08/ee70b331d3174187a7d7c0e2d9448e86-rem9425.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-09-08T18:44:00+00:00",
+    "source_category_raw": "Mercado - Destinos",
+    "all_categories": [
+      "Mercado - Destinos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Destinos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.678,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/tecnologia/2026/09/quantas-empresas-de-tecnologia-para-viagens-operam-no-brasil-estudo-da-loupit-revela_231770.html",
+    "title": "Quantas empresas de tecnologia para viagens operam no Brasil? Estudo da Loupit revela",
+    "link": "https://www.panrotas.com.br/mercado/tecnologia/2026/09/quantas-empresas-de-tecnologia-para-viagens-operam-no-brasil-estudo-da-loupit-revela_231770.html",
+    "description": "Levantamento organiza ecossistema em 16 categorias e mostra convergência entre plataformas",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2023/12/13/f1d44da40f67cc5313cbe9f38ec0957a-conceitodecolagemdehtmlecsscompessoa.jpg",
+    "author": "Karina Cede&#241;o",
+    "pub_date": "2026-09-08T18:19:00+00:00",
+    "source_category_raw": "Mercado - Tecnologia",
+    "all_categories": [
+      "Mercado - Tecnologia"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Tecnologia",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.677,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/feiras/2026/09/btm-2026-confirma-16-caravanas-e-preve-16-mil-pernoites-em-fortaleza_231779.html",
+    "title": "BTM 2026 confirma 16 caravanas e prevê 1,6 mil pernoites em Fortaleza",
+    "link": "https://www.panrotas.com.br/mercado/feiras/2026/09/btm-2026-confirma-16-caravanas-e-preve-16-mil-pernoites-em-fortaleza_231779.html",
+    "description": "Exclusivas para agentes de viagens, opções aéreas e rodoviárias terão captação nas cinco regiões do Brasil",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/08/50c2cc5456cff101ef349be76f5bdbe9-image11.jpeg",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-09-08T17:55:00+00:00",
+    "source_category_raw": "Mercado - Feiras",
+    "all_categories": [
+      "Mercado - Feiras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": "Feiras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.675,
     "layout_tier": "grade"
   },
   {
@@ -42,7 +184,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.682,
+    "destaque_score": 0.674,
     "layout_tier": "grade"
   },
   {
@@ -65,7 +207,30 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.68,
+    "destaque_score": 0.672,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/operadoras/2026/09/rca-turismo-leva-30-agentes-de-viagens-a-orlando-em-famtour-com-a-disney-fotos_231775.html",
+    "title": "RCA Turismo leva 30 agentes de viagens a Orlando em famtour com a Disney; fotos",
+    "link": "https://www.panrotas.com.br/mercado/operadoras/2026/09/rca-turismo-leva-30-agentes-de-viagens-a-orlando-em-famtour-com-a-disney-fotos_231775.html",
+    "description": "Participantes se destacaram na campanha de vendas da operadora, encerrada em 30 de junho",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/08/9f2d444004844e5b69051ac031922bfb-magickingdom.jpeg",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-09-08T16:33:00+00:00",
+    "source_category_raw": "Mercado - Operadoras",
+    "all_categories": [
+      "Mercado - Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Operadoras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.67,
     "layout_tier": "grade"
   },
   {
@@ -93,6 +258,52 @@
   },
   {
     "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/novas-rotas/2026/09/latam-anuncia-voos-diretos-entre-guarulhos-e-cusco-a-partir-de-2027_231780.html",
+    "title": "Latam anuncia voos diretos entre Guarulhos e Cusco a partir de 2027",
+    "link": "https://www.panrotas.com.br/aviacao/novas-rotas/2026/09/latam-anuncia-voos-diretos-entre-guarulhos-e-cusco-a-partir-de-2027_231780.html",
+    "description": "Passageiros brasileiros não precisarão mais realizar conexões no aeroporto de Lima para acessar o destino",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/09/18/90056df181c9e7755c860755977dca7b-fernandoleiteinframerica.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-09-08T16:07:00+00:00",
+    "source_category_raw": "Aviação - Novas rotas",
+    "all_categories": [
+      "Aviação - Novas rotas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Novas rotas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.869,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/feiras/2026/09/exposki-chega-a-7a-edicao-com-espaco-para-crescer-no-brasil-e-aposta-em-novos-mercados_231771.html",
+    "title": "ExpoSKI chega a 7ª edição com espaço para crescer no Brasil e aposta em novos mercados",
+    "link": "https://www.panrotas.com.br/mercado/feiras/2026/09/exposki-chega-a-7a-edicao-com-espaco-para-crescer-no-brasil-e-aposta-em-novos-mercados_231771.html",
+    "description": "Feira começa hoje (8) em São Paulo com direito a novos expositores e mais agências de viagens",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/08/1961a7e8a2b7377235fbfbd7526a65d2-rem9274.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-09-08T15:41:00+00:00",
+    "source_category_raw": "Mercado - Feiras",
+    "all_categories": [
+      "Mercado - Feiras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": "Feiras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.667,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/09/swiss-anuncia-novos-lounges-no-aeroporto-de-zurique-para-2027_231760.html",
     "title": "Swiss anuncia novos lounges no Aeroporto de Zurique para 2027",
     "link": "https://www.panrotas.com.br/aviacao/empresas/2026/09/swiss-anuncia-novos-lounges-no-aeroporto-de-zurique-para-2027_231760.html",
@@ -111,8 +322,31 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.875,
+    "destaque_score": 0.867,
     "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/tecnologia/2026/09/civitatis-integra-catalogo-de-passeios-e-atividades-ao-chatgpt-e-claude_231762.html",
+    "title": "Civitatis integra catálogo de passeios e atividades ao ChatGPT e Claude",
+    "link": "https://www.panrotas.com.br/mercado/tecnologia/2026/09/civitatis-integra-catalogo-de-passeios-e-atividades-ao-chatgpt-e-claude_231762.html",
+    "description": "Reserva é finalizada no site da Civitatis, e a integração com o Gemini está no pipeline",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/08/9442daa5792a57a22fd72371bfec9fe1-unnamed25.png",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-09-08T15:08:00+00:00",
+    "source_category_raw": "Mercado - Tecnologia",
+    "all_categories": [
+      "Mercado - Tecnologia"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Tecnologia",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.666,
+    "layout_tier": "grade"
   },
   {
     "source_id": "panrotas",
@@ -134,7 +368,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.872,
+    "destaque_score": 0.864,
     "layout_tier": "manchete"
   },
   {
@@ -157,8 +391,54 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.871,
+    "destaque_score": 0.863,
     "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/economia-e-politica/2026/09/global-summit-do-wttc-reunira-mais-de-200-ceos-e-lideres-globais-do-turismo-em-malta_231764.html",
+    "title": "Global Summit do WTTC reunirá mais de 200 CEOs e líderes globais do Turismo em Malta",
+    "link": "https://www.panrotas.com.br/mercado/economia-e-politica/2026/09/global-summit-do-wttc-reunira-mais-de-200-ceos-e-lideres-globais-do-turismo-em-malta_231764.html",
+    "description": "Evento realizado em outubro terá Hilton, IHG, Four Seasons, MSC, Expedia, Virtuoso, OTAs e outros gigantes",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/08/f00118dbec2b2e79ead2497ac991f432-malta.png",
+    "author": "Rodrigo Vieira",
+    "pub_date": "2026-09-08T13:49:00+00:00",
+    "source_category_raw": "Mercado - Economia e Política",
+    "all_categories": [
+      "Mercado - Economia e Política"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3525,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.499,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/hotelaria/mercado/2026/09/incendio-atinge-hotel-alto-nevados-no-chile-hospedes-sao-evacuados_231759.html",
+    "title": "Incêndio atinge Hotel Alto Nevados, no Chile; hóspedes são evacuados",
+    "link": "https://www.panrotas.com.br/hotelaria/mercado/2026/09/incendio-atinge-hotel-alto-nevados-no-chile-hospedes-sao-evacuados_231759.html",
+    "description": "Segundo Nevados de Chillán, não houve feridos; hóspedes foram acomodados em outros espaços do complexo",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/08/fd57b558e03ec611421ff716f3681435-img6294.jpeg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-09-08T13:39:00+00:00",
+    "source_category_raw": "Hotelaria - Mercado",
+    "all_categories": [
+      "Hotelaria - Mercado"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": "Mercado",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.661,
+    "layout_tier": "grade"
   },
   {
     "source_id": "agenciabrasil",
@@ -184,7 +464,7 @@
     "category_mapping_confidence": 0.795,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.735,
+    "destaque_score": 0.727,
     "layout_tier": "manchete"
   },
   {
@@ -207,7 +487,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.866,
+    "destaque_score": 0.858,
     "layout_tier": "manchete"
   },
   {
@@ -230,7 +510,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.666,
+    "destaque_score": 0.658,
     "layout_tier": "grade"
   },
   {
@@ -253,7 +533,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.665,
+    "destaque_score": 0.657,
     "layout_tier": "grade"
   },
   {
@@ -276,7 +556,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.665,
+    "destaque_score": 0.657,
     "layout_tier": "grade"
   },
   {
@@ -304,6 +584,29 @@
   },
   {
     "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/pesquisas-e-estatisticas/2026/09/brasileiros-preferem-gastar-mais-em-viagens-para-ter-acomodacao-mais-confortavel-diz-pesquisa_231706.html",
+    "title": "Brasileiros preferem gastar mais em viagens para ter acomodação mais confortável, diz pesquisa",
+    "link": "https://www.panrotas.com.br/mercado/pesquisas-e-estatisticas/2026/09/brasileiros-preferem-gastar-mais-em-viagens-para-ter-acomodacao-mais-confortavel-diz-pesquisa_231706.html",
+    "description": "Pesquisa da Booking.com demonstra que 89% concordam que vale pagar mais para evitar perrengues",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/10/05/7cc19285f033e8ccfe3df35acb8bb94a-quarto1.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-09-08T12:02:00+00:00",
+    "source_category_raw": "Mercado - Pesquisas e Estatísticas",
+    "all_categories": [
+      "Mercado - Pesquisas e Estatísticas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": "Pesquisas e Estatísticas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.856,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/mercado/economia-e-politica/2026/09/reforma-tributaria-split-payment-pode-aumentar-necessidade-de-capital-de-giro-de-empresas_231717.html",
     "title": "Reforma Tributária: Split Payment pode aumentar necessidade de capital de giro de empresas",
     "link": "https://www.panrotas.com.br/mercado/economia-e-politica/2026/09/reforma-tributaria-split-payment-pode-aumentar-necessidade-de-capital-de-giro-de-empresas_231717.html",
@@ -322,7 +625,7 @@
     "category_mapping_confidence": 0.4538,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.525,
+    "destaque_score": 0.518,
     "layout_tier": "grade"
   },
   {
@@ -345,7 +648,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.661,
+    "destaque_score": 0.654,
     "layout_tier": "grade"
   },
   {
@@ -368,7 +671,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.66,
+    "destaque_score": 0.653,
     "layout_tier": "grade"
   },
   {
@@ -391,7 +694,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.66,
+    "destaque_score": 0.653,
     "layout_tier": "grade"
   },
   {
@@ -414,7 +717,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.636,
+    "destaque_score": 0.63,
     "layout_tier": "grade"
   },
   {
@@ -440,7 +743,7 @@
     "category_mapping_confidence": 0.5663,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.419,
+    "destaque_score": 0.415,
     "layout_tier": "grade"
   },
   {
@@ -468,7 +771,7 @@
     "category_mapping_confidence": 0.7897,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.672,
+    "destaque_score": 0.668,
     "layout_tier": "grade"
   },
   {
@@ -491,8 +794,31 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.788,
+    "destaque_score": 0.785,
     "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/destinos/2026/09/ees-europa-encerra-flexibilizacao-do-controle-de-fronteiras-e-filas-em-aeroportos-devem-crescer_231750.html",
+    "title": "EES: Europa encerra flexibilização do controle de fronteiras e filas em aeroportos devem crescer",
+    "link": "https://www.panrotas.com.br/mercado/destinos/2026/09/ees-europa-encerra-flexibilizacao-do-controle-de-fronteiras-e-filas-em-aeroportos-devem-crescer_231750.html",
+    "description": "Entidades defendem que flexibilização seja prorrogada porque a estrutura ainda apresenta dificuldades",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/10/6a754820048406c3ff70c4cdbb2e8e1d-headerimageees.jpeg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-09-06T03:03:00+00:00",
+    "source_category_raw": "Mercado - Destinos",
+    "all_categories": [
+      "Mercado - Destinos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Destinos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.57,
+    "layout_tier": "grade"
   },
   {
     "source_id": "panrotas",
@@ -514,31 +840,8 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.772,
+    "destaque_score": 0.77,
     "layout_tier": "manchete"
-  },
-  {
-    "source_id": "panrotas",
-    "guid": "https://www.panrotas.com.br/mercado/destinos/2026/09/ees-europa-encerra-flexibilizacao-do-controle-de-fronteiras-e-filas-em-aeroportos-devem-crescer_231750.html",
-    "title": "EES: Europa encerra flexibilização do controle de fronteiras e filas em aeroportos devem crescer",
-    "link": "https://www.panrotas.com.br/mercado/destinos/2026/09/ees-europa-encerra-flexibilizacao-do-controle-de-fronteiras-e-filas-em-aeroportos-devem-crescer_231750.html",
-    "description": "Entidades defendem que flexibilização seja prorrogada porque a estrutura ainda apresenta dificuldades",
-    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/10/6a754820048406c3ff70c4cdbb2e8e1d-headerimageees.jpeg",
-    "author": "Pedro Menezes",
-    "pub_date": "2026-09-06T03:01:00+00:00",
-    "source_category_raw": "Mercado - Destinos",
-    "all_categories": [
-      "Mercado - Destinos"
-    ],
-    "in_scope": true,
-    "canonical_category_l1": "Destinos",
-    "canonical_category_l2": "Destinos",
-    "category_mapping_method": "lookup_nativo",
-    "category_mapping_confidence": 1.0,
-    "content_domain": "geopolitica_relevante",
-    "content_domain_confidence": 0.75,
-    "destaque_score": 0.572,
-    "layout_tier": "grade"
   },
   {
     "source_id": "panrotas",
@@ -560,7 +863,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.569,
+    "destaque_score": 0.568,
     "layout_tier": "grade"
   },
   {
@@ -632,7 +935,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -678,7 +981,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -701,7 +1004,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -724,7 +1027,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -747,7 +1050,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -796,7 +1099,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -934,7 +1237,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.558,
+    "destaque_score": 0.557,
     "layout_tier": "grade"
   },
   {
@@ -957,7 +1260,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.558,
+    "destaque_score": 0.557,
     "layout_tier": "grade"
   },
   {
@@ -980,7 +1283,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.758,
+    "destaque_score": 0.757,
     "layout_tier": "manchete"
   },
   {
@@ -1003,7 +1306,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.758,
+    "destaque_score": 0.757,
     "layout_tier": "manchete"
   },
   {
@@ -1197,7 +1500,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.557,
+    "destaque_score": 0.556,
     "layout_tier": "grade"
   },
   {
@@ -1220,7 +1523,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.557,
+    "destaque_score": 0.556,
     "layout_tier": "grade"
   },
   {
@@ -1243,7 +1546,7 @@
     "category_mapping_confidence": 0.5392,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.64,
+    "destaque_score": 0.639,
     "layout_tier": "grade"
   },
   {
@@ -1289,7 +1592,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -1312,7 +1615,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -1335,7 +1638,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -1358,7 +1661,7 @@
     "category_mapping_confidence": 0.5606,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.445,
+    "destaque_score": 0.444,
     "layout_tier": "grade"
   },
   {
@@ -1381,7 +1684,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -1404,7 +1707,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -1427,7 +1730,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -1709,23 +2012,23 @@
   {
     "source_id": "valor_economico",
     "guid": "CBMixAFBVV95cUxNUlBMX0tPZU5pdGxyTHc5S1d2RVhqYm5RMU9iNDFqOVM3eHhabFFMQ0pmcV9uLTFaNF9sVjZvYjNNTzdzNTc5Szdqb3BSVXVMRUxWcWc4UU0wLW5CdkJ4ckpFNk5pWXlnWGt2V20xX1BmOXR2Z2J0SklNMDRObjBnaVRKZEQ2dEhIc1hzbUhKMHJ0dnpIZGdTd3Bmc1NUOHlBcFVkbVo5N0cydkhoWmtTSDVmeFc5dzRRRVJGUVR6ZzRGVjVI0gHTAUFVX3lxTE9fSHVER015WTFDZk42S1NLSERjcUNmeDhDbDhCRWZJUkJ6Slh6eTdoY1R2cWwzREFrV3RicHhmc2VHUjVGbUd5Z1dIMllnWG0tUXpORzZNb21KTlpjcUNEV2FLY2lkVDRQc1ZoN1pZOUFHOTBXb0YxMWN3VjFEU1ozak9EVTlZRUNPbmdxX2FIRWthaG01NTBmSU5PdS10bGpIRXgza1NCNWdUVExvTlRHRUlOWkt1SWVpLUhiUlZQRWFkYnpZczBidnJfY0pOLWUteTg",
-    "title": "Maratona 42K Terra da Luz reúne esporte, história e turismo",
+    "title": "Maratona 42K Terra da Luz reúne esporte, história e turismo - valor.globo.com",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUlBMX0tPZU5pdGxyTHc5S1d2RVhqYm5RMU9iNDFqOVM3eHhabFFMQ0pmcV9uLTFaNF9sVjZvYjNNTzdzNTc5Szdqb3BSVXVMRUxWcWc4UU0wLW5CdkJ4ckpFNk5pWXlnWGt2V20xX1BmOXR2Z2J0SklNMDRObjBnaVRKZEQ2dEhIc1hzbUhKMHJ0dnpIZGdTd3Bmc1NUOHlBcFVkbVo5N0cydkhoWmtTSDVmeFc5dzRRRVJGUVR6ZzRGVjVI0gHTAUFVX3lxTE9fSHVER015WTFDZk42S1NLSERjcUNmeDhDbDhCRWZJUkJ6Slh6eTdoY1R2cWwzREFrV3RicHhmc2VHUjVGbUd5Z1dIMllnWG0tUXpORzZNb21KTlpjcUNEV2FLY2lkVDRQc1ZoN1pZOUFHOTBXb0YxMWN3VjFEU1ozak9EVTlZRUNPbmdxX2FIRWthaG01NTBmSU5PdS10bGpIRXgza1NCNWdUVExvTlRHRUlOWkt1SWVpLUhiUlZQRWFkYnpZczBidnJfY0pOLWUteTg?oc=5",
-    "description": "Maratona 42K Terra da Luz reúne esporte, história e turismo Valor Econômico",
+    "description": "Maratona 42K Terra da Luz reúne esporte, história e turismo valor.globo.com",
     "image_url": null,
     "author": "",
     "pub_date": "2026-09-03T14:55:48+00:00",
     "source_category_raw": null,
     "all_categories": [],
     "in_scope": true,
-    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf_low_confidence",
-    "category_mapping_confidence": 0.4432,
+    "category_mapping_confidence": 0.3825,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.295,
-    "layout_tier": "condensado"
+    "destaque_score": 0.479,
+    "layout_tier": "grade"
   },
   {
     "source_id": "valor_economico",
@@ -1837,7 +2140,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -1860,7 +2163,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.754,
+    "destaque_score": 0.753,
     "layout_tier": "manchete"
   },
   {
@@ -1883,7 +2186,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -1998,7 +2301,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
