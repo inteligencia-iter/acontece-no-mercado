@@ -1,5 +1,331 @@
 [
   {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/eventos/2026/09/travel-connect-paola-carosella-explica-a-diferenca-entre-o-perfeito-e-o-melhor-possivel_231838.html",
+    "title": "Travel Connect: Paola Carosella explica a diferença entre o perfeito e o melhor possível",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/eventos/2026/09/travel-connect-paola-carosella-explica-a-diferenca-entre-o-perfeito-e-o-melhor-possivel_231838.html",
+    "description": "Empresária, cozinheira e escritora levou seus aprendizados ao palco do Travel Connect 2026",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/09/d1de4daba6ccd93008c505e03020b22d-rem1658.jpg",
+    "author": "Karina Cede&#241;o",
+    "pub_date": "2026-09-09T21:18:00+00:00",
+    "source_category_raw": "Corporativo - Eventos",
+    "all_categories": [
+      "Corporativo - Eventos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Eventos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.698,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1701948 at https://agenciabrasil.ebc.com.br",
+    "title": "Anac permite voos após as 23h em Congonhas em situações excepcionais",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/anac-permite-voos-apos-23h-em-congonhas-em-situacoes-excepcionais",
+    "description": "A Agência Nacional de Aviação Civil (Anac) aprovou o pedido da Associação Brasileira das Empresas Aéreas (Abear) para ampliar o horário das operações no Aeroporto de Congonhas, em São Paulo, em situações consideradas excepcionais. Com a decisão, o aeroporto, que funciona entre as 6h e 23h por estar localizado em área residencial, poderia ter seu horário ampliado para além das 23h , mas somente quando ocorrerem eventos extraordinários que provoquem impactos na malha aérea. Notícias relacionadas: Anac suspende quatro empresas de voos panorâmicos que operavam no Rio. Anvisa atualiza regras de segurança sanitária para aviões e aeroportos. Anac limita a venda de passagens aéreas da Flybondi no Brasil. A decisão foi aprovada na 27ª Reunião Deliberativa Eletrônica da Diretoria Colegiada da agência e não prevê a alteração do horário oficial de funcionamento do aeroporto e nem vai permitir que sejam programados voos para além do seu horário normal de funcionamento. Segundo a Anac, o que ocorreu é que a diretoria colegiada estabeleceu uma interpretação para a Resolução 55 , em vigor desde 2008, e que veda operações comerciais regulares e de aviação geral no aeroporto depois das 23h , salvo em situações específicas como voos para transporte de enfermos graves ou órgãos para transplante e operações de busca e salvamento. Essa norma, no entanto, não previa o tratamento em situações de contingências, o que foi revisto agora. “A medida busca reduzir impactos em cascata na malha aérea e aos passageiros provocados por eventos extraordinários, como mau tempo, e que afetem voos já previstos para o dia”, informou a Anac, por meio de nota. “A medida será restrita à conclusão, total ou parcial, de operações que já estavam programadas para o dia em que ocorreu a situação excepcional”, acrescentou a agência. Segundo a concessionária Aena, que administra o aeroporto, a medida da Anac prevê “eventuais prorrogações do horário operacional” exclusivamente em situações excepcionais, “como eventos meteorológicos adversos, normalmente associados a impactos severos na malha aérea que atende o aeroporto, com potenciais desdobramentos em toda a malha aérea nacional”. Essas situações, esclareceu a Aena, serão avaliadas caso a caso. “A excepcionalidade dessas medidas também é demonstrada pelos dados registrados recentemente: em 2025, houve cinco ocorrências de prorrogação do funcionamento e, em 2026, foram registradas apenas duas até o momento. Portanto, não se trata de uma mudança do horário operacional de Congonhas nem de uma autorização para funcionamento regular após as 23h”, diz a Aena. “O horário permanece inalterado, e eventuais prorrogações continuam restritas a situações excepcionais, devidamente caracterizadas e avaliadas de acordo com os critérios aplicáveis”, acrescenta a concessionária, por meio de nota. A Abear reforçou à Agência Brasil que “a medida é restrita a situações de emergência ou de força maior, como condições meteorológicas adversas, que determinem a interrupção da operação por motivos de segurança, o que tem efeitos em toda a malha aérea do país” . Segundo a associação, o objetivo “é atualizar a norma para dar previsibilidade e agilidade às iniciativas adotadas pelas autoridades em coordenação com as empresas aéreas e a operadora aeroportuária para mitigar os impactos para os passageiros, sem qualquer prejuízo à segurança das operações em Congonhas”.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Elaine Patricia Cruz – Repórter da Agência Brasil",
+    "pub_date": "2026-09-09T20:52:00+00:00",
+    "source_category_raw": "Geral",
+    "all_categories": [
+      "Geral",
+      "Aeroporto de Congonhas",
+      "Anac",
+      "Abear",
+      "Aena",
+      "Malha aérea",
+      "Horário"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.7762,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.761,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/tecnologia/2026/09/o-que-e-a-ia-agentica-e-como-ela-pode-transformar-as-viagens-corporativas-confira_231829.html",
+    "title": "O que é a IA agêntica e como ela pode transformar as viagens corporativas? Confira",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/tecnologia/2026/09/o-que-e-a-ia-agentica-e-como-ela-pode-transformar-as-viagens-corporativas-confira_231829.html",
+    "description": "Tema foi trazido ao Travel Connect, evento realizado pela VOLL nesta quarta-feira (9), em São Paulo",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/09/9ec73a9c7c556f33328119322e499dbc-rem1375.jpg",
+    "author": "Karina Cede&#241;o",
+    "pub_date": "2026-09-09T20:30:00+00:00",
+    "source_category_raw": "Corporativo - Tecnologia",
+    "all_categories": [
+      "Corporativo - Tecnologia"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Tecnologia",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.695,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/operadoras/2026/09/cvc-corp-lanca-programa-para-ampliar-uso-de-inteligencia-artificial-na-area-de-ti_231831.html",
+    "title": "CVC Corp lança programa para ampliar uso de Inteligência Artificial na área de TI",
+    "link": "https://www.panrotas.com.br/mercado/operadoras/2026/09/cvc-corp-lanca-programa-para-ampliar-uso-de-inteligencia-artificial-na-area-de-ti_231831.html",
+    "description": "Iniciativa inclui licenças do Claude para todos os profissionais de tecnologia da companhia",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/09/87a4f82825f3faa79da1f45f4d153abb-1788962814215.jpg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-09-09T20:29:00+00:00",
+    "source_category_raw": "Mercado - Operadoras",
+    "all_categories": [
+      "Mercado - Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Operadoras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.695,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/eventos/2026/09/veja-mais-fotos-do-travel-connect-2026-evento-da-voll-em-sao-paulo_231834.html",
+    "title": "Veja mais fotos do Travel Connect 2026, evento da VOLL, em São Paulo",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/eventos/2026/09/veja-mais-fotos-do-travel-connect-2026-evento-da-voll-em-sao-paulo_231834.html",
+    "description": "Quinta edição do encontro da travel tech traz personalidades como Luciano Huck e Paola Carosella",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/09/b96511538bb0abe679a3f26faf073a6d-rem0516.jpg",
+    "author": "Beatrice Teizen",
+    "pub_date": "2026-09-09T20:12:00+00:00",
+    "source_category_raw": "Corporativo - Eventos",
+    "all_categories": [
+      "Corporativo - Eventos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Eventos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.694,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "valor_economico",
+    "guid": "CBMivAFBVV95cUxPRjhzWnFfdGViczl2X0xhUVAxdTd2am1qQ3BzVHA0b0tRcEdsdmJZeHdhX1g3M3c1WUxrSUpkNzB5YTg4QU1rVUctdmVrV0ppc1MyZWt5X094V051SFBMZzZOU0VEY2QtenRkbEl2Yk5tZHpQUUNrcGk4dHBHN0lUbFdrWXdMbkNVcmc2Q2FzVHlOaDJBUGNudlAxUlQ0Y1NobXZIOTJYbUQ4VGVzYXN6SXdYZXhQcWt4WEgtdNIBywFBVV95cUxQdG5YYXZaLUlfQml0bEZfc3NXTlUwR3lybnZEY2k5UmtqQ3BtTl9xclN0ZnJVVThXdE45d2JDb1ltMmlua1RPOWROUkwxSy1weExLM2ZkZHFCVmgtZ1I0TGUzX2hheHA1OEJhUHVvLXMtNUZxUkdtQU1vM21LMkZsZFJPRHRKcE9BS3FDOU5rVUowSHl1WGNFRGNuZG1rTnlKN2xyYm82S1BEMGpJeGcycFJ6VnZvMlBvLTE0b1g0QnI0VnBZdUJNZ1QzUQ",
+    "title": "IA muda a forma como viajantes escolhem suas viagens",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRjhzWnFfdGViczl2X0xhUVAxdTd2am1qQ3BzVHA0b0tRcEdsdmJZeHdhX1g3M3c1WUxrSUpkNzB5YTg4QU1rVUctdmVrV0ppc1MyZWt5X094V051SFBMZzZOU0VEY2QtenRkbEl2Yk5tZHpQUUNrcGk4dHBHN0lUbFdrWXdMbkNVcmc2Q2FzVHlOaDJBUGNudlAxUlQ0Y1NobXZIOTJYbUQ4VGVzYXN6SXdYZXhQcWt4WEgtdNIBywFBVV95cUxQdG5YYXZaLUlfQml0bEZfc3NXTlUwR3lybnZEY2k5UmtqQ3BtTl9xclN0ZnJVVThXdE45d2JDb1ltMmlua1RPOWROUkwxSy1weExLM2ZkZHFCVmgtZ1I0TGUzX2hheHA1OEJhUHVvLXMtNUZxUkdtQU1vM21LMkZsZFJPRHRKcE9BS3FDOU5rVUowSHl1WGNFRGNuZG1rTnlKN2xyYm82S1BEMGpJeGcycFJ6VnZvMlBvLTE0b1g0QnI0VnBZdUJNZ1QzUQ?oc=5",
+    "description": "IA muda a forma como viajantes escolhem suas viagens Valor Econômico",
+    "image_url": null,
+    "author": "",
+    "pub_date": "2026-09-09T19:49:37+00:00",
+    "source_category_raw": null,
+    "all_categories": [],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.7829,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.518,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/09/disney-fechara-atracao-de-tiana-no-magic-kingdom-para-reforma-em-novembro_231823.html",
+    "title": "Disney fechará atração de Tiana, no Magic Kingdom, para reforma em novembro",
+    "link": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/09/disney-fechara-atracao-de-tiana-no-magic-kingdom-para-reforma-em-novembro_231823.html",
+    "description": "Expectativa, segundo a Disney, é que a atração reabra em dezembro, antes do Natal",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/08/29/da643b7999f8496192da08be67706906-dsc1102.jpg",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-09-09T19:48:00+00:00",
+    "source_category_raw": "Destinos - Parques temáticos",
+    "all_categories": [
+      "Destinos - Parques temáticos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": "Parques temáticos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.692,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/09/beto-carrero-promove-ultima-volta-da-star-mountain-e-retorno-da-fire-whip-no-proximo-domingo-13_231824.html",
+    "title": "Beto Carrero promove última volta da Star Mountain e retorno da Fire Whip no próximo domingo (13)",
+    "link": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/09/beto-carrero-promove-ultima-volta-da-star-mountain-e-retorno-da-fire-whip-no-proximo-domingo-13_231824.html",
+    "description": "Evento em 13 de setembro marca despedida de uma atração e reabertura da outra",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/09/5e9029c7069e30d3300b33ce06dd3927-unnamed95.png",
+    "author": "Filip Calixto",
+    "pub_date": "2026-09-09T19:21:00+00:00",
+    "source_category_raw": "Destinos - Parques temáticos",
+    "all_categories": [
+      "Destinos - Parques temáticos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": "Parques temáticos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.69,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/mercado/2026/09/travel-connect-da-voll-ganha-edicao-da-revista-panrotas-com-conteudo-exclusivo_231804.html",
+    "title": "Travel Connect, da VOLL, ganha edição da Revista PANROTAS com conteúdo exclusivo",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/mercado/2026/09/travel-connect-da-voll-ganha-edicao-da-revista-panrotas-com-conteudo-exclusivo_231804.html",
+    "description": "Matérias e entrevistas destacam protagonismo do gestor, nova ferramenta VOLL Intelligence e mais: LEIA JÁ",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/09/65b6944dabc5c801a19eeb1ead9c4bf7-portal670x40016.jpg",
+    "author": "Rodrigo Vieira",
+    "pub_date": "2026-09-09T18:50:00+00:00",
+    "source_category_raw": "Corporativo - Mercado",
+    "all_categories": [
+      "Corporativo - Mercado"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Mercado",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.688,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/09/hopi-hari-anuncia-limitacao-de-publico-e-novos-pilares-para-aprimorar-experiencia_231766.html",
+    "title": "Hopi Hari anuncia limitação de público e novos pilares para aprimorar experiência",
+    "link": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/09/hopi-hari-anuncia-limitacao-de-publico-e-novos-pilares-para-aprimorar-experiencia_231766.html",
+    "description": "Parque passou a esgotar ingressos de determinados dias quando atinge capacidade considerada ideal",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/08/668a4878d3718388231ac9b8203bd8bd-whatsappimage20260902at8.15.50pm.jpeg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-09-09T18:29:00+00:00",
+    "source_category_raw": "Destinos - Parques temáticos",
+    "all_categories": [
+      "Destinos - Parques temáticos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": "Parques temáticos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.687,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/tecnologia/2026/09/voll-lanca-voll-intelligence-ferramenta-de-ia-agentica-para-os-viajantes_231818.html",
+    "title": "VOLL lança VOLL Intelligence, ferramenta de IA agêntica para os viajantes",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/tecnologia/2026/09/voll-lanca-voll-intelligence-ferramenta-de-ia-agentica-para-os-viajantes_231818.html",
+    "description": "Tecnologia, anunciada no Travel Connect, auxilia os usuários de forma proativa durante toda a sua jornada",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/09/11108bbc6912c594125e141967fae235-rem0555.jpg",
+    "author": "Karina Cede&#241;o",
+    "pub_date": "2026-09-09T18:24:00+00:00",
+    "source_category_raw": "Corporativo - Tecnologia",
+    "all_categories": [
+      "Corporativo - Tecnologia"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Tecnologia",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.686,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/09/disney-revela-mais-fotos-e-detalhes-da-experiencia-the-magic-of-disney-animation-confira_231817.html",
+    "title": "Disney revela mais fotos e detalhes da experiência The Magic of Disney Animation; confira",
+    "link": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/09/disney-revela-mais-fotos-e-detalhes-da-experiencia-the-magic-of-disney-animation-confira_231817.html",
+    "description": "Atração trará referências aos 64 filmes de animação do complexo, com objetos e itens originais",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/09/868741ae6b086ede8410bcca1bf7cb79-2026wdwanimationcourtyardheader.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-09-09T18:00:00+00:00",
+    "source_category_raw": "Destinos - Parques temáticos",
+    "all_categories": [
+      "Destinos - Parques temáticos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": "Parques temáticos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.685,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/cruzeiros/2026/09/corazul-cruceros-revela-imagens-do-buenavista-navio-que-fara-sua-estreia-no-brasil_231806.html",
+    "title": "Corazul Cruceros revela imagens do Buenavista, navio que fará sua estreia no Brasil",
+    "link": "https://www.panrotas.com.br/mercado/cruzeiros/2026/09/corazul-cruceros-revela-imagens-do-buenavista-navio-que-fara-sua-estreia-no-brasil_231806.html",
+    "description": "Companhia espanhola estreia em mares brasileiros na próxima temporada, com vendas abertas nesta semana",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/09/1cc888fe58270dcacaa13f86ddc76012-piscina1.jpg",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-09-09T17:12:00+00:00",
+    "source_category_raw": "Mercado - Cruzeiros",
+    "all_categories": [
+      "Mercado - Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": "Cruzeiros",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.682,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/09/nova-sala-vip-foi-resposta-da-iberia-a-saturacao-dos-demais-lounges-da-companhia_231815.html",
+    "title": "Nova sala vip foi resposta da Iberia à saturação dos demais lounges da companhia",
+    "link": "https://www.panrotas.com.br/aviacao/empresas/2026/09/nova-sala-vip-foi-resposta-da-iberia-a-saturacao-dos-demais-lounges-da-companhia_231815.html",
+    "description": "Aumento na venda de assentos business tiveram reflexo na utilização dos espaços premium da empresa",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/09/436a88e4d0d6c998bb2c5cbd783e26ad-cccc2785.jpg",
+    "author": "Alex Souza",
+    "pub_date": "2026-09-09T16:43:00+00:00",
+    "source_category_raw": "Aviação - Empresas",
+    "all_categories": [
+      "Aviação - Empresas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Empresas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.88,
+    "layout_tier": "manchete"
+  },
+  {
     "source_id": "abcmais_hortensias",
     "guid": "https://www.abcmais.com/brasil/programacao-do-palco-de-conteudo-do-festuris-gramado-tem-ingressos-em-segundo-lote-saiba-mais/",
     "title": "Programação do palco de conteúdo do Festuris Gramado tem ingressos em segundo lote; saiba mais",
@@ -33,7 +359,168 @@
     "category_mapping_confidence": 0.6165,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.474,
+    "destaque_score": 0.462,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/eventos/2026/09/voll-realiza-5a-edicao-do-travel-connect-com-gestores-e-fornecedores-veja-fotos_231814.html",
+    "title": "VOLL realiza 5ª edição do Travel Connect com gestores e fornecedores; veja fotos",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/eventos/2026/09/voll-realiza-5a-edicao-do-travel-connect-com-gestores-e-fornecedores-veja-fotos_231814.html",
+    "description": "Evento da travel tech conta ainda com lançamento de pesquisa em parceria com PANROTAS e revista exclusiva",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/09/1fb390a44bc078a8a87dd1698de79d6d-rem0152.jpg",
+    "author": "Beatrice Teizen",
+    "pub_date": "2026-09-09T15:26:00+00:00",
+    "source_category_raw": "Corporativo - Eventos",
+    "all_categories": [
+      "Corporativo - Eventos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Eventos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.675,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/mercado/2026/09/visa-destaca-crescimento-de-transacoes-no-brasil-e-tendencias-em-viagens-corporativas_231809.html",
+    "title": "Visa destaca crescimento de transações no Brasil e tendências em viagens corporativas",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/mercado/2026/09/visa-destaca-crescimento-de-transacoes-no-brasil-e-tendencias-em-viagens-corporativas_231809.html",
+    "description": "Dados foram trazidos durante o evento Travel Connect 2026, realizado pela VOLL em São Paulo",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/09/d77da8b55a8887b7bd22d4056fceba43-rem0020.jpg.jpeg",
+    "author": "Karina Cede&#241;o",
+    "pub_date": "2026-09-09T15:18:00+00:00",
+    "source_category_raw": "Corporativo - Mercado",
+    "all_categories": [
+      "Corporativo - Mercado"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Mercado",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.675,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/aeroportos/2026/09/iberia-apresenta-nova-sala-vip-para-clientes-premium-no-aeroporto-de-barajas-veja-fotos_231813.html",
+    "title": "Iberia apresenta nova sala vip para clientes premium no aeroporto de Barajas; veja fotos",
+    "link": "https://www.panrotas.com.br/aviacao/aeroportos/2026/09/iberia-apresenta-nova-sala-vip-para-clientes-premium-no-aeroporto-de-barajas-veja-fotos_231813.html",
+    "description": "Com bar e duas suítes, Emerald Lounge Sorolla abre ao público a partir desta quinta-feira (10)",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/09/3bf1b7ad373af8a035686ffb2d05e3da-cccc2828.jpg",
+    "author": "Alex Souza",
+    "pub_date": "2026-09-09T15:16:00+00:00",
+    "source_category_raw": "Aviação - Aeroportos",
+    "all_categories": [
+      "Aviação - Aeroportos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Aeroportos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.875,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/pesquisas-e-estatisticas/2026/09/gbta-destaca-impacto-de-us-34-bi-das-viagens-corporativas-em-sao-paulo-veja-dados_231810.html",
+    "title": "GBTA destaca impacto de US$ 3,4 bi das viagens corporativas em São Paulo; veja dados",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/pesquisas-e-estatisticas/2026/09/gbta-destaca-impacto-de-us-34-bi-das-viagens-corporativas-em-sao-paulo-veja-dados_231810.html",
+    "description": "aaa",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/09/341980f14efaba9c18bf305b2f589f8c-rem0104.jpg",
+    "author": "Beatrice Teizen",
+    "pub_date": "2026-09-09T14:50:00+00:00",
+    "source_category_raw": "Corporativo - Pesquisas e Estatísticas",
+    "all_categories": [
+      "Corporativo - Pesquisas e Estatísticas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Pesquisas e Estatísticas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.673,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/economia-e-politica/2026/09/brasil-e-mexico-assinam-plano-de-cooperacao-para-ampliar-fluxo-turistico_231805.html",
+    "title": "Brasil e México assinam plano de cooperação para ampliar fluxo turístico",
+    "link": "https://www.panrotas.com.br/mercado/economia-e-politica/2026/09/brasil-e-mexico-assinam-plano-de-cooperacao-para-ampliar-fluxo-turistico_231805.html",
+    "description": "Assinatura ocorreu na Cidade do México, durante a realização do 4º Congresso Mundial de Turismo Esportivo",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/09/ca2bcf1c8c209628b06c0f881c2a5535-unnamed13.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-09-09T14:26:00+00:00",
+    "source_category_raw": "Mercado - Economia e Política",
+    "all_categories": [
+      "Mercado - Economia e Política"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4324,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.53,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/09/vp-da-latam-revela-bastidor-do-01-que-marca-chegada-do-primeiro-embraer-195-e2_231807.html",
+    "title": "VP da Latam revela bastidor do \"01\" que marca chegada do primeiro Embraer 195-E2",
+    "link": "https://www.panrotas.com.br/aviacao/empresas/2026/09/vp-da-latam-revela-bastidor-do-01-que-marca-chegada-do-primeiro-embraer-195-e2_231807.html",
+    "description": "Ideia não nasceu em uma apresentação sofisticada de branding, mas em um simples rascunho no papel",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/09/f6ae1b221618e5fb2c558bbc31bda41b-1788899386005.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-09-09T14:10:00+00:00",
+    "source_category_raw": "Aviação - Empresas",
+    "all_categories": [
+      "Aviação - Empresas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Empresas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.871,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/pesquisas-e-estatisticas/2026/09/voll-e-panrotas-lancam-radar-business-travel-com-retrato-da-gestao-corporativa-no-pais_231797.html",
+    "title": "VOLL e PANROTAS lançam Radar Business Travel com retrato da gestão corporativa no País",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/pesquisas-e-estatisticas/2026/09/voll-e-panrotas-lancam-radar-business-travel-com-retrato-da-gestao-corporativa-no-pais_231797.html",
+    "description": "Pesquisa apresentada no Travel Connect 2026 foi construída em parceria com PANROTAS e apoio da Visa",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/09/d387dfc3c2246cf5c7938e6a11f50ff3-rem0057.jpg",
+    "author": "Beatrice Teizen",
+    "pub_date": "2026-09-09T13:43:00+00:00",
+    "source_category_raw": "Corporativo - Pesquisas e Estatísticas",
+    "all_categories": [
+      "Corporativo - Pesquisas e Estatísticas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "Pesquisas e Estatísticas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.669,
     "layout_tier": "grade"
   },
   {
@@ -56,7 +543,30 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.68,
+    "destaque_score": 0.669,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/pesquisas-e-estatisticas/2026/09/estrangeiros-gastam-mais-de-us-20-bilhoes-em-viagens-aos-eua-em-julho_231787.html",
+    "title": "Estrangeiros gastam mais de US$ 20 bilhões em viagens aos EUA em julho",
+    "link": "https://www.panrotas.com.br/destinos/pesquisas-e-estatisticas/2026/09/estrangeiros-gastam-mais-de-us-20-bilhoes-em-viagens-aos-eua-em-julho_231787.html",
+    "description": "Número representa uma queda de quase 1% em comparação com o mesmo mês de 2025",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/07/31/31898f6c50b02526743622ff15a7149d-pexelsfelixrottmann3846227.jpg",
+    "author": "Karina Cede&#241;o",
+    "pub_date": "2026-09-09T13:21:00+00:00",
+    "source_category_raw": "Destinos - Pesquisas e Estatísticas",
+    "all_categories": [
+      "Destinos - Pesquisas e Estatísticas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Pesquisas e Estatísticas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.668,
     "layout_tier": "grade"
   },
   {
@@ -77,8 +587,54 @@
     "category_mapping_confidence": 0.4875,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.43,
+    "destaque_score": 0.419,
     "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/aeroportos/2026/09/tsa-permite-pessoas-sem-bilhetes-acessem-areas-restritas-em-13-aeroportos-dos-eua_231789.html",
+    "title": "TSA permite pessoas sem bilhetes acessem áreas restritas em 13 aeroportos dos EUA",
+    "link": "https://www.panrotas.com.br/aviacao/aeroportos/2026/09/tsa-permite-pessoas-sem-bilhetes-acessem-areas-restritas-em-13-aeroportos-dos-eua_231789.html",
+    "description": "Programa Gateside permite entrada de visitantes sem passagem aérea após o controle de segurança",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/06/23/c2d9e064cc770efe4e53a27a88076fab-img9730.jpeg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-09-09T12:56:00+00:00",
+    "source_category_raw": "Aviação - Aeroportos",
+    "all_categories": [
+      "Aviação - Aeroportos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Aeroportos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.867,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/09/portugal-pede-novas-ofertas-de-air-france-klm-e-lufthansa-pela-tap_231783.html",
+    "title": "Portugal pede novas ofertas de Air France-KLM e Lufthansa pela Tap",
+    "link": "https://www.panrotas.com.br/aviacao/empresas/2026/09/portugal-pede-novas-ofertas-de-air-france-klm-e-lufthansa-pela-tap_231783.html",
+    "description": "Governo considera propostas pela fatia de 44,9% da companhia próximas e abre rodada final de negociações",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/02/03/972d957b0a05fd2147e70d16afc2a6e2-jrs7371.jpg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-09-09T12:29:00+00:00",
+    "source_category_raw": "Aviação - Empresas",
+    "all_categories": [
+      "Aviação - Empresas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Empresas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.865,
+    "layout_tier": "manchete"
   },
   {
     "source_id": "panrotas",
@@ -100,7 +656,53 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.674,
+    "destaque_score": 0.664,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/cruzeiros/2026/09/msc-cruzeiros-conclui-instalacao-da-escultura-de-dragao-a-bordo-do-msc-world-asia_231773.html",
+    "title": "MSC Cruzeiros conclui instalação da escultura de dragão a bordo do MSC World Asia",
+    "link": "https://www.panrotas.com.br/mercado/cruzeiros/2026/09/msc-cruzeiros-conclui-instalacao-da-escultura-de-dragao-a-bordo-do-msc-world-asia_231773.html",
+    "description": "Peça fica na World Promenade e conta com quase 700 espelhos e mais de 3 mil pontos de luz LED",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/08/f67f33db908a8b4e48b996d9b6404eb0-link35.jpeg",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-09-09T11:37:00+00:00",
+    "source_category_raw": "Mercado - Cruzeiros",
+    "all_categories": [
+      "Mercado - Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": "Cruzeiros",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.662,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/09/disney-magic-run-sao-paulo-abre-inscricoes-nesta-quarta-feira-9_231786.html",
+    "title": "Disney Magic Run São Paulo abre inscrições nesta quarta-feira (9)",
+    "link": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/09/disney-magic-run-sao-paulo-abre-inscricoes-nesta-quarta-feira-9_231786.html",
+    "description": "Edição deste ano acontece em 22 de novembro e reúne percursos para adultos e crianças",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/08/66b8404d577cde65440f65994d6c7ea0-disneymagicrunsp2023creditodivulgacaoairpromo01.jpg",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-09-09T11:22:00+00:00",
+    "source_category_raw": "Destinos - Parques temáticos",
+    "all_categories": [
+      "Destinos - Parques temáticos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": "Parques temáticos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.661,
     "layout_tier": "grade"
   },
   {
@@ -123,7 +725,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.839,
+    "destaque_score": 0.831,
     "layout_tier": "manchete"
   },
   {
@@ -151,7 +753,7 @@
     "category_mapping_confidence": 0.679,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.677,
+    "destaque_score": 0.67,
     "layout_tier": "grade"
   },
   {
@@ -174,7 +776,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.837,
+    "destaque_score": 0.83,
     "layout_tier": "manchete"
   },
   {
@@ -197,7 +799,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.632,
+    "destaque_score": 0.625,
     "layout_tier": "grade"
   },
   {
@@ -220,7 +822,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.631,
+    "destaque_score": 0.624,
     "layout_tier": "grade"
   },
   {
@@ -243,7 +845,7 @@
     "category_mapping_confidence": 0.3853,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.476,
+    "destaque_score": 0.469,
     "layout_tier": "grade"
   },
   {
@@ -266,7 +868,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.63,
+    "destaque_score": 0.623,
     "layout_tier": "grade"
   },
   {
@@ -289,7 +891,7 @@
     "category_mapping_confidence": 0.6675,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.545,
+    "destaque_score": 0.539,
     "layout_tier": "grade"
   },
   {
@@ -312,7 +914,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.627,
+    "destaque_score": 0.621,
     "layout_tier": "grade"
   },
   {
@@ -335,7 +937,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.626,
+    "destaque_score": 0.62,
     "layout_tier": "grade"
   },
   {
@@ -358,7 +960,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.626,
+    "destaque_score": 0.619,
     "layout_tier": "grade"
   },
   {
@@ -381,7 +983,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.625,
+    "destaque_score": 0.619,
     "layout_tier": "grade"
   },
   {
@@ -404,7 +1006,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.625,
+    "destaque_score": 0.618,
     "layout_tier": "grade"
   },
   {
@@ -427,7 +1029,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.624,
+    "destaque_score": 0.617,
     "layout_tier": "grade"
   },
   {
@@ -450,7 +1052,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.623,
+    "destaque_score": 0.616,
     "layout_tier": "grade"
   },
   {
@@ -473,7 +1075,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.622,
+    "destaque_score": 0.615,
     "layout_tier": "grade"
   },
   {
@@ -496,7 +1098,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.621,
+    "destaque_score": 0.615,
     "layout_tier": "grade"
   },
   {
@@ -542,7 +1144,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.82,
+    "destaque_score": 0.814,
     "layout_tier": "manchete"
   },
   {
@@ -565,7 +1167,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.619,
+    "destaque_score": 0.613,
     "layout_tier": "grade"
   },
   {
@@ -588,7 +1190,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.819,
+    "destaque_score": 0.813,
     "layout_tier": "manchete"
   },
   {
@@ -611,7 +1213,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.618,
+    "destaque_score": 0.612,
     "layout_tier": "grade"
   },
   {
@@ -634,7 +1236,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.817,
+    "destaque_score": 0.811,
     "layout_tier": "manchete"
   },
   {
@@ -657,7 +1259,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.816,
+    "destaque_score": 0.811,
     "layout_tier": "manchete"
   },
   {
@@ -680,7 +1282,7 @@
     "category_mapping_confidence": 0.3525,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.454,
+    "destaque_score": 0.448,
     "layout_tier": "grade"
   },
   {
@@ -703,7 +1305,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.615,
+    "destaque_score": 0.609,
     "layout_tier": "grade"
   },
   {
@@ -730,7 +1332,7 @@
     "category_mapping_confidence": 0.795,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.683,
+    "destaque_score": 0.677,
     "layout_tier": "grade"
   },
   {
@@ -753,7 +1355,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.814,
+    "destaque_score": 0.808,
     "layout_tier": "manchete"
   },
   {
@@ -776,7 +1378,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.614,
+    "destaque_score": 0.608,
     "layout_tier": "grade"
   },
   {
@@ -822,7 +1424,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.613,
+    "destaque_score": 0.608,
     "layout_tier": "grade"
   },
   {
@@ -868,7 +1470,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.812,
+    "destaque_score": 0.807,
     "layout_tier": "manchete"
   },
   {
@@ -891,7 +1493,7 @@
     "category_mapping_confidence": 0.4538,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.475,
+    "destaque_score": 0.47,
     "layout_tier": "grade"
   },
   {
@@ -914,7 +1516,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.611,
+    "destaque_score": 0.606,
     "layout_tier": "grade"
   },
   {
@@ -937,7 +1539,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.61,
+    "destaque_score": 0.605,
     "layout_tier": "grade"
   },
   {
@@ -960,7 +1562,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.61,
+    "destaque_score": 0.605,
     "layout_tier": "grade"
   },
   {
@@ -983,7 +1585,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.597,
+    "destaque_score": 0.593,
     "layout_tier": "grade"
   },
   {
@@ -1037,7 +1639,7 @@
     "category_mapping_confidence": 0.7897,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.647,
+    "destaque_score": 0.645,
     "layout_tier": "grade"
   },
   {
@@ -1060,7 +1662,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.771,
+    "destaque_score": 0.769,
     "layout_tier": "manchete"
   },
   {
@@ -1083,7 +1685,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.562,
+    "destaque_score": 0.561,
     "layout_tier": "grade"
   },
   {
@@ -1106,7 +1708,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.762,
+    "destaque_score": 0.761,
     "layout_tier": "manchete"
   },
   {
@@ -1178,7 +1780,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -1270,7 +1872,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -1293,7 +1895,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -1316,7 +1918,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -1365,7 +1967,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -1388,7 +1990,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -1411,7 +2013,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -1434,7 +2036,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -1766,7 +2368,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -1789,7 +2391,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -1858,7 +2460,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -1881,7 +2483,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -1904,7 +2506,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -1927,7 +2529,7 @@
     "category_mapping_confidence": 0.5606,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.443,
+    "destaque_score": 0.442,
     "layout_tier": "grade"
   },
   {
@@ -2475,7 +3077,7 @@
     "category_mapping_confidence": 0.2867,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.374,
+    "destaque_score": 0.373,
     "layout_tier": "condensado"
   },
   {
@@ -3941,7 +4543,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3964,7 +4566,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -3987,7 +4589,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -4010,7 +4612,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -4056,7 +4658,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -4079,7 +4681,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -4102,7 +4704,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -4125,7 +4727,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -4244,7 +4846,7 @@
     "category_mapping_confidence": 0.3881,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.398,
+    "destaque_score": 0.397,
     "layout_tier": "condensado"
   },
   {
