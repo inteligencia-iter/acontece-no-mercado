@@ -1,5 +1,49 @@
 [
   {
+    "source_id": "valor_economico",
+    "guid": "CBMisAFBVV95cUxQc28xejNkdnJyTzRGd09QQkJKNy01eG5Nc0F1SWRaZDhCRUVTcUlEZnlub1JwMTBOSDBMdjh5UlVyMTFjRWlxc0NBZlhVN0NmN0VxQ0RJWWZ6NG9oQVRDVU4xaUVuZ3RjSmI1QXNGT0dPb0ZBLWdEVGpoU290b3ZLekoxc3E1WnhyQ0M5UXdyR3c1a1Y4cE4yeDVxY3hqTG1PcWVPb3hzSl96S3lNeVI5cNIBvwFBVV95cUxQdlA1N21sWjZGdkRBTXM3N25FbTFxUUxSaldLTXZDZy1EVDBsbGlJN18yNjZOcEhrQlFJWXctaUdRRUhJdU1OVHlXVnljZFVHYWltWmpGazl6eTdGMzVmRTBiS3g3eFJrMVk0bEtObE9lTUVXc1VWVS1QS2xyc3hkcG5yTTdfNlpWZ0dES2lFalJqakR2dHItXzItTXNLY0tuS19QWWJ3aXk1aG01SnkzTW1TQXkyc0JGNERBS3h6Zw",
+    "title": "Viagens familiares são tendência no turismo",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc28xejNkdnJyTzRGd09QQkJKNy01eG5Nc0F1SWRaZDhCRUVTcUlEZnlub1JwMTBOSDBMdjh5UlVyMTFjRWlxc0NBZlhVN0NmN0VxQ0RJWWZ6NG9oQVRDVU4xaUVuZ3RjSmI1QXNGT0dPb0ZBLWdEVGpoU290b3ZLekoxc3E1WnhyQ0M5UXdyR3c1a1Y4cE4yeDVxY3hqTG1PcWVPb3hzSl96S3lNeVI5cNIBvwFBVV95cUxQdlA1N21sWjZGdkRBTXM3N25FbTFxUUxSaldLTXZDZy1EVDBsbGlJN18yNjZOcEhrQlFJWXctaUdRRUhJdU1OVHlXVnljZFVHYWltWmpGazl6eTdGMzVmRTBiS3g3eFJrMVk0bEtObE9lTUVXc1VWVS1QS2xyc3hkcG5yTTdfNlpWZ0dES2lFalJqakR2dHItXzItTXNLY0tuS19QWWJ3aXk1aG01SnkzTW1TQXkyc0JGNERBS3h6Zw?oc=5",
+    "description": "Viagens familiares são tendência no turismo Valor Econômico",
+    "image_url": null,
+    "author": "",
+    "pub_date": "2026-10-01T19:33:39+00:00",
+    "source_category_raw": null,
+    "all_categories": [],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.2683,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.382,
+    "layout_tier": "condensado"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/10/united-parks-resorts-e-experience-kissimmee-lancam-campanha-de-incentivo-para-agentes_232503.html",
+    "title": "United Parks & Resorts e Experience Kissimmee lançam campanha de incentivo para agentes",
+    "link": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/10/united-parks-resorts-e-experience-kissimmee-lancam-campanha-de-incentivo-para-agentes_232503.html",
+    "description": "Iniciativa recompensa os profissionais de maior desempenho em vendas com vaga em famtour exclusivo",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/10/01/e6b439ababba541494c66b4bed30228e-rem2984.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-10-01T19:31:00+00:00",
+    "source_category_raw": "Destinos - Parques temáticos",
+    "all_categories": [
+      "Destinos - Parques temáticos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": "Parques temáticos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.685,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/hotelaria/mercado/2026/10/atlantica-preve-a-abertura-de-dez-novos-hoteis-no-brasil-em-2027_232505.html",
     "title": "Atlantica prevê a abertura de dez novos hotéis no Brasil em 2027",
@@ -19,7 +63,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.697,
+    "destaque_score": 0.679,
     "layout_tier": "grade"
   },
   {
@@ -42,7 +86,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.695,
+    "destaque_score": 0.678,
     "layout_tier": "grade"
   },
   {
@@ -70,7 +114,7 @@
     "category_mapping_confidence": 0.806,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.761,
+    "destaque_score": 0.744,
     "layout_tier": "manchete"
   },
   {
@@ -93,7 +137,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.679,
+    "destaque_score": 0.664,
     "layout_tier": "grade"
   },
   {
@@ -116,7 +160,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.677,
+    "destaque_score": 0.662,
     "layout_tier": "grade"
   },
   {
@@ -139,7 +183,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.676,
+    "destaque_score": 0.662,
     "layout_tier": "grade"
   },
   {
@@ -162,7 +206,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.675,
+    "destaque_score": 0.66,
     "layout_tier": "grade"
   },
   {
@@ -183,7 +227,7 @@
     "category_mapping_confidence": 0.3472,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.591,
+    "destaque_score": 0.576,
     "layout_tier": "grade"
   },
   {
@@ -206,8 +250,31 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.873,
+    "destaque_score": 0.859,
     "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/10/disney-celebra-um-natal-inesquecivel-divulga-detalhes-da-programacao-confira_232430.html",
+    "title": "Disney Celebra – Um Natal Inesquecível divulga detalhes da programação; confira",
+    "link": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/10/disney-celebra-um-natal-inesquecivel-divulga-detalhes-da-programacao-confira_232430.html",
+    "description": "Área ocupada pelo projeto no Parque Barigui passa de 78 mil para 88 mil metros quadrados em Curitiba",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/30/b20fbcbe2ed4514eec29fae28e81c16f-image003.png",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-10-01T11:36:00+00:00",
+    "source_category_raw": "Destinos - Parques temáticos",
+    "all_categories": [
+      "Destinos - Parques temáticos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": "Parques temáticos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.657,
+    "layout_tier": "grade"
   },
   {
     "source_id": "panrotas",
@@ -229,7 +296,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.67,
+    "destaque_score": 0.656,
     "layout_tier": "grade"
   },
   {
@@ -250,7 +317,7 @@
     "category_mapping_confidence": 0.4379,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.603,
+    "destaque_score": 0.59,
     "layout_tier": "grade"
   },
   {
@@ -294,7 +361,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.645,
+    "destaque_score": 0.634,
     "layout_tier": "grade"
   },
   {
@@ -317,7 +384,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.645,
+    "destaque_score": 0.634,
     "layout_tier": "grade"
   },
   {
@@ -340,7 +407,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.64,
+    "destaque_score": 0.63,
     "layout_tier": "grade"
   }
 ]
