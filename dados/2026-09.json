@@ -297,27 +297,6 @@
     "layout_tier": "condensado"
   },
   {
-    "source_id": "valor_economico",
-    "guid": "CBMi5AFBVV95cUxQUjFqRHRDa2xZb1g3d1pwM2NwY1pVM3NMWWpCd2VyZVBqM3Juc0ZUWjJpMjFfY3FyekE0LW00anpTWFpKUXZtbkFLZXEyMmNjczIyVEc5N1ZiWnRXc0JCUTZGMHVzWC0xamRFLWxHZ241NjFYOFVmcGJCS0tVT2p1SFZMWDFUQ3FpaUtmSnVLeDMtYU5ZV0RaRnF1WmhzOUtld0tTdUdVZFFIUnliRU9GTk8tblE3V2szSmpDenk5bS1KTmh5YjFFZzVFWFU1RXFJLTVzU1RDZlJTR3BQZkxuTWxNS0bSAfMBQVVfeXFMUDhZVFY2MzlOMTVFSlFkZENvUnV5NDFnVW04dWJ1RWFRZUxHVldrampCSUZSbkNoRW1VNWVqa2dSZnJRdnhhVHdVd0k2dlhOSGJieHVIbmFYa3hOMTBuWUlRNkNOQjV0QmhkdDFac3h0Ml8zZTZlMUFnN0JleGVKWWhDdmdzdjRWcW55STZLS184S29TcXE0dVV5S2ZLeFpwdjNCSzkzT3RHdHFkNVpDdWVUQlNCNHF3XzFRdjh5MU1TdkZVLWZ5cHhMUjlDcXlXSWFZMGpjOXZYZlJ2c0V5N2x2UngxdVZObWhlcThxNWJCNkVV",
-    "title": "Turismo esportivo em Orlando: como os horários dos jogos impactam sua viagem",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUjFqRHRDa2xZb1g3d1pwM2NwY1pVM3NMWWpCd2VyZVBqM3Juc0ZUWjJpMjFfY3FyekE0LW00anpTWFpKUXZtbkFLZXEyMmNjczIyVEc5N1ZiWnRXc0JCUTZGMHVzWC0xamRFLWxHZ241NjFYOFVmcGJCS0tVT2p1SFZMWDFUQ3FpaUtmSnVLeDMtYU5ZV0RaRnF1WmhzOUtld0tTdUdVZFFIUnliRU9GTk8tblE3V2szSmpDenk5bS1KTmh5YjFFZzVFWFU1RXFJLTVzU1RDZlJTR3BQZkxuTWxNS0bSAfMBQVVfeXFMUDhZVFY2MzlOMTVFSlFkZENvUnV5NDFnVW04dWJ1RWFRZUxHVldrampCSUZSbkNoRW1VNWVqa2dSZnJRdnhhVHdVd0k2dlhOSGJieHVIbmFYa3hOMTBuWUlRNkNOQjV0QmhkdDFac3h0Ml8zZTZlMUFnN0JleGVKWWhDdmdzdjRWcW55STZLS184S29TcXE0dVV5S2ZLeFpwdjNCSzkzT3RHdHFkNVpDdWVUQlNCNHF3XzFRdjh5MU1TdkZVLWZ5cHhMUjlDcXlXSWFZMGpjOXZYZlJ2c0V5N2x2UngxdVZObWhlcThxNWJCNkVV?oc=5",
-    "description": "Turismo esportivo em Orlando: como os horários dos jogos impactam sua viagem Valor Econômico",
-    "image_url": null,
-    "author": "",
-    "pub_date": "2026-09-30T20:52:35+00:00",
-    "source_category_raw": null,
-    "all_categories": [],
-    "in_scope": true,
-    "canonical_category_l1": "Distribuição e Trade",
-    "canonical_category_l2": null,
-    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
-    "category_mapping_confidence": 0.4219,
-    "content_domain": "turismo_direto",
-    "content_domain_confidence": 0.9,
-    "destaque_score": 0.286,
-    "layout_tier": "condensado"
-  },
-  {
     "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/mercado/operadoras/2026/09/surland-anuncia-equipe-dedicada-no-brasil-e-novos-roteiros-pela-europa_232462.html",
     "title": "Surland anuncia equipe dedicada no Brasil e novos roteiros pela Europa",
@@ -853,6 +832,27 @@
     "layout_tier": "grade"
   },
   {
+    "source_id": "valor_economico",
+    "guid": "CBMi5AFBVV95cUxQUjFqRHRDa2xZb1g3d1pwM2NwY1pVM3NMWWpCd2VyZVBqM3Juc0ZUWjJpMjFfY3FyekE0LW00anpTWFpKUXZtbkFLZXEyMmNjczIyVEc5N1ZiWnRXc0JCUTZGMHVzWC0xamRFLWxHZ241NjFYOFVmcGJCS0tVT2p1SFZMWDFUQ3FpaUtmSnVLeDMtYU5ZV0RaRnF1WmhzOUtld0tTdUdVZFFIUnliRU9GTk8tblE3V2szSmpDenk5bS1KTmh5YjFFZzVFWFU1RXFJLTVzU1RDZlJTR3BQZkxuTWxNS0bSAfMBQVVfeXFMUDhZVFY2MzlOMTVFSlFkZENvUnV5NDFnVW04dWJ1RWFRZUxHVldrampCSUZSbkNoRW1VNWVqa2dSZnJRdnhhVHdVd0k2dlhOSGJieHVIbmFYa3hOMTBuWUlRNkNOQjV0QmhkdDFac3h0Ml8zZTZlMUFnN0JleGVKWWhDdmdzdjRWcW55STZLS184S29TcXE0dVV5S2ZLeFpwdjNCSzkzT3RHdHFkNVpDdWVUQlNCNHF3XzFRdjh5MU1TdkZVLWZ5cHhMUjlDcXlXSWFZMGpjOXZYZlJ2c0V5N2x2UngxdVZObWhlcThxNWJCNkVV",
+    "title": "Turismo esportivo em Orlando: como os horários dos jogos impactam sua viagem",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUjFqRHRDa2xZb1g3d1pwM2NwY1pVM3NMWWpCd2VyZVBqM3Juc0ZUWjJpMjFfY3FyekE0LW00anpTWFpKUXZtbkFLZXEyMmNjczIyVEc5N1ZiWnRXc0JCUTZGMHVzWC0xamRFLWxHZ241NjFYOFVmcGJCS0tVT2p1SFZMWDFUQ3FpaUtmSnVLeDMtYU5ZV0RaRnF1WmhzOUtld0tTdUdVZFFIUnliRU9GTk8tblE3V2szSmpDenk5bS1KTmh5YjFFZzVFWFU1RXFJLTVzU1RDZlJTR3BQZkxuTWxNS0bSAfMBQVVfeXFMUDhZVFY2MzlOMTVFSlFkZENvUnV5NDFnVW04dWJ1RWFRZUxHVldrampCSUZSbkNoRW1VNWVqa2dSZnJRdnhhVHdVd0k2dlhOSGJieHVIbmFYa3hOMTBuWUlRNkNOQjV0QmhkdDFac3h0Ml8zZTZlMUFnN0JleGVKWWhDdmdzdjRWcW55STZLS184S29TcXE0dVV5S2ZLeFpwdjNCSzkzT3RHdHFkNVpDdWVUQlNCNHF3XzFRdjh5MU1TdkZVLWZ5cHhMUjlDcXlXSWFZMGpjOXZYZlJ2c0V5N2x2UngxdVZObWhlcThxNWJCNkVV?oc=5",
+    "description": "Turismo esportivo em Orlando: como os horários dos jogos impactam sua viagem Valor Econômico",
+    "image_url": null,
+    "author": "",
+    "pub_date": "2026-09-30T07:00:00+00:00",
+    "source_category_raw": null,
+    "all_categories": [],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4219,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.286,
+    "layout_tier": "condensado"
+  },
+  {
     "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/09/tap-60-anos-de-brasil-confira-fatos-opinioes-e-fotos-em-uma-grande-festa-em-sao-paulo_232422.html",
     "title": "TAP 60 anos de Brasil: confira fatos, opiniões e fotos em uma grande festa em São Paulo",
@@ -872,7 +872,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
