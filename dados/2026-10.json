@@ -17,7 +17,53 @@
     "category_mapping_confidence": 0.8682,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.545,
+    "destaque_score": 0.528,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/pesquisas-e-estatisticas/2026/10/japao-supera-eua-e-chega-ao-topo-do-ranking-mundial-de-turismo-brasil-perde-posicoes_232790.html",
+    "title": "Japão supera EUA e chega ao topo do ranking mundial de Turismo; Brasil perde posições",
+    "link": "https://www.panrotas.com.br/mercado/pesquisas-e-estatisticas/2026/10/japao-supera-eua-e-chega-ao-topo-do-ranking-mundial-de-turismo-brasil-perde-posicoes_232790.html",
+    "description": "Índice é divulgado a cada dois anos e retrata crescimento da grande maioria das economias analisadas",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/09/15/6f3f3f41da7eb881baa8db32219aba78-danorakihabara8143130.jpg",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-10-13T14:59:00+00:00",
+    "source_category_raw": "Mercado - Pesquisas e Estatísticas",
+    "all_categories": [
+      "Mercado - Pesquisas e Estatísticas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": "Pesquisas e Estatísticas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.868,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/destinos/2026/10/argentina-lancara-programa-que-concede-cidadania-em-troca-de-investimentos_232789.html",
+    "title": "Argentina lançará programa que concede cidadania em troca de investimentos",
+    "link": "https://www.panrotas.com.br/mercado/destinos/2026/10/argentina-lancara-programa-que-concede-cidadania-em-troca-de-investimentos_232789.html",
+    "description": "Programa permitirá incluir familiares no pedido de cidadania, mediante contribuições adicionais",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/03/26/8d456236c8fd40859e526ff70f387b45-buenosaires24378581280.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-10-13T14:32:00+00:00",
+    "source_category_raw": "Mercado - Destinos",
+    "all_categories": [
+      "Mercado - Destinos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Destinos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.667,
     "layout_tier": "grade"
   },
   {
@@ -43,8 +89,31 @@
     "category_mapping_confidence": 0.7954,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.75,
+    "destaque_score": 0.735,
     "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/destinos/2026/10/panama-assegura-normalidade-de-aeroporto-e-atividades-turisticas_232792.html",
+    "title": "Panamá assegura normalidade de aeroporto e atividades turísticas",
+    "link": "https://www.panrotas.com.br/mercado/destinos/2026/10/panama-assegura-normalidade-de-aeroporto-e-atividades-turisticas_232792.html",
+    "description": "Não foram registradas vítimas fatais em nenhuma região do território nacional",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2017/01/12/d9d4d2478d3567a26873588a5d08027c-dreamstimem38385006.jpg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-10-13T14:05:00+00:00",
+    "source_category_raw": "Mercado - Destinos",
+    "all_categories": [
+      "Mercado - Destinos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Destinos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.665,
+    "layout_tier": "grade"
   },
   {
     "source_id": "valor_economico",
@@ -64,7 +133,30 @@
     "category_mapping_confidence": 0.483,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.428,
+    "destaque_score": 0.414,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/10/six-flags-fecha-nove-atracoes-nos-eua-apos-morte-em-montanha-russa_232788.html",
+    "title": "Six Flags fecha nove atrações nos EUA após morte em montanha-russa",
+    "link": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/10/six-flags-fecha-nove-atracoes-nos-eua-apos-morte-em-montanha-russa_232788.html",
+    "description": "Visitante morreu em montanha-russa de parque na Geórgia nessa segunda-feira (12)",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/10/13/33447fda925a83294de29734c2c08140-55f818576f9604a07569691ac6171c13ebc98d8c2880x1600.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-10-13T13:38:00+00:00",
+    "source_category_raw": "Destinos - Parques temáticos",
+    "all_categories": [
+      "Destinos - Parques temáticos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": "Parques temáticos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.664,
     "layout_tier": "grade"
   },
   {
@@ -87,7 +179,30 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.877,
+    "destaque_score": 0.863,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/pesquisas-e-estatisticas/2026/10/turismo-bate-recorde-em-julho-com-faturamento-de-r-255-bilhoes_232787.html",
+    "title": "Turismo bate recorde em julho com faturamento de R$ 25,5 bilhões",
+    "link": "https://www.panrotas.com.br/mercado/pesquisas-e-estatisticas/2026/10/turismo-bate-recorde-em-julho-com-faturamento-de-r-255-bilhoes_232787.html",
+    "description": "Crescimento perde ritmo com desaceleração da economia, com o impacto do crédito caro, avalia FecomercioSP",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/10/13/d613f5438dcb0e3dc297190c57c5fc87-532156296107bb1f0e894b.jpg",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-10-13T13:02:00+00:00",
+    "source_category_raw": "Mercado - Pesquisas e Estatísticas",
+    "all_categories": [
+      "Mercado - Pesquisas e Estatísticas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": "Pesquisas e Estatísticas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.862,
     "layout_tier": "manchete"
   },
   {
@@ -110,8 +225,31 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.873,
+    "destaque_score": 0.86,
     "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/cartoes-de-assistencia/2026/10/assist-card-ve-brasil-crescer-cerca-de-25-e-reforca-estrategia-de-coberturas-elevadas_232786.html",
+    "title": "Assist Card vê Brasil crescer cerca de 25% e reforça estratégia de coberturas elevadas",
+    "link": "https://www.panrotas.com.br/mercado/cartoes-de-assistencia/2026/10/assist-card-ve-brasil-crescer-cerca-de-25-e-reforca-estrategia-de-coberturas-elevadas_232786.html",
+    "description": "Empresa também começa a atuar na Espanha, Portugal e na Ásia",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/10/12/316ef56bfaa5add79588ffdab6314e1f-assist3.jpeg",
+    "author": "Artur Luiz Andrade",
+    "pub_date": "2026-10-13T12:22:00+00:00",
+    "source_category_raw": "Mercado - Cartões de assistência",
+    "all_categories": [
+      "Mercado - Cartões de assistência"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Cartões de assistência",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.659,
+    "layout_tier": "grade"
   },
   {
     "source_id": "panrotas",
@@ -133,7 +271,30 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.872,
+    "destaque_score": 0.858,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/economia-politica/2026/10/setor-de-eventos-registra-recorde-de-consumo-mas-desacelera-na-geracao-de-empregos_232774.html",
+    "title": "Setor de eventos registra recorde de consumo, mas desacelera na geração de empregos",
+    "link": "https://www.panrotas.com.br/mercado/economia-politica/2026/10/setor-de-eventos-registra-recorde-de-consumo-mas-desacelera-na-geracao-de-empregos_232774.html",
+    "description": "Radar Econômico da Abrape aponta alta no consumo até agosto, enquanto criação de vagas perde ritmo em 2026",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/10/06/6f22204253760b2ffd66203c39f46acb-johnpricerazqizox3muunsplash.jpg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-10-13T11:37:00+00:00",
+    "source_category_raw": "Mercado - Economia e Política",
+    "all_categories": [
+      "Mercado - Economia e Política"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.507,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.734,
     "layout_tier": "manchete"
   },
   {
@@ -159,7 +320,7 @@
     "category_mapping_confidence": 0.639,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.596,
+    "destaque_score": 0.594,
     "layout_tier": "grade"
   },
   {
@@ -182,7 +343,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.566,
+    "destaque_score": 0.564,
     "layout_tier": "grade"
   },
   {
@@ -228,7 +389,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.56,
+    "destaque_score": 0.559,
     "layout_tier": "grade"
   },
   {
@@ -251,7 +412,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -274,7 +435,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.559,
+    "destaque_score": 0.558,
     "layout_tier": "grade"
   },
   {
@@ -295,7 +456,7 @@
     "category_mapping_confidence": 0.3807,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.285,
+    "destaque_score": 0.283,
     "layout_tier": "condensado"
   },
   {
@@ -347,7 +508,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -370,7 +531,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -393,7 +554,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -416,7 +577,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -439,7 +600,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.759,
+    "destaque_score": 0.758,
     "layout_tier": "manchete"
   },
   {
@@ -460,7 +621,7 @@
     "category_mapping_confidence": 0.3218,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.269,
+    "destaque_score": 0.268,
     "layout_tier": "condensado"
   },
   {
@@ -512,7 +673,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.558,
+    "destaque_score": 0.557,
     "layout_tier": "grade"
   },
   {
@@ -535,7 +696,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.758,
+    "destaque_score": 0.757,
     "layout_tier": "manchete"
   },
   {
@@ -558,7 +719,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.558,
+    "destaque_score": 0.557,
     "layout_tier": "grade"
   },
   {
@@ -581,7 +742,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.758,
+    "destaque_score": 0.757,
     "layout_tier": "manchete"
   },
   {
@@ -604,7 +765,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.758,
+    "destaque_score": 0.757,
     "layout_tier": "manchete"
   },
   {
@@ -627,7 +788,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.558,
+    "destaque_score": 0.557,
     "layout_tier": "grade"
   },
   {
@@ -650,7 +811,7 @@
     "category_mapping_confidence": 0.6146,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.461,
+    "destaque_score": 0.46,
     "layout_tier": "grade"
   },
   {
@@ -765,7 +926,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -788,7 +949,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -811,7 +972,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -834,7 +995,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -857,7 +1018,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -1110,7 +1271,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -1133,7 +1294,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -1156,7 +1317,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.754,
+    "destaque_score": 0.753,
     "layout_tier": "manchete"
   },
   {
@@ -1179,7 +1340,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -1202,7 +1363,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -1225,7 +1386,7 @@
     "category_mapping_confidence": 0.3152,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.383,
+    "destaque_score": 0.382,
     "layout_tier": "condensado"
   },
   {
@@ -1271,7 +1432,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -1294,7 +1455,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -1317,7 +1478,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -1368,7 +1529,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -1391,7 +1552,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -3160,7 +3321,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3183,7 +3344,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3206,7 +3367,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3229,7 +3390,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3252,7 +3413,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3275,7 +3436,7 @@
     "category_mapping_confidence": 0.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.301,
+    "destaque_score": 0.3,
     "layout_tier": "condensado"
   },
   {
@@ -3298,7 +3459,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3321,7 +3482,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3344,7 +3505,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3367,7 +3528,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3390,7 +3551,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3413,7 +3574,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3436,7 +3597,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3459,7 +3620,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3482,7 +3643,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -3505,7 +3666,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3553,27 +3714,6 @@
     "content_domain_confidence": 0.9,
     "destaque_score": 0.55,
     "layout_tier": "grade"
-  },
-  {
-    "source_id": "valor_economico",
-    "guid": "CBMiwwFBVV95cUxOMUR4ZGUzakM0dkt3TXljdTJlRERsd1dTbjRuRG1BRzFhZG5lZTNOSUl1REQ5V2ZBcG9SSG1JZndGVW1Sai1EbkxQRGVuQ2g0eXRHMWtWYU1jVHE4TFo4VjMtSnlGc0hfbFMwUUU3SDIyTlZVRzhxNmtxSHRuYW1GaGoxRkhoZXhuSTJNUk9NMlQ5VTZ6Y1k4X29MZXhhSXZEQ3hlcFhKWmtiV2lHdlJTdnJ3dnk1M3dxVXllcHJXZjYyWmPSAdIBQVVfeXFMTjNXbXpNV0s4SktzSzJReHRKMmRQM01sTUtmdklVLUFmRU5aakx3ZGRPRXNVOTFWMFE5Rjc1RXdlZGZMSmNqclRxQ0l1MFZuOF9WTklGNnlLUjFsZVVJaVJLWlR0QVBySlc1VWZPOVJLY1NBUVFoRUhTM0pkLVBYNUxNMmNUSG82OXYxYkhxakdQLXlhZEtJMUxoSDczcGgxV1UzdmdySFdHT1FoZm4xVWNZVW9MQi1kZWZvZDRveVNNeHh6Um9ZTWYyLVNQOHZYQVpR",
-    "title": "Dr. Alexandre Dantas põe Natal na rota do turismo wellness",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMUR4ZGUzakM0dkt3TXljdTJlRERsd1dTbjRuRG1BRzFhZG5lZTNOSUl1REQ5V2ZBcG9SSG1JZndGVW1Sai1EbkxQRGVuQ2g0eXRHMWtWYU1jVHE4TFo4VjMtSnlGc0hfbFMwUUU3SDIyTlZVRzhxNmtxSHRuYW1GaGoxRkhoZXhuSTJNUk9NMlQ5VTZ6Y1k4X29MZXhhSXZEQ3hlcFhKWmtiV2lHdlJTdnJ3dnk1M3dxVXllcHJXZjYyWmPSAdIBQVVfeXFMTjNXbXpNV0s4SktzSzJReHRKMmRQM01sTUtmdklVLUFmRU5aakx3ZGRPRXNVOTFWMFE5Rjc1RXdlZGZMSmNqclRxQ0l1MFZuOF9WTklGNnlLUjFsZVVJaVJLWlR0QVBySlc1VWZPOVJLY1NBUVFoRUhTM0pkLVBYNUxNMmNUSG82OXYxYkhxakdQLXlhZEtJMUxoSDczcGgxV1UzdmdySFdHT1FoZm4xVWNZVW9MQi1kZWZvZDRveVNNeHh6Um9ZTWYyLVNQOHZYQVpR?oc=5",
-    "description": "Dr. Alexandre Dantas põe Natal na rota do turismo wellness Valor Econômico",
-    "image_url": null,
-    "author": "",
-    "pub_date": "2026-10-05T13:06:38+00:00",
-    "source_category_raw": null,
-    "all_categories": [],
-    "in_scope": true,
-    "canonical_category_l1": "Destinos",
-    "canonical_category_l2": null,
-    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
-    "category_mapping_confidence": 0.3196,
-    "content_domain": "turismo_direto",
-    "content_domain_confidence": 0.9,
-    "destaque_score": 0.26,
-    "layout_tier": "condensado"
   },
   {
     "source_id": "valor_economico",
@@ -3781,6 +3921,27 @@
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
     "destaque_score": 0.357,
+    "layout_tier": "condensado"
+  },
+  {
+    "source_id": "valor_economico",
+    "guid": "CBMiwwFBVV95cUxOMUR4ZGUzakM0dkt3TXljdTJlRERsd1dTbjRuRG1BRzFhZG5lZTNOSUl1REQ5V2ZBcG9SSG1JZndGVW1Sai1EbkxQRGVuQ2g0eXRHMWtWYU1jVHE4TFo4VjMtSnlGc0hfbFMwUUU3SDIyTlZVRzhxNmtxSHRuYW1GaGoxRkhoZXhuSTJNUk9NMlQ5VTZ6Y1k4X29MZXhhSXZEQ3hlcFhKWmtiV2lHdlJTdnJ3dnk1M3dxVXllcHJXZjYyWmPSAdIBQVVfeXFMTjNXbXpNV0s4SktzSzJReHRKMmRQM01sTUtmdklVLUFmRU5aakx3ZGRPRXNVOTFWMFE5Rjc1RXdlZGZMSmNqclRxQ0l1MFZuOF9WTklGNnlLUjFsZVVJaVJLWlR0QVBySlc1VWZPOVJLY1NBUVFoRUhTM0pkLVBYNUxNMmNUSG82OXYxYkhxakdQLXlhZEtJMUxoSDczcGgxV1UzdmdySFdHT1FoZm4xVWNZVW9MQi1kZWZvZDRveVNNeHh6Um9ZTWYyLVNQOHZYQVpR",
+    "title": "Dr. Alexandre Dantas põe Natal na rota do turismo wellness",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMUR4ZGUzakM0dkt3TXljdTJlRERsd1dTbjRuRG1BRzFhZG5lZTNOSUl1REQ5V2ZBcG9SSG1JZndGVW1Sai1EbkxQRGVuQ2g0eXRHMWtWYU1jVHE4TFo4VjMtSnlGc0hfbFMwUUU3SDIyTlZVRzhxNmtxSHRuYW1GaGoxRkhoZXhuSTJNUk9NMlQ5VTZ6Y1k4X29MZXhhSXZEQ3hlcFhKWmtiV2lHdlJTdnJ3dnk1M3dxVXllcHJXZjYyWmPSAdIBQVVfeXFMTjNXbXpNV0s4SktzSzJReHRKMmRQM01sTUtmdklVLUFmRU5aakx3ZGRPRXNVOTFWMFE5Rjc1RXdlZGZMSmNqclRxQ0l1MFZuOF9WTklGNnlLUjFsZVVJaVJLWlR0QVBySlc1VWZPOVJLY1NBUVFoRUhTM0pkLVBYNUxNMmNUSG82OXYxYkhxakdQLXlhZEtJMUxoSDczcGgxV1UzdmdySFdHT1FoZm4xVWNZVW9MQi1kZWZvZDRveVNNeHh6Um9ZTWYyLVNQOHZYQVpR?oc=5",
+    "description": "Dr. Alexandre Dantas põe Natal na rota do turismo wellness Valor Econômico",
+    "image_url": null,
+    "author": "",
+    "pub_date": "2026-10-05T07:00:00+00:00",
+    "source_category_raw": null,
+    "all_categories": [],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3196,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.26,
     "layout_tier": "condensado"
   },
   {
