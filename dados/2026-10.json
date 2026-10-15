@@ -1,5 +1,78 @@
 [
   {
+    "source_id": "agenciabrasil",
+    "guid": "1705423 at https://agenciabrasil.ebc.com.br",
+    "title": "Vendas no comércio varejista têm variação de 0,1% em agosto",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/vendas-no-comercio-varejista-tem-variacao-de-01-em-agosto",
+    "description": "O volume de vendas no comércio varejista registrou variação de 0,1% em agosto deste ano frente a julho, na série com ajuste sazonal, após queda de 0,8% no mês anterior. Com esse resultado, a média móvel trimestral para o varejo, depois de recuar 0,1% no trimestre encerrado em julho, volta a apresentar -0,1% de variação no trimestre encerrado em agosto. Os dados estão na Pesquisa Mensal do Comércio, do Instituto Brasileiro de Geografia e Estatística (IBGE), divulgados nesta quinta-feira (15). Notícias relacionadas: Comércio eletrônico em compras federais é regulamentado. Vendas no comércio caem 0,8% em julho, com “ressaca” da Copa do Mundo. No ano, o varejo acumula alta de 1,7% e, nos últimos 12 meses, de 1,6%. Segundo o IBGE, no comércio varejista ampliado, que inclui as atividades de Veículos, motos, partes e peças; Material de construção e Atacado especializado em produtos alimentícios, bebidas e fumo, o volume de vendas em agosto variou -0,2% frente ao mês imediatamente anterior, após alta de 0,5% em julho de 2026. Com isso, a média móvel trimestral para o varejo ampliado volta a recuar 0,3% no trimestre terminado em agosto, mesmo valor da variação de junho. O volume de vendas do comércio varejista, na passagem de julho para agosto, na série com ajuste sazonal, em termos setoriais, registrou seis taxas positivas e duas negativas. No lado positivo, foram as atividades de Equipamentos e material para escritório, informática e comunicação (6,3%), Outros artigos de uso pessoal e doméstico (1,4%), Combustíveis e lubrificantes (1,1%), Artigos farmacêuticos, médicos, ortopédicos e de perfumaria (0,7%), Tecidos, vestuário e calçados (0,6%) e Livros, jornais, revistas e papelaria (0,2%). No lado negativo, figuraram Móveis e eletrodomésticos (-4,2%) e Hiper, supermercados, produtos alimentícios, bebidas e fumo (-0,3%).",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Agência Brasil",
+    "pub_date": "2026-10-15T13:09:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "compércio varejista",
+      "Vendas",
+      "IBGE",
+      "Agosto"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.5664,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.711,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/economia-e-politica/2026/10/turismo-deve-movimentar-quase-r-1-trilhao-no-brasil-em-2026-veja-projecoes_232868.html",
+    "title": "Turismo deve movimentar quase R$ 1 trilhão no Brasil em 2026; veja projeções",
+    "link": "https://www.panrotas.com.br/mercado/economia-e-politica/2026/10/turismo-deve-movimentar-quase-r-1-trilhao-no-brasil-em-2026-veja-projecoes_232868.html",
+    "description": "WTTC aponta crescimento de 2,1% na contribuição do setor ao PIB e prevê 8,3 milhões de empregos",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/10/14/549c2ee52eb9fc0d92107767ca45ec36-55580870273e1963bdfa8o.jpg",
+    "author": "Marcos Martins",
+    "pub_date": "2026-10-15T12:34:00+00:00",
+    "source_category_raw": "Mercado - Economia e Política",
+    "all_categories": [
+      "Mercado - Economia e Política"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4993,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.771,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/economia-e-politica/2026/10/reforma-tributaria-prazo-para-aderir-ao-simples-nacional-em-2027-termina-hoje-15_232847.html",
+    "title": "Reforma Tributária: prazo para aderir ao Simples Nacional em 2027 termina hoje (15)",
+    "link": "https://www.panrotas.com.br/mercado/economia-e-politica/2026/10/reforma-tributaria-prazo-para-aderir-ao-simples-nacional-em-2027-termina-hoje-15_232847.html",
+    "description": "Empresas optantes têm até 30 de outubro para decidir sobre recolhimento de IBS e CBS pelo regime regular",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/08/19/35fe5304b6cce97b6b7bd5ba9e4da160-88787878.jpeg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-10-15T12:30:00+00:00",
+    "source_category_raw": "Mercado - Economia e Política",
+    "all_categories": [
+      "Mercado - Economia e Política"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.2998,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.521,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/mercado/economia-e-politica/2026/10/como-destravar-o-proximo-trilhao-em-investimentos-globais-no-turismo-wttc-summit-debate_232864.html",
     "title": "Como destravar o próximo trilhão em investimentos globais no Turismo? WTTC Summit debate",
@@ -19,7 +92,7 @@
     "category_mapping_confidence": 0.3128,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.691,
+    "destaque_score": 0.673,
     "layout_tier": "grade"
   },
   {
@@ -42,7 +115,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.663,
+    "destaque_score": 0.645,
     "layout_tier": "grade"
   },
   {
@@ -65,7 +138,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.662,
+    "destaque_score": 0.644,
     "layout_tier": "grade"
   },
   {
@@ -88,7 +161,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.661,
+    "destaque_score": 0.644,
     "layout_tier": "grade"
   },
   {
@@ -111,7 +184,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.86,
+    "destaque_score": 0.842,
     "layout_tier": "manchete"
   },
   {
@@ -134,7 +207,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.659,
+    "destaque_score": 0.641,
     "layout_tier": "grade"
   },
   {
@@ -157,7 +230,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.658,
+    "destaque_score": 0.641,
     "layout_tier": "grade"
   },
   {
@@ -180,7 +253,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.658,
+    "destaque_score": 0.641,
     "layout_tier": "grade"
   },
   {
@@ -203,7 +276,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.655,
+    "destaque_score": 0.638,
     "layout_tier": "grade"
   },
   {
@@ -226,7 +299,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.654,
+    "destaque_score": 0.637,
     "layout_tier": "grade"
   },
   {
@@ -249,7 +322,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.653,
+    "destaque_score": 0.637,
     "layout_tier": "grade"
   },
   {
@@ -272,7 +345,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.652,
+    "destaque_score": 0.636,
     "layout_tier": "grade"
   },
   {
@@ -295,7 +368,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.652,
+    "destaque_score": 0.635,
     "layout_tier": "grade"
   },
   {
@@ -318,7 +391,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.65,
+    "destaque_score": 0.634,
     "layout_tier": "grade"
   },
   {
@@ -341,7 +414,7 @@
     "category_mapping_confidence": 0.673,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.447,
+    "destaque_score": 0.431,
     "layout_tier": "grade"
   },
   {
@@ -364,7 +437,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.647,
+    "destaque_score": 0.631,
     "layout_tier": "grade"
   },
   {
@@ -387,7 +460,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.647,
+    "destaque_score": 0.631,
     "layout_tier": "grade"
   },
   {
@@ -410,7 +483,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.646,
+    "destaque_score": 0.631,
     "layout_tier": "grade"
   },
   {
@@ -433,7 +506,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.846,
+    "destaque_score": 0.831,
     "layout_tier": "manchete"
   },
   {
@@ -456,7 +529,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.644,
+    "destaque_score": 0.629,
     "layout_tier": "grade"
   },
   {
@@ -479,7 +552,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.644,
+    "destaque_score": 0.629,
     "layout_tier": "grade"
   },
   {
@@ -502,7 +575,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.843,
+    "destaque_score": 0.828,
     "layout_tier": "manchete"
   },
   {
@@ -525,7 +598,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.642,
+    "destaque_score": 0.627,
     "layout_tier": "grade"
   },
   {
@@ -548,7 +621,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.841,
+    "destaque_score": 0.827,
     "layout_tier": "manchete"
   },
   {
@@ -571,7 +644,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.641,
+    "destaque_score": 0.627,
     "layout_tier": "grade"
   },
   {
@@ -594,7 +667,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.641,
+    "destaque_score": 0.627,
     "layout_tier": "grade"
   },
   {
@@ -617,7 +690,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.641,
+    "destaque_score": 0.627,
     "layout_tier": "grade"
   },
   {
@@ -640,7 +713,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.84,
+    "destaque_score": 0.826,
     "layout_tier": "manchete"
   },
   {
@@ -663,7 +736,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.839,
+    "destaque_score": 0.825,
     "layout_tier": "manchete"
   },
   {
@@ -671,7 +744,7 @@
     "guid": "1705302 at https://agenciabrasil.ebc.com.br",
     "title": "Setor de serviços cai 0,1% de julho para agosto, mostra IBGE",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/setor-de-servicos-cai-01-de-julho-para-agosto-mostra-ibge",
-    "description": "O volume do setor de serviços apresentou variação negativa de 0,1% em agosto deste ano, na comparação com o mês anterior. Em julho, a atividade ficou estável, e, em junho, cresceu 0,1%. Os dados da Pesquisa Mensal de Serviços (PMS) foram divulgados nesta quarta-feira (14) pelo Instituto Brasileiro de Geografia e Estatística (IBGE) . Notícias relacionadas: Setor de serviços fica estável em julho e sobe 2,4% em 12 meses. Os serviços, no entanto, cresceram 0,6% na comparação com agosto do ano passado, 1,7% no acumulado dos oito primeiros meses do ano e 2,2% no acumulado de 12 meses. Com o resultado, o setor está 19,9% acima do nível pré-pandemia (fevereiro de 2020) e 0,3% abaixo do maior patamar da série histórica (outubro de 2025). Em relação à receita nominal, o setor apresentou taxas de crescimento de 0,2% na comparação com julho deste ano, de 6,1% na comparação com agosto do ano passado, de 7,4% no acumulado do ano e de 7,5% no acumulado de 12 meses. Na passagem de julho para agosto deste ano, o volume cresceu apenas no segmento de serviços prestados às famílias (2,1%). Os serviços de informação e comunicação não apresentaram variação de julho para agosto. Os outros três segmentos dos serviços caíram de julho para agosto: outros serviços (-1%); transportes (-0,2%); e profissionais, administrativos e complementares (-0,2%). Turismo O índice de atividades turísticas – agregado calculado de forma separada dos cinco segmentos do setor de serviços – teve alta de 2,5% de julho para agosto, o segundo resultado positivo seguido, período em que acumulou ganhos de 5,5%. Com o resultado, o segmento de turismo está 12,4% acima do patamar de fevereiro de 2020 e 1,1% abaixo do ápice da sua série histórica, alcançado em dezembro de 2024.",
+    "description": "O volume do setor de serviços apresentou variação negativa de 0,1% em agosto deste ano, na comparação com o mês anterior. Em julho, a atividade ficou estável, e, em junho, cresceu 0,1%. Os dados da Pesquisa Mensal de Serviços (PMS) foram divulgados nesta quarta-feira (14) pelo Instituto Brasileiro de Geografia e Estatística (IBGE) . Notícias relacionadas: Setor de serviços fica estável em julho e sobe 2,4% em 12 meses. Os serviços, no entanto, cresceram 0,6% na comparação com agosto do ano passado, 1,7% no acumulado dos oito primeiros meses do ano e 2,2% no acumulado de 12 meses. Com o resultado, o setor está 19,9% acima do nível pré-pandemia (fevereiro de 2020) e 0,3% abaixo do maior patamar da série histórica (outubro de 2025). Em relação à receita nominal, o setor apresentou taxas de crescimento de 0,2% na comparação com julho deste ano, de 6,1% na comparação com agosto do ano passado, de 7,4% no acumulado do ano e de 7,5% no acumulado de 12 meses. Na passagem de julho para agosto deste ano, o volume cresceu apenas no segmento de serviços prestados às famílias (2,1%). Os serviços de informação e comunicação não apresentaram variação de julho para agosto. Os outros três segmentos dos serviços caíram de julho para agosto: outros serviços (-1%); transportes (-0,2%); e profissionais, administrativos e complementares (-0,2%). Turismo O índice de atividades turísticas – agregado calculado de forma separada dos cinco segmentos do setor de serviços – teve alta de 2,5% de julho para agosto, o segundo resultado positivo seguido, período em que acumulou ganhos de 5,5%. Com o resultado, o segmento de turismo está 12,4% acima do patamar de fevereiro de 2020 e 1,1% abaixo do ápice da sua série histórica, alcançado em dezembro de 2024. Confira mais informações sobre a PMS do IBGE no Repórter Brasil , da TV Brasil",
     "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Vitor Abdala - Repórter da Agência Brasil",
     "pub_date": "2026-10-14T13:02:00+00:00",
@@ -680,16 +753,17 @@
       "Economia",
       "IBGE",
       "turismo",
-      "setor de serviços"
+      "Setor de Serviços",
+      "Multimídia"
     ],
     "in_scope": true,
     "canonical_category_l1": "Câmbio e Economia do Turismo",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf",
-    "category_mapping_confidence": 0.6164,
+    "category_mapping_confidence": 0.6287,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.662,
+    "destaque_score": 0.651,
     "layout_tier": "grade"
   },
   {
@@ -712,7 +786,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.638,
+    "destaque_score": 0.624,
     "layout_tier": "grade"
   },
   {
@@ -735,7 +809,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.637,
+    "destaque_score": 0.623,
     "layout_tier": "grade"
   },
   {
@@ -758,7 +832,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.836,
+    "destaque_score": 0.822,
     "layout_tier": "manchete"
   },
   {
@@ -781,7 +855,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.835,
+    "destaque_score": 0.822,
     "layout_tier": "manchete"
   },
   {
@@ -804,7 +878,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.635,
+    "destaque_score": 0.621,
     "layout_tier": "grade"
   },
   {
@@ -827,7 +901,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.635,
+    "destaque_score": 0.621,
     "layout_tier": "grade"
   },
   {
@@ -850,7 +924,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.634,
+    "destaque_score": 0.621,
     "layout_tier": "grade"
   },
   {
@@ -873,7 +947,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.834,
+    "destaque_score": 0.82,
     "layout_tier": "manchete"
   },
   {
@@ -896,7 +970,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.614,
+    "destaque_score": 0.604,
     "layout_tier": "grade"
   },
   {
@@ -919,7 +993,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.61,
+    "destaque_score": 0.6,
     "layout_tier": "grade"
   },
   {
@@ -942,7 +1016,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.809,
+    "destaque_score": 0.8,
     "layout_tier": "manchete"
   },
   {
@@ -965,7 +1039,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.806,
+    "destaque_score": 0.797,
     "layout_tier": "manchete"
   },
   {
@@ -988,7 +1062,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.605,
+    "destaque_score": 0.596,
     "layout_tier": "grade"
   },
   {
@@ -1011,7 +1085,7 @@
     "category_mapping_confidence": 0.5792,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.499,
+    "destaque_score": 0.49,
     "layout_tier": "grade"
   },
   {
@@ -1034,7 +1108,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.603,
+    "destaque_score": 0.595,
     "layout_tier": "grade"
   },
   {
@@ -1057,7 +1131,7 @@
     "category_mapping_confidence": 0.3664,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.445,
+    "destaque_score": 0.436,
     "layout_tier": "grade"
   },
   {
@@ -1080,7 +1154,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.603,
+    "destaque_score": 0.595,
     "layout_tier": "grade"
   },
   {
@@ -1103,7 +1177,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.602,
+    "destaque_score": 0.594,
     "layout_tier": "grade"
   },
   {
@@ -1126,7 +1200,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.602,
+    "destaque_score": 0.594,
     "layout_tier": "grade"
   },
   {
@@ -1170,7 +1244,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.601,
+    "destaque_score": 0.593,
     "layout_tier": "grade"
   },
   {
@@ -1193,7 +1267,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.6,
+    "destaque_score": 0.592,
     "layout_tier": "grade"
   },
   {
@@ -1216,7 +1290,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.6,
+    "destaque_score": 0.592,
     "layout_tier": "grade"
   },
   {
@@ -1239,7 +1313,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.799,
+    "destaque_score": 0.791,
     "layout_tier": "manchete"
   },
   {
@@ -1262,7 +1336,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.599,
+    "destaque_score": 0.591,
     "layout_tier": "grade"
   },
   {
@@ -1285,7 +1359,7 @@
     "category_mapping_confidence": 0.2439,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.409,
+    "destaque_score": 0.401,
     "layout_tier": "grade"
   },
   {
@@ -1308,7 +1382,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.598,
+    "destaque_score": 0.59,
     "layout_tier": "grade"
   },
   {
@@ -1331,7 +1405,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.797,
+    "destaque_score": 0.789,
     "layout_tier": "manchete"
   },
   {
@@ -1354,7 +1428,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.596,
+    "destaque_score": 0.589,
     "layout_tier": "grade"
   },
   {
@@ -1403,7 +1477,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.596,
+    "destaque_score": 0.588,
     "layout_tier": "grade"
   },
   {
@@ -1424,7 +1498,7 @@
     "category_mapping_confidence": 0.483,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.346,
+    "destaque_score": 0.339,
     "layout_tier": "condensado"
   },
   {
@@ -1447,7 +1521,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.595,
+    "destaque_score": 0.588,
     "layout_tier": "grade"
   },
   {
@@ -1470,7 +1544,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.795,
+    "destaque_score": 0.788,
     "layout_tier": "manchete"
   },
   {
@@ -1493,7 +1567,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.794,
+    "destaque_score": 0.787,
     "layout_tier": "manchete"
   },
   {
@@ -1516,7 +1590,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.793,
+    "destaque_score": 0.787,
     "layout_tier": "manchete"
   },
   {
@@ -1539,7 +1613,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.593,
+    "destaque_score": 0.586,
     "layout_tier": "grade"
   },
   {
@@ -1562,7 +1636,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.793,
+    "destaque_score": 0.786,
     "layout_tier": "manchete"
   },
   {
@@ -1585,7 +1659,7 @@
     "category_mapping_confidence": 0.507,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.669,
+    "destaque_score": 0.662,
     "layout_tier": "grade"
   },
   {
@@ -1634,7 +1708,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.556,
+    "destaque_score": 0.555,
     "layout_tier": "grade"
   },
   {
@@ -1964,7 +2038,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -1987,7 +2061,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -2010,7 +2084,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -2033,7 +2107,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -2056,7 +2130,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.753,
+    "destaque_score": 0.752,
     "layout_tier": "manchete"
   },
   {
@@ -2079,7 +2153,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -2125,7 +2199,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -2148,7 +2222,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -2194,7 +2268,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.752,
+    "destaque_score": 0.751,
     "layout_tier": "manchete"
   },
   {
@@ -2217,7 +2291,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -2240,7 +2314,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -2263,7 +2337,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.752,
+    "destaque_score": 0.751,
     "layout_tier": "manchete"
   },
   {
@@ -2286,7 +2360,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.752,
+    "destaque_score": 0.751,
     "layout_tier": "manchete"
   },
   {
@@ -2309,7 +2383,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -2332,7 +2406,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -2355,7 +2429,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -2378,7 +2452,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
