@@ -3834,6 +3834,27 @@
     "layout_tier": "grade"
   },
   {
+    "source_id": "valor_economico",
+    "guid": "CBMi5AFBVV95cUxOSHNDWUpaclhaQjlZbUZ0NjlucmhYcG5OVkU3bnFJWl9LQzlIQW5DYnQ5UGxzelRBUFBHVUhiRGlqbWtGYTIxOWIzb0htSzk5VXRhN0xyd2xkWU10UzNxM1ZNamZvMlBDUDZlLTBHSndaXzBBXzU5UG1yZF9kei0tYTBnYVU0aGdLU21UMl9jZ1o5MTBJTXBQeGFuMkJvOUd2UU5pWnJIN2I2ZHVKeDRoV3FlWGl0amNKYWJaT2lNNWxWRUFIeWJGNmh3RzE4M1FrQm1hYWN0eUhqc0Zkal9fOUdBR2w",
+    "title": "Brasil perde cinco posições em índice global de turismo, mas segue à frente da América Latina | Empresas",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSHNDWUpaclhaQjlZbUZ0NjlucmhYcG5OVkU3bnFJWl9LQzlIQW5DYnQ5UGxzelRBUFBHVUhiRGlqbWtGYTIxOWIzb0htSzk5VXRhN0xyd2xkWU10UzNxM1ZNamZvMlBDUDZlLTBHSndaXzBBXzU5UG1yZF9kei0tYTBnYVU0aGdLU21UMl9jZ1o5MTBJTXBQeGFuMkJvOUd2UU5pWnJIN2I2ZHVKeDRoV3FlWGl0amNKYWJaT2lNNWxWRUFIeWJGNmh3RzE4M1FrQm1hYWN0eUhqc0Zkal9fOUdBR2w?oc=5",
+    "description": "Brasil perde cinco posições em índice global de turismo, mas segue à frente da América Latina | Empresas Valor Econômico",
+    "image_url": null,
+    "author": "",
+    "pub_date": "2026-09-25T07:00:00+00:00",
+    "source_category_raw": null,
+    "all_categories": [],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.322,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.261,
+    "layout_tier": "condensado"
+  },
+  {
     "source_id": "agenciabrasil",
     "guid": "1703290 at https://agenciabrasil.ebc.com.br",
     "title": "Economistas lançam iniciativa por economia focada na vida real",
