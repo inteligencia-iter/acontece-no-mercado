@@ -1,5 +1,101 @@
 [
   {
+    "source_id": "agenciabrasil",
+    "guid": "1707112 at https://agenciabrasil.ebc.com.br",
+    "title": "Ibovespa cai 2,68%, e dólar fecha em leve baixa a R$ 5,34",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/ibovespa-cai-268-e-dolar-fecha-em-leve-baixa-r-534",
+    "description": "O mercado financeiro brasileiro teve mais um dia de forte pressão sobre as ações nesta quarta-feira (28). O Ibovespa caiu 2,68%, aos 171.006,10 pontos, no terceiro pregão consecutivo de perdas, enquanto o dólar encerrou em leve baixa, cotado a R$ 5,34. As incertezas sobre a política fiscal do governo mantiveram os investidores cautelosos, apesar da decisão do Federal Reserve (Fed), o banco central dos Estados Unidos, de manter os juros inalterados. Principais números Ibovespa: 171.006,10 pontos (-2,68%); Bolsa na semana: perda acumulada de 16,6%; Bolsa no mês: recuo de 8,2%; Dólar comercial: R$ 5,34 (-0,19%); Dólar na semana: alta acumulada de 6,95%; Dólar no mês: valorização de 3,19%. Ibovespa renova mínima Notícias relacionadas: CNI reduz previsão de crescimento do PIB para 1,6% em 2026. Consumo de alimentos cresce após proibição das bets no país, diz Abras. TCU aprova cálculo da alíquota de referência da CBS em 11,3%. O Ibovespa fechou no menor nível desde 20 de agosto, quando havia encerrado aos 167.927,15 pontos. Durante o pregão desta quarta-feira, o índice oscilou entre a mínima de 170.162,48 pontos e a máxima de 175.711,22 pontos. As perdas atingiram diferentes setores da bolsa, com destaque para empresas mais sensíveis às condições da economia brasileira, como setor imobiliário e companhias de menor porte. O movimento ocorre após uma sequência de ajustes nas posições dos investidores desde o resultado das eleições presidenciais. Dados da B3 indicaram que os investidores estrangeiros retiraram R$ 2,846 bilhões da bolsa na segunda-feira (26), primeiro pregão após o segundo turno. No cenário internacional, o Fed manteve os juros norte-americanos entre 3,75% e 4% ao ano, conforme esperado pelo mercado. A decisão teve impacto limitado sobre os negócios brasileiros, enquanto o índice S&P 500, das 500 maiores empresas dos Estados Unidos, encerrou o dia em alta de 0,28%. Dólar fecha em baixa O dólar comercial encerrou esta quarta-feira com queda de 0,19%, cotado a R$ 5,34, após uma sessão marcada por oscilações. Por volta das 13h30, a moeda estadunidense chegou a R$ 5,399, mas perdeu força na reta final dos negócios, acompanhando o movimento de enfraquecimento do dólar no exterior após a decisão do Fed. No mercado doméstico, as atenções permaneceram voltadas às incertezas sobre a política fiscal do novo governo e à repercussão do cenário político brasileiro nas relações com os Estados Unidos. A moeda estadunidense acumula alta de 6,95% na semana, refletindo principalmente a disparada registrada na segunda-feira, e valorização de 3,19% em outubro. No acumulado do ano, porém, registra queda de 2,59%. * com informações da Reuters",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Wellton Máximo - Repórter da Agência Brasil",
+    "pub_date": "2026-10-28T22:28:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "Dólar",
+      "Ibovespa",
+      "Mercado Financeiro",
+      "Câmbio"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.6354,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.6,
+    "destaque_score": 0.719,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/luxo/2026/10/termas-dos-laranjais-celebra-estar-no-top-3-de-parques-aquaticos-mais-visitados-do-mundo_233249.html",
+    "title": "Termas dos Laranjais celebra estar no Top 3 de parques aquáticos mais visitados do mundo",
+    "link": "https://www.panrotas.com.br/destinos/luxo/2026/10/termas-dos-laranjais-celebra-estar-no-top-3-de-parques-aquaticos-mais-visitados-do-mundo_233249.html",
+    "description": "Parque também foi o 1º colocado na América Latina, com crescimento de 5,4% na visitação em relação a 2024",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/10/28/5c82e84301212d662be8b65529793181-whatsappimage20261028at15.48.06.jpeg",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-10-28T20:56:00+00:00",
+    "source_category_raw": "Destinos - Luxo",
+    "all_categories": [
+      "Destinos - Luxo"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Luxo",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.684,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/alternativo/2026/10/melhor-atividade-de-xcaret-te-leva-para-cavernas-subterraneas-conheca-xpeleo_233240.html",
+    "title": "Melhor atividade de Xcaret te leva para cavernas subterrâneas; conheça Xpeleo",
+    "link": "https://www.panrotas.com.br/destinos/alternativo/2026/10/melhor-atividade-de-xcaret-te-leva-para-cavernas-subterraneas-conheca-xpeleo_233240.html",
+    "description": "Apenas seis pessoas por dia podem ter essa experiência no parque Xplor",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/10/28/32da0ca1c0b55b148eef0a60c2da9498-whatsappimage20261028at15.03.52.jpeg",
+    "author": "Artur Luiz Andrade",
+    "pub_date": "2026-10-28T19:29:00+00:00",
+    "source_category_raw": "Destinos - Alternativo",
+    "all_categories": [
+      "Destinos - Alternativo"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Alternativo",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.678,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/hotelaria/investimentos/2026/10/accor-assina-mais-de-20-novos-acordos-de-projetos-hoteleiros-na-republica-dominicana_233238.html",
+    "title": "Accor assina mais de 20 novos acordos de projetos hoteleiros na República Dominicana",
+    "link": "https://www.panrotas.com.br/hotelaria/investimentos/2026/10/accor-assina-mais-de-20-novos-acordos-de-projetos-hoteleiros-na-republica-dominicana_233238.html",
+    "description": "Atualmente, a rede hoteleira oferece seis mil quartos no país, incluindo mais de 1 mil branded residences",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/10/28/333a1364b4e7bcf210968e156258e39c-executivosduranteacerimoniadeassinaturadosacordosrealizadanasededaaccoremparis.jpeg",
+    "author": "Karina Cede&#241;o",
+    "pub_date": "2026-10-28T18:51:00+00:00",
+    "source_category_raw": "Hotelaria - Investimentos",
+    "all_categories": [
+      "Hotelaria - Investimentos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": "Investimentos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.676,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/agencias-de-viagens/mercado/2026/10/cvc-e-a-agencia-de-viagens-mais-lembrada-no-top-of-mind-pelo-16o-ano-consecutivo_233237.html",
     "title": "Top of Mind 2026: CVC e Gol lideram entre as marcas de Turismo mais lembradas",
@@ -19,7 +115,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.688,
+    "destaque_score": 0.673,
     "layout_tier": "grade"
   },
   {
@@ -40,7 +136,53 @@
     "category_mapping_confidence": 0.4337,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.624,
+    "destaque_score": 0.61,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/pesquisas-e-estatisticas/2026/10/china-segue-lider-em-ranking-global-de-museus-mais-visitados-confira-lista-completa_233225.html",
+    "title": "China segue líder em ranking global de museus mais visitados; confira lista completa",
+    "link": "https://www.panrotas.com.br/destinos/pesquisas-e-estatisticas/2026/10/china-segue-lider-em-ranking-global-de-museus-mais-visitados-confira-lista-completa_233225.html",
+    "description": "País recebeu, nos 12 locais presentes no top 20 global, 104,1 milhões de visitantes no último ano",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/10/28/1c4dff646420f92478b657509c4d10ea-w020240403318567488513.png",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-10-28T16:26:00+00:00",
+    "source_category_raw": "Destinos - Pesquisas e Estatísticas",
+    "all_categories": [
+      "Destinos - Pesquisas e Estatísticas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Pesquisas e Estatísticas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.668,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/10/magic-kingdom-e-disneyland-se-aproximam-no-top-20-de-parques-america-do-norte-confira_233227.html",
+    "title": "Magic Kingdom e Disneyland se aproximam no Top 20 de parques América do Norte; confira",
+    "link": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/10/magic-kingdom-e-disneyland-se-aproximam-no-top-20-de-parques-america-do-norte-confira_233227.html",
+    "description": "Parques da Disney são os dois mais visitados do mundo na região em 2025, com Epcot fechando o pódio",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2022/09/12/9d963e5b3136c5112c5b196d22e5dea7-disneyland.jpg",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-10-28T16:18:00+00:00",
+    "source_category_raw": "Destinos - Parques temáticos",
+    "all_categories": [
+      "Destinos - Parques temáticos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": "Parques temáticos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.667,
     "layout_tier": "grade"
   },
   {
@@ -68,6 +210,29 @@
   },
   {
     "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/10/beto-carrero-e-o-parque-tematico-mais-visitado-em-2025-na-america-latina-ranking_233223.html",
+    "title": "Beto Carrero é o parque temático mais visitado em 2025 na América Latina; ranking",
+    "link": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/10/beto-carrero-e-o-parque-tematico-mais-visitado-em-2025-na-america-latina-ranking_233223.html",
+    "description": "Brasil, com dois representantes no top 10 da região, somou 4,4 milhões de visitantes no último ano",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/01/27/8c1a2376755008e06d1dcd829f47dfdf-castelobcw1.jpg",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-10-28T15:03:00+00:00",
+    "source_category_raw": "Destinos - Parques temáticos",
+    "all_categories": [
+      "Destinos - Parques temáticos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": "Parques temáticos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.663,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/hotelaria/investimentos/2026/10/gran-melia-tera-primeiro-hotel-nos-emirados-arabes-unidos-em-2027_233221.html",
     "title": "Gran Meliá terá primeiro hotel nos Emirados Árabes Unidos em 2027",
     "link": "https://www.panrotas.com.br/hotelaria/investimentos/2026/10/gran-melia-tera-primeiro-hotel-nos-emirados-arabes-unidos-em-2027_233221.html",
@@ -86,7 +251,53 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.676,
+    "destaque_score": 0.663,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/10/thermas-dos-laranjais-sp-e-o-parque-aquatico-mais-visitado-da-america-latina-em-2025_233219.html",
+    "title": "Termas dos Laranjais (SP) é o parque aquático mais visitado da América Latina em 2025",
+    "link": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/10/thermas-dos-laranjais-sp-e-o-parque-aquatico-mais-visitado-da-america-latina-em-2025_233219.html",
+    "description": "Outros cinco parques fazem parte do ranking da região, somando 7,4 milhões de visitantes",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/08/19/fb260ff873c4b5b81cca41cdc0f46215-unnamed20240819t110009.310.jpg",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-10-28T14:26:00+00:00",
+    "source_category_raw": "Destinos - Parques temáticos",
+    "all_categories": [
+      "Destinos - Parques temáticos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": "Parques temáticos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.661,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/10/brasil-tem-3-parques-aquaticos-no-top-20-global-thermas-dos-laranjais-e-o-3o-do-mundo_233218.html",
+    "title": "Brasil tem 3 parques aquáticos no Top 20 global; Termas dos Laranjais é o 3º do mundo",
+    "link": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/10/brasil-tem-3-parques-aquaticos-no-top-20-global-thermas-dos-laranjais-e-o-3o-do-mundo_233218.html",
+    "description": "Termas dos Laranjais, em Olímpia (SP), ficou com a 3ª colocação no ranking divulgado pela TEA",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/12/22/cc1481ecf8d514c59300fc81bf517089-unnamed.jpg",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-10-28T14:11:00+00:00",
+    "source_category_raw": "Destinos - Parques temáticos",
+    "all_categories": [
+      "Destinos - Parques temáticos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": "Parques temáticos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.66,
     "layout_tier": "grade"
   },
   {
@@ -110,6 +321,29 @@
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
     "destaque_score": 0.672,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/10/disney-tem-8-dos-10-parques-tematicos-mais-visitados-do-mundo-veja-ranking_233216.html",
+    "title": "Disney tem 8 dos 10 parques temáticos mais visitados do mundo; veja ranking",
+    "link": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/10/disney-tem-8-dos-10-parques-tematicos-mais-visitados-do-mundo-veja-ranking_233216.html",
+    "description": "Visitação nos parques permaneceu estável em relação a 2024, com um total de 245,4 milhões de visitas",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/04/22/63ee63baeb81c8d1bbee366aa0d8db39-unnamed.jpg",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-10-28T13:45:00+00:00",
+    "source_category_raw": "Destinos - Parques temáticos",
+    "all_categories": [
+      "Destinos - Parques temáticos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Atrativos e Parques",
+    "canonical_category_l2": "Parques temáticos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.659,
     "layout_tier": "grade"
   },
   {
@@ -155,7 +389,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.883,
+    "destaque_score": 0.853,
     "layout_tier": "manchete"
   },
   {
@@ -178,7 +412,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.863,
+    "destaque_score": 0.851,
     "layout_tier": "manchete"
   },
   {
@@ -199,7 +433,7 @@
     "category_mapping_confidence": 0.5781,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.416,
+    "destaque_score": 0.406,
     "layout_tier": "grade"
   },
   {
@@ -222,7 +456,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.625,
+    "destaque_score": 0.618,
     "layout_tier": "grade"
   },
   {
@@ -245,7 +479,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.625,
+    "destaque_score": 0.617,
     "layout_tier": "grade"
   },
   {
@@ -268,7 +502,7 @@
     "category_mapping_confidence": 0.2625,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.439,
+    "destaque_score": 0.431,
     "layout_tier": "grade"
   },
   {
@@ -291,7 +525,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.823,
+    "destaque_score": 0.815,
     "layout_tier": "manchete"
   },
   {
@@ -314,7 +548,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.822,
+    "destaque_score": 0.814,
     "layout_tier": "manchete"
   },
   {
@@ -337,7 +571,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.621,
+    "destaque_score": 0.614,
     "layout_tier": "grade"
   },
   {
@@ -360,7 +594,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.621,
+    "destaque_score": 0.614,
     "layout_tier": "grade"
   },
   {
@@ -383,7 +617,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.62,
+    "destaque_score": 0.613,
     "layout_tier": "grade"
   },
   {
@@ -406,7 +640,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.619,
+    "destaque_score": 0.612,
     "layout_tier": "grade"
   },
   {
@@ -429,7 +663,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.617,
+    "destaque_score": 0.61,
     "layout_tier": "grade"
   },
   {
@@ -452,7 +686,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.615,
+    "destaque_score": 0.608,
     "layout_tier": "grade"
   },
   {
@@ -475,7 +709,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.813,
+    "destaque_score": 0.807,
     "layout_tier": "manchete"
   },
   {
@@ -498,7 +732,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.613,
+    "destaque_score": 0.606,
     "layout_tier": "grade"
   },
   {
@@ -521,7 +755,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.61,
+    "destaque_score": 0.604,
     "layout_tier": "grade"
   },
   {
@@ -544,7 +778,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.607,
+    "destaque_score": 0.601,
     "layout_tier": "grade"
   },
   {
@@ -567,7 +801,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.806,
+    "destaque_score": 0.801,
     "layout_tier": "manchete"
   },
   {
@@ -590,7 +824,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.589,
+    "destaque_score": 0.585,
     "layout_tier": "grade"
   },
   {
@@ -613,7 +847,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.788,
+    "destaque_score": 0.784,
     "layout_tier": "manchete"
   },
   {
@@ -636,7 +870,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.587,
+    "destaque_score": 0.583,
     "layout_tier": "grade"
   },
   {
@@ -659,7 +893,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.787,
+    "destaque_score": 0.783,
     "layout_tier": "manchete"
   },
   {
@@ -682,7 +916,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.786,
+    "destaque_score": 0.782,
     "layout_tier": "manchete"
   },
   {
@@ -705,7 +939,7 @@
     "category_mapping_confidence": 0.8898,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.638,
+    "destaque_score": 0.634,
     "layout_tier": "grade"
   },
   {
@@ -728,7 +962,7 @@
     "category_mapping_confidence": 0.2861,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.606,
+    "destaque_score": 0.603,
     "layout_tier": "grade"
   },
   {
@@ -751,7 +985,7 @@
     "category_mapping_confidence": 0.327,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.616,
+    "destaque_score": 0.613,
     "layout_tier": "grade"
   },
   {
@@ -774,7 +1008,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.783,
+    "destaque_score": 0.78,
     "layout_tier": "manchete"
   },
   {
@@ -797,7 +1031,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.583,
+    "destaque_score": 0.579,
     "layout_tier": "grade"
   },
   {
@@ -820,7 +1054,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.583,
+    "destaque_score": 0.579,
     "layout_tier": "grade"
   },
   {
@@ -843,7 +1077,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.582,
+    "destaque_score": 0.579,
     "layout_tier": "grade"
   },
   {
@@ -866,7 +1100,7 @@
     "category_mapping_confidence": 0.7337,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.715,
+    "destaque_score": 0.712,
     "layout_tier": "manchete"
   },
   {
@@ -889,7 +1123,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.581,
+    "destaque_score": 0.578,
     "layout_tier": "grade"
   },
   {
@@ -912,7 +1146,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.58,
+    "destaque_score": 0.577,
     "layout_tier": "grade"
   },
   {
@@ -935,7 +1169,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.58,
+    "destaque_score": 0.577,
     "layout_tier": "grade"
   },
   {
@@ -958,7 +1192,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.579,
+    "destaque_score": 0.576,
     "layout_tier": "grade"
   },
   {
@@ -981,7 +1215,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.579,
+    "destaque_score": 0.576,
     "layout_tier": "grade"
   },
   {
@@ -1004,7 +1238,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.579,
+    "destaque_score": 0.576,
     "layout_tier": "grade"
   },
   {
@@ -1027,7 +1261,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.578,
+    "destaque_score": 0.575,
     "layout_tier": "grade"
   },
   {
@@ -1050,7 +1284,7 @@
     "category_mapping_confidence": 0.33,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.41,
+    "destaque_score": 0.407,
     "layout_tier": "grade"
   },
   {
@@ -1102,7 +1336,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -1125,7 +1359,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -1148,7 +1382,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -1171,7 +1405,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.755,
+    "destaque_score": 0.754,
     "layout_tier": "manchete"
   },
   {
@@ -1236,7 +1470,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -1259,7 +1493,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -1282,7 +1516,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -1305,7 +1539,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.555,
+    "destaque_score": 0.554,
     "layout_tier": "grade"
   },
   {
@@ -1512,7 +1746,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -1535,7 +1769,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -1558,7 +1792,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -1581,7 +1815,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -1604,7 +1838,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -1627,7 +1861,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -1650,7 +1884,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -1673,7 +1907,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -1696,7 +1930,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.754,
+    "destaque_score": 0.753,
     "layout_tier": "manchete"
   },
   {
@@ -1719,7 +1953,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -1742,7 +1976,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -1765,7 +1999,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.554,
+    "destaque_score": 0.553,
     "layout_tier": "grade"
   },
   {
@@ -1788,7 +2022,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -1811,7 +2045,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -1834,7 +2068,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.553,
+    "destaque_score": 0.552,
     "layout_tier": "grade"
   },
   {
@@ -3466,7 +3700,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3489,7 +3723,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3512,7 +3746,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3535,7 +3769,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3558,7 +3792,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3581,7 +3815,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3604,7 +3838,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3627,7 +3861,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3650,7 +3884,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3736,7 +3970,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3759,7 +3993,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -3782,7 +4016,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
