@@ -1,0 +1,31 @@
+[
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1707461 at https://agenciabrasil.ebc.com.br",
+    "title": "Petrobrás reajusta combustível de aviação em R$ 0,45 por litro",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-reajusta-combustivel-de-aviacao-em-r-045-por-litro",
+    "description": "A Petrobras anunciou reajuste médio de 7,2% no querosene de aviação vendido às distribuidoras, a partir deste domingo (1°). Isso corresponde a um aumento de R$ 0,45 por litro em relação ao mês anterior. Em outubro, o combustível utilizado em aviões e helicópteros já havia sofrido reajuste médio de 11,76%, ou 0,65 centavos por litro. Notícias relacionadas: Petrobras inova na produção sustentável de combustível de aviação. A estatal tem participação de cerca de 85% na produção do QAV nacional, mas o mercado é aberto à livre concorrência, sem restrições para outras empresas atuarem como produtoras ou importadoras. De acordo com a companhia, o reajuste se deve ao aumento da cotação internacional do combustível, \"em um cenário de intensificação das tensões geopolíticas no Oriente Médio e de redução da capacidade de refino na Rússia e na Ucrânia em decorrência do conflito entre os dois países.\" A Petrobras ressalvou, em nota, que as variações acumuladas no Brasil são menores do que as observadas no mercado internacional, onde os reajustes chegam a ser diários, desde o início do conflito no Oriente Médio. Aqui, o valor é reajustado mensalmente. A companhia disse também que segue uma \"fórmula paramétrica prevista em contrato\", que vem amortecendo as oscilações de curto prazo, \"resultando em reajustes mais moderados do que os observados internacionalmente.\" Apesar disso, de acordo com a Associação Brasileira de Empresas Aéreas, a participação do QAV nos custos operacionais das companhias brasileiras subiu de 30% para mais de 45% desde o início dos conflitos no Oriente Médio.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Tâmara Freire – repórter da Agência Brasil",
+    "pub_date": "2026-11-01T18:41:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "Petrobras",
+      "combustível de aviação",
+      "Querosene de aviação",
+      "Preço",
+      "Reajuste",
+      "Conflito no Oriente Médio"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.7881,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.766,
+    "layout_tier": "manchete"
+  }
+]
