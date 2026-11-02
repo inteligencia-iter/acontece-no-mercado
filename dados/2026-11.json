@@ -1,5 +1,28 @@
 [
   {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/cruzeiros/2026/11/veja-fotos-do-buenavista-navio-da-corazul-que-abre-a-temporada-20262027-no-brasil_233320.html",
+    "title": "Veja fotos do Buenavista, navio da Corazul que abre a temporada 2026/2027 no Brasil",
+    "link": "https://www.panrotas.com.br/mercado/cruzeiros/2026/11/veja-fotos-do-buenavista-navio-da-corazul-que-abre-a-temporada-20262027-no-brasil_233320.html",
+    "description": "Embarcação aposta em bebidas incluídas, entretenimento e diferentes espaços nesta temporada inaugural",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/10/31/5682352e08a9b452d59e8861bb13fcde-img6958.jpeg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-11-01T18:59:00+00:00",
+    "source_category_raw": "Mercado - Cruzeiros",
+    "all_categories": [
+      "Mercado - Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": "Cruzeiros",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.671,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "agenciabrasil",
     "guid": "1707461 at https://agenciabrasil.ebc.com.br",
     "title": "Petrobras reajusta combustível de aviação em R$ 0,45 por litro",
@@ -25,7 +48,7 @@
     "category_mapping_confidence": 0.7881,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.75,
+    "destaque_score": 0.737,
     "layout_tier": "manchete"
   }
 ]
