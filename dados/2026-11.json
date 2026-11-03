@@ -24,8 +24,8 @@
     "category_mapping_confidence": 0.6013,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.717,
-    "layout_tier": "manchete"
+    "destaque_score": 0.693,
+    "layout_tier": "grade"
   },
   {
     "source_id": "agenciabrasil",
@@ -53,8 +53,54 @@
     "category_mapping_confidence": 0.6137,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.709,
-    "layout_tier": "manchete"
+    "destaque_score": 0.687,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/cruzeiros/2026/11/r11-travel-reconhece-pontos-de-melhoria-e-convida-agentes-a-retornarem-ao-buenavista_233326.html",
+    "title": "R11 Travel reconhece pontos de melhoria e convida agentes a retornarem ao Buenavista",
+    "link": "https://www.panrotas.com.br/mercado/cruzeiros/2026/11/r11-travel-reconhece-pontos-de-melhoria-e-convida-agentes-a-retornarem-ao-buenavista_233326.html",
+    "description": "Empresa oferece novo cruzeiro gratuito a profissionais e FCC de 50% aos passageiros da viagem inaugural",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/11/01/69985b09906163f1af3abef1627650a0-img7132.jpeg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-11-02T16:36:00+00:00",
+    "source_category_raw": "Mercado - Cruzeiros",
+    "all_categories": [
+      "Mercado - Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": "Cruzeiros",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.55,
+    "destaque_score": 0.661,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/operadoras/2026/11/famtour-da-flot-passa-o-dia-em-gozo-a-ilha-mais-tranquila-de-malta-veja-fotos_233323.html",
+    "title": "Famtour da Flot passa o dia em Gozo, a ilha mais tranquila de Malta; veja fotos",
+    "link": "https://www.panrotas.com.br/mercado/operadoras/2026/11/famtour-da-flot-passa-o-dia-em-gozo-a-ilha-mais-tranquila-de-malta-veja-fotos_233323.html",
+    "description": "Grupo cruzou de ferry até a ilha vizinha, visitou Victoria e Dwejra, cenário de Game of Thrones",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/11/01/09cd3bece6a50623dc0f515ac2d92a1e-dsc05605.jpg",
+    "author": "T&#225;rik El Zein",
+    "pub_date": "2026-11-02T14:45:00+00:00",
+    "source_category_raw": "Mercado - Operadoras",
+    "all_categories": [
+      "Mercado - Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Operadoras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.656,
+    "layout_tier": "grade"
   },
   {
     "source_id": "panrotas",
@@ -76,7 +122,30 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.667,
+    "destaque_score": 0.648,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/cruzeiros/2026/11/corazul-e-r11-travel-reunem-agentes-e-operadores-em-cruzeiro-inaugural-no-brasil-fotos_233324.html",
+    "title": "Corazul e R11 Travel reúnem agentes e operadores em cruzeiro inaugural no Brasil; fotos",
+    "link": "https://www.panrotas.com.br/mercado/cruzeiros/2026/11/corazul-e-r11-travel-reunem-agentes-e-operadores-em-cruzeiro-inaugural-no-brasil-fotos_233324.html",
+    "description": "Viagem marcou a estreia da companhia no mercado brasileiro e reuniu centenas de profissionais a bordo",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/11/02/72bcf93053d6ad674b9ceec4ea68f593-img6895.jpeg",
+    "author": "Pedro Menezes",
+    "pub_date": "2026-11-02T11:30:00+00:00",
+    "source_category_raw": "Mercado - Cruzeiros",
+    "all_categories": [
+      "Mercado - Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": "Cruzeiros",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.646,
     "layout_tier": "grade"
   },
   {
@@ -99,7 +168,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.621,
+    "destaque_score": 0.61,
     "layout_tier": "grade"
   },
   {
@@ -128,7 +197,7 @@
     "category_mapping_confidence": 0.7881,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.688,
+    "destaque_score": 0.676,
     "layout_tier": "grade"
   }
 ]
