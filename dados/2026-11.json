@@ -1,5 +1,33 @@
 [
   {
+    "source_id": "agenciabrasil",
+    "guid": "1707629 at https://agenciabrasil.ebc.com.br",
+    "title": "Dólar sobe 0,74% e aproxima-se de R$ 5,50 em dia de cautela fiscal",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-074-e-aproxima-se-de-r-550-em-dia-de-cautela-fiscal",
+    "description": "O mercado financeiro brasileiro encerrou esta terça-feira (3) em queda, com o dólar em alta e a bolsa de valores ampliando as perdas após a reeleição do presidente Luiz Inácio Lula da Silva. A moeda norte-americana avançou cerca de 1%, fechando próxima de R$ 5,50. O Ibovespa recuou pela sexta vez seguida e atingiu o menor nível desde janeiro. Notícias relacionadas: Mercado eleva projeção para inflação, juros e dólar em 2026. Economista de Plano Real acusa BC de causar rombo fiscal via juros. As incertezas sobre a política fiscal do governo e as expectativas para a decisão do Comitê de Política Monetária (Copom) sobre a taxa Selic, prevista para quarta-feira (4), mantiveram os investidores cautelosos. Números do dia Dólar comercial: R$ 5,486 (+0,74%); Máxima do dólar: R$ 5,509, por volta das 13h50 Índice do dólar (DXY): 101,850 (+0,13%); Ibovespa: 165.528,92 pontos (-1,42%); Câmbio O dólar comercial encerrou a sessão desta terça com valorização de 0,74%, cotado a R$ 5,486. Durante o pregão, a moeda norte-americana chegou a superar a marca de R$ 5,50, em meio à cautela dos investidores com os rumos da política econômica brasileira. O movimento ocorreu no primeiro pregão de novembro, após o feriado de Finados e uma semana de forte desvalorização dos ativos nacionais. Desde a reeleição de Lula, em 25 de outubro, o mercado cambial tem registrado pressão sobre o real. Entre os fatores que influenciaram as negociações estiveram: Incertezas fiscais: dúvidas sobre a condução das contas públicas e a agenda econômica do governo; Expectativas para a Selic: investidores aguardaram a decisão do Copom, prevista para quarta-feira; Propostas econômicas: repercussão das ideias do economista André Lara Resende sobre mudanças no regime monetário ; Cenário internacional: eleições legislativas de meio de mandato nos Estados Unidos e valorização do dólar frente a outras moedas. Pela manhã, o ministro da Fazenda, Dario Durigan, afirmou que as propostas de Lara Resende apresentam deficiências e não estão em discussão no governo. O ministro também reforçou a defesa de um ajuste fiscal gradual. No exterior, o índice DXY, que mede o desempenho do dólar diante de uma cesta de seis moedas fortes, avançava 0,13%, aos 101,850 pontos, às 17h35. Bolsa amplia perdas O Ibovespa fechou a terça-feira em queda de 1,42%, aos 165.528,92 pontos, segundo dados preliminares. O índice chegou a perder o patamar dos 165 mil pontos durante a sessão, atingindo a mínima de 164.446,53 pontos, às 11h23. A baixa representou o sexto pregão consecutivo de perdas desde a reeleição de Lula, considerando as sessões realizadas após o resultado eleitoral. No último pregão antes da definição das urnas, o índice estava acima de 205 mil pontos. As ações da Petrobras e da Vale, as mais negociadas, contribuíram para a pressão sobre o indicador, em um pregão marcado por ajustes nos preços internacionais do petróleo e de outras commodities (bens primários com cotação internacional) após o feriado. O cenário externo também influenciou as negociações. Enquanto ações de empresas de tecnologia dos Estados Unidos apresentavam recuperação durante a sessão, o mercado brasileiro permaneceu pressionado pelas incertezas domésticas. Copom no radar A reunião do Comitê de Política Monetária concentrou a atenção dos investidores. A taxa Selic está em 13,75% ao ano, e o mercado acompanha a possibilidade de manutenção do patamar atual diante da piora das expectativas inflacionárias e da desvalorização do real. O boletim Focus divulgado nesta terça-feira elevou a projeção de inflação para 2027 de 4,34% para 4,76%, acima do teto da meta de 4,5%. A estimativa para a Selic no fim do próximo ano também subiu, de 11,75% para 12,50%. A decisão do Banco Central e o comunicado sobre os próximos passos da política monetária devem influenciar o comportamento dos ativos brasileiros nos próximos pregões. * com informações da Reuters",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Wellton Máximo – Repórter da Agência Brasil*",
+    "pub_date": "2026-11-03T21:59:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "Dólar",
+      "Ibovespa",
+      "Copom",
+      "Selic",
+      "política fiscal"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.6981,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.6,
+    "destaque_score": 0.736,
+    "layout_tier": "manchete"
+  },
+  {
     "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/agencias-de-viagens/vendas/2026/11/clientes-denunciam-cancelamentos-de-viagens-e-falta-de-reembolso-de-agencia-em-mg_233347.html",
     "title": "Clientes denunciam cancelamentos de viagens e falta de reembolso de agência em MG",
@@ -19,8 +47,8 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.7,
-    "layout_tier": "manchete"
+    "destaque_score": 0.678,
+    "layout_tier": "grade"
   },
   {
     "source_id": "panrotas",
@@ -47,6 +75,29 @@
   },
   {
     "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/destinos/2026/11/acidente-com-asa-delta-no-rio-reacende-alerta-sobre-seguranca-no-turismo-de-aventura_233341.html",
+    "title": "Acidente com asa-delta no Rio reacende alerta sobre segurança no Turismo de aventura",
+    "link": "https://www.panrotas.com.br/mercado/destinos/2026/11/acidente-com-asa-delta-no-rio-reacende-alerta-sobre-seguranca-no-turismo-de-aventura_233341.html",
+    "description": "Turista argentino e instrutor não sobreviveram à queda; atividades de voo livre foram suspensas",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/11/03/f244b3cb2fa04e1e13c3183622824039-jeffreyeisengu6ed8odn7kunsplash.jpg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-11-03T15:48:00+00:00",
+    "source_category_raw": "Mercado - Destinos",
+    "all_categories": [
+      "Mercado - Destinos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Destinos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.668,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/mercado/operadoras/2026/11/europamundo-inclui-brasil-em-novos-circuitos-internacionais_233337.html",
     "title": "Europamundo inclui Brasil em novos circuitos internacionais",
     "link": "https://www.panrotas.com.br/mercado/operadoras/2026/11/europamundo-inclui-brasil-em-novos-circuitos-internacionais_233337.html",
@@ -65,7 +116,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.687,
+    "destaque_score": 0.666,
     "layout_tier": "grade"
   },
   {
@@ -88,7 +139,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.886,
+    "destaque_score": 0.866,
     "layout_tier": "manchete"
   },
   {
@@ -111,7 +162,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.685,
+    "destaque_score": 0.665,
     "layout_tier": "grade"
   },
   {
@@ -134,7 +185,30 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.684,
+    "destaque_score": 0.664,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/hotelaria/eventos/2026/11/pullman-sao-paulo-ibirapuera-inicia-jantar-imersivo-e-magico-conheca-the-magic-table_233334.html",
+    "title": "Pullman São Paulo Ibirapuera inicia jantar imersivo e mágico; conheça The Magic Table",
+    "link": "https://www.panrotas.com.br/hotelaria/eventos/2026/11/pullman-sao-paulo-ibirapuera-inicia-jantar-imersivo-e-magico-conheca-the-magic-table_233334.html",
+    "description": "Experiência dura duas horas e meia, com alta gastronomia e diversão para todas as idades",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/11/03/6ea1a71f8b25c82ab5bec25c3dc2347d-whatsappimage20261103at10.48.441.jpeg",
+    "author": "Artur Luiz Andrade",
+    "pub_date": "2026-11-03T14:13:00+00:00",
+    "source_category_raw": "Hotelaria - Eventos",
+    "all_categories": [
+      "Hotelaria - Eventos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": "Eventos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.663,
     "layout_tier": "grade"
   },
   {
@@ -157,7 +231,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.683,
+    "destaque_score": 0.663,
     "layout_tier": "grade"
   },
   {
@@ -180,7 +254,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.682,
+    "destaque_score": 0.662,
     "layout_tier": "grade"
   },
   {
@@ -209,7 +283,7 @@
     "category_mapping_confidence": 0.8118,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.754,
+    "destaque_score": 0.735,
     "layout_tier": "manchete"
   },
   {
@@ -232,7 +306,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.679,
+    "destaque_score": 0.66,
     "layout_tier": "grade"
   },
   {
@@ -255,7 +329,30 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.676,
+    "destaque_score": 0.658,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/hotelaria/inauguracoes/2026/11/vila-gale-inaugura-dois-hoteis-e-reforca-investimentos-no-nordeste_233329.html",
+    "title": "Vila Galé inaugura dois hotéis e reforça investimentos no Nordeste",
+    "link": "https://www.panrotas.com.br/hotelaria/inauguracoes/2026/11/vila-gale-inaugura-dois-hoteis-e-reforca-investimentos-no-nordeste_233329.html",
+    "description": "Após inaugurar hotel em São Luís (MA), rede portuguesa oficializa abertura de nova unidade em Pernambuco",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/11/03/3b3b5c1f9dc5b851ffae8ea06ebddd36-unnamed13.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-11-03T12:30:00+00:00",
+    "source_category_raw": "Hotelaria - Inaugurações",
+    "all_categories": [
+      "Hotelaria - Inaugurações"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": "Inaugurações",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.658,
     "layout_tier": "grade"
   },
   {
@@ -278,7 +375,7 @@
     "category_mapping_confidence": 0.3624,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.514,
+    "destaque_score": 0.496,
     "layout_tier": "grade"
   },
   {
@@ -301,7 +398,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.671,
+    "destaque_score": 0.653,
     "layout_tier": "grade"
   },
   {
@@ -333,7 +430,7 @@
     "category_mapping_confidence": 0.5935,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.647,
+    "destaque_score": 0.635,
     "layout_tier": "grade"
   },
   {
@@ -362,7 +459,7 @@
     "category_mapping_confidence": 0.6137,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.646,
+    "destaque_score": 0.635,
     "layout_tier": "grade"
   },
   {
@@ -385,7 +482,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.621,
+    "destaque_score": 0.611,
     "layout_tier": "grade"
   },
   {
@@ -408,7 +505,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.617,
+    "destaque_score": 0.607,
     "layout_tier": "grade"
   },
   {
@@ -431,7 +528,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.612,
+    "destaque_score": 0.603,
     "layout_tier": "grade"
   },
   {
@@ -454,7 +551,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.611,
+    "destaque_score": 0.602,
     "layout_tier": "grade"
   },
   {
@@ -477,7 +574,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.588,
+    "destaque_score": 0.582,
     "layout_tier": "grade"
   },
   {
@@ -506,7 +603,7 @@
     "category_mapping_confidence": 0.7881,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.655,
+    "destaque_score": 0.649,
     "layout_tier": "grade"
   }
 ]
