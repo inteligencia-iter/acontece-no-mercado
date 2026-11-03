@@ -1,10 +1,315 @@
 [
   {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/agencias-de-viagens/vendas/2026/11/clientes-denunciam-cancelamentos-de-viagens-e-falta-de-reembolso-de-agencia-em-mg_233347.html",
+    "title": "Clientes denunciam cancelamentos de viagens e falta de reembolso de agência em MG",
+    "link": "https://www.panrotas.com.br/agencias-de-viagens/vendas/2026/11/clientes-denunciam-cancelamentos-de-viagens-e-falta-de-reembolso-de-agencia-em-mg_233347.html",
+    "description": "Nas redes sociais, JS Turismo anunciava pacotes para diferentes destinos brasileiros com preços atrativos",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2020/09/28/e463fc2b806a398b09b16d770edbc0be-gettyimages1063984630.jpg",
+    "author": "Beatrice Teizen",
+    "pub_date": "2026-11-03T18:23:00+00:00",
+    "source_category_raw": "Agências de Viagens - Vendas",
+    "all_categories": [
+      "Agências de Viagens - Vendas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Vendas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.7,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/destinos/2026/11/acidente-com-asa-delta-no-rio-reacende-debate-sobre-seguranca-no-turismo-de-aventura_233341.html",
+    "title": "Acidente com asa-delta no Rio reacende debate sobre segurança no Turismo de aventura",
+    "link": "https://www.panrotas.com.br/mercado/destinos/2026/11/acidente-com-asa-delta-no-rio-reacende-debate-sobre-seguranca-no-turismo-de-aventura_233341.html",
+    "description": "Turista argentino e instrutor não sobreviveram à queda; atividades de voo livre foram suspensas",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/11/03/f244b3cb2fa04e1e13c3183622824039-jeffreyeisengu6ed8odn7kunsplash.jpg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-11-03T15:48:00+00:00",
+    "source_category_raw": "Mercado - Destinos",
+    "all_categories": [
+      "Mercado - Destinos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Destinos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.689,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/operadoras/2026/11/europamundo-inclui-brasil-em-novos-circuitos-internacionais_233337.html",
+    "title": "Europamundo inclui Brasil em novos circuitos internacionais",
+    "link": "https://www.panrotas.com.br/mercado/operadoras/2026/11/europamundo-inclui-brasil-em-novos-circuitos-internacionais_233337.html",
+    "description": "Anúncio foi feito durante a convenção global da empresa, que reúne 300 participantes de quase 50 mercados",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/11/03/e28a078ae835809504ed2fdd8660da5c-convencaoeuropamundo.jpg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-11-03T15:10:00+00:00",
+    "source_category_raw": "Mercado - Operadoras",
+    "all_categories": [
+      "Mercado - Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Operadoras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.687,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/novas-rotas/2026/11/azul-inicia-rota-direta-entre-macapa-e-confins-mg-com-quatro-frequencias-semanais_233339.html",
+    "title": "Azul inicia rota direta entre Macapá e Confins (MG), com quatro frequências semanais",
+    "link": "https://www.panrotas.com.br/aviacao/novas-rotas/2026/11/azul-inicia-rota-direta-entre-macapa-e-confins-mg-com-quatro-frequencias-semanais_233339.html",
+    "description": "Nova rota conta com 35 voos mensais e uma oferta de mais de seis mil assentos entre partidas e chegadas",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/11/03/b56a2c365d6f815476c2aa738f7c2d42-divulgacaoazulairbusa3201..jpg",
+    "author": "Karina Cede&#241;o",
+    "pub_date": "2026-11-03T15:06:00+00:00",
+    "source_category_raw": "Aviação - Novas rotas",
+    "all_categories": [
+      "Aviação - Novas rotas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Novas rotas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.886,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/viagens-corporativas/tmcs/2026/11/copastur-investe-r-130-milhoes-em-tecnologia-e-anuncia-nova-solucao-de-ia_233338.html",
+    "title": "Copastur investe R$ 130 milhões em tecnologia e anuncia nova solução de IA",
+    "link": "https://www.panrotas.com.br/viagens-corporativas/tmcs/2026/11/copastur-investe-r-130-milhoes-em-tecnologia-e-anuncia-nova-solucao-de-ia_233338.html",
+    "description": "Solução amplia a estratégia AI First da companhia ao conectar assistentes de IA ao ecossistema corporativo",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/09/26/a080fc4a046927e21645ace6b46fead9-creditoalevirgilio1.jpg",
+    "author": "Karina Cede&#241;o",
+    "pub_date": "2026-11-03T14:43:00+00:00",
+    "source_category_raw": "Corporativo - TMCs",
+    "all_categories": [
+      "Corporativo - TMCs"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Corporativo",
+    "canonical_category_l2": "TMCs",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.685,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/transporte/2026/11/brightline-suspende-temporariamente-servico-entre-orlando-e-west-palm-beach_233336.html",
+    "title": "Brightline suspende temporariamente serviço entre Orlando e West Palm Beach",
+    "link": "https://www.panrotas.com.br/mercado/transporte/2026/11/brightline-suspende-temporariamente-servico-entre-orlando-e-west-palm-beach_233336.html",
+    "description": "Operação foi impactada devido ao elevado nível de água que afeta corredor ferroviário no condado Brevard",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/11/03/ca2bcd67a58a03367f7d0eea22dbdf36-brightorangecoachview.jpg",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-11-03T14:30:00+00:00",
+    "source_category_raw": "Mercado - Transporte",
+    "all_categories": [
+      "Mercado - Transporte"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Transporte",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.684,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/destinos/2026/11/eua-passam-a-exigir-declaracao-sobre-ebola-de-passageiros-nesta-terca-3_233335.html",
+    "title": "EUA passam a exigir declaração sobre ebola de passageiros nesta terça (3)",
+    "link": "https://www.panrotas.com.br/mercado/destinos/2026/11/eua-passam-a-exigir-declaracao-sobre-ebola-de-passageiros-nesta-terca-3_233335.html",
+    "description": "Documento, digital ou em papel, é obrigatório a todas as pessoas, inclusive em conexões",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/04/09/7b48c1c1d3a8da8db1284351a07fe075-img3625.jpeg",
+    "author": "Beatrice Teizen",
+    "pub_date": "2026-11-03T14:12:00+00:00",
+    "source_category_raw": "Mercado - Destinos",
+    "all_categories": [
+      "Mercado - Destinos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Destinos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.683,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/encontros/2026/11/sebrae-rio-summit-tera-palestras-sobre-ia-vendas-e-atendimento-aplicaveis-ao-turismo_233331.html",
+    "title": "Sebrae Rio Summit terá palestras sobre IA, vendas e atendimento aplicáveis ao Turismo",
+    "link": "https://www.panrotas.com.br/mercado/encontros/2026/11/sebrae-rio-summit-tera-palestras-sobre-ia-vendas-e-atendimento-aplicaveis-ao-turismo_233331.html",
+    "description": "Evento gratuito no Riocentro, de 10 a 12 de novembro, reúne conteúdos sobre gestão, marketing e inovação",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/11/03/4e87a98ca618bcaacc0f3da1309fb2cb-headerriosummit.png",
+    "author": "Filip Calixto",
+    "pub_date": "2026-11-03T13:54:00+00:00",
+    "source_category_raw": "Mercado - Encontros",
+    "all_categories": [
+      "Mercado - Encontros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": "Encontros",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.682,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "agenciabrasil",
+    "guid": "1707559 at https://agenciabrasil.ebc.com.br",
+    "title": "Mercado eleva projeção para inflação, juros e dólar em 2026",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-eleva-projecao-para-inflacao-juros-e-dolar-em-2026",
+    "description": "O mercado financeiro elevou as projeções para a taxa básica de juros (Selic), a inflação e o dólar neste ano e reduziu, pela terceira semana consecutiva, a estimativa de crescimento da economia. Os dados constam do Boletim Focus, relatório semanal divulgado pelo Banco Central com projeções do mercado financeiro para inflação, câmbio, taxa Selic, entre outros indicadores. Notícias relacionadas: Após cinco meses, conta de luz voltará à bandeira verde em outubro. Neste primeiro boletim após o resultado das eleições presidenciais, a projeção para a taxa básica de juros (Selic) ao final de 2026 passou de 13,25% na semana passada para 13,5% – mesmo patamar estimado há quatro semanas. Atualmente, a Selic está em 13,75%, o que indica que o mercado ainda espera por um corte de 0,25 ponto percentual até o fim do ano. Para 2027 e 2028, as projeções para a Selic estão em 12,5% e 11%, respectivamente. A Selic é o principal instrumento do Banco Central para controlar a inflação. Juros mais altos encarecem o crédito e ajudam a reduzir a demanda e os preços, mas podem frear a atividade econômica. Juros menores estimulam o consumo e os investimentos, favorecendo o crescimento, mas podem pressionar a inflação. Inflação Utilizado para medir a inflação oficial do país, o Índice Nacional de Preços ao Consumidor Amplo (IPCA) também está entre as projeções do Boletim Focus. As estimativas do mercado financeiro para 2026 subiram de 5,19% há uma semana, para 5,22%. Há quatro semanas, a projeção para o IPCA era de 5,01%. Para 2027, o mercado projeta inflação de 4,76%. Para 2028, a expectativa é de 4%. A prévia da inflação oficial ficou em 0,32% em outubro , segundo o Instituto Brasileiro de Geografia e Estatística (IBGE). Com o resultado, o IPCA-15 acumula alta de 4,62% em 12 meses, acima do teto da meta de inflação. A desaceleração em relação a setembro (0,70%) foi influenciada principalmente pela queda da energia elétrica residencial, após a adoção da bandeira tarifária verde no mês de outubro. A maior pressão de alta veio dos alimentos, com destaque para tomate (24,54%), cebola (13,63%), batata-inglesa (10,96%) e arroz (5,80%). Economia Com relação ao Produto Interno Bruto (PIB), soma dos bens e serviços produzidos no país, o mercado financeiro reduziu, pela terceira semana consecutiva, as projeções para 2026. Há uma semana, o mercado projetava crescimento de 1,8% para o PIB em 2026. Na atual edição do Boletim Focus, essa estimativa recuou para 1,76%. Para 2027, a expectativa é de crescimento de 1,2% e para 2028, 1,8%. Câmbio As projeções para a cotação do dólar ao final do ano subiram de R$ 5,05, há uma semana, para R$ 5,34. O mercado estima que, em 2027, a moeda norte-americana encerrará o ano cotada a R$ 5,40. Para 2028, a projeção se mantém em R$ 5,40.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Pedro Peduzzi – Repórter da Agência Brasil",
+    "pub_date": "2026-11-03T13:43:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "Boletim Focus",
+      "Selic",
+      "PIB",
+      "Câmbio",
+      "Mercado Financeiro",
+      "banco central"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.8118,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.6,
+    "destaque_score": 0.754,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/agencias-de-viagens/eventos/2026/11/flot-chega-a-nice-para-famtour-pela-riviera-francesa-veja-fotos_233328.html",
+    "title": "Flot chega a Nice para famtour pela Riviera Francesa; veja fotos",
+    "link": "https://www.panrotas.com.br/agencias-de-viagens/eventos/2026/11/flot-chega-a-nice-para-famtour-pela-riviera-francesa-veja-fotos_233328.html",
+    "description": "Grupo de nove agências de viagens permanecerá na região até a próxima sexta-feira",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/11/03/907234d6fe877350dfc4ed8e56188417-cccc3409.jpg",
+    "author": "Alex Souza",
+    "pub_date": "2026-11-03T13:10:00+00:00",
+    "source_category_raw": "Agências de Viagens - Eventos",
+    "all_categories": [
+      "Agências de Viagens - Eventos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": "Eventos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.679,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/operadoras/2026/11/cavaleiros-caravaggio-e-game-of-thrones-o-dia-da-flot-em-mdina-e-valletta-fotos_233327.html",
+    "title": "Cavaleiros, Caravaggio e \"Game of Thrones\": o dia da Flot em Mdina e Valletta; fotos",
+    "link": "https://www.panrotas.com.br/mercado/operadoras/2026/11/cavaleiros-caravaggio-e-game-of-thrones-o-dia-da-flot-em-mdina-e-valletta-fotos_233327.html",
+    "description": "Grupo visitou a antiga e a atual capital de Malta, e encerrou o dia com uma sessão de cinema sobre Malta",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/11/02/de9042be85be4abb4f23818629c79185-dsc05697.jpg",
+    "author": "T&#225;rik El Zein",
+    "pub_date": "2026-11-03T12:30:00+00:00",
+    "source_category_raw": "Mercado - Operadoras",
+    "all_categories": [
+      "Mercado - Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Operadoras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.676,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/economia-politica/2026/11/cbs-tera-aliquota-de-113-em-2027-advogado-alerta-setor-de-turismo_233317.html",
+    "title": "CBS terá alíquota de 11,3% em 2027; advogado alerta setor de Turismo",
+    "link": "https://www.panrotas.com.br/mercado/economia-politica/2026/11/cbs-tera-aliquota-de-113-em-2027-advogado-alerta-setor-de-turismo_233317.html",
+    "description": "Marcelo Oliveira recomenda que empresas do mercado já se preparem para a mudança em 1º de janeiro",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/27/300fe1d4da0aa1ba05a325d468bccec4-dsc2930.jpg1.jpeg",
+    "author": "Filip Calixto",
+    "pub_date": "2026-11-03T11:41:00+00:00",
+    "source_category_raw": "Mercado - Economia e Política",
+    "all_categories": [
+      "Mercado - Economia e Política"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Eventos e Feiras",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.3624,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.514,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/agencias-de-viagens/mercado/2026/11/buscas-por-montevideu-crescem-mais-de-19-mil-com-palmeiras-na-final-da-libertadores_233307.html",
+    "title": "Buscas por Montevidéu crescem mais de 19 mil% com Palmeiras na final da Libertadores",
+    "link": "https://www.panrotas.com.br/agencias-de-viagens/mercado/2026/11/buscas-por-montevideu-crescem-mais-de-19-mil-com-palmeiras-na-final-da-libertadores_233307.html",
+    "description": "Procura pelo destino uruguaio cresceu após a classificação do time em 21 de outubro",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/10/30/7dac598e69002b2a094556d468606444-rpfotolibertadores1206x720op1.jpg",
+    "author": "Karina Cede&#241;o",
+    "pub_date": "2026-11-03T11:06:00+00:00",
+    "source_category_raw": "Agências de Viagens - Mercado",
+    "all_categories": [
+      "Agências de Viagens - Mercado"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Mercado",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.671,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "agenciabrasil",
     "guid": "1707532 at https://agenciabrasil.ebc.com.br",
     "title": "Polícia investiga acidente com asa-delta que deixou dois mortos no Rio",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/policia-investiga-acidente-com-asa-delta-que-deixou-dois-mortos-no-rio",
-    "description": "A Polícia Civil investiga o acidente com uma asa-delta que deixou dois mortos nesta segunda-feira (2), na cidade do Rio de Janeiro. O equipamento de voo se chocou com o solo, na praia de São Conrado, na zona sul da cidade, com duas pessoas a bordo: Luis Eduardo Rodrigues dos Santos e de Adrian Guillermo Arismendi. De acordo com a Polícia Civil, a Delegacia da Gávea (15ª DP) ouvirá testemunhas do incidente. Além disso, a asa-delta passará por perícia. Duas pessoas morrem após queda de asa-delta em praia do Rio de Janeiro. Reprodução/ Vídeo Notícias relacionadas: Duas pessoas morrem em queda de asa-delta em São Conrado, no Rio. Unesco: 189 jornalistas foram mortos no mundo em 2024 e 2025. Em 7 anos, Patrulha Maria da Penha acompanhou mais de 135 mil mulheres. As duas vítimas chegaram a ser socorridas pelo Corpo de Bombeiros, mas ambas estavam em situação grave, com parada cardiorrespiratória. No Hospital Municipal Miguel Couto, as equipes médicas ainda tentaram salvá-los, mas eles não resistiram, segundo a Secretaria Municipal de Saúde. A praia de São Conrado funciona como uma pista de pouso para as asas-deltas que partem do alto da Pedra Bonita, muitas delas em voos duplos.",
+    "description": "A Polícia Civil investiga o acidente com uma asa-delta que deixou dois mortos nesta segunda-feira (2), na cidade do Rio de Janeiro. O equipamento de voo se chocou com o solo, na praia de São Conrado, na zona sul da cidade, com duas pessoas a bordo: Luis Eduardo Rodrigues dos Santos e de Adrian Guillermo Arismendi. De acordo com a Polícia Civil, a Delegacia da Gávea (15ª DP) ouvirá testemunhas do incidente. Além disso, a asa-delta passará por perícia. Duas pessoas morrem após queda de asa-delta em praia do Rio de Janeiro. Reprodução/ Vídeo Notícias relacionadas: Duas pessoas morrem em queda de asa-delta em São Conrado, no Rio. Unesco: 189 jornalistas foram mortos no mundo em 2024 e 2025. Em 7 anos, Patrulha Maria da Penha acompanhou mais de 135 mil mulheres. As duas vítimas chegaram a ser socorridas pelo Corpo de Bombeiros, mas ambas estavam em situação grave, com parada cardiorrespiratória. No Hospital Municipal Miguel Couto, as equipes médicas ainda tentaram salvá-los, mas eles não resistiram, segundo a Secretaria Municipal de Saúde. A praia de São Conrado funciona como uma pista de pouso para as asas-deltas que partem do alto da Pedra Bonita, muitas delas em voos duplos. Confira mais informações sobre o acidente no Repórter Brasil , da TV Brasil",
     "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Vitor Abdala - Repórter da Agência Brasil",
     "pub_date": "2026-11-02T20:00:00+00:00",
@@ -15,16 +320,20 @@
       "Acidente",
       "Rio de Janeiro",
       "São Conrado",
-      "Pedra Bonita"
+      "Pedra Bonita",
+      "Morte",
+      "Multimídia",
+      "polícia civil",
+      "investigação"
     ],
     "in_scope": true,
     "canonical_category_l1": "Aviação",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf",
-    "category_mapping_confidence": 0.6013,
+    "category_mapping_confidence": 0.5935,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.668,
+    "destaque_score": 0.647,
     "layout_tier": "grade"
   },
   {
@@ -53,7 +362,7 @@
     "category_mapping_confidence": 0.6137,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.664,
+    "destaque_score": 0.646,
     "layout_tier": "grade"
   },
   {
@@ -76,7 +385,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.639,
+    "destaque_score": 0.621,
     "layout_tier": "grade"
   },
   {
@@ -99,7 +408,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.634,
+    "destaque_score": 0.617,
     "layout_tier": "grade"
   },
   {
@@ -122,7 +431,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.628,
+    "destaque_score": 0.612,
     "layout_tier": "grade"
   },
   {
@@ -145,7 +454,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.627,
+    "destaque_score": 0.611,
     "layout_tier": "grade"
   },
   {
@@ -168,7 +477,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.598,
+    "destaque_score": 0.588,
     "layout_tier": "grade"
   },
   {
@@ -197,7 +506,7 @@
     "category_mapping_confidence": 0.7881,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.664,
+    "destaque_score": 0.655,
     "layout_tier": "grade"
   }
 ]
