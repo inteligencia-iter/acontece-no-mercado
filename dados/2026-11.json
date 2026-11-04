@@ -1,5 +1,32 @@
 [
   {
+    "source_id": "agenciabrasil",
+    "guid": "1707625 at https://agenciabrasil.ebc.com.br",
+    "title": "Copom decide nesta quarta-feira se corta ou mantém a Taxa Selic",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/copom-decide-nesta-quarta-feira-se-corta-ou-mantem-taxa-selic",
+    "description": "O Comitê de Política Monetária (Copom) do Banco Central (BC) faz nesta quarta-feira (4) a penúltima reunião do ano. Mesmo com a alta recente do dólar, os analistas de mercado acreditam na sexta redução seguida de juros. Atualmente em 13,75% ao ano, a Taxa Selic, os juros básicos da economia, deve ser reduzida para 13,5% ao ano, segundo o boletim Focus , pesquisa semanal do BC com instituições financeiras. Notícias relacionadas: Mercado eleva projeção para inflação, juros e dólar em 2026. Economista de Plano Real acusa BC de causar rombo fiscal via juros. Indústria aponta juros altos como principal barreira ao crédito. A taxa ficou em 15%, no maior nível em quase 20 anos, de junho de 2025 a março deste ano. Diferentemente das pesquisas anteriores, que apostavam em mais um corte na reunião de dezembro, os analistas de mercado agora apostam na manutenção da Selic em 13,5% no próximo mês. A decisão será anunciada no início da noite desta quarta-feira. O Copom estará desfalcado porque os mandatos dos ex-diretores de Organização do Sistema Financeiro Renato Gomes e de Política Econômica Diego Guillen expiraram no fim de 2025. O presidente Luiz Inácio Lula da Silva até agora não encaminhou as indicações dos substitutos ao Congresso Nacional. Na ata da reunião de setembro, o Copom reafirmou a cautela com a condução da política monetária em meio à pressão por demanda sobre a inflação. O documento, no entanto, foi divulgado antes dos efeitos da reeleição do presidente Luiz Inácio Lula da Silva sobre o mercado financeiro. Além da instabilidade no câmbio, a inflação sofre com a pressão do petróleo e do aumento dos gastos públicos sobre os preços. Outro fator é o El Niño, que deve pressionar o preço dos alimentos nos próximos meses. Inflação Apesar de um repique em setembro, a inflação recuou em outubro. A prévia da inflação oficial pelo Índice Nacional de Preços ao Consumidor Amplo-15 (IPCA-15) caiu pela metade e ficou em 0,32% no mês passado. No acumulado de 12 meses, a prévia, no entanto, subiu de 4,5% para 4,62%, acima do teto da meta de inflação. O Instituto Brasileiro de Geografia e Estatística (IBGE) só divulgará o IPCA cheio de setembro no próximo dia 12. Segundo o último boletim Focus, a estimativa de inflação para este ano subiu de 5,19% para 5,22%, por causa do conflito no Oriente Médio e da alta recente do dólar. Isso representa inflação acima do teto da meta contínua estabelecida pelo Conselho Monetário Nacional (CMN). Oficialmente, a meta está em 3%, podendo chegar a 4,5% por causa do intervalo de tolerância de 1,5 ponto. Taxa Selic A taxa básica de juros é usada nas negociações de títulos públicos emitidos pelo Tesouro Nacional no Sistema Especial de Liquidação e Custódia (Selic) e serve de referência para as demais taxas da economia . Ela é o principal instrumento do Banco Central para manter a inflação sob controle. O BC atua diariamente por meio de operações de mercado aberto – comprando e vendendo títulos públicos federais – para manter a taxa de juros próxima do valor definido na reunião. Quando o Copom aumenta a taxa básica de juros, pretende conter a demanda aquecida , e isso causa reflexos nos preços porque os juros mais altos encarecem o crédito e estimulam a poupança. Desse modo, taxas mais altas também podem dificultar a expansão da economia. Mas, além da Selic, os bancos consideram outros fatores na hora de definir os juros cobrados dos consumidores, como risco de inadimplência, lucro e despesas administrativas. Ao reduzir a Selic, a tendência é de que o crédito fique mais barato, com incentivo à produção e ao consumo, reduzindo o controle da inflação e estimulando a atividade econômica. O Copom reúne-se a cada 45 dias. No primeiro dia do encontro, são feitas apresentações técnicas sobre a evolução e as perspectivas das economias brasileira e mundial e o comportamento do mercado financeiro. No segundo dia, os membros do Copom, formado pela diretoria do BC, analisam as possibilidades e definem a Selic. Meta contínua Pelo sistema de meta contínua em vigor desde janeiro de 2025, a meta de inflação que deve ser perseguida pelo BC, definida pelo Conselho Monetário Nacional, é de 3% , com intervalo de tolerância de 1,5 ponto percentual para cima ou para baixo. Ou seja, o limite inferior é 1,5% e o superior é 4,5%. No modelo de meta contínua, a meta passa ser apurada mês a mês, considerando a inflação acumulada em 12 meses. Em novembro deste ano, a inflação desde dezembro de 2025 é comparada com a meta e o intervalo de tolerância. Em dezembro deste ano, o procedimento se repete, com apuração a partir de janeiro do mesmo ano. Dessa forma, a verificação se desloca ao longo do tempo, não ficando mais restrita ao índice fechado de dezembro de cada ano. No último Relatório de Política Monetária, divulgado no fim de setembro pelo Banco Central, a autoridade monetária manteve em 5,2% a previsão para o IPCA este ano, mas a estimativa pode ser revista caso a alta do dólar persista. A próxima edição do documento, que substituiu o Relatório de Inflação, será divulgada no fim de dezembro.",
+    "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "author": "Wellton Máximo - Repórter da Agência Brasil",
+    "pub_date": "2026-11-04T10:01:00+00:00",
+    "source_category_raw": "Economia",
+    "all_categories": [
+      "Economia",
+      "taxa Selic",
+      "juros",
+      "banco central",
+      "Copom"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.7325,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.6,
+    "destaque_score": 0.735,
+    "layout_tier": "manchete"
+  },
+  {
     "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/11/latam-aposta-em-eficiencia-e-conforto-do-e195-e2-para-chegar-a-novos-mercados_233361.html",
     "title": "Latam aposta em eficiência e conforto do E195-E2 para chegar a novos mercados",
@@ -19,7 +46,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.874,
+    "destaque_score": 0.847,
     "layout_tier": "manchete"
   },
   {
@@ -42,7 +69,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.872,
+    "destaque_score": 0.846,
     "layout_tier": "manchete"
   },
   {
@@ -65,7 +92,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.87,
+    "destaque_score": 0.845,
     "layout_tier": "manchete"
   },
   {
@@ -88,7 +115,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.669,
+    "destaque_score": 0.644,
     "layout_tier": "grade"
   },
   {
@@ -111,7 +138,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.669,
+    "destaque_score": 0.644,
     "layout_tier": "grade"
   },
   {
@@ -134,7 +161,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.869,
+    "destaque_score": 0.844,
     "layout_tier": "manchete"
   },
   {
@@ -162,8 +189,8 @@
     "category_mapping_confidence": 0.6981,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.713,
-    "layout_tier": "manchete"
+    "destaque_score": 0.688,
+    "layout_tier": "grade"
   },
   {
     "source_id": "panrotas",
@@ -185,7 +212,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.866,
+    "destaque_score": 0.841,
     "layout_tier": "manchete"
   },
   {
@@ -208,7 +235,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.865,
+    "destaque_score": 0.841,
     "layout_tier": "manchete"
   },
   {
@@ -231,7 +258,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.664,
+    "destaque_score": 0.64,
     "layout_tier": "grade"
   },
   {
@@ -254,7 +281,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.664,
+    "destaque_score": 0.64,
     "layout_tier": "grade"
   },
   {
@@ -277,7 +304,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.663,
+    "destaque_score": 0.639,
     "layout_tier": "grade"
   },
   {
@@ -300,7 +327,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.662,
+    "destaque_score": 0.638,
     "layout_tier": "grade"
   },
   {
@@ -323,7 +350,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.66,
+    "destaque_score": 0.637,
     "layout_tier": "grade"
   },
   {
@@ -346,7 +373,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.858,
+    "destaque_score": 0.835,
     "layout_tier": "manchete"
   },
   {
@@ -369,7 +396,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.657,
+    "destaque_score": 0.634,
     "layout_tier": "grade"
   },
   {
@@ -392,7 +419,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.654,
+    "destaque_score": 0.632,
     "layout_tier": "grade"
   },
   {
@@ -415,7 +442,7 @@
     "category_mapping_confidence": 0.5573,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.542,
+    "destaque_score": 0.52,
     "layout_tier": "grade"
   },
   {
@@ -438,7 +465,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.651,
+    "destaque_score": 0.63,
     "layout_tier": "grade"
   },
   {
@@ -484,7 +511,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.649,
+    "destaque_score": 0.628,
     "layout_tier": "grade"
   },
   {
@@ -507,7 +534,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.647,
+    "destaque_score": 0.627,
     "layout_tier": "grade"
   },
   {
@@ -530,7 +557,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.847,
+    "destaque_score": 0.827,
     "layout_tier": "manchete"
   },
   {
@@ -553,7 +580,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.646,
+    "destaque_score": 0.626,
     "layout_tier": "grade"
   },
   {
@@ -576,7 +603,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.646,
+    "destaque_score": 0.625,
     "layout_tier": "grade"
   },
   {
@@ -599,7 +626,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.645,
+    "destaque_score": 0.625,
     "layout_tier": "grade"
   },
   {
@@ -622,7 +649,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.645,
+    "destaque_score": 0.625,
     "layout_tier": "grade"
   },
   {
@@ -645,7 +672,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.644,
+    "destaque_score": 0.624,
     "layout_tier": "grade"
   },
   {
@@ -668,7 +695,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.644,
+    "destaque_score": 0.624,
     "layout_tier": "grade"
   },
   {
@@ -697,8 +724,8 @@
     "category_mapping_confidence": 0.8118,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.716,
-    "layout_tier": "manchete"
+    "destaque_score": 0.696,
+    "layout_tier": "grade"
   },
   {
     "source_id": "panrotas",
@@ -720,7 +747,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.642,
+    "destaque_score": 0.622,
     "layout_tier": "grade"
   },
   {
@@ -743,7 +770,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.64,
+    "destaque_score": 0.621,
     "layout_tier": "grade"
   },
   {
@@ -766,7 +793,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.64,
+    "destaque_score": 0.621,
     "layout_tier": "grade"
   },
   {
@@ -789,7 +816,7 @@
     "category_mapping_confidence": 0.3624,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.479,
+    "destaque_score": 0.46,
     "layout_tier": "grade"
   },
   {
@@ -812,7 +839,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.637,
+    "destaque_score": 0.618,
     "layout_tier": "grade"
   },
   {
@@ -844,7 +871,7 @@
     "category_mapping_confidence": 0.5935,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.624,
+    "destaque_score": 0.612,
     "layout_tier": "grade"
   },
   {
@@ -852,28 +879,29 @@
     "guid": "1707521 at https://agenciabrasil.ebc.com.br",
     "title": "Economista de Plano Real acusa BC de causar rombo fiscal via juros",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/economista-de-plano-real-acusa-bc-de-causar-rombo-fiscal-juros",
-    "description": "O artigo de um dos economistas da equipe que elaborou o Plano Real, professor André Lara Resende, tem ganhado destaque nos últimos dias por acusar o Banco Central (BC) de causar desequilíbrio fiscal no Brasil por meio das altas taxas de juros. O especialista defende novas regras para as despesas e os juros no país. “Acuso o Banco Central de sustentar, em nome de uma teoria anacrônica, a taxa de juros que é a principal causa do desequilíbrio fiscal que diz combater.” Notícias relacionadas: Economistas criticam usar corte de gastos para conter dívida pública. Programas sociais abrangentes ajudam países a combater fome e pobreza . Formado pela PUC do Rio de Janeiro, André Lara Resende tem PhD em economia pelo Massachusetts Institute of Technology (MIT), nos Estados Unidos, além de ter atuado em instituições financeiras no Brasil. O especialista questiona a teoria econômica defendida pelo mercado financeiro e pelo BC para justificar a taxa Selic em 13,75% ao ano. Segundo ranking da Moneyou , o Brasil tem a taxa de juros real mais alta do mundo. “Acuso a grande imprensa de repetir, sem exame, que o problema está no gasto primário, quando está nos juros. Acuso os analistas do mercado financeiro de confundir o interesse dos rentistas com a racionalidade econômica.” Escrito às vésperas do primeiro turno eleitoral, o artigo de André Lara Resende ainda acusou “todos os que, sabendo que juros absurdos inviabilizam o país, preferem o conforto do consenso ao incômodo da verdade”. O Banco Central justifica os juros elevados, entre outros motivos, devido às pressões inflacionárias e aos déficits fiscais primários nas contas públicas , que é quando as despesas superam as receitas, excluindo os gastos com a dívida. Segundo a autoridade monetária, os gastos primários maiores que arrecadação pressionam a inflação. Dívida e déficit públicos Apesar de reconhecer que o Brasil gasta mal e aloca recursos de forma “irracional”, como nos casos das emendas parlamentares, das vantagens salariais do Judiciário e das isenções tributárias “de toda ordem”, André Lara Resende demonstra que o Brasil tem um déficit fiscal pequeno, entre os menores do mundo. “Quando se exclui o serviço da dívida, as contas estão praticamente equilibradas. A grande despesa do Estado é com os juros sobre a dívida”, escreveu. A dívida pública brasileira cresceu de 71,7% do Produto Interno Bruto (PIB) em 2022 para cerca de 82,9% do PIB em agosto de 2026. Para combater esse aumento, analistas do mercado financeiro tem cobrado corte de despesas da União, o que tende a afetar as políticas sociais. O professor André Lara Resende reconhece que o crescimento da dívida é insustentável, mas destaca que o problema não está nos “gastos primários”, que são as despesas com serviços públicos que o mercado financeiro cobra para reduzir. “Nos últimos anos, exceto durante a Covid, o resultado primário foi apenas ligeiramente negativo; já o déficit nominal, puxado pelos juros, foi sempre alto e agora aproxima-se de 10% do PIB”, explicou. “O equilíbrio das contas públicas não é uma condição necessária e nem suficiente para o bom funcionamento da política econômica”, afirmou no artigo publicado no Substack. André Lara Resende concluiu que a redução da taxa de juros é a solução para o desequilíbrio fiscal no Brasil. Nos últimos 12 meses, os juros consumiram mais de R$ 1,1 trilhão do orçamento ou 8,9% do PIB. “A economia tem um problema básico: a extraordinariamente alta taxa básica de juros. Um problema que tem solução clara. Só é preciso vencer os preconceitos associados a uma teoria monetária e fiscal anacrônica”, concluiu. Juros e inflação O Banco Central sustenta que a atual taxa de juros é necessária para manter a inflação sob controle uma vez que a Selic elevada inibe o crescimento econômico e a demanda, forçando uma queda dos preços. Os comunicados oficiais do Comitê de Política Monetária (Copom) do BC, responsável por definir a Selic, apontam como fatores que contribuem para inflação e, por isso, justificam os juros altos: o aquecimento da economia e do mercado de trabalho e a trajetória dos gastos públicos. “O Comitê reafirma a visão de que o esmorecimento no esforço de reformas estruturais e disciplina fiscal, o aumento de crédito direcionado e as incertezas sobre a estabilização da dívida pública têm o potencial de elevar a taxa de juros”, diz a última ata do Copom . No artigo, Lara Resende questiona a tese de que o BC não tem alternativa para controlar a inflação além dos juros elevados. Para ele, não há mais uma relação inversa entre desemprego e inflação que sugere que o aumento do desemprego, um dos resultados dos juros altos, reduz a inflação. “A fragilidade conceitual e empírica deste modelo macro convencional que pauta a política dos BCs é tão flagrante que, apesar de ainda dominante e repetido na mídia como verdade incontestável, passou a ser criticado até mesmo pelos economistas mais conservadores”, diz. Por outro lado, o economista reconhece que a redução dos juros traz um aumento da inflação, mas sustenta que essa é uma relação de “curto prazo” e transitória. >> Clique aqui e leia a íntegra do texto Eu Acuso: Uma Proposta para Eliminar os Juros Absurdos do ex-diretor do Banco Central e ex-presidente do Banco Nacional de Desenvolvimento Social (BNDES). Novo regime fiscal e monetário O especialista que ajudou a elaborar o Plano Real durante o governo de Fernando Henrique Cardoso (FHC) aponta que não há corte de gastos possível que interrompa o crescimento da dívida em relação ao PIB sem uma redução do juro para “em torno da taxa de crescimento nominal da economia”. Como proposta, André Lara Resende sugere um novo regime fiscal e monetário para o Brasil com um planejamento de metas fiscais e de juros por um período mais longo, de quarto a cinco anos, a serem anunciadas de forma conjunta. “As metas de inflação seriam anunciadas em conjunto com metas para a taxa básica de juros. O BC se comprometeria a manter a taxa básica num intervalo entre a meta de inflação, 3%, e taxa de crescimento nominal potencial”, explicou. O especialista acrescenta que a intervenção do BC no mercado de câmbio deve ser necessária para evitar qualquer depreciação mais intensa do real. “Com reservas internacionais de mais de US$ 350 bilhões, o BC tem munição de sobra para isso”, escreveu.",
+    "description": "O artigo de um dos economistas da equipe que elaborou o Plano Real, professor André Lara Resende, tem ganhado destaque nos últimos dias por acusar o Banco Central (BC) de causar desequilíbrio fiscal no Brasil por meio das altas taxas de juros. O especialista defende novas regras para as despesas e os juros no país. “Acuso o Banco Central de sustentar, em nome de uma teoria anacrônica, a taxa de juros que é a principal causa do desequilíbrio fiscal que diz combater.” Notícias relacionadas: Economistas criticam usar corte de gastos para conter dívida pública. Programas sociais abrangentes ajudam países a combater fome e pobreza . Formado pela PUC do Rio de Janeiro, André Lara Resende tem PhD em economia pelo Massachusetts Institute of Technology (MIT), nos Estados Unidos, além de ter atuado em instituições financeiras no Brasil. O especialista questiona a teoria econômica defendida pelo mercado financeiro e pelo BC para justificar a taxa Selic em 13,75% ao ano. Segundo ranking da Moneyou , o Brasil tem a taxa de juros real mais alta do mundo. “Acuso a grande imprensa de repetir, sem exame, que o problema está no gasto primário, quando está nos juros. Acuso os analistas do mercado financeiro de confundir o interesse dos rentistas com a racionalidade econômica.” Escrito às vésperas do primeiro turno eleitoral, o artigo de André Lara Resende ainda acusou “todos os que, sabendo que juros absurdos inviabilizam o país, preferem o conforto do consenso ao incômodo da verdade”. O Banco Central justifica os juros elevados, entre outros motivos, devido às pressões inflacionárias e aos déficits fiscais primários nas contas públicas , que é quando as despesas superam as receitas, excluindo os gastos com a dívida. Segundo a autoridade monetária, os gastos primários maiores que arrecadação pressionam a inflação. Confira as informações sobre o artigo de Lara Resende no Repórter Brasil, da TV Brasil Dívida e déficit públicos Apesar de reconhecer que o Brasil gasta mal e aloca recursos de forma “irracional”, como nos casos das emendas parlamentares, das vantagens salariais do Judiciário e das isenções tributárias “de toda ordem”, André Lara Resende demonstra que o Brasil tem um déficit fiscal pequeno, entre os menores do mundo. “Quando se exclui o serviço da dívida, as contas estão praticamente equilibradas. A grande despesa do Estado é com os juros sobre a dívida”, escreveu. A dívida pública brasileira cresceu de 71,7% do Produto Interno Bruto (PIB) em 2022 para cerca de 82,9% do PIB em agosto de 2026. Para combater esse aumento, analistas do mercado financeiro tem cobrado corte de despesas da União, o que tende a afetar as políticas sociais. O professor André Lara Resende reconhece que o crescimento da dívida é insustentável, mas destaca que o problema não está nos “gastos primários”, que são as despesas com serviços públicos que o mercado financeiro cobra para reduzir. “Nos últimos anos, exceto durante a Covid, o resultado primário foi apenas ligeiramente negativo; já o déficit nominal, puxado pelos juros, foi sempre alto e agora aproxima-se de 10% do PIB”, explicou. “O equilíbrio das contas públicas não é uma condição necessária e nem suficiente para o bom funcionamento da política econômica”, afirmou no artigo publicado no Substack. André Lara Resende concluiu que a redução da taxa de juros é a solução para o desequilíbrio fiscal no Brasil. Nos últimos 12 meses, os juros consumiram mais de R$ 1,1 trilhão do orçamento ou 8,9% do PIB. “A economia tem um problema básico: a extraordinariamente alta taxa básica de juros. Um problema que tem solução clara. Só é preciso vencer os preconceitos associados a uma teoria monetária e fiscal anacrônica”, concluiu. Juros e inflação O Banco Central sustenta que a atual taxa de juros é necessária para manter a inflação sob controle uma vez que a Selic elevada inibe o crescimento econômico e a demanda, forçando uma queda dos preços. Os comunicados oficiais do Comitê de Política Monetária (Copom) do BC, responsável por definir a Selic, apontam como fatores que contribuem para inflação e, por isso, justificam os juros altos: o aquecimento da economia e do mercado de trabalho e a trajetória dos gastos públicos. “O Comitê reafirma a visão de que o esmorecimento no esforço de reformas estruturais e disciplina fiscal, o aumento de crédito direcionado e as incertezas sobre a estabilização da dívida pública têm o potencial de elevar a taxa de juros”, diz a última ata do Copom . No artigo, Lara Resende questiona a tese de que o BC não tem alternativa para controlar a inflação além dos juros elevados. Para ele, não há mais uma relação inversa entre desemprego e inflação que sugere que o aumento do desemprego, um dos resultados dos juros altos, reduz a inflação. “A fragilidade conceitual e empírica deste modelo macro convencional que pauta a política dos BCs é tão flagrante que, apesar de ainda dominante e repetido na mídia como verdade incontestável, passou a ser criticado até mesmo pelos economistas mais conservadores”, diz. Por outro lado, o economista reconhece que a redução dos juros traz um aumento da inflação, mas sustenta que essa é uma relação de “curto prazo” e transitória. >> Clique aqui e leia a íntegra do texto Eu Acuso: Uma Proposta para Eliminar os Juros Absurdos do ex-diretor do Banco Central e ex-presidente do Banco Nacional de Desenvolvimento Social (BNDES). Novo regime fiscal e monetário O especialista que ajudou a elaborar o Plano Real durante o governo de Fernando Henrique Cardoso (FHC) aponta que não há corte de gastos possível que interrompa o crescimento da dívida em relação ao PIB sem uma redução do juro para “em torno da taxa de crescimento nominal da economia”. Como proposta, André Lara Resende sugere um novo regime fiscal e monetário para o Brasil com um planejamento de metas fiscais e de juros por um período mais longo, de quarto a cinco anos, a serem anunciadas de forma conjunta. “As metas de inflação seriam anunciadas em conjunto com metas para a taxa básica de juros. O BC se comprometeria a manter a taxa básica num intervalo entre a meta de inflação, 3%, e taxa de crescimento nominal potencial”, explicou. O especialista acrescenta que a intervenção do BC no mercado de câmbio deve ser necessária para evitar qualquer depreciação mais intensa do real. “Com reservas internacionais de mais de US$ 350 bilhões, o BC tem munição de sobra para isso”, escreveu.",
     "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "author": "Lucas Pordeus León – Repórter da Agência Brasil",
     "pub_date": "2026-11-02T17:09:00+00:00",
     "source_category_raw": "Economia",
     "all_categories": [
       "Economia",
+      "Multimídia",
       "André Lara Resende",
-      "taxa Selic",
+      "Taxa Selic",
       "banco central",
       "juros altos",
-      "dívida pública",
-      "mercado financeiro"
+      "Dívida Pública",
+      "Mercado Financeiro"
     ],
     "in_scope": true,
     "canonical_category_l1": "Câmbio e Economia do Turismo",
     "canonical_category_l2": null,
     "category_mapping_method": "modelo_svc_tfidf",
-    "category_mapping_confidence": 0.6137,
+    "category_mapping_confidence": 0.6151,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.625,
+    "destaque_score": 0.614,
     "layout_tier": "grade"
   },
   {
@@ -896,7 +924,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.601,
+    "destaque_score": 0.59,
     "layout_tier": "grade"
   },
   {
@@ -919,7 +947,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.598,
+    "destaque_score": 0.588,
     "layout_tier": "grade"
   },
   {
@@ -942,7 +970,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.595,
+    "destaque_score": 0.585,
     "layout_tier": "grade"
   },
   {
@@ -965,7 +993,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.594,
+    "destaque_score": 0.584,
     "layout_tier": "grade"
   },
   {
@@ -988,7 +1016,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.577,
+    "destaque_score": 0.571,
     "layout_tier": "grade"
   },
   {
@@ -1017,7 +1045,7 @@
     "category_mapping_confidence": 0.7881,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.644,
+    "destaque_score": 0.638,
     "layout_tier": "grade"
   }
 ]
