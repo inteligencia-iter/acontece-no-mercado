@@ -1,5 +1,49 @@
 [
   {
+    "source_id": "valor_economico",
+    "guid": "CBMirgFBVV95cUxNak5NQi1aeHhhb3lmOE5xRlp6bkl0Mk5DNzlMNkVEXzc2Q3lXa0p6RmlPdFRWRE9tWkRsUUFOVDhOd2JjLTR5a1ZXTFZRQll3QnhFSDY2bHRlQ2JDajZSVnRJb0V6MmJUVTE2ajRWLUZhS3ZBMGVwcEtsNUh1bmFUSktiNVo4ODFZQndnY3VUQ29VdFJ6UV9pVTBKS2tkS3E1cXVLelFTRHVxVmFyU2fSAbwBQVVfeXFMTi1iOWVxaVRnTE9wYUI5aWRpaGt4NDdva0RKQS1iTWl5R3YycDJkTmFEMkhzVzBBM3RmbXE0bHlGR2xjVmdFT0F3amVrZGY3R0hURkdiUDNrVHJfWmVOVHRxcWdJTW9jTnVoNF9IcG14bWN1NS1vR3h2b21kOWFNdG9FOWdZUHVKcUFMYy0yYVYtOTZRLWQxQTZUd05iUEJNOVVUWkhvOEFmTjdUM1AzZzZfVTJOcl9yeEd2WDA",
+    "title": "Como a Dior busca alcançar a nova fronteira do luxo",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNak5NQi1aeHhhb3lmOE5xRlp6bkl0Mk5DNzlMNkVEXzc2Q3lXa0p6RmlPdFRWRE9tWkRsUUFOVDhOd2JjLTR5a1ZXTFZRQll3QnhFSDY2bHRlQ2JDajZSVnRJb0V6MmJUVTE2ajRWLUZhS3ZBMGVwcEtsNUh1bmFUSktiNVo4ODFZQndnY3VUQ29VdFJ6UV9pVTBKS2tkS3E1cXVLelFTRHVxVmFyU2fSAbwBQVVfeXFMTi1iOWVxaVRnTE9wYUI5aWRpaGt4NDdva0RKQS1iTWl5R3YycDJkTmFEMkhzVzBBM3RmbXE0bHlGR2xjVmdFT0F3amVrZGY3R0hURkdiUDNrVHJfWmVOVHRxcWdJTW9jTnVoNF9IcG14bWN1NS1vR3h2b21kOWFNdG9FOWdZUHVKcUFMYy0yYVYtOTZRLWQxQTZUd05iUEJNOVVUWkhvOEFmTjdUM1AzZzZfVTJOcl9yeEd2WDA?oc=5",
+    "description": "Como a Dior busca alcançar a nova fronteira do luxo Valor Econômico",
+    "image_url": null,
+    "author": "",
+    "pub_date": "2026-11-05T08:00:01+00:00",
+    "source_category_raw": null,
+    "all_categories": [],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4222,
+    "content_domain": "geopolitica_relevante",
+    "content_domain_confidence": 0.75,
+    "destaque_score": 0.424,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/destinos/2026/11/florianopolis-reune-operadores-em-sao-paulo-para-promover-atrativos-alem-do-verao_233393.html",
+    "title": "Florianópolis reúne operadores em São Paulo para promover atrativos além do verão",
+    "link": "https://www.panrotas.com.br/mercado/destinos/2026/11/florianopolis-reune-operadores-em-sao-paulo-para-promover-atrativos-alem-do-verao_233393.html",
+    "description": "Capital de Santa Catarina destacou os investimentos em conexão aérea, redes hoteleiras e lazer",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/11/04/20aac22b83bb26d4b6a335d4bf110a8f-img7685.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-11-04T23:52:00+00:00",
+    "source_category_raw": "Mercado - Destinos",
+    "all_categories": [
+      "Mercado - Destinos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Destinos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.66,
+    "layout_tier": "grade"
+  },
+  {
     "source_id": "agenciabrasil",
     "guid": "1707764 at https://agenciabrasil.ebc.com.br",
     "title": "Dólar cai a R$ 5,45 após eleições nos EUA e antes do Copom",
@@ -23,8 +67,8 @@
     "category_mapping_confidence": 0.612,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.71,
-    "layout_tier": "manchete"
+    "destaque_score": 0.681,
+    "layout_tier": "grade"
   },
   {
     "source_id": "agenciabrasil",
@@ -54,8 +98,54 @@
     "category_mapping_confidence": 0.7376,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.735,
+    "destaque_score": 0.707,
     "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/cruzeiros/2026/11/corazul-reembolsa-clientes-apos-problemas-na-viagem-inaugural-e-garante-reparos_233391.html",
+    "title": "Corazul reembolsa clientes após problemas na viagem inaugural e garante reparos",
+    "link": "https://www.panrotas.com.br/mercado/cruzeiros/2026/11/corazul-reembolsa-clientes-apos-problemas-na-viagem-inaugural-e-garante-reparos_233391.html",
+    "description": "Empresa espanhola também dará crédito para viagens futuras, sinalizando que haverá melhorias",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/10/30/d487cade28073e02d0f77f1a2c0806d4-img6770.jpeg",
+    "author": "Rodrigo Vieira",
+    "pub_date": "2026-11-04T21:33:00+00:00",
+    "source_category_raw": "Mercado - Cruzeiros",
+    "all_categories": [
+      "Mercado - Cruzeiros"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Cruzeiros",
+    "canonical_category_l2": "Cruzeiros",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.652,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/operadoras/2026/11/lusanova-lanca-black-november-com-17-de-comissao-descontos-ate-50-e-em-15-vezes_233390.html",
+    "title": "Lusanova lança Black November com 17% de comissão, descontos até 50% e em 15 vezes",
+    "link": "https://www.panrotas.com.br/mercado/operadoras/2026/11/lusanova-lanca-black-november-com-17-de-comissao-descontos-ate-50-e-em-15-vezes_233390.html",
+    "description": "Operadora reúne ofertas em dezenas de destinos nas Américas, Ásia, África, Oriente Médio e Brasil",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/11/04/d93a74d1f85c126f3391d103e644fcbe-imagemnotablacknovember.png",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-11-04T21:07:00+00:00",
+    "source_category_raw": "Mercado - Operadoras",
+    "all_categories": [
+      "Mercado - Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Operadoras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.651,
+    "layout_tier": "grade"
   },
   {
     "source_id": "panrotas",
@@ -77,7 +167,53 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.678,
+    "destaque_score": 0.65,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/mercado/operadoras/2026/11/famtour-da-flot-volta-a-sicilia-e-visita-o-vale-dos-templos-em-agrigento-veja-fotos_233380.html",
+    "title": "Famtour da Flot volta à Sicília e visita o Vale dos Templos, em Agrigento; veja fotos",
+    "link": "https://www.panrotas.com.br/mercado/operadoras/2026/11/famtour-da-flot-volta-a-sicilia-e-visita-o-vale-dos-templos-em-agrigento-veja-fotos_233380.html",
+    "description": "Mesmo com o ferry atrasado pelo mau tempo, grupo viu os templos gregos de Agrigento",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/11/04/331c7765822a37a7406b2d5de0c0cd4b-dsc05998.jpg",
+    "author": "T&#225;rik El Zein",
+    "pub_date": "2026-11-04T19:57:00+00:00",
+    "source_category_raw": "Mercado - Operadoras",
+    "all_categories": [
+      "Mercado - Operadoras"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Operadoras",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.648,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/agencias-de-viagens/mercado/2026/11/dna-de-agente-com-quase-30-anos-de-mercado-gwa-viu-o-papel-da-agencia-se-transformar_233376.html",
+    "title": "DNA de Agente: com quase 30 anos de mercado, GWA viu o papel da agência se transformar",
+    "link": "https://www.panrotas.com.br/agencias-de-viagens/mercado/2026/11/dna-de-agente-com-quase-30-anos-de-mercado-gwa-viu-o-papel-da-agencia-se-transformar_233376.html",
+    "description": "Fundada por Gustavo Mello de Almeida, agência tem hoje Pedro de Almeida como sócio e 70 colaboradores",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/11/04/8013de0c5903e3a6974c19b29bf03d49-whatsappimage20261103at14.09.19.jpeg",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-11-04T19:30:00+00:00",
+    "source_category_raw": "Agências de Viagens - Mercado",
+    "all_categories": [
+      "Agências de Viagens - Mercado"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Mercado",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.647,
     "layout_tier": "grade"
   },
   {
@@ -106,7 +242,53 @@
     "category_mapping_confidence": 0.6068,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.494,
+    "destaque_score": 0.468,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/agencias-de-viagens/mercado/2026/11/experimento-inaugura-loja-de-intercambio-em-primavera-do-leste-mt_233383.html",
+    "title": "Experimento inaugura loja de intercâmbio em Primavera do Leste (MT)",
+    "link": "https://www.panrotas.com.br/agencias-de-viagens/mercado/2026/11/experimento-inaugura-loja-de-intercambio-em-primavera-do-leste-mt_233383.html",
+    "description": "Nova operação da franquia, parte da CVC Corp, está sob o comando da empresária Fernanda Furlanetto",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/11/04/a940d042e781cb3d40a60fe9840392ef-image11.png",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-11-04T19:01:00+00:00",
+    "source_category_raw": "Agências de Viagens - Mercado",
+    "all_categories": [
+      "Agências de Viagens - Mercado"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Mercado",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.645,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/destinos/luxo/2026/11/japao-estreia-no-festuris-e-apresenta-selecao-de-destinos-de-luxo-para-2027_233382.html",
+    "title": "Japão estreia no Festuris e apresenta seleção de destinos de luxo para 2027",
+    "link": "https://www.panrotas.com.br/destinos/luxo/2026/11/japao-estreia-no-festuris-e-apresenta-selecao-de-destinos-de-luxo-para-2027_233382.html",
+    "description": "Órgão oficial do Turismo japonês fortalece presença no mercado brasileiro ao lado de empresas parceiras",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/11/04/077dcca02103e9b7d482e16e1636319b-20080923himejicastle0206l.jpg",
+    "author": "Laura Enchioglo",
+    "pub_date": "2026-11-04T18:37:00+00:00",
+    "source_category_raw": "Destinos - Luxo",
+    "all_categories": [
+      "Destinos - Luxo"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": "Luxo",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.644,
     "layout_tier": "grade"
   },
   {
@@ -129,7 +311,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.868,
+    "destaque_score": 0.842,
     "layout_tier": "manchete"
   },
   {
@@ -157,6 +339,29 @@
   },
   {
     "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/aeroportos/2026/11/aeroporto-de-chapeco-sc-suspende-operacoes-apos-tornado-destruir-estruturas_233379.html",
+    "title": "Aeroporto de Chapecó (SC) suspende operações após tornado destruir estruturas",
+    "link": "https://www.panrotas.com.br/aviacao/aeroportos/2026/11/aeroporto-de-chapeco-sc-suspende-operacoes-apos-tornado-destruir-estruturas_233379.html",
+    "description": "Concessionária orienta que passageiros entrem em contato diretamente com as companhias aéreas",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/11/04/065ce4c332f0a14c5ae4a1abf6f99d75-aeroporto1623783054.jpg",
+    "author": "Beatriz Contelli",
+    "pub_date": "2026-11-04T17:19:00+00:00",
+    "source_category_raw": "Aviação - Aeroportos",
+    "all_categories": [
+      "Aviação - Aeroportos"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Aeroportos",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.841,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/mercado/encontros/2026/11/embratur-trabalha-para-conectar-empresas-nacionais-de-turismo-a-polos-de-inovacao-na-china_233378.html",
     "title": "Embratur trabalha para conectar empresas nacionais de Turismo a polos de inovação na China",
     "link": "https://www.panrotas.com.br/mercado/encontros/2026/11/embratur-trabalha-para-conectar-empresas-nacionais-de-turismo-a-polos-de-inovacao-na-china_233378.html",
@@ -175,7 +380,30 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.664,
+    "destaque_score": 0.639,
+    "layout_tier": "grade"
+  },
+  {
+    "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/agencias-de-viagens/treinamento/2026/11/abav-sp-e-brand-usa-farao-treinamento-a-agentes-e-darao-mais-detalhes-de-mega-fam_233377.html",
+    "title": "Abav-SP e Brand USA farão treinamento a agentes e darão mais detalhes de mega fam",
+    "link": "https://www.panrotas.com.br/agencias-de-viagens/treinamento/2026/11/abav-sp-e-brand-usa-farao-treinamento-a-agentes-e-darao-mais-detalhes-de-mega-fam_233377.html",
+    "description": "On-line, treinamento acontecerá no dia 9 de novembro, às 11h; confira",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/08/12/a577a416569d48ca7f8b09f06ee92dc0-stevenabrahambdgwxoojbcunsplash.jpg",
+    "author": "Rodrigo Vieira",
+    "pub_date": "2026-11-04T16:12:00+00:00",
+    "source_category_raw": "Agências de Viagens - Treinamento",
+    "all_categories": [
+      "Agências de Viagens - Treinamento"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Distribuição e Trade",
+    "canonical_category_l2": "Treinamento",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.638,
     "layout_tier": "grade"
   },
   {
@@ -198,7 +426,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.661,
+    "destaque_score": 0.637,
     "layout_tier": "grade"
   },
   {
@@ -221,7 +449,7 @@
     "category_mapping_confidence": 0.4494,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.75,
-    "destaque_score": 0.523,
+    "destaque_score": 0.499,
     "layout_tier": "grade"
   },
   {
@@ -244,7 +472,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.66,
+    "destaque_score": 0.636,
     "layout_tier": "grade"
   },
   {
@@ -265,7 +493,7 @@
     "category_mapping_confidence": 0.3222,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.37,
+    "destaque_score": 0.346,
     "layout_tier": "condensado"
   },
   {
@@ -288,7 +516,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.659,
+    "destaque_score": 0.636,
     "layout_tier": "grade"
   },
   {
@@ -311,8 +539,8 @@
     "category_mapping_confidence": 0.4291,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.716,
-    "layout_tier": "manchete"
+    "destaque_score": 0.692,
+    "layout_tier": "grade"
   },
   {
     "source_id": "panrotas",
@@ -334,7 +562,7 @@
     "category_mapping_confidence": 0.7296,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.79,
+    "destaque_score": 0.767,
     "layout_tier": "manchete"
   },
   {
@@ -357,7 +585,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.658,
+    "destaque_score": 0.635,
     "layout_tier": "grade"
   },
   {
@@ -380,7 +608,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.657,
+    "destaque_score": 0.634,
     "layout_tier": "grade"
   },
   {
@@ -403,7 +631,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.657,
+    "destaque_score": 0.634,
     "layout_tier": "grade"
   },
   {
@@ -431,7 +659,7 @@
     "category_mapping_confidence": 0.5602,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.467,
+    "destaque_score": 0.444,
     "layout_tier": "grade"
   },
   {
@@ -459,6 +687,29 @@
   },
   {
     "source_id": "panrotas",
+    "guid": "https://www.panrotas.com.br/aviacao/empresas/2026/11/latam-suspende-vendas-do-voo-com-e195-e2-para-cabo-frio-rj-por-questoes-operacionais_233364.html",
+    "title": "Latam suspende vendas do voo com E195-E2 para Cabo Frio (RJ) por questões operacionais",
+    "link": "https://www.panrotas.com.br/aviacao/empresas/2026/11/latam-suspende-vendas-do-voo-com-e195-e2-para-cabo-frio-rj-por-questoes-operacionais_233364.html",
+    "description": "Destino fazia parte da primeira fase da operação do modelo que chegou à frota da companhia em outubro",
+    "image_url": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/10/08/739fbc809af0776128b497030b731e7e-e195e2latamground10.jpeg",
+    "author": "Beatrice Teizen",
+    "pub_date": "2026-11-04T13:27:00+00:00",
+    "source_category_raw": "Aviação - Empresas",
+    "all_categories": [
+      "Aviação - Empresas"
+    ],
+    "in_scope": true,
+    "canonical_category_l1": "Aviação",
+    "canonical_category_l2": "Empresas",
+    "category_mapping_method": "lookup_nativo",
+    "category_mapping_confidence": 1.0,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.831,
+    "layout_tier": "manchete"
+  },
+  {
+    "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/mercado/destinos/2026/11/brasil-aposta-em-carnaval-e-copa-do-mundo-feminina-para-impulsionar-viagens-em-2027_233363.html",
     "title": "Brasil aposta em Carnaval e Copa do Mundo Feminina para impulsionar viagens em 2027",
     "link": "https://www.panrotas.com.br/mercado/destinos/2026/11/brasil-aposta-em-carnaval-e-copa-do-mundo-feminina-para-impulsionar-viagens-em-2027_233363.html",
@@ -477,7 +728,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.652,
+    "destaque_score": 0.63,
     "layout_tier": "grade"
   },
   {
@@ -500,7 +751,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.647,
+    "destaque_score": 0.626,
     "layout_tier": "grade"
   },
   {
@@ -527,7 +778,7 @@
     "category_mapping_confidence": 0.7325,
     "content_domain": "geopolitica_relevante",
     "content_domain_confidence": 0.6,
-    "destaque_score": 0.697,
+    "destaque_score": 0.677,
     "layout_tier": "grade"
   },
   {
@@ -550,7 +801,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.819,
+    "destaque_score": 0.804,
     "layout_tier": "manchete"
   },
   {
@@ -573,7 +824,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.818,
+    "destaque_score": 0.803,
     "layout_tier": "manchete"
   },
   {
@@ -596,7 +847,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.817,
+    "destaque_score": 0.803,
     "layout_tier": "manchete"
   },
   {
@@ -619,7 +870,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.617,
+    "destaque_score": 0.602,
     "layout_tier": "grade"
   },
   {
@@ -642,7 +893,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.616,
+    "destaque_score": 0.602,
     "layout_tier": "grade"
   },
   {
@@ -665,7 +916,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.816,
+    "destaque_score": 0.802,
     "layout_tier": "manchete"
   },
   {
@@ -716,7 +967,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.814,
+    "destaque_score": 0.801,
     "layout_tier": "manchete"
   },
   {
@@ -739,7 +990,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.814,
+    "destaque_score": 0.8,
     "layout_tier": "manchete"
   },
   {
@@ -762,7 +1013,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.614,
+    "destaque_score": 0.6,
     "layout_tier": "grade"
   },
   {
@@ -785,7 +1036,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.613,
+    "destaque_score": 0.6,
     "layout_tier": "grade"
   },
   {
@@ -808,7 +1059,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.613,
+    "destaque_score": 0.599,
     "layout_tier": "grade"
   },
   {
@@ -831,7 +1082,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.612,
+    "destaque_score": 0.599,
     "layout_tier": "grade"
   },
   {
@@ -854,7 +1105,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.611,
+    "destaque_score": 0.598,
     "layout_tier": "grade"
   },
   {
@@ -877,7 +1128,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.81,
+    "destaque_score": 0.797,
     "layout_tier": "manchete"
   },
   {
@@ -900,7 +1151,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.61,
+    "destaque_score": 0.597,
     "layout_tier": "grade"
   },
   {
@@ -923,7 +1174,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.608,
+    "destaque_score": 0.595,
     "layout_tier": "grade"
   },
   {
@@ -946,7 +1197,7 @@
     "category_mapping_confidence": 0.5573,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.496,
+    "destaque_score": 0.484,
     "layout_tier": "grade"
   },
   {
@@ -969,7 +1220,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.606,
+    "destaque_score": 0.594,
     "layout_tier": "grade"
   },
   {
@@ -1015,7 +1266,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.605,
+    "destaque_score": 0.593,
     "layout_tier": "grade"
   },
   {
@@ -1038,7 +1289,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.604,
+    "destaque_score": 0.593,
     "layout_tier": "grade"
   },
   {
@@ -1061,7 +1312,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.804,
+    "destaque_score": 0.793,
     "layout_tier": "manchete"
   },
   {
@@ -1084,7 +1335,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.604,
+    "destaque_score": 0.592,
     "layout_tier": "grade"
   },
   {
@@ -1107,7 +1358,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.603,
+    "destaque_score": 0.592,
     "layout_tier": "grade"
   },
   {
@@ -1130,7 +1381,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.603,
+    "destaque_score": 0.591,
     "layout_tier": "grade"
   },
   {
@@ -1153,7 +1404,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.603,
+    "destaque_score": 0.591,
     "layout_tier": "grade"
   },
   {
@@ -1176,7 +1427,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.602,
+    "destaque_score": 0.591,
     "layout_tier": "grade"
   },
   {
@@ -1199,7 +1450,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.602,
+    "destaque_score": 0.591,
     "layout_tier": "grade"
   },
   {
@@ -1251,7 +1502,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.601,
+    "destaque_score": 0.59,
     "layout_tier": "grade"
   },
   {
@@ -1274,7 +1525,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.6,
+    "destaque_score": 0.589,
     "layout_tier": "grade"
   },
   {
@@ -1297,7 +1548,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.6,
+    "destaque_score": 0.589,
     "layout_tier": "grade"
   },
   {
@@ -1320,7 +1571,7 @@
     "category_mapping_confidence": 0.3624,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.44,
+    "destaque_score": 0.429,
     "layout_tier": "grade"
   },
   {
@@ -1343,7 +1594,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.598,
+    "destaque_score": 0.588,
     "layout_tier": "grade"
   },
   {
@@ -1375,7 +1626,7 @@
     "category_mapping_confidence": 0.5935,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.6,
+    "destaque_score": 0.593,
     "layout_tier": "grade"
   },
   {
@@ -1428,7 +1679,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.55,
-    "destaque_score": 0.578,
+    "destaque_score": 0.572,
     "layout_tier": "grade"
   },
   {
@@ -1451,7 +1702,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.577,
+    "destaque_score": 0.571,
     "layout_tier": "grade"
   },
   {
@@ -1474,7 +1725,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.575,
+    "destaque_score": 0.569,
     "layout_tier": "grade"
   },
   {
@@ -1497,7 +1748,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.574,
+    "destaque_score": 0.569,
     "layout_tier": "grade"
   },
   {
@@ -1520,7 +1771,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.565,
+    "destaque_score": 0.562,
     "layout_tier": "grade"
   },
   {
