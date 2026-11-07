@@ -19,7 +19,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.552,
+    "destaque_score": 0.551,
     "layout_tier": "grade"
   },
   {
@@ -508,7 +508,7 @@
     "category_mapping_confidence": 0.4792,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.621,
+    "destaque_score": 0.62,
     "layout_tier": "grade"
   },
   {
@@ -531,7 +531,7 @@
     "category_mapping_confidence": 0.3473,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.588,
+    "destaque_score": 0.587,
     "layout_tier": "grade"
   },
   {
@@ -805,7 +805,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -1384,27 +1384,6 @@
     "layout_tier": "grade"
   },
   {
-    "source_id": "valor_economico",
-    "guid": "CBMi5gFBVV95cUxNdklwV1VBTnFQLWM1UUtUc1NKa1NCd0NLTXVPMXRTeTRlcFRGXzk1TFpNbWluaGJobGUwX1Zob2xSV1hjMGpOeWNBV0ZNVzJvOGNOR1RvR0ZkT2hOYTBHU1dzMjZzQTctc0hRS2lHYWZtblRFaHRLNjJnRlJ3ZEdqTlJmdGpwM0M1SlFMbkE3MGpIN2d6bE4xcXMzbWlIeF9WdzBnR1pTZHdyNDZmYU9PUXJYMjV4elpTYjZlMllOSEpac1Q3TGU2LVhoTWl2Q2hmdkdSSndSOFZGTG83eHRIR1VDSWFyUdIB9AFBVV95cUxQbnRrNTUtMmhGTUZZYWV0Zkhidm5MelJORmp4RDhGd3BfeG9raW5vOFNnbUxpRjdncUtxdGJpV19iYkZuUUJJOWNBZ3dUQXN5Y2Y4cXRIWEhqTHpIcUhBYlNwaEF0YWpUeXVScTVmWVhFUzUtVjluUm5zOGJ1eE54OEIxbU9wSFB4SmVNbjJNeDktOEZWMGVrSDNRcUhrY0ZFc0QwcDU0VnNEVUhNdldZV0ZBbmRMeG9UdkF3alZWaXJyb3AtdElTcDREd2tEVXgwbGkzd01wSFFZVC1BMVZTVTd6X2VIbjFtNWMydWJWOFNmc0JD",
-    "title": "Casa ou hotel em Orlando: custo total da viagem define a escolha das famílias",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdklwV1VBTnFQLWM1UUtUc1NKa1NCd0NLTXVPMXRTeTRlcFRGXzk1TFpNbWluaGJobGUwX1Zob2xSV1hjMGpOeWNBV0ZNVzJvOGNOR1RvR0ZkT2hOYTBHU1dzMjZzQTctc0hRS2lHYWZtblRFaHRLNjJnRlJ3ZEdqTlJmdGpwM0M1SlFMbkE3MGpIN2d6bE4xcXMzbWlIeF9WdzBnR1pTZHdyNDZmYU9PUXJYMjV4elpTYjZlMllOSEpac1Q3TGU2LVhoTWl2Q2hmdkdSSndSOFZGTG83eHRIR1VDSWFyUdIB9AFBVV95cUxQbnRrNTUtMmhGTUZZYWV0Zkhidm5MelJORmp4RDhGd3BfeG9raW5vOFNnbUxpRjdncUtxdGJpV19iYkZuUUJJOWNBZ3dUQXN5Y2Y4cXRIWEhqTHpIcUhBYlNwaEF0YWpUeXVScTVmWVhFUzUtVjluUm5zOGJ1eE54OEIxbU9wSFB4SmVNbjJNeDktOEZWMGVrSDNRcUhrY0ZFc0QwcDU0VnNEVUhNdldZV0ZBbmRMeG9UdkF3alZWaXJyb3AtdElTcDREd2tEVXgwbGkzd01wSFFZVC1BMVZTVTd6X2VIbjFtNWMydWJWOFNmc0JD?oc=5",
-    "description": "Casa ou hotel em Orlando: custo total da viagem define a escolha das famílias Valor Econômico",
-    "image_url": null,
-    "author": "",
-    "pub_date": "2026-10-29T13:05:19+00:00",
-    "source_category_raw": null,
-    "all_categories": [],
-    "in_scope": true,
-    "canonical_category_l1": "Hotelaria",
-    "canonical_category_l2": null,
-    "category_mapping_method": "modelo_svc_tfidf",
-    "category_mapping_confidence": 0.6935,
-    "content_domain": "turismo_direto",
-    "content_domain_confidence": 0.9,
-    "destaque_score": 0.356,
-    "layout_tier": "condensado"
-  },
-  {
     "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/10/wetn-wild-tera-joao-gomes-em-programacao-de-lazer-e-musica-em-novembro_233261.html",
     "title": "Wet'n Wild terá João Gomes em programação de lazer e música em novembro",
@@ -1544,6 +1523,27 @@
     "content_domain_confidence": 0.6,
     "destaque_score": 0.677,
     "layout_tier": "grade"
+  },
+  {
+    "source_id": "valor_economico",
+    "guid": "CBMi5gFBVV95cUxNdklwV1VBTnFQLWM1UUtUc1NKa1NCd0NLTXVPMXRTeTRlcFRGXzk1TFpNbWluaGJobGUwX1Zob2xSV1hjMGpOeWNBV0ZNVzJvOGNOR1RvR0ZkT2hOYTBHU1dzMjZzQTctc0hRS2lHYWZtblRFaHRLNjJnRlJ3ZEdqTlJmdGpwM0M1SlFMbkE3MGpIN2d6bE4xcXMzbWlIeF9WdzBnR1pTZHdyNDZmYU9PUXJYMjV4elpTYjZlMllOSEpac1Q3TGU2LVhoTWl2Q2hmdkdSSndSOFZGTG83eHRIR1VDSWFyUdIB9AFBVV95cUxQbnRrNTUtMmhGTUZZYWV0Zkhidm5MelJORmp4RDhGd3BfeG9raW5vOFNnbUxpRjdncUtxdGJpV19iYkZuUUJJOWNBZ3dUQXN5Y2Y4cXRIWEhqTHpIcUhBYlNwaEF0YWpUeXVScTVmWVhFUzUtVjluUm5zOGJ1eE54OEIxbU9wSFB4SmVNbjJNeDktOEZWMGVrSDNRcUhrY0ZFc0QwcDU0VnNEVUhNdldZV0ZBbmRMeG9UdkF3alZWaXJyb3AtdElTcDREd2tEVXgwbGkzd01wSFFZVC1BMVZTVTd6X2VIbjFtNWMydWJWOFNmc0JD",
+    "title": "Casa ou hotel em Orlando: custo total da viagem define a escolha das famílias",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdklwV1VBTnFQLWM1UUtUc1NKa1NCd0NLTXVPMXRTeTRlcFRGXzk1TFpNbWluaGJobGUwX1Zob2xSV1hjMGpOeWNBV0ZNVzJvOGNOR1RvR0ZkT2hOYTBHU1dzMjZzQTctc0hRS2lHYWZtblRFaHRLNjJnRlJ3ZEdqTlJmdGpwM0M1SlFMbkE3MGpIN2d6bE4xcXMzbWlIeF9WdzBnR1pTZHdyNDZmYU9PUXJYMjV4elpTYjZlMllOSEpac1Q3TGU2LVhoTWl2Q2hmdkdSSndSOFZGTG83eHRIR1VDSWFyUdIB9AFBVV95cUxQbnRrNTUtMmhGTUZZYWV0Zkhidm5MelJORmp4RDhGd3BfeG9raW5vOFNnbUxpRjdncUtxdGJpV19iYkZuUUJJOWNBZ3dUQXN5Y2Y4cXRIWEhqTHpIcUhBYlNwaEF0YWpUeXVScTVmWVhFUzUtVjluUm5zOGJ1eE54OEIxbU9wSFB4SmVNbjJNeDktOEZWMGVrSDNRcUhrY0ZFc0QwcDU0VnNEVUhNdldZV0ZBbmRMeG9UdkF3alZWaXJyb3AtdElTcDREd2tEVXgwbGkzd01wSFFZVC1BMVZTVTd6X2VIbjFtNWMydWJWOFNmc0JD?oc=5",
+    "description": "Casa ou hotel em Orlando: custo total da viagem define a escolha das famílias Valor Econômico",
+    "image_url": null,
+    "author": "",
+    "pub_date": "2026-10-29T07:00:00+00:00",
+    "source_category_raw": null,
+    "all_categories": [],
+    "in_scope": true,
+    "canonical_category_l1": "Hotelaria",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.6935,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.354,
+    "layout_tier": "condensado"
   },
   {
     "source_id": "panrotas",
@@ -2989,7 +2989,7 @@
     "category_mapping_confidence": 0.8898,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.603,
+    "destaque_score": 0.602,
     "layout_tier": "grade"
   },
   {
