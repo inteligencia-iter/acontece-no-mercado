@@ -1060,7 +1060,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -1083,7 +1083,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -1106,7 +1106,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -1150,7 +1150,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.751,
+    "destaque_score": 0.75,
     "layout_tier": "manchete"
   },
   {
@@ -1219,7 +1219,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -1242,7 +1242,7 @@
     "category_mapping_confidence": 1.0,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.551,
+    "destaque_score": 0.55,
     "layout_tier": "grade"
   },
   {
@@ -2033,27 +2033,6 @@
     "layout_tier": "manchete"
   },
   {
-    "source_id": "valor_economico",
-    "guid": "CBMivAFBVV95cUxPdjl5UmR6M2tELWkya3ZhQUxYX0RDU29sTnQ3WWJxUGt5ZG0wS2VyenZPbjlkM0pjazJXREZZVXF4djdsQ0xZd1ZDMDM0WGZwWTBLajFZT28tMHRqdkt0c3VXeE1yMnA0THV5T0NRcGpjMWV1V0FxUXlNQmU3eUotSTVPSFZUZHRtODRQNFpDVmYzVTVQeDhpQ0ZVdmJRUWM0dnJqVHpzbVB4QkhpRVN3akx0TEp4R20tT052RdIBywFBVV95cUxNNlduWndIT0VCOE9BOFFqWlRDWW1YX3ZhVW50cGtoNkgteFA3TU14bS1rd3djTVZmVVFMS0hfQVVfVFF1eWUwb2JXWDZSRkQ5ZEhvZENjMVdmMFNjZ2FXZTdqbExSaEE3V1N0aXhjUmF5SkotUXBINkx0MHA1WXVMdzV4cTNmcTZMMEpMREdPa2stZWtZM2RlaGdDWm1OMndrYnp5NzJNYUhkcFU3bnFvb1lFYXVjaEc4bDY2THNFMGFyZkJyMk5qN25naw",
-    "title": "Intercambistas buscam unir estudo, trabalho e turismo",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdjl5UmR6M2tELWkya3ZhQUxYX0RDU29sTnQ3WWJxUGt5ZG0wS2VyenZPbjlkM0pjazJXREZZVXF4djdsQ0xZd1ZDMDM0WGZwWTBLajFZT28tMHRqdkt0c3VXeE1yMnA0THV5T0NRcGpjMWV1V0FxUXlNQmU3eUotSTVPSFZUZHRtODRQNFpDVmYzVTVQeDhpQ0ZVdmJRUWM0dnJqVHpzbVB4QkhpRVN3akx0TEp4R20tT052RdIBywFBVV95cUxNNlduWndIT0VCOE9BOFFqWlRDWW1YX3ZhVW50cGtoNkgteFA3TU14bS1rd3djTVZmVVFMS0hfQVVfVFF1eWUwb2JXWDZSRkQ5ZEhvZENjMVdmMFNjZ2FXZTdqbExSaEE3V1N0aXhjUmF5SkotUXBINkx0MHA1WXVMdzV4cTNmcTZMMEpMREdPa2stZWtZM2RlaGdDWm1OMndrYnp5NzJNYUhkcFU3bnFvb1lFYXVjaEc4bDY2THNFMGFyZkJyMk5qN25naw?oc=5",
-    "description": "Intercambistas buscam unir estudo, trabalho e turismo Valor Econômico",
-    "image_url": null,
-    "author": "",
-    "pub_date": "2026-10-28T17:30:16+00:00",
-    "source_category_raw": null,
-    "all_categories": [],
-    "in_scope": true,
-    "canonical_category_l1": "Câmbio e Economia do Turismo",
-    "canonical_category_l2": null,
-    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
-    "category_mapping_confidence": 0.4337,
-    "content_domain": "turismo_direto",
-    "content_domain_confidence": 0.9,
-    "destaque_score": 0.49,
-    "layout_tier": "grade"
-  },
-  {
     "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/mercado/cruzeiros/2026/10/cruzeiros-levam-conceito-de-parques-tematicos-para-navios-e-destinos-entenda_233230.html",
     "title": "Cruzeiros levam conceito de parques temáticos para navios e destinos; entenda",
@@ -2443,6 +2422,27 @@
     "content_domain_confidence": 0.9,
     "destaque_score": 0.75,
     "layout_tier": "manchete"
+  },
+  {
+    "source_id": "valor_economico",
+    "guid": "CBMivAFBVV95cUxPdjl5UmR6M2tELWkya3ZhQUxYX0RDU29sTnQ3WWJxUGt5ZG0wS2VyenZPbjlkM0pjazJXREZZVXF4djdsQ0xZd1ZDMDM0WGZwWTBLajFZT28tMHRqdkt0c3VXeE1yMnA0THV5T0NRcGpjMWV1V0FxUXlNQmU3eUotSTVPSFZUZHRtODRQNFpDVmYzVTVQeDhpQ0ZVdmJRUWM0dnJqVHpzbVB4QkhpRVN3akx0TEp4R20tT052RdIBywFBVV95cUxNNlduWndIT0VCOE9BOFFqWlRDWW1YX3ZhVW50cGtoNkgteFA3TU14bS1rd3djTVZmVVFMS0hfQVVfVFF1eWUwb2JXWDZSRkQ5ZEhvZENjMVdmMFNjZ2FXZTdqbExSaEE3V1N0aXhjUmF5SkotUXBINkx0MHA1WXVMdzV4cTNmcTZMMEpMREdPa2stZWtZM2RlaGdDWm1OMndrYnp5NzJNYUhkcFU3bnFvb1lFYXVjaEc4bDY2THNFMGFyZkJyMk5qN25naw",
+    "title": "Intercambistas buscam unir estudo, trabalho e turismo",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdjl5UmR6M2tELWkya3ZhQUxYX0RDU29sTnQ3WWJxUGt5ZG0wS2VyenZPbjlkM0pjazJXREZZVXF4djdsQ0xZd1ZDMDM0WGZwWTBLajFZT28tMHRqdkt0c3VXeE1yMnA0THV5T0NRcGpjMWV1V0FxUXlNQmU3eUotSTVPSFZUZHRtODRQNFpDVmYzVTVQeDhpQ0ZVdmJRUWM0dnJqVHpzbVB4QkhpRVN3akx0TEp4R20tT052RdIBywFBVV95cUxNNlduWndIT0VCOE9BOFFqWlRDWW1YX3ZhVW50cGtoNkgteFA3TU14bS1rd3djTVZmVVFMS0hfQVVfVFF1eWUwb2JXWDZSRkQ5ZEhvZENjMVdmMFNjZ2FXZTdqbExSaEE3V1N0aXhjUmF5SkotUXBINkx0MHA1WXVMdzV4cTNmcTZMMEpMREdPa2stZWtZM2RlaGdDWm1OMndrYnp5NzJNYUhkcFU3bnFvb1lFYXVjaEc4bDY2THNFMGFyZkJyMk5qN25naw?oc=5",
+    "description": "Intercambistas buscam unir estudo, trabalho e turismo Valor Econômico",
+    "image_url": null,
+    "author": "",
+    "pub_date": "2026-10-28T07:00:00+00:00",
+    "source_category_raw": null,
+    "all_categories": [],
+    "in_scope": true,
+    "canonical_category_l1": "Câmbio e Economia do Turismo",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf_low_confidence",
+    "category_mapping_confidence": 0.4337,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.489,
+    "layout_tier": "grade"
   },
   {
     "source_id": "valor_economico",
