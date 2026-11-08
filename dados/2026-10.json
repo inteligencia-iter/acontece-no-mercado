@@ -1542,7 +1542,7 @@
     "category_mapping_confidence": 0.6935,
     "content_domain": "turismo_direto",
     "content_domain_confidence": 0.9,
-    "destaque_score": 0.354,
+    "destaque_score": 0.353,
     "layout_tier": "condensado"
   },
   {
@@ -3501,27 +3501,6 @@
     "layout_tier": "condensado"
   },
   {
-    "source_id": "valor_economico",
-    "guid": "CBMiwAFBVV95cUxPR0RoZHc5dTlLcXNFYWlUSzZCbUFRVE5xZDA5ZHVoZl9tb3B6MGtBNTE1YUNBVzgwd2Npc2tDYWJLRFlNNjlFT05EX2hZRnhuamd0YkFMcHc4Y0x2anBsNkxFZFFTLVJhTE01SnQ0MWRLdjM4ZUtEc2N5YVZ5Nk5vSGJpeGIzcGNtWElBcGNfak1IdTV1LTVtV2VyVFUyWDhUd0VLNTVHV3NCZEVQdGVOME1DRTZBWUZ5T1FHTzU1YWfSAc8BQVVfeXFMTlpYZGpiOGczbUc2ZFNmZll0cnZETF9ieHdMeF9pQnBLUGZUZlg4aGswcGxrRHVvdjVVY0NiMjVYODVVb2VVRmdrWEI5WVFkTjdseVk3RDhPaHEtaGpHa1AydHg3djBkY0FYNFJGWUN4aXdBYVRYNG5WbDMwODBaYnItdFZEZ0oxRDduTEhoaHU1LWdwai1DTGJGdDFxeVpIa1FYQzlmcC1aRjB5R05QZjV6MDFSR3J6NS1QaDlKNnFnalRVTjYyRVJVZFVQNmZz",
-    "title": "Costa Rica se destaca como destino inclusivo para todos",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR0RoZHc5dTlLcXNFYWlUSzZCbUFRVE5xZDA5ZHVoZl9tb3B6MGtBNTE1YUNBVzgwd2Npc2tDYWJLRFlNNjlFT05EX2hZRnhuamd0YkFMcHc4Y0x2anBsNkxFZFFTLVJhTE01SnQ0MWRLdjM4ZUtEc2N5YVZ5Nk5vSGJpeGIzcGNtWElBcGNfak1IdTV1LTVtV2VyVFUyWDhUd0VLNTVHV3NCZEVQdGVOME1DRTZBWUZ5T1FHTzU1YWfSAc8BQVVfeXFMTlpYZGpiOGczbUc2ZFNmZll0cnZETF9ieHdMeF9pQnBLUGZUZlg4aGswcGxrRHVvdjVVY0NiMjVYODVVb2VVRmdrWEI5WVFkTjdseVk3RDhPaHEtaGpHa1AydHg3djBkY0FYNFJGWUN4aXdBYVRYNG5WbDMwODBaYnItdFZEZ0oxRDduTEhoaHU1LWdwai1DTGJGdDFxeVpIa1FYQzlmcC1aRjB5R05QZjV6MDFSR3J6NS1QaDlKNnFnalRVTjYyRVJVZFVQNmZz?oc=5",
-    "description": "Costa Rica se destaca como destino inclusivo para todos Valor Econômico",
-    "image_url": null,
-    "author": "",
-    "pub_date": "2026-10-23T20:58:10+00:00",
-    "source_category_raw": null,
-    "all_categories": [],
-    "in_scope": true,
-    "canonical_category_l1": "Destinos",
-    "canonical_category_l2": null,
-    "category_mapping_method": "modelo_svc_tfidf",
-    "category_mapping_confidence": 0.5963,
-    "content_domain": "turismo_direto",
-    "content_domain_confidence": 0.9,
-    "destaque_score": 0.33,
-    "layout_tier": "condensado"
-  },
-  {
     "source_id": "panrotas",
     "guid": "https://www.panrotas.com.br/mercado/operadoras/2026/10/workshop-da-masterop-2027-sera-realizado-em-santa-catarina-no-mes-de-marco_233155.html",
     "title": "Workshop da Masterop 2027 será realizado em Santa Catarina no mês de março",
@@ -4072,6 +4051,27 @@
     "content_domain_confidence": 0.9,
     "destaque_score": 0.55,
     "layout_tier": "grade"
+  },
+  {
+    "source_id": "valor_economico",
+    "guid": "CBMiwAFBVV95cUxPR0RoZHc5dTlLcXNFYWlUSzZCbUFRVE5xZDA5ZHVoZl9tb3B6MGtBNTE1YUNBVzgwd2Npc2tDYWJLRFlNNjlFT05EX2hZRnhuamd0YkFMcHc4Y0x2anBsNkxFZFFTLVJhTE01SnQ0MWRLdjM4ZUtEc2N5YVZ5Nk5vSGJpeGIzcGNtWElBcGNfak1IdTV1LTVtV2VyVFUyWDhUd0VLNTVHV3NCZEVQdGVOME1DRTZBWUZ5T1FHTzU1YWfSAc8BQVVfeXFMTlpYZGpiOGczbUc2ZFNmZll0cnZETF9ieHdMeF9pQnBLUGZUZlg4aGswcGxrRHVvdjVVY0NiMjVYODVVb2VVRmdrWEI5WVFkTjdseVk3RDhPaHEtaGpHa1AydHg3djBkY0FYNFJGWUN4aXdBYVRYNG5WbDMwODBaYnItdFZEZ0oxRDduTEhoaHU1LWdwai1DTGJGdDFxeVpIa1FYQzlmcC1aRjB5R05QZjV6MDFSR3J6NS1QaDlKNnFnalRVTjYyRVJVZFVQNmZz",
+    "title": "Costa Rica se destaca como destino inclusivo para todos",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR0RoZHc5dTlLcXNFYWlUSzZCbUFRVE5xZDA5ZHVoZl9tb3B6MGtBNTE1YUNBVzgwd2Npc2tDYWJLRFlNNjlFT05EX2hZRnhuamd0YkFMcHc4Y0x2anBsNkxFZFFTLVJhTE01SnQ0MWRLdjM4ZUtEc2N5YVZ5Nk5vSGJpeGIzcGNtWElBcGNfak1IdTV1LTVtV2VyVFUyWDhUd0VLNTVHV3NCZEVQdGVOME1DRTZBWUZ5T1FHTzU1YWfSAc8BQVVfeXFMTlpYZGpiOGczbUc2ZFNmZll0cnZETF9ieHdMeF9pQnBLUGZUZlg4aGswcGxrRHVvdjVVY0NiMjVYODVVb2VVRmdrWEI5WVFkTjdseVk3RDhPaHEtaGpHa1AydHg3djBkY0FYNFJGWUN4aXdBYVRYNG5WbDMwODBaYnItdFZEZ0oxRDduTEhoaHU1LWdwai1DTGJGdDFxeVpIa1FYQzlmcC1aRjB5R05QZjV6MDFSR3J6NS1QaDlKNnFnalRVTjYyRVJVZFVQNmZz?oc=5",
+    "description": "Costa Rica se destaca como destino inclusivo para todos Valor Econômico",
+    "image_url": null,
+    "author": "",
+    "pub_date": "2026-10-23T07:00:00+00:00",
+    "source_category_raw": null,
+    "all_categories": [],
+    "in_scope": true,
+    "canonical_category_l1": "Destinos",
+    "canonical_category_l2": null,
+    "category_mapping_method": "modelo_svc_tfidf",
+    "category_mapping_confidence": 0.5963,
+    "content_domain": "turismo_direto",
+    "content_domain_confidence": 0.9,
+    "destaque_score": 0.329,
+    "layout_tier": "condensado"
   },
   {
     "source_id": "panrotas",
